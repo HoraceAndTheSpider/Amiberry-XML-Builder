@@ -34,7 +34,7 @@ class LhaSlaveArchive:
     def read_lha(self):
         archive = lhafile.lhafile.Lhafile(self.absolute_path)
         for file in archive.filelist:
-            if str(file.filename).endswith('.slave'):
+            if str(file.filename).lower().endswith('.slave'):
                 self.slaves.append(
                     SlaveFile(
                         name=file.filename,

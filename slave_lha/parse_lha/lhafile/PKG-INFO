@@ -1,0 +1,19 @@
+Metadata-Version: 1.1
+Name: lhafile
+Version: 0.2.2
+Summary: LHA(.lzh) file extract interface
+Home-page: https://fengestad.no/python-lhafile/
+Author: Frode Solheim
+Author-email: frode-code@fengestad.no
+License: BSD
+Download-URL: https://fengestad.no/python-lhafile/
+Description: Extract LHA(.lzh) file extension.
+        The interface is similar to the zipfile module in the regular
+        Python distribution.
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: System :: Archiving

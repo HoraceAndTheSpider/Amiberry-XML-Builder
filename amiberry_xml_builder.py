@@ -81,7 +81,7 @@ print(
 print()
 
 hash_algorithm = 'SHA1'
-input_directory = ("/Users/horaceandthespider/Documents/Geek/AmigaWHD_LHA/")
+input_directory = ("/Volumes/RETROGAMES/roms/amiga/_Standard/")
 count = 1
 
 XML= ""
@@ -95,11 +95,11 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
     try:
             slave_archive = LhaSlaveArchive(archive_path, hash_algorithm)
     except FileNotFoundError:
-            print_("" +
+            print("" +
                    "Could not find LHA archive: {}".format(archive_path))
             sys.exit(1)
     except lhafile.BadLhafile:
-            print_("" +
+            print("" +
                    "Could not read LHA archive: {}".format(archive_path))
             sys.exit(1)
 
@@ -120,6 +120,9 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
     HW_Z3 = 0
     
     hardware = ""
+    SLAVE_XML=""
+    first_slave=""
+    n=1
     
     # From here, we need to process WHDLoad header information out of the slave files!
     for slave in slave_archive.slaves:
@@ -140,10 +143,14 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
   #     we could work something out here later... but maybe it doesnt even matter here
   #     we can use the 'sub path' of slave.name to get the old UAE Config Maker folder name
         slave_path = os.path.dirname(slave.name)
-        sub_path = text_utils.left(slave.name,len(slave_path) - len(slave.name))        
+        sub_path = text_utils.left(slave.name,len(slave_path) - len(slave.name))
         full_game_name = text_utils.make_full_name(sub_path)
-        print("Game name: "+ full_game_name)
 
+        if first_slave == "":
+            first_slave = slave.name.replace(slave_path +"/","")
+            
+        print("Game name: "+ full_game_name)
+        #print("Working path:" + sub_path)
 
     # Extract H/W settings from the slaves
         for slave_flag in this_slave.flags:
@@ -179,14 +186,32 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                 temp_fast_ram = high_ram
 
         # update the value if the highest slave requirement
+        whd_fast_ram = 0
         if temp_fast_ram > HW_FAST:
                 whd_fast_ram = temp_fast_ram
 
         # we use the name of the 'last' slave, if there is only one
         last_slave = slave.name.replace(slave_path +"/","")
+
+        SLAVE_XML = SLAVE_XML + chr(9)+ chr(9)+ '<slave number="' + str(n) + '">' + chr(10)
+        SLAVE_XML = SLAVE_XML + chr(9)+ chr(9)+ chr(9) + '<filename>' + slave.name.replace(slave_path +"/","") + '</filename>' + chr(10)
+        SLAVE_XML = SLAVE_XML + chr(9)+ chr(9)+ chr(9) + '<datapath>' + this_slave.current_dir+ '</datapath>' + chr(10)
+        if (this_slave.config) is not None:
+            SLAVE_XML = SLAVE_XML + chr(9)+ chr(9)+ chr(9) + '<custom>'  + chr(10)
+
+            for configs in this_slave.config:
+                if configs is not None:
+                    SLAVE_XML = SLAVE_XML + chr(9)+ chr(9)+ chr(9) + configs  + chr(10)
+                
+            SLAVE_XML = SLAVE_XML + chr(9)+ chr(9)+ chr(9) + '</custom>'  + chr(10)
+            
+        SLAVE_XML = SLAVE_XML + chr(9)+ chr(9)+ '</slave>'  + chr(10)
+        n=n+1
         print()
+        
 
 
+    # end of slave checking
 
     
     # get what settings we can, based on the name lookup in old Config Maker Files
@@ -235,7 +260,8 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
 
 
     # quick clean-up on WHDLoad memory requirements
-    whd_z3_ram = 0        
+    whd_z3_ram = 0
+
     if whd_fast_ram>8:
         whd_z3_ram = whd_fast_ram
         whd_fast_ram = 0
@@ -481,19 +507,26 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
     
     XML = XML + chr(9)+ '<game filename="' + text_utils.left(this_file,len(this_file) - 4).replace("&", "&amp;") + '"  sha1="' + ArchiveSHA + '">' + chr(10)
     XML = XML + chr(9)+ chr(9) + '<name>' + full_game_name.replace("&", "&amp;") + '</name>' + chr(10)
+    XML = XML + chr(9)+ chr(9) + '<subpath>' + sub_path.replace("&", "&amp;") + '</subpath>' + chr(10)
     XML = XML + chr(9)+ chr(9) + '<slave_count>' + str(len(slave_archive.slaves)) + '</slave_count>' + chr(10)
     if len(slave_archive.slaves) == 1:
-            XML = XML + chr(9)+ chr(9) + '<slave_default>' + last_slave.replace("&", "&amp;") + '</slave_default>' + chr(10)
+            XML = XML + chr(9)+ chr(9) + '<slave_default>' + last_slave.replace("&", "&amp;")  + '</slave_default>' + chr(10)
     else:
-            XML = XML + chr(9)+ chr(9) + '<slave_default>' + '</slave_default>' + chr(10)
-              
-    XML = XML + chr(9)+ chr(9) + '<hardware>' + chr(10) + hardware + chr(9) + chr(9) + '</hardware>' + chr(10)
-    XML = XML + chr(9)+ chr(9) + '<custom_controls>' + chr(10) + custom_text  + chr(10) + chr(9) + chr(9) + '</custom_controls>' + chr(10)
+            XML = XML + chr(9)+ chr(9) + '<slave_default>' + first_slave.replace("&", "&amp;") + '</slave_default>' + chr(10)
+
+    XML = XML + SLAVE_XML
+    XML = XML + chr(9)  + chr(9) + '<hardware>'
+    XML = XML + chr(10) + chr(9) + chr(9) + hardware.replace(chr(10), chr(10) + chr(9) + chr(9) )
+    XML = XML + chr(10) + chr(9) + chr(9) + '</hardware>' + chr(10)
+
+
+    if len(custom_text)>0:
+        XML = XML + chr(9)+ chr(9) + '<custom_controls>' + chr(10) + custom_text  + chr(10) + chr(9) + chr(9) + '</custom_controls>' + chr(10)
     
     XML = XML + chr(9)+ '</game>' + chr(10)
    
     # limit  it to a certian number of archives (for testing)
-    if count == 999999:
+    if count == 99999:
         break
     count = count + 1
 

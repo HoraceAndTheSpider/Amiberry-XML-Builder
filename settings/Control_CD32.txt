@@ -3,3 +3,6 @@ Cybernoid2
 MidnightResistance
 SyndicateCD32
 NewZealandStory
+WormsDCAGA12MB
+WormsDCAGA8MB
+WormsDCAGA

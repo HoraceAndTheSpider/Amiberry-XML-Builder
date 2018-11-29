@@ -2,3 +2,5 @@ MonkeyIsland2
 FlightOfTheAmazonQueen
 BeneathASteelSky
 RiseOfTheRobots
+WormsDCAGA12MB
+WormsDCAGA8MB

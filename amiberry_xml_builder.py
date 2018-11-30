@@ -5,16 +5,13 @@ from pathlib import Path
 import math
 
 import hashlib
+import openretroid
+
 import tempfile
 from whdload import whdload_slave
 from slave_lha.parse_lha.read_lha import LhaSlaveArchive
 
 from utils import text_utils
-
-
-def goto(line):
-    global lineNumber
-    line = lineNumber
 
 
 def sha1(fname):
@@ -100,17 +97,19 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
     
     this_file = os.path.basename(archive_path)
 
+
+    
     try:
             slave_archive = LhaSlaveArchive(archive_path, hash_algorithm)
-
+            file_details = openretroid.parse_file(archive_path)
+            
             print("Processing: " + text_utils.FontColours.OKBLUE + text_utils.FontColours.BOLD  + this_file + text_utils.FontColours.ENDC)
             print(text_utils.FontColours.OKGREEN + slave_archive.absolute_path + text_utils.FontColours.ENDC)
             print()
             
             slave_archive.read_lha()
             ArchiveSHA = sha1(file2)
-
-
+          
             # Defaults
             HW_CHIPSET = "ECS"
             HW_PROCESSOR = "68020"
@@ -122,6 +121,7 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
             hardware = ""
             SLAVE_XML=""
             first_slave=""
+            UUID = ""
             n=1
             
             # From here, we need to process WHDLoad header information out of the slave files!
@@ -131,6 +131,11 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                 print(slave.name)
                 print( "{} Hash: ".format(slave.hasher.name.upper()), end='')
                 print(slave.hash_digest + text_utils.FontColours.ENDC)
+                #print("Variant UUID: {}".format(file_details['uuid']))
+                UUID = file_details['uuid']
+                
+                print("Openretro URL: http://www.openretro.org/game/{}".format(UUID))
+
 
             # extract the slave as a temp file
                 fp = tempfile.NamedTemporaryFile()
@@ -509,6 +514,7 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
             XML = XML + chr(9)+ '<game filename="' + text_utils.left(this_file,len(this_file) - 4).replace("&", "&amp;") + '"  sha1="' + ArchiveSHA + '">' + chr(10)
             XML = XML + chr(9)+ chr(9) + '<name>' + full_game_name.replace("&", "&amp;") + '</name>' + chr(10)
             XML = XML + chr(9)+ chr(9) + '<subpath>' + sub_path.replace("&", "&amp;") + '</subpath>' + chr(10)
+            XML = XML + chr(9)+ chr(9) + '<variant_uuid>' + UUID + '</variant_uuid>' + chr(10)
             XML = XML + chr(9)+ chr(9) + '<slave_count>' + str(len(slave_archive.slaves)) + '</slave_count>' + chr(10)
             if len(slave_archive.slaves) == 1:
                     XML = XML + chr(9)+ chr(9) + '<slave_default>' + last_slave.replace("&", "&amp;")  + '</slave_default>' + chr(10)

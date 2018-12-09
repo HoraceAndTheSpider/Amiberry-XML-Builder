@@ -6,6 +6,7 @@ import math
 
 import hashlib
 import openretroid
+import datetime
 
 import tempfile
 from whdload import whdload_slave
@@ -87,8 +88,8 @@ hash_algorithm = 'SHA1'
 input_directory = ("/Volumes/Macintosh HD/Users/horaceandthespider/Google Drive/Geek/Shared Pi Games/amiga/_Standard/")
 count = 1
 
-XML= ""
-XML = XML + "<whdbooter>" + chr(10)
+XML= '<?xml version="1.0" encoding="UTF-8"?>' + chr(10)
+XML = XML + '<whdbooter timestamp="' + datetime.datetime.now().strftime("%Y-%m-%d at %H:%M:%S") + '">' + chr(10)
 
 ERROR_MSG = ""
 COMPLETE_MSG = ""

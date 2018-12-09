@@ -159,7 +159,7 @@ def make_full_name(in_name):
     in_name = in_name.replace("R³sselsheim", "Russelsheim")
 
     # check the txt file
-    file_name = "settings/UAEConfigMaker_WHD_Longname_Fixes.txt"
+    file_name = "settings/WHD_Longname_Fixes.txt"
     content = ""
 
     if os.path.isfile(file_name) is True:

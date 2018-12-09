@@ -91,6 +91,7 @@ XML= ""
 XML = XML + "<whdbooter>" + chr(10)
 
 ERROR_MSG = ""
+COMPLETE_MSG = ""
 
 for file2 in Path(input_directory + "/").glob('**/*.lha'):
     archive_path = str(file2)
@@ -509,6 +510,7 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                         custom_text += this_line
 
 
+            COMPLETE_MSG = COMPLETE_MSG + full_game_name + chr(10)
             ##generate XML
             
             
@@ -555,6 +557,10 @@ XML = XML + "</whdbooter>" + chr(10)
 #print(XML)
 text_file = open("whdload_db.xml", "w+")
 text_file.write(XML)
+text_file.close()
+
+text_file = open("games_scraped.txt", "w+")
+text_file.write(COMPLETE_MSG)
 text_file.close()
 
 if ERROR_MSG != "":

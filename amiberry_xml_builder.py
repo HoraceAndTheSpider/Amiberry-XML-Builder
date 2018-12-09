@@ -200,15 +200,16 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                 last_slave = slave.name.replace(slave_path +"/","")
 
                 SLAVE_XML = SLAVE_XML + chr(9)+ chr(9)+ '<slave number="' + str(n) + '">' + chr(10)
-                SLAVE_XML = SLAVE_XML + chr(9)+ chr(9)+ chr(9) + '<filename>' + slave.name.replace(slave_path +"/","") + '</filename>' + chr(10)
-                SLAVE_XML = SLAVE_XML + chr(9)+ chr(9)+ chr(9) + '<datapath>' + this_slave.current_dir+ '</datapath>' + chr(10)
+                SLAVE_XML = SLAVE_XML + chr(9)+ chr(9)+ chr(9) + '<filename>' + (slave.name.replace(slave_path +"/","")).replace("&", "&amp;") + '</filename>' + chr(10)
+                SLAVE_XML = SLAVE_XML + chr(9)+ chr(9)+ chr(9) + '<datapath>' + (this_slave.current_dir).replace("&", "&amp;") + '</datapath>' + chr(10)
                 if (this_slave.config) is not None:
                     SLAVE_XML = SLAVE_XML + chr(9)+ chr(9)+ chr(9) + '<custom>'  + chr(10)
 
                     for configs in this_slave.config:
                         if configs is not None:
-                            SLAVE_XML = SLAVE_XML + chr(9)+ chr(9)+ chr(9) + configs  + chr(10)
-                        
+                            SLAVE_XML = SLAVE_XML + chr(9)+ chr(9)+ chr(9) + ((configs.replace("<","")).replace(">","")).replace("&", "&amp;") + chr(10)
+
+
                     SLAVE_XML = SLAVE_XML + chr(9)+ chr(9)+ chr(9) + '</custom>'  + chr(10)
                     
                 SLAVE_XML = SLAVE_XML + chr(9)+ chr(9)+ '</slave>'  + chr(10)

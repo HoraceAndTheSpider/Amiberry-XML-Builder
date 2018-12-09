@@ -453,7 +453,7 @@
 		<slave_count>1</slave_count>
 		<slave_default>Alpha&amp;Omega.Slave</slave_default>
 		<slave number="1">
-			<filename>Alpha&Omega.Slave</filename>
+			<filename>Alpha&amp;Omega.Slave</filename>
 			<datapath></datapath>
 		</slave>
 		<hardware>
@@ -736,7 +736,7 @@
 		<slave_count>1</slave_count>
 		<slave_default>Art&amp;Go.Slave</slave_default>
 		<slave number="1">
-			<filename>Art&Go.Slave</filename>
+			<filename>Art&amp;Go.Slave</filename>
 			<datapath></datapath>
 		</slave>
 		<hardware>
@@ -3617,7 +3617,7 @@
 		<slave_count>1</slave_count>
 		<slave_default>Drums&amp;Pipes.Slave</slave_default>
 		<slave number="1">
-			<filename>Drums&Pipes.Slave</filename>
+			<filename>Drums&amp;Pipes.Slave</filename>
 			<datapath></datapath>
 			<custom>
 			BW
@@ -3637,7 +3637,7 @@
 		<slave_count>1</slave_count>
 		<slave_default>Drums&amp;Reverbs.Slave</slave_default>
 		<slave number="1">
-			<filename>Drums&Reverbs.Slave</filename>
+			<filename>Drums&amp;Reverbs.Slave</filename>
 			<datapath></datapath>
 			<custom>
 			BW
@@ -4796,7 +4796,7 @@
 		<slave_count>1</slave_count>
 		<slave_default>Hallucinations&amp;Dreams.slave</slave_default>
 		<slave number="1">
-			<filename>Hallucinations&Dreams.slave</filename>
+			<filename>Hallucinations&amp;Dreams.slave</filename>
 			<datapath></datapath>
 		</slave>
 		<hardware>
@@ -4813,7 +4813,7 @@
 		<slave_count>1</slave_count>
 		<slave_default>Hallu&amp;DreamsPrvKatharsis.Slave</slave_default>
 		<slave number="1">
-			<filename>Hallu&DreamsPrvKatharsis.Slave</filename>
+			<filename>Hallu&amp;DreamsPrvKatharsis.Slave</filename>
 			<datapath></datapath>
 			<custom>
 			BW
@@ -6110,7 +6110,7 @@
 		<slave_count>1</slave_count>
 		<slave_default>Love&amp;Anarchy.slave</slave_default>
 		<slave number="1">
-			<filename>Love&Anarchy.slave</filename>
+			<filename>Love&amp;Anarchy.slave</filename>
 			<datapath></datapath>
 		</slave>
 		<hardware>
@@ -6670,7 +6670,7 @@
 		<slave_count>1</slave_count>
 		<slave_default>Megademo4Kefrens&amp;7UpCrew.Slave</slave_default>
 		<slave number="1">
-			<filename>Megademo4Kefrens&7UpCrew.Slave</filename>
+			<filename>Megademo4Kefrens&amp;7UpCrew.Slave</filename>
 			<datapath>data</datapath>
 		</slave>
 		<hardware>
@@ -6893,7 +6893,7 @@
 		<slave_count>1</slave_count>
 		<slave_default>MegademoJoy&amp;MGF&amp;TJC.slave</slave_default>
 		<slave number="1">
-			<filename>MegademoJoy&MGF&TJC.slave</filename>
+			<filename>MegademoJoy&amp;MGF&amp;TJC.slave</filename>
 			<datapath>data</datapath>
 			<custom>
 			
@@ -7109,7 +7109,7 @@
 		<slave_count>1</slave_count>
 		<slave_default>MegademoDigitech&amp;IBB.Slave</slave_default>
 		<slave number="1">
-			<filename>MegademoDigitech&IBB.Slave</filename>
+			<filename>MegademoDigitech&amp;IBB.Slave</filename>
 			<datapath></datapath>
 		</slave>
 		<hardware>
@@ -7743,7 +7743,7 @@
 		<slave_count>1</slave_count>
 		<slave_default>Metal&amp;Lace.Slave</slave_default>
 		<slave number="1">
-			<filename>Metal&Lace.Slave</filename>
+			<filename>Metal&amp;Lace.Slave</filename>
 			<datapath></datapath>
 		</slave>
 		<hardware>
@@ -8704,7 +8704,7 @@
 		<slave_count>1</slave_count>
 		<slave_default>MusicDisk1Mahoney&amp;Kaktus.Slave</slave_default>
 		<slave number="1">
-			<filename>MusicDisk1Mahoney&Kaktus.Slave</filename>
+			<filename>MusicDisk1Mahoney&amp;Kaktus.Slave</filename>
 			<datapath></datapath>
 			<custom>
 			
@@ -8964,7 +8964,7 @@
 		<slave_count>1</slave_count>
 		<slave_default>MusicDiskArmada&amp;It.Slave</slave_default>
 		<slave number="1">
-			<filename>MusicDiskArmada&It.Slave</filename>
+			<filename>MusicDiskArmada&amp;It.Slave</filename>
 			<datapath>data</datapath>
 		</slave>
 		<hardware>
@@ -8981,7 +8981,7 @@
 		<slave_count>1</slave_count>
 		<slave_default>MusicDiskAspect&amp;Orix.Slave</slave_default>
 		<slave number="1">
-			<filename>MusicDiskAspect&Orix.Slave</filename>
+			<filename>MusicDiskAspect&amp;Orix.Slave</filename>
 			<datapath>data</datapath>
 		</slave>
 		<hardware>
@@ -15179,7 +15179,7 @@
 		<slave_count>1</slave_count>
 		<slave_default>4DSportsDriving&amp;MstrTrcks.Slave</slave_default>
 		<slave number="1">
-			<filename>4DSportsDriving&MstrTrcks.Slave</filename>
+			<filename>4DSportsDriving&amp;MstrTrcks.Slave</filename>
 			<datapath>data</datapath>
 		</slave>
 		<hardware>
@@ -15213,7 +15213,7 @@
 		<slave_count>1</slave_count>
 		<slave_default>4th&amp;Inches.slave</slave_default>
 		<slave number="1">
-			<filename>4th&Inches.slave</filename>
+			<filename>4th&amp;Inches.slave</filename>
 			<datapath>data</datapath>
 		</slave>
 		<hardware>
@@ -15704,7 +15704,7 @@
 		<slave_count>1</slave_count>
 		<slave_default>AdventuresOfQuik&amp;Silva.Slave</slave_default>
 		<slave number="1">
-			<filename>AdventuresOfQuik&Silva.Slave</filename>
+			<filename>AdventuresOfQuik&amp;Silva.Slave</filename>
 			<datapath></datapath>
 		</slave>
 		<hardware>
@@ -16288,7 +16288,7 @@
 			<filename>AlienBreed2.slave</filename>
 			<datapath></datapath>
 			<custom>
-			C1:X:Trainer Infinite Energy & Lives:0
+			C1:X:Trainer Infinite Energy &amp; Lives:0
 			
 			</custom>
 		</slave>
@@ -16459,7 +16459,7 @@
 			<filename>AlienBreed3DDemoLatest.Slave</filename>
 			<datapath>data</datapath>
 			<custom>
-			C1:B:Unlimited energy & ammo
+			C1:B:Unlimited energy &amp; ammo
 			</custom>
 		</slave>
 		<hardware>
@@ -16778,7 +16778,7 @@
 			<filename>AlienStorm.Slave</filename>
 			<datapath>data</datapath>
 			<custom>
-			C1:L:Trainer:None,Infinite Credits,Infinite Life & Energy
+			C1:L:Trainer:None,Infinite Credits,Infinite Life &amp; Energy
 			C3:X:Enable Programmers Cheat:0
 			C2:X:Disable Blitter Patches:0
 			C4:X:Enable CD32 Joypad:0
@@ -17449,7 +17449,7 @@
 		<slave_count>1</slave_count>
 		<slave_default>Apache&amp;OverdriveDemo.Slave</slave_default>
 		<slave number="1">
-			<filename>Apache&OverdriveDemo.Slave</filename>
+			<filename>Apache&amp;OverdriveDemo.Slave</filename>
 			<datapath></datapath>
 		</slave>
 		<hardware>
@@ -20357,7 +20357,7 @@
 		<slave_count>1</slave_count>
 		<slave_default>BattleIsle&amp;DataDisks.Slave</slave_default>
 		<slave number="1">
-			<filename>BattleIsle&DataDisks.Slave</filename>
+			<filename>BattleIsle&amp;DataDisks.Slave</filename>
 			<datapath>data</datapath>
 			<custom>
 			C2:L:Load Game Position:None,1,2,3,4,5,6,7,8,9
@@ -21170,7 +21170,7 @@
 			<filename>BigBusiness.Slave</filename>
 			<datapath>data</datapath>
 			<custom>
-			C1:L:Game Mode:Normal,Short&Fast,Long,Short&Slow
+			C1:L:Game Mode:Normal,Short&amp;Fast,Long,Short&amp;Slow
 			</custom>
 		</slave>
 		<hardware>
@@ -23451,7 +23451,7 @@
 			<filename>Burntime.Slave</filename>
 			<datapath>ecs</datapath>
 			<custom>
-			C1:B:Unlimited Water & Food
+			C1:B:Unlimited Water &amp; Food
 			C2:B:Unlimited Health
 			</custom>
 		</slave>
@@ -23474,7 +23474,7 @@
 			<filename>BurntimeAGA.Slave</filename>
 			<datapath>aga</datapath>
 			<custom>
-			C1:B:Unlimited Water & Food
+			C1:B:Unlimited Water &amp; Food
 			C2:B:Unlimited Health
 			</custom>
 		</slave>
@@ -23498,7 +23498,7 @@
 			<filename>BurntimeAGADe.Slave</filename>
 			<datapath>aga</datapath>
 			<custom>
-			C1:B:Unlimited Water & Food
+			C1:B:Unlimited Water &amp; Food
 			C2:B:Unlimited Health
 			</custom>
 		</slave>
@@ -23520,7 +23520,7 @@
 			<filename>BurntimeDe.Slave</filename>
 			<datapath>ecs</datapath>
 			<custom>
-			C1:B:Unlimited Water & Food
+			C1:B:Unlimited Water &amp; Food
 			C2:B:Unlimited Health
 			</custom>
 		</slave>
@@ -23619,7 +23619,7 @@
 		<slave_count>1</slave_count>
 		<slave_default>Cadaver&amp;CadaverThePayoff.Slave</slave_default>
 		<slave number="1">
-			<filename>Cadaver&CadaverThePayoff.Slave</filename>
+			<filename>Cadaver&amp;CadaverThePayoff.Slave</filename>
 			<datapath></datapath>
 		</slave>
 		<hardware>
@@ -23767,7 +23767,7 @@
 		<slave_count>1</slave_count>
 		<slave_default>Campaign&amp;DataDisk.slave</slave_default>
 		<slave number="1">
-			<filename>Campaign&DataDisk.slave</filename>
+			<filename>Campaign&amp;DataDisk.slave</filename>
 			<datapath>data</datapath>
 		</slave>
 		<hardware>
@@ -24241,7 +24241,7 @@
 		<slave_count>1</slave_count>
 		<slave_default>CaptainPlanet&amp;Planeteers.Slave</slave_default>
 		<slave number="1">
-			<filename>CaptainPlanet&Planeteers.Slave</filename>
+			<filename>CaptainPlanet&amp;Planeteers.Slave</filename>
 			<datapath></datapath>
 		</slave>
 		<hardware>
@@ -26147,7 +26147,7 @@
 		<slave_count>1</slave_count>
 		<slave_default>Classic&amp;BabyArcadia.Slave</slave_default>
 		<slave number="1">
-			<filename>Classic&BabyArcadia.Slave</filename>
+			<filename>Classic&amp;BabyArcadia.Slave</filename>
 			<datapath></datapath>
 		</slave>
 		<hardware>
@@ -26292,7 +26292,7 @@
 		<slave_count>1</slave_count>
 		<slave_default>ClouDeAGA&amp;Profidisk.Slave</slave_default>
 		<slave number="1">
-			<filename>ClouDeAGA&Profidisk.Slave</filename>
+			<filename>ClouDeAGA&amp;Profidisk.Slave</filename>
 			<datapath>data</datapath>
 		</slave>
 		<hardware>
@@ -26310,7 +26310,7 @@
 		<slave_count>1</slave_count>
 		<slave_default>ClouDe&amp;Profidisk.Slave</slave_default>
 		<slave number="1">
-			<filename>ClouDe&Profidisk.Slave</filename>
+			<filename>ClouDe&amp;Profidisk.Slave</filename>
 			<datapath>data</datapath>
 		</slave>
 		<hardware>
@@ -26815,8 +26815,8 @@
 			<datapath></datapath>
 			<custom>
 			BW
-			C1:X:Infinite Lives & Grenades:0
-			C4:X:Invincibility & Level Skip:0
+			C1:X:Infinite Lives &amp; Grenades:0
+			C4:X:Invincibility &amp; Level Skip:0
 			C2:X:Disable Blitter Patches:0
 			C3:X:Enable CD32 Joypad:0
 			
@@ -27069,7 +27069,7 @@
 		<slave_count>1</slave_count>
 		<slave_default>Corporation&amp;Missions2Disk.Slave</slave_default>
 		<slave number="1">
-			<filename>Corporation&Missions2Disk.Slave</filename>
+			<filename>Corporation&amp;Missions2Disk.Slave</filename>
 			<datapath></datapath>
 		</slave>
 		<hardware>
@@ -27086,7 +27086,7 @@
 		<slave_count>1</slave_count>
 		<slave_default>Corporation&amp;Missions3Disk.Slave</slave_default>
 		<slave number="1">
-			<filename>Corporation&Missions3Disk.Slave</filename>
+			<filename>Corporation&amp;Missions3Disk.Slave</filename>
 			<datapath></datapath>
 		</slave>
 		<hardware>
@@ -27397,7 +27397,7 @@
 			<datapath></datapath>
 			<custom>
 			BW
-			C1:L:Trainer:None,Infinite Lives,Infinite Lives & Energy
+			C1:L:Trainer:None,Infinite Lives,Infinite Lives &amp; Energy
 			C2:X:Disable Blitter Patches:0
 			C3:X:Enable CD32 Joypad:0
 			
@@ -29849,7 +29849,7 @@
 		<slave_count>1</slave_count>
 		<slave_default>DeluxeStripPoker2&amp;DDisks.Slave</slave_default>
 		<slave number="1">
-			<filename>DeluxeStripPoker2&DDisks.Slave</filename>
+			<filename>DeluxeStripPoker2&amp;DDisks.Slave</filename>
 			<datapath>data</datapath>
 		</slave>
 		<hardware>
@@ -30806,7 +30806,7 @@
 			<datapath>data</datapath>
 			<custom>
 			C1:B:Top screen display
-			C2:B:Unlimited lives (P1&P2)
+			C2:B:Unlimited lives (P1&amp;P2)
 			</custom>
 		</slave>
 		<hardware>
@@ -31366,7 +31366,7 @@
 		<slave_count>1</slave_count>
 		<slave_default>DragonsLair&amp;EscapeFast.Slave</slave_default>
 		<slave number="1">
-			<filename>DragonsLair&EscapeFast.Slave</filename>
+			<filename>DragonsLair&amp;EscapeFast.Slave</filename>
 			<datapath>data</datapath>
 		</slave>
 		<hardware>
@@ -31384,7 +31384,7 @@
 		<slave_count>1</slave_count>
 		<slave_default>DragonsLair&amp;EscapeSlow.Slave</slave_default>
 		<slave number="1">
-			<filename>DragonsLair&EscapeSlow.Slave</filename>
+			<filename>DragonsLair&amp;EscapeSlow.Slave</filename>
 			<datapath>data</datapath>
 		</slave>
 		<hardware>
@@ -33415,7 +33415,7 @@
 		<slave_count>1</slave_count>
 		<slave_default>Epic&amp;MissionDisk.slave</slave_default>
 		<slave number="1">
-			<filename>Epic&MissionDisk.slave</filename>
+			<filename>Epic&amp;MissionDisk.slave</filename>
 			<datapath></datapath>
 		</slave>
 		<hardware>
@@ -34322,7 +34322,7 @@ joyport0_amiberry_custom_none_right_shoulder=Numpad 9
 		<slave_count>1</slave_count>
 		<slave_default>Falcon&amp;MissionDisks.Slave</slave_default>
 		<slave number="1">
-			<filename>Falcon&MissionDisks.Slave</filename>
+			<filename>Falcon&amp;MissionDisks.Slave</filename>
 			<datapath>data</datapath>
 		</slave>
 		<hardware>
@@ -34879,7 +34879,7 @@ joyport0_amiberry_custom_none_right_shoulder=Numpad 9
 		<slave_count>1</slave_count>
 		<slave_default>FemmeFatale&amp;DataDisk.Slave</slave_default>
 		<slave number="1">
-			<filename>FemmeFatale&DataDisk.Slave</filename>
+			<filename>FemmeFatale&amp;DataDisk.Slave</filename>
 			<datapath>data</datapath>
 			<custom>
 			
@@ -35293,7 +35293,7 @@ joyport0_amiberry_custom_none_right_shoulder=Numpad 9
 		<slave_count>1</slave_count>
 		<slave_default>Fire&amp;Forget2.Slave</slave_default>
 		<slave number="1">
-			<filename>Fire&Forget2.Slave</filename>
+			<filename>Fire&amp;Forget2.Slave</filename>
 			<datapath>data</datapath>
 		</slave>
 		<hardware>
@@ -35310,7 +35310,7 @@ joyport0_amiberry_custom_none_right_shoulder=Numpad 9
 		<slave_count>1</slave_count>
 		<slave_default>Fire&amp;Forget.Slave</slave_default>
 		<slave number="1">
-			<filename>Fire&Forget.Slave</filename>
+			<filename>Fire&amp;Forget.Slave</filename>
 			<datapath>data</datapath>
 		</slave>
 		<hardware>
@@ -35327,7 +35327,7 @@ joyport0_amiberry_custom_none_right_shoulder=Numpad 9
 		<slave_count>1</slave_count>
 		<slave_default>Fire&amp;Ice.slave</slave_default>
 		<slave number="1">
-			<filename>Fire&Ice.slave</filename>
+			<filename>Fire&amp;Ice.slave</filename>
 			<datapath></datapath>
 		</slave>
 		<hardware>
@@ -35347,7 +35347,7 @@ joyport0_amiberry_custom_none_right_shoulder=Numpad 9
 		<slave_count>1</slave_count>
 		<slave_default>Fire&amp;IceCD32.slave</slave_default>
 		<slave number="1">
-			<filename>Fire&IceCD32.slave</filename>
+			<filename>Fire&amp;IceCD32.slave</filename>
 			<datapath>data</datapath>
 		</slave>
 		<hardware>
@@ -35367,7 +35367,7 @@ joyport0_amiberry_custom_none_right_shoulder=Numpad 9
 		<slave_count>1</slave_count>
 		<slave_default>Fire&amp;IceXmasDemo.Slave</slave_default>
 		<slave number="1">
-			<filename>Fire&IceXmasDemo.Slave</filename>
+			<filename>Fire&amp;IceXmasDemo.Slave</filename>
 			<datapath></datapath>
 		</slave>
 		<hardware>
@@ -36002,7 +36002,7 @@ joyport0_amiberry_custom_none_right_shoulder=Numpad 9
 		<slave_count>1</slave_count>
 		<slave_default>FlightSim2&amp;Hawaiian.Slave</slave_default>
 		<slave number="1">
-			<filename>FlightSim2&Hawaiian.Slave</filename>
+			<filename>FlightSim2&amp;Hawaiian.Slave</filename>
 			<datapath>data</datapath>
 		</slave>
 		<hardware>
@@ -36019,7 +36019,7 @@ joyport0_amiberry_custom_none_right_shoulder=Numpad 9
 		<slave_count>1</slave_count>
 		<slave_default>FlightSim2&amp;SceneryDisk07.Slave</slave_default>
 		<slave number="1">
-			<filename>FlightSim2&SceneryDisk07.Slave</filename>
+			<filename>FlightSim2&amp;SceneryDisk07.Slave</filename>
 			<datapath>data</datapath>
 		</slave>
 		<hardware>
@@ -36036,7 +36036,7 @@ joyport0_amiberry_custom_none_right_shoulder=Numpad 9
 		<slave_count>1</slave_count>
 		<slave_default>FlightSim2&amp;SceneryDisk09.Slave</slave_default>
 		<slave number="1">
-			<filename>FlightSim2&SceneryDisk09.Slave</filename>
+			<filename>FlightSim2&amp;SceneryDisk09.Slave</filename>
 			<datapath>data</datapath>
 		</slave>
 		<hardware>
@@ -36053,7 +36053,7 @@ joyport0_amiberry_custom_none_right_shoulder=Numpad 9
 		<slave_count>1</slave_count>
 		<slave_default>FlightSim2&amp;SceneryDisk11.Slave</slave_default>
 		<slave number="1">
-			<filename>FlightSim2&SceneryDisk11.Slave</filename>
+			<filename>FlightSim2&amp;SceneryDisk11.Slave</filename>
 			<datapath>data</datapath>
 		</slave>
 		<hardware>
@@ -36070,7 +36070,7 @@ joyport0_amiberry_custom_none_right_shoulder=Numpad 9
 		<slave_count>1</slave_count>
 		<slave_default>FlightSim2&amp;SceneryDisk12.Slave</slave_default>
 		<slave number="1">
-			<filename>FlightSim2&SceneryDisk12.Slave</filename>
+			<filename>FlightSim2&amp;SceneryDisk12.Slave</filename>
 			<datapath>data</datapath>
 		</slave>
 		<hardware>
@@ -36087,7 +36087,7 @@ joyport0_amiberry_custom_none_right_shoulder=Numpad 9
 		<slave_count>1</slave_count>
 		<slave_default>FlightSim2&amp;SceneryDisk13.Slave</slave_default>
 		<slave number="1">
-			<filename>FlightSim2&SceneryDisk13.Slave</filename>
+			<filename>FlightSim2&amp;SceneryDisk13.Slave</filename>
 			<datapath>data</datapath>
 		</slave>
 		<hardware>
@@ -36104,7 +36104,7 @@ joyport0_amiberry_custom_none_right_shoulder=Numpad 9
 		<slave_count>1</slave_count>
 		<slave_default>FlightSim2&amp;SceneryDisk14.Slave</slave_default>
 		<slave number="1">
-			<filename>FlightSim2&SceneryDisk14.Slave</filename>
+			<filename>FlightSim2&amp;SceneryDisk14.Slave</filename>
 			<datapath>data</datapath>
 		</slave>
 		<hardware>
@@ -36216,7 +36216,7 @@ joyport0_amiberry_custom_none_right_shoulder=Numpad 9
 		<slave_count>1</slave_count>
 		<slave_default>Flipit&amp;Magnose.slave</slave_default>
 		<slave number="1">
-			<filename>Flipit&Magnose.slave</filename>
+			<filename>Flipit&amp;Magnose.slave</filename>
 			<datapath></datapath>
 		</slave>
 		<hardware>
@@ -38804,7 +38804,7 @@ joyport0_amiberry_custom_none_right_shoulder=Numpad 9
 			<filename>GoldenAxe.Slave</filename>
 			<datapath></datapath>
 			<custom>
-			C1:B:Unlimited Energy Player 1 & 2
+			C1:B:Unlimited Energy Player 1 &amp; 2
 			</custom>
 		</slave>
 		<hardware>
@@ -38906,7 +38906,7 @@ joyport0_amiberry_custom_none_right_shoulder=Numpad 9
 		<slave_count>1</slave_count>
 		<slave_default>Goldrunner2&amp;SceneryDisks.Slave</slave_default>
 		<slave number="1">
-			<filename>Goldrunner2&SceneryDisks.Slave</filename>
+			<filename>Goldrunner2&amp;SceneryDisks.Slave</filename>
 			<datapath></datapath>
 		</slave>
 		<hardware>
@@ -39325,8 +39325,8 @@ joyport0_amiberry_custom_none_right_shoulder=Numpad 9
 			<filename>GreatGianaSisters.slave</filename>
 			<datapath></datapath>
 			<custom>
-			C2:B:Unlimited Lives Player 1 & 2
-			C3:B:Unlimited Time Player 1 & 2
+			C2:B:Unlimited Lives Player 1 &amp; 2
+			C3:B:Unlimited Time Player 1 &amp; 2
 			C1:B:Disable UP control (2nd button pressed)
 			</custom>
 		</slave>
@@ -40090,7 +40090,7 @@ joyport1_amiberry_custom_none_right_shoulder=F2
 		<slave_count>1</slave_count>
 		<slave_default>Harpoon&amp;Battleset1.Slave</slave_default>
 		<slave number="1">
-			<filename>Harpoon&Battleset1.Slave</filename>
+			<filename>Harpoon&amp;Battleset1.Slave</filename>
 			<datapath></datapath>
 		</slave>
 		<hardware>
@@ -40107,7 +40107,7 @@ joyport1_amiberry_custom_none_right_shoulder=F2
 		<slave_count>1</slave_count>
 		<slave_default>Harpoon&amp;Battleset2.slave</slave_default>
 		<slave number="1">
-			<filename>Harpoon&Battleset2.slave</filename>
+			<filename>Harpoon&amp;Battleset2.slave</filename>
 			<datapath></datapath>
 		</slave>
 		<hardware>
@@ -40124,7 +40124,7 @@ joyport1_amiberry_custom_none_right_shoulder=F2
 		<slave_count>1</slave_count>
 		<slave_default>Harpoon&amp;Battleset3.slave</slave_default>
 		<slave number="1">
-			<filename>Harpoon&Battleset3.slave</filename>
+			<filename>Harpoon&amp;Battleset3.slave</filename>
 			<datapath></datapath>
 		</slave>
 		<hardware>
@@ -40141,7 +40141,7 @@ joyport1_amiberry_custom_none_right_shoulder=F2
 		<slave_count>1</slave_count>
 		<slave_default>Harpoon&amp;Battleset4.slave</slave_default>
 		<slave number="1">
-			<filename>Harpoon&Battleset4.slave</filename>
+			<filename>Harpoon&amp;Battleset4.slave</filename>
 			<datapath></datapath>
 		</slave>
 		<hardware>
@@ -40626,7 +40626,7 @@ joyport1_amiberry_custom_none_right_shoulder=F2
 		<slave_count>1</slave_count>
 		<slave_default>HeroQuest&amp;ReturnWitchLord.slave</slave_default>
 		<slave number="1">
-			<filename>HeroQuest&ReturnWitchLord.slave</filename>
+			<filename>HeroQuest&amp;ReturnWitchLord.slave</filename>
 			<datapath></datapath>
 		</slave>
 		<hardware>
@@ -41013,7 +41013,7 @@ joyport1_amiberry_custom_none_right_shoulder=F2
 		<slave_count>1</slave_count>
 		<slave_default>HoleInOne&amp;DataDisks.Slave</slave_default>
 		<slave number="1">
-			<filename>HoleInOne&DataDisks.Slave</filename>
+			<filename>HoleInOne&amp;DataDisks.Slave</filename>
 			<datapath>data</datapath>
 			<custom>
 			C1:L: :Load Original Game,Load Menagerie Data Disk #1,Load Holidays Data Disk #2,Load Original Game + 2 Data Disks
@@ -43745,7 +43745,7 @@ joyport2_amiberry_custom_none_south=Right Shift
 		<slave_count>1</slave_count>
 		<slave_default>Jet&amp;HawaiianScenery.Slave</slave_default>
 		<slave number="1">
-			<filename>Jet&HawaiianScenery.Slave</filename>
+			<filename>Jet&amp;HawaiianScenery.Slave</filename>
 			<datapath>data</datapath>
 		</slave>
 		<hardware>
@@ -43762,7 +43762,7 @@ joyport2_amiberry_custom_none_south=Right Shift
 		<slave_count>1</slave_count>
 		<slave_default>Jet&amp;SceneryDisk07.Slave</slave_default>
 		<slave number="1">
-			<filename>Jet&SceneryDisk07.Slave</filename>
+			<filename>Jet&amp;SceneryDisk07.Slave</filename>
 			<datapath>data</datapath>
 		</slave>
 		<hardware>
@@ -43779,7 +43779,7 @@ joyport2_amiberry_custom_none_south=Right Shift
 		<slave_count>1</slave_count>
 		<slave_default>Jet&amp;SceneryDisk09.Slave</slave_default>
 		<slave number="1">
-			<filename>Jet&SceneryDisk09.Slave</filename>
+			<filename>Jet&amp;SceneryDisk09.Slave</filename>
 			<datapath>data</datapath>
 		</slave>
 		<hardware>
@@ -43796,7 +43796,7 @@ joyport2_amiberry_custom_none_south=Right Shift
 		<slave_count>1</slave_count>
 		<slave_default>Jet&amp;SceneryDisk11.Slave</slave_default>
 		<slave number="1">
-			<filename>Jet&SceneryDisk11.Slave</filename>
+			<filename>Jet&amp;SceneryDisk11.Slave</filename>
 			<datapath>data</datapath>
 		</slave>
 		<hardware>
@@ -43813,7 +43813,7 @@ joyport2_amiberry_custom_none_south=Right Shift
 		<slave_count>1</slave_count>
 		<slave_default>Jet&amp;SceneryDisk12.Slave</slave_default>
 		<slave number="1">
-			<filename>Jet&SceneryDisk12.Slave</filename>
+			<filename>Jet&amp;SceneryDisk12.Slave</filename>
 			<datapath>data</datapath>
 		</slave>
 		<hardware>
@@ -43830,7 +43830,7 @@ joyport2_amiberry_custom_none_south=Right Shift
 		<slave_count>1</slave_count>
 		<slave_default>Jet&amp;SceneryDisk13.Slave</slave_default>
 		<slave number="1">
-			<filename>Jet&SceneryDisk13.Slave</filename>
+			<filename>Jet&amp;SceneryDisk13.Slave</filename>
 			<datapath>data</datapath>
 		</slave>
 		<hardware>
@@ -43847,7 +43847,7 @@ joyport2_amiberry_custom_none_south=Right Shift
 		<slave_count>1</slave_count>
 		<slave_default>Jet&amp;SceneryDisk14.Slave</slave_default>
 		<slave number="1">
-			<filename>Jet&SceneryDisk14.Slave</filename>
+			<filename>Jet&amp;SceneryDisk14.Slave</filename>
 			<datapath>data</datapath>
 		</slave>
 		<hardware>
@@ -44107,7 +44107,7 @@ joyport2_amiberry_custom_none_south=Right Shift
 		<slave_count>1</slave_count>
 		<slave_default>Joe&amp;MacCavemanNinja.Slave</slave_default>
 		<slave number="1">
-			<filename>Joe&MacCavemanNinja.Slave</filename>
+			<filename>Joe&amp;MacCavemanNinja.Slave</filename>
 			<datapath></datapath>
 		</slave>
 		<hardware>
@@ -44484,7 +44484,7 @@ joyport2_amiberry_custom_none_south=Right Shift
 			<filename>JurassicParkAGA.slave</filename>
 			<datapath></datapath>
 			<custom>
-			C1:X:Trainer Infinite Lives & Ammo:0
+			C1:X:Trainer Infinite Lives &amp; Ammo:0
 			
 			</custom>
 		</slave>
@@ -44509,7 +44509,7 @@ joyport2_amiberry_custom_none_south=Right Shift
 			<filename>JurassicPark.slave</filename>
 			<datapath></datapath>
 			<custom>
-			C1:X:Trainer Infinite Lives & Ammo:0
+			C1:X:Trainer Infinite Lives &amp; Ammo:0
 			
 			</custom>
 		</slave>
@@ -44687,7 +44687,7 @@ joyport2_amiberry_custom_none_south=Right Shift
 		<slave_count>1</slave_count>
 		<slave_default>KarateKing&amp;CityDefence.Slave</slave_default>
 		<slave number="1">
-			<filename>KarateKing&CityDefence.Slave</filename>
+			<filename>KarateKing&amp;CityDefence.Slave</filename>
 			<datapath>data</datapath>
 		</slave>
 		<hardware>
@@ -44926,7 +44926,7 @@ joyport2_amiberry_custom_none_south=Right Shift
 		<slave_count>1</slave_count>
 		<slave_default>KickOff&amp;ExtraTime1Disk.Slave</slave_default>
 		<slave number="1">
-			<filename>KickOff&ExtraTime1Disk.Slave</filename>
+			<filename>KickOff&amp;ExtraTime1Disk.Slave</filename>
 			<datapath>data</datapath>
 			<custom>
 			C1:B:Load 'Extra Time'
@@ -44946,7 +44946,7 @@ joyport2_amiberry_custom_none_south=Right Shift
 		<slave_count>1</slave_count>
 		<slave_default>KickOff&amp;ExtraTime2Disk.Slave</slave_default>
 		<slave number="1">
-			<filename>KickOff&ExtraTime2Disk.Slave</filename>
+			<filename>KickOff&amp;ExtraTime2Disk.Slave</filename>
 			<datapath>data</datapath>
 			<custom>
 			C1:B:Load 'Extra Time'
@@ -48190,7 +48190,7 @@ joyport2_amiberry_custom_none_south=Right Shift
 		<slave_count>1</slave_count>
 		<slave_default>Life&amp;Death.slave</slave_default>
 		<slave number="1">
-			<filename>Life&Death.slave</filename>
+			<filename>Life&amp;Death.slave</filename>
 			<datapath>data</datapath>
 		</slave>
 		<hardware>
@@ -48241,7 +48241,7 @@ joyport2_amiberry_custom_none_south=Right Shift
 		<slave_count>1</slave_count>
 		<slave_default>Limes&amp;Napoleon.Slave</slave_default>
 		<slave number="1">
-			<filename>Limes&Napoleon.Slave</filename>
+			<filename>Limes&amp;Napoleon.Slave</filename>
 			<datapath>data</datapath>
 		</slave>
 		<hardware>
@@ -48282,7 +48282,7 @@ joyport2_amiberry_custom_none_south=Right Shift
 		<slave_count>1</slave_count>
 		<slave_default>Links&amp;DataDisks.Slave</slave_default>
 		<slave number="1">
-			<filename>Links&DataDisks.Slave</filename>
+			<filename>Links&amp;DataDisks.Slave</filename>
 			<datapath>data</datapath>
 			<custom>
 			C1:B:Skip Intro
@@ -48302,7 +48302,7 @@ joyport2_amiberry_custom_none_south=Right Shift
 		<slave_count>1</slave_count>
 		<slave_default>Links&amp;DataDisksNTSC.Slave</slave_default>
 		<slave number="1">
-			<filename>Links&DataDisksNTSC.Slave</filename>
+			<filename>Links&amp;DataDisksNTSC.Slave</filename>
 			<datapath>data</datapath>
 			<custom>
 			C1:B:Skip Intro
@@ -48827,7 +48827,7 @@ joyport2_amiberry_custom_none_south=Right Shift
 		<slave_count>1</slave_count>
 		<slave_default>LordsOfChaos&amp;DataDisk.Slave</slave_default>
 		<slave number="1">
-			<filename>LordsOfChaos&DataDisk.Slave</filename>
+			<filename>LordsOfChaos&amp;DataDisk.Slave</filename>
 			<datapath></datapath>
 		</slave>
 		<hardware>
@@ -49628,7 +49628,7 @@ joyport2_amiberry_custom_none_south=Right Shift
 			<filename>MafdetAndTheBookOfTheDead.slave</filename>
 			<datapath>data</datapath>
 			<custom>
-			C1:X:Infinite Lives & Energy:0
+			C1:X:Infinite Lives &amp; Energy:0
 			C2:X:Enable In Game Delay:0
 			
 			</custom>
@@ -49976,7 +49976,7 @@ joyport2_amiberry_custom_none_south=Right Shift
 		<slave_count>1</slave_count>
 		<slave_default>ManchesterUtdPLC&amp;Data.slave</slave_default>
 		<slave number="1">
-			<filename>ManchesterUtdPLC&Data.slave</filename>
+			<filename>ManchesterUtdPLC&amp;Data.slave</filename>
 			<datapath></datapath>
 			<custom>
 			C1:B:Disable Data Disk Creation
@@ -51894,7 +51894,7 @@ joyport2_amiberry_custom_none_south=Right Shift
 			<datapath>data</datapath>
 			<custom>
 			C1:B:Skip Intro
-			C2:L:Game Mode:256 lines & 32 colors,256 lines & 16 colors,200 lines & 32 colors,200 lines & 16 colors
+			C2:L:Game Mode:256 lines &amp; 32 colors,256 lines &amp; 16 colors,200 lines &amp; 32 colors,200 lines &amp; 16 colors
 			</custom>
 		</slave>
 		<hardware>
@@ -51930,7 +51930,7 @@ joyport2_amiberry_custom_none_south=Right Shift
 		<slave_count>1</slave_count>
 		<slave_default>Might&amp;Magic2.Slave</slave_default>
 		<slave number="1">
-			<filename>Might&Magic2.Slave</filename>
+			<filename>Might&amp;Magic2.Slave</filename>
 			<datapath>data</datapath>
 		</slave>
 		<hardware>
@@ -51949,7 +51949,7 @@ joyport2_amiberry_custom_none_south=Right Shift
 		<slave_count>1</slave_count>
 		<slave_default>Might&amp;Magic3.Slave</slave_default>
 		<slave number="1">
-			<filename>Might&Magic3.Slave</filename>
+			<filename>Might&amp;Magic3.Slave</filename>
 			<datapath>data</datapath>
 		</slave>
 		<hardware>
@@ -51966,7 +51966,7 @@ joyport2_amiberry_custom_none_south=Right Shift
 		<slave_count>1</slave_count>
 		<slave_default>Might&amp;Magic3De.Slave</slave_default>
 		<slave number="1">
-			<filename>Might&Magic3De.Slave</filename>
+			<filename>Might&amp;Magic3De.Slave</filename>
 			<datapath>data</datapath>
 		</slave>
 		<hardware>
@@ -54205,7 +54205,7 @@ joyport2_amiberry_custom_none_south=Right Shift
 			<filename>NorthAndSouthFiles.slave</filename>
 			<datapath></datapath>
 			<custom>
-			C1:X:Second Button Support (PL1&PL2) & CD32 PAD (PL1):0
+			C1:X:Second Button Support (PL1&amp;PL2) &amp; CD32 PAD (PL1):0
 			C1:X:To force Joytick or CD32Pad for PL2 (mouse port):1
 			
 			</custom>
@@ -54227,7 +54227,7 @@ joyport2_amiberry_custom_none_south=Right Shift
 			<filename>NorthAndSouthFilesNTSC.slave</filename>
 			<datapath></datapath>
 			<custom>
-			C1:X:Second Button Support (PL1&PL2) & CD32 PAD (PL1):0
+			C1:X:Second Button Support (PL1&amp;PL2) &amp; CD32 PAD (PL1):0
 			C1:X:To force Joytick or CD32Pad for PL2 (mouse port):1
 			
 			</custom>
@@ -54249,7 +54249,7 @@ joyport2_amiberry_custom_none_south=Right Shift
 			<filename>NorthAndSouthImage.slave</filename>
 			<datapath></datapath>
 			<custom>
-			C1:X:Second Button Support (PL1&PL2) & CD32 PAD (PL1):0
+			C1:X:Second Button Support (PL1&amp;PL2) &amp; CD32 PAD (PL1):0
 			C1:X:To force Joytick or CD32Pad for PL2 (mouse port):1
 			
 			</custom>
@@ -54271,7 +54271,7 @@ joyport2_amiberry_custom_none_south=Right Shift
 			<filename>NorthAndSouthImageNTSC.slave</filename>
 			<datapath></datapath>
 			<custom>
-			C1:X:Second Button Support (PL1&PL2) & CD32 PAD (PL1):0
+			C1:X:Second Button Support (PL1&amp;PL2) &amp; CD32 PAD (PL1):0
 			C1:X:To force Joytick or CD32Pad for PL2 (mouse port):1
 			
 			</custom>
@@ -56393,7 +56393,7 @@ joyport2_amiberry_custom_none_south=Right Shift
 		<slave_count>1</slave_count>
 		<slave_default>PGATourGolf&amp;TourDisk.Slave</slave_default>
 		<slave number="1">
-			<filename>PGATourGolf&TourDisk.Slave</filename>
+			<filename>PGATourGolf&amp;TourDisk.Slave</filename>
 			<datapath>data</datapath>
 		</slave>
 		<hardware>
@@ -57321,7 +57321,7 @@ joyport2_amiberry_custom_none_south=Right Shift
 		<slave_count>1</slave_count>
 		<slave_default>Pixie&amp;Dixie.Slave</slave_default>
 		<slave number="1">
-			<filename>Pixie&Dixie.Slave</filename>
+			<filename>Pixie&amp;Dixie.Slave</filename>
 			<datapath>data</datapath>
 		</slave>
 		<hardware>
@@ -57829,7 +57829,7 @@ joyport2_amiberry_custom_none_south=Right Shift
 		<slave_count>1</slave_count>
 		<slave_default>Populous&amp;DataDisks.Slave</slave_default>
 		<slave number="1">
-			<filename>Populous&DataDisks.Slave</filename>
+			<filename>Populous&amp;DataDisks.Slave</filename>
 			<datapath>data</datapath>
 		</slave>
 		<hardware>
@@ -58746,7 +58746,7 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 			<custom>
 			C1:B:Enable trainers
 			C2:B:Disable joystick weapon select
-			C3:B:Skip Ministry & Anthrox cracktros
+			C3:B:Skip Ministry &amp; Anthrox cracktros
 			</custom>
 		</slave>
 		<hardware>
@@ -60111,7 +60111,7 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		<slave_count>1</slave_count>
 		<slave_default>Read&amp;Rhyme.Slave</slave_default>
 		<slave number="1">
-			<filename>Read&Rhyme.Slave</filename>
+			<filename>Read&amp;Rhyme.Slave</filename>
 			<datapath>data</datapath>
 			<custom>
 			
@@ -61615,7 +61615,7 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		<slave_count>1</slave_count>
 		<slave_default>Rody&amp;Mastico2Fr.Slave</slave_default>
 		<slave number="1">
-			<filename>Rody&Mastico2Fr.Slave</filename>
+			<filename>Rody&amp;Mastico2Fr.Slave</filename>
 			<datapath></datapath>
 		</slave>
 		<hardware>
@@ -61632,7 +61632,7 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		<slave_count>1</slave_count>
 		<slave_default>Rody&amp;Mastico3Fr.Slave</slave_default>
 		<slave number="1">
-			<filename>Rody&Mastico3Fr.Slave</filename>
+			<filename>Rody&amp;Mastico3Fr.Slave</filename>
 			<datapath></datapath>
 		</slave>
 		<hardware>
@@ -61649,7 +61649,7 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		<slave_count>1</slave_count>
 		<slave_default>Rody&amp;Mastico4RodyNoelFr.Slave</slave_default>
 		<slave number="1">
-			<filename>Rody&Mastico4RodyNoelFr.Slave</filename>
+			<filename>Rody&amp;Mastico4RodyNoelFr.Slave</filename>
 			<datapath></datapath>
 		</slave>
 		<hardware>
@@ -61666,7 +61666,7 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		<slave_count>1</slave_count>
 		<slave_default>Rody&amp;Mastico5Fr.Slave</slave_default>
 		<slave number="1">
-			<filename>Rody&Mastico5Fr.Slave</filename>
+			<filename>Rody&amp;Mastico5Fr.Slave</filename>
 			<datapath></datapath>
 		</slave>
 		<hardware>
@@ -61683,7 +61683,7 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		<slave_count>1</slave_count>
 		<slave_default>Rody&amp;Mastico6Fr.Slave</slave_default>
 		<slave number="1">
-			<filename>Rody&Mastico6Fr.Slave</filename>
+			<filename>Rody&amp;Mastico6Fr.Slave</filename>
 			<datapath></datapath>
 		</slave>
 		<hardware>
@@ -61700,7 +61700,7 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		<slave_count>1</slave_count>
 		<slave_default>Rody&amp;MasticoDe.Slave</slave_default>
 		<slave number="1">
-			<filename>Rody&MasticoDe.Slave</filename>
+			<filename>Rody&amp;MasticoDe.Slave</filename>
 			<datapath></datapath>
 		</slave>
 		<hardware>
@@ -61717,7 +61717,7 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		<slave_count>1</slave_count>
 		<slave_default>Rody&amp;MasticoFr.Slave</slave_default>
 		<slave number="1">
-			<filename>Rody&MasticoFr.Slave</filename>
+			<filename>Rody&amp;MasticoFr.Slave</filename>
 			<datapath></datapath>
 		</slave>
 		<hardware>
@@ -62017,7 +62017,7 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		<slave_count>1</slave_count>
 		<slave_default>Ruff&amp;ReddySpaceAdventure.slave</slave_default>
 		<slave number="1">
-			<filename>Ruff&ReddySpaceAdventure.slave</filename>
+			<filename>Ruff&amp;ReddySpaceAdventure.slave</filename>
 			<datapath></datapath>
 		</slave>
 		<hardware>
@@ -62297,7 +62297,7 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		<slave_count>1</slave_count>
 		<slave_default>Saint&amp;Greavsie.Slave</slave_default>
 		<slave number="1">
-			<filename>Saint&Greavsie.Slave</filename>
+			<filename>Saint&amp;Greavsie.Slave</filename>
 			<datapath></datapath>
 		</slave>
 		<hardware>
@@ -62555,7 +62555,7 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		<slave_count>1</slave_count>
 		<slave_default>ScoobyDoo&amp;ScrappyDoo.slave</slave_default>
 		<slave number="1">
-			<filename>ScoobyDoo&ScrappyDoo.slave</filename>
+			<filename>ScoobyDoo&amp;ScrappyDoo.slave</filename>
 			<datapath>data</datapath>
 			<custom>
 			BW
@@ -62926,7 +62926,7 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		<slave_count>1</slave_count>
 		<slave_default>Seek&amp;Destroy.Slave</slave_default>
 		<slave number="1">
-			<filename>Seek&Destroy.Slave</filename>
+			<filename>Seek&amp;Destroy.Slave</filename>
 			<datapath>data</datapath>
 		</slave>
 		<hardware>
@@ -62943,7 +62943,7 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		<slave_count>1</slave_count>
 		<slave_default>Seek&amp;DestroyAGA.Slave</slave_default>
 		<slave number="1">
-			<filename>Seek&DestroyAGA.Slave</filename>
+			<filename>Seek&amp;DestroyAGA.Slave</filename>
 			<datapath>data</datapath>
 		</slave>
 		<hardware>
@@ -65121,7 +65121,7 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		<slave_count>1</slave_count>
 		<slave_default>Skull&amp;CrossBones.slave</slave_default>
 		<slave number="1">
-			<filename>Skull&CrossBones.slave</filename>
+			<filename>Skull&amp;CrossBones.slave</filename>
 			<datapath></datapath>
 		</slave>
 		<hardware>
@@ -65241,7 +65241,7 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		<slave_count>1</slave_count>
 		<slave_default>Slackskin&amp;Flint.Slave</slave_default>
 		<slave number="1">
-			<filename>Slackskin&Flint.Slave</filename>
+			<filename>Slackskin&amp;Flint.Slave</filename>
 			<datapath></datapath>
 		</slave>
 		<hardware>
@@ -65573,7 +65573,7 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		<slave_count>1</slave_count>
 		<slave_default>Snoopy&amp;Peanuts.Slave</slave_default>
 		<slave number="1">
-			<filename>Snoopy&Peanuts.Slave</filename>
+			<filename>Snoopy&amp;Peanuts.Slave</filename>
 			<datapath>data</datapath>
 		</slave>
 		<hardware>
@@ -65590,7 +65590,7 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		<slave_count>1</slave_count>
 		<slave_default>Snoopy&amp;PeanutsNoSounds.Slave</slave_default>
 		<slave number="1">
-			<filename>Snoopy&PeanutsNoSounds.Slave</filename>
+			<filename>Snoopy&amp;PeanutsNoSounds.Slave</filename>
 			<datapath>data</datapath>
 		</slave>
 		<hardware>
@@ -65916,7 +65916,7 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		<slave_count>1</slave_count>
 		<slave_default>Sooty&amp;Sweep.Slave</slave_default>
 		<slave number="1">
-			<filename>Sooty&Sweep.Slave</filename>
+			<filename>Sooty&amp;Sweep.Slave</filename>
 			<datapath></datapath>
 		</slave>
 		<hardware>
@@ -68242,7 +68242,7 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		<slave_count>1</slave_count>
 		<slave_default>StripPoker2+&amp;DataDisk1.Slave</slave_default>
 		<slave number="1">
-			<filename>StripPoker2+&DataDisk1.Slave</filename>
+			<filename>StripPoker2+&amp;DataDisk1.Slave</filename>
 			<datapath>data</datapath>
 		</slave>
 		<hardware>
@@ -68585,7 +68585,7 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		<slave_count>1</slave_count>
 		<slave_default>SummerGames&amp;SummerGames2.slave</slave_default>
 		<slave number="1">
-			<filename>SummerGames&SummerGames2.slave</filename>
+			<filename>SummerGames&amp;SummerGames2.slave</filename>
 			<datapath>data</datapath>
 		</slave>
 		<hardware>
@@ -69491,7 +69491,7 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		<slave_count>1</slave_count>
 		<slave_default>SuprTennisChmps&amp;DataDisks.Slave</slave_default>
 		<slave number="1">
-			<filename>SuprTennisChmps&DataDisks.Slave</filename>
+			<filename>SuprTennisChmps&amp;DataDisks.Slave</filename>
 			<datapath>data</datapath>
 		</slave>
 		<hardware>
@@ -69751,7 +69751,7 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		<slave_count>1</slave_count>
 		<slave_default>Sword&amp;TheRose.slave</slave_default>
 		<slave number="1">
-			<filename>Sword&TheRose.slave</filename>
+			<filename>Sword&amp;TheRose.slave</filename>
 			<datapath></datapath>
 		</slave>
 		<hardware>
@@ -69819,7 +69819,7 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		<slave_count>1</slave_count>
 		<slave_default>Swords&amp;Galleons.slave</slave_default>
 		<slave number="1">
-			<filename>Swords&Galleons.slave</filename>
+			<filename>Swords&amp;Galleons.slave</filename>
 			<datapath></datapath>
 		</slave>
 		<hardware>
@@ -70644,7 +70644,7 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		<slave_count>1</slave_count>
 		<slave_default>TestDrive2&amp;DataDisks.slave</slave_default>
 		<slave number="1">
-			<filename>TestDrive2&DataDisks.slave</filename>
+			<filename>TestDrive2&amp;DataDisks.slave</filename>
 			<datapath>data</datapath>
 		</slave>
 		<hardware>
@@ -70804,7 +70804,7 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		<slave_count>1</slave_count>
 		<slave_default>TheirFinestHour&amp;Missions.Slave</slave_default>
 		<slave number="1">
-			<filename>TheirFinestHour&Missions.Slave</filename>
+			<filename>TheirFinestHour&amp;Missions.Slave</filename>
 			<datapath>data</datapath>
 		</slave>
 		<hardware>
@@ -72494,7 +72494,7 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		<slave_count>1</slave_count>
 		<slave_default>Tony&amp;FriendsDe.Slave</slave_default>
 		<slave number="1">
-			<filename>Tony&FriendsDe.Slave</filename>
+			<filename>Tony&amp;FriendsDe.Slave</filename>
 			<datapath></datapath>
 		</slave>
 		<hardware>
@@ -74835,7 +74835,7 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		<slave_count>1</slave_count>
 		<slave_default>Utopia&amp;NewWorlds.slave</slave_default>
 		<slave number="1">
-			<filename>Utopia&NewWorlds.slave</filename>
+			<filename>Utopia&amp;NewWorlds.slave</filename>
 			<datapath></datapath>
 		</slave>
 		<hardware>
@@ -75170,10 +75170,10 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 			<filename>ViajeAlCentroDeLaTierraEs.slave</filename>
 			<datapath>data</datapath>
 			<custom>
-			C1:L:<- language:Spanish,French,English
+			C1:L:- language:Spanish,French,English
 			C4:B:Skip menu
 			C3:B:Easy stage 1
-			C2:B:Enable trainers (stage 2&3)
+			C2:B:Enable trainers (stage 2&amp;3)
 			</custom>
 		</slave>
 		<hardware>
@@ -76068,7 +76068,7 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 			C2:X:Trainer Infinite Grenades:0
 			C3:X:Trainer Infinite Time:0
 			C4:L:Start level:1,2,3,4,5,6
-			C5:X:keep original slow fade in & out:0
+			C5:X:keep original slow fade in &amp; out:0
 			
 			</custom>
 		</slave>
@@ -77620,7 +77620,7 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		<slave_count>1</slave_count>
 		<slave_default>WCLeaderBoard&amp;DataDisks.slave</slave_default>
 		<slave number="1">
-			<filename>WCLeaderBoard&DataDisks.slave</filename>
+			<filename>WCLeaderBoard&amp;DataDisks.slave</filename>
 			<datapath>data</datapath>
 		</slave>
 		<hardware>
@@ -78584,7 +78584,7 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		<slave_count>1</slave_count>
 		<slave_default>XTremeRacing&amp;DataDisksAGA.slave</slave_default>
 		<slave number="1">
-			<filename>XTremeRacing&DataDisksAGA.slave</filename>
+			<filename>XTremeRacing&amp;DataDisksAGA.slave</filename>
 			<datapath>data</datapath>
 			<custom>
 			C1:B:Set NOMUSIC option
@@ -78647,7 +78647,7 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		<slave_count>1</slave_count>
 		<slave_default>YogiBear&amp;Friends.Slave</slave_default>
 		<slave number="1">
-			<filename>YogiBear&Friends.Slave</filename>
+			<filename>YogiBear&amp;Friends.Slave</filename>
 			<datapath></datapath>
 		</slave>
 		<hardware>
@@ -80032,7 +80032,7 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		<slave_count>1</slave_count>
 		<slave_default>Outlands&amp;DizzyDice.slave</slave_default>
 		<slave number="1">
-			<filename>Outlands&DizzyDice.slave</filename>
+			<filename>Outlands&amp;DizzyDice.slave</filename>
 			<datapath>data</datapath>
 			<custom>
 			C1:X:Not Implemented Yet:0
@@ -80054,7 +80054,7 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		<slave_count>1</slave_count>
 		<slave_default>Populous&amp;DataDisks.Slave</slave_default>
 		<slave number="1">
-			<filename>Populous&DataDisks.Slave</filename>
+			<filename>Populous&amp;DataDisks.Slave</filename>
 			<datapath>data</datapath>
 		</slave>
 		<hardware>
@@ -80225,7 +80225,7 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		<slave_count>1</slave_count>
 		<slave_default>Tony&amp;Friends.Slave</slave_default>
 		<slave number="1">
-			<filename>Tony&Friends.Slave</filename>
+			<filename>Tony&amp;Friends.Slave</filename>
 			<datapath></datapath>
 		</slave>
 		<hardware>
@@ -80600,7 +80600,7 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		<slave_count>1</slave_count>
 		<slave_default>CrackerJournal07&amp;08.Slave</slave_default>
 		<slave number="1">
-			<filename>CrackerJournal07&08.Slave</filename>
+			<filename>CrackerJournal07&amp;08.Slave</filename>
 			<datapath>data</datapath>
 			<custom>
 			

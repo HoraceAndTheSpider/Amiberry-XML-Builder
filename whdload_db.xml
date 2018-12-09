@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<whdbooter timestamp="2018-12-09 at 22:07:41">
+<whdbooter timestamp="2018-12-09 at 22:46:24">
 	<game filename="1001StolenIdeas_v1.0_Airwalk"  sha1="a24c60e66c9cdb5ca96075d9f4f4ad7eaa900d76">
 		<name>1001 Stolen Ideas</name>
 		<subpath>1001StolenIdeas</subpath>
@@ -4782,6 +4782,23 @@
 		<slave number="1">
 			<filename>GuardianDragon.slave</filename>
 			<datapath></datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="HailTheEngineer_v1.0_Jetset"  sha1="f118b2f9465ea867cb26c58801e60f4ec125a8e4">
+		<name>Hail The Engineer</name>
+		<subpath>HailTheEngineer</subpath>
+		<variant_uuid>1a08401c-117a-56fe-8625-03b51d6dcc10</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>HailTheEngineer.Slave</slave_default>
+		<slave number="1">
+			<filename>HailTheEngineer.Slave</filename>
+			<datapath>data</datapath>
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
@@ -15241,6 +15258,23 @@
 		
 		</hardware>
 	</game>
+	<game filename="4x4OffRoadRacing_v1.0_NTSC_1480"  sha1="3e3c10fff7873264ded9456c217ad550284db28f">
+		<name>4x 4 Off Road Racing (NTSC)</name>
+		<subpath>4x4OffRoadRacingNTSC</subpath>
+		<variant_uuid>67be329b-2188-505f-bc45-1eece8c28b06</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>4x4OffRoadRacingNTSC.Slave</slave_default>
+		<slave number="1">
+			<filename>4x4OffRoadRacingNTSC.Slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
 	<game filename="5thGear_v1.0_1001"  sha1="de0423323b4b4150d4595c504a22b5c8ab171292">
 		<name>5th Gear</name>
 		<subpath>5thGear</subpath>
@@ -15470,6 +15504,26 @@
 		
 		</hardware>
 	</game>
+	<game filename="ABCMondayNightFootball_v1.01_NTSC_1495"  sha1="f0adef06c52f4b6852fa7aaa84f53d1eedf07c75">
+		<name>A BCMonday Night FBNTSC</name>
+		<subpath>ABCMondayNightFBNTSC</subpath>
+		<variant_uuid>2b2f2cca-3cbd-50a9-9cfd-7cce592c48a4</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>ABCMondayNightFBNTSC.slave</slave_default>
+		<slave number="1">
+			<filename>ABCMondayNightFBNTSC.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
 	<game filename="Abracadabra_v1.1_2451"  sha1="34db03ba407961adc1afbda32189f001cf5ca97f">
 		<name>Abracadabra</name>
 		<subpath>Abracadabra</subpath>
@@ -15678,6 +15732,23 @@
 		
 		</hardware>
 	</game>
+	<game filename="AdventureConstructionSet_v1.1_NTSC_0904"  sha1="74b7db638eac2e885dabf367d5341f78f66f570b">
+		<name>Adv Construction Set (NTSC)</name>
+		<subpath>AdvConstructionSetNTSC</subpath>
+		<variant_uuid>f89c1cc8-eaf6-512e-a797-2bb5d30fc928</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>AdvConstructionSetNTSC.slave</slave_default>
+		<slave number="1">
+			<filename>AdvConstructionSetNTSC.slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
 	<game filename="AdventuresOfGenlockHolmes_v1.0"  sha1="3286724780bf321908057c058755e6b020a284f1">
 		<name>Adventures Of Genlock Holmes</name>
 		<subpath>AdventuresOfGenlockHolmes</subpath>
@@ -15775,6 +15846,23 @@
 		
 		</hardware>
 	</game>
+	<game filename="AfterBurner_v1.0_0095"  sha1="68a17f1a5c0dc029929d14442231ab5dc7b0c414">
+		<name>After Burner</name>
+		<subpath>AfterBurner</subpath>
+		<variant_uuid>17d65cd0-cd36-510c-a774-fe5595648eea</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>AfterBurner.Slave</slave_default>
+		<slave number="1">
+			<filename>AfterBurner.Slave</filename>
+			<datapath></datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
 	<game filename="AfterBurner_v1.0_Activision_0095"  sha1="1c201d843133a46ddcfdd00f1ed503f985454fe8">
 		<name>After Burner (Activision)</name>
 		<subpath>AfterBurnerActivision</subpath>
@@ -15784,6 +15872,31 @@
 		<slave number="1">
 			<filename>AfterBurnerActivision.Slave</filename>
 			<datapath></datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="AfterBurner_v1.4_NTSC_0947"  sha1="2460c87dbc7b78501230102e6af8cdc9bd8c6a2a">
+		<name>After Burner (NTSC)</name>
+		<subpath>AfterBurnerNTSC</subpath>
+		<variant_uuid>0157535d-0b2c-5b16-ac10-d70f1543cb80</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>AfterBurnerNTSC.slave</slave_default>
+		<slave number="1">
+			<filename>AfterBurnerNTSC.slave</filename>
+			<datapath></datapath>
+			<custom>
+			BW
+			C1:X:Unlimited Lives:0
+			C1:X:Unlimited Missiles:1
+			C1:X:Invincibility:2
+			C1:X:In-Game Keys:3
+			C2:L:Start at Stage:1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23
+			</custom>
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
@@ -15976,6 +16089,23 @@
 		<slave_default>AirSupport.Slave</slave_default>
 		<slave number="1">
 			<filename>AirSupport.Slave</filename>
+			<datapath></datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="AirSupport_v1.1_NTSC_1325"  sha1="3125046c56e141a298deb5ef1ed30fabcf4a967c">
+		<name>Air Support (NTSC)</name>
+		<subpath>AirSupportNTSC</subpath>
+		<variant_uuid>673111f6-811d-51f8-854c-4daf917a0d65</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>AirSupportNTSC.Slave</slave_default>
+		<slave number="1">
+			<filename>AirSupportNTSC.Slave</filename>
 			<datapath></datapath>
 		</slave>
 		<hardware>
@@ -16823,6 +16953,27 @@ joyport1_amiberry_custom_none_west=Space
 		
 		</hardware>
 	</game>
+	<game filename="AlienSyndrome_v1.2_NTSC_2353"  sha1="fd7dd278256a7a84f08e2c8e18b96786541e41c3">
+		<name>Alien Syndrome (NTSC)</name>
+		<subpath>AlienSyndromeNTSC</subpath>
+		<variant_uuid>a11499a6-3e9a-54a2-9d99-c1a895f2e6cf</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>AlienSyndromeNTSC.slave</slave_default>
+		<slave number="1">
+			<filename>AlienSyndromeNTSC.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			C1:B:Slow down the game speed
+			C5:B:Activate and set trainers
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
 	<game filename="AlienWorld_v1.0_1398"  sha1="94257ad7dfb1c1b5c916da64863f55d9a1f83064">
 		<name>Alien World</name>
 		<subpath>AlienWorld</subpath>
@@ -17284,6 +17435,23 @@ joyport1_amiberry_custom_none_west=Space
 		<slave_default>AmigaKarate.Slave</slave_default>
 		<slave number="1">
 			<filename>AmigaKarate.Slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="AmigaKarate_v2.1_NTSC_0045"  sha1="c358ec391f2294378160f12bad3e75ab028e54df">
+		<name>Amiga Karate (NTSC)</name>
+		<subpath>AmigaKarateNTSC</subpath>
+		<variant_uuid>04b4ce43-fda6-5e24-afd4-f177f9df4c74</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>AmigaKarateNTSC.Slave</slave_default>
+		<slave number="1">
+			<filename>AmigaKarateNTSC.Slave</filename>
 			<datapath>data</datapath>
 		</slave>
 		<hardware>
@@ -17987,6 +18155,23 @@ joyport1_amiberry_custom_none_west=Space
 		
 		</hardware>
 	</game>
+	<game filename="Archon2_v1.1_NTSC_0905"  sha1="890b129de38525d28e6c6957da95819f0a58282d">
+		<name>Archon 2 (NTSC)</name>
+		<subpath>Archon2NTSC</subpath>
+		<variant_uuid>ac5b0b92-4f08-5feb-b961-c321a508b27f</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>Archon2NTSC.slave</slave_default>
+		<slave number="1">
+			<filename>Archon2NTSC.slave</filename>
+			<datapath></datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
 	<game filename="Archon_v1.2_0914"  sha1="e8f89d7c6d5b9f319634ca9d3d0035bdcbe0893a">
 		<name>Archon - The Light and the Dark</name>
 		<subpath>Archon</subpath>
@@ -17995,6 +18180,23 @@ joyport1_amiberry_custom_none_west=Space
 		<slave_default>Archon.slave</slave_default>
 		<slave number="1">
 			<filename>Archon.slave</filename>
+			<datapath></datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="Archon_v1.2_NTSC_0914"  sha1="ed4ab773830aca76a2553a4fb8883133fea02f43">
+		<name>Archon (NTSC)</name>
+		<subpath>ArchonNTSC</subpath>
+		<variant_uuid>ea576de3-194a-5bbf-99f6-bbd928fe6c57</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>ArchonNTSC.slave</slave_default>
+		<slave number="1">
+			<filename>ArchonNTSC.slave</filename>
 			<datapath></datapath>
 		</slave>
 		<hardware>
@@ -18539,6 +18741,23 @@ joyport1_amiberry_custom_none_west=Space
 		<slave_default>AtominoDe.slave</slave_default>
 		<slave number="1">
 			<filename>AtominoDe.slave</filename>
+			<datapath></datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="Atomino_v1.11_NTSC_1972"  sha1="00ca3af6115361f595c3be8d818a65f491fecba1">
+		<name>Atomino (NTSC)</name>
+		<subpath>AtominoNTSC</subpath>
+		<variant_uuid>615739cd-bff5-5606-b5ed-a3a9e46331c1</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>AtominoNTSC.slave</slave_default>
+		<slave number="1">
+			<filename>AtominoNTSC.slave</filename>
 			<datapath></datapath>
 		</slave>
 		<hardware>
@@ -19107,6 +19326,23 @@ joyport1_amiberry_custom_none_west=Space
 		
 		</hardware>
 	</game>
+	<game filename="AxeOfRage_v1.2_NTSC_2018"  sha1="bbac736d2ec4c245858b8028df4338334d997de6">
+		<name>Axe Of Rage (NTSC)</name>
+		<subpath>AxeOfRageNTSC</subpath>
+		<variant_uuid>b61e0706-96c0-5e6c-b069-cdfb32d80725</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>AxeOfRageNTSC.slave</slave_default>
+		<slave number="1">
+			<filename>AxeOfRageNTSC.slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
 	<game filename="AztecChallenge_v1.0"  sha1="b82b99d449f5c1684eee56eabf45e9d12427b31f">
 		<name>Aztec Challenge</name>
 		<subpath>AztecChallenge</subpath>
@@ -19281,6 +19517,41 @@ joyport1_amiberry_custom_none_west=Space
 		
 		</hardware>
 	</game>
+	<game filename="BackToTheFuturePart3_v1.3_0265"  sha1="22c1e7efada32d84e5cf308483b106ac9b79d104">
+		<name>Back To The Future Part III</name>
+		<subpath>BackToTheFuturePart3</subpath>
+		<variant_uuid>a6f1103c-74cc-56b8-878f-8d7e5235c947</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>BackToTheFuturePart3.Slave</slave_default>
+		<slave number="1">
+			<filename>BackToTheFuturePart3.Slave</filename>
+			<datapath></datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		SCREEN_HEIGHT=200
+		
+		</hardware>
+	</game>
+	<game filename="BackToTheFuturePart3_v1.3_NTSC_1171"  sha1="76c00419b64e2ee0174a53076f2a5acd5ef72de3">
+		<name>Back To The Future Part 3 (NTSC)</name>
+		<subpath>BackToTheFuturePart3NTSC</subpath>
+		<variant_uuid>171db0d7-b405-5da8-8bba-b0420c8db51b</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>BackToTheFuturePart3NTSC.Slave</slave_default>
+		<slave number="1">
+			<filename>BackToTheFuturePart3NTSC.Slave</filename>
+			<datapath></datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
 	<game filename="BadCat_v1.0_0976"  sha1="b0a4ea89c26820f5e139a7000495944b48b3b55f">
 		<name>Bad Cat</name>
 		<subpath>BadCat</subpath>
@@ -19437,6 +19708,23 @@ joyport1_amiberry_custom_none_west=Space
 		PORT1=JOY
 		SCREEN_HEIGHT=200
 		SCREEN_Y_OFFSET=3
+		
+		</hardware>
+	</game>
+	<game filename="BalanceOfPower_v1.0_NTSC_2374"  sha1="f711ae2ef250122057a73050864dc3654c12679b">
+		<name>Balance Of Power (NTSC)</name>
+		<subpath>BalanceOfPowerNTSC</subpath>
+		<variant_uuid>b41c03cb-3389-5121-99a5-ed6c63b10f61</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>BalanceOfPowerNTSC.Slave</slave_default>
+		<slave number="1">
+			<filename>BalanceOfPowerNTSC.Slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
 		
 		</hardware>
 	</game>
@@ -20478,6 +20766,26 @@ joyport1_amiberry_custom_none_west=Space
 		
 		</hardware>
 	</game>
+	<game filename="BattleSquadron_v1.6.1_NTSC_0942"  sha1="0fdfe1350153859ec09a2f88166ab99432f614fb">
+		<name>Battle Squadron (NTSC)</name>
+		<subpath>BattleSquadronNTSC</subpath>
+		<variant_uuid>df27d2b6-82f4-5e74-af01-6d115e402696</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>BattleSquadronNTSC.Slave</slave_default>
+		<slave number="1">
+			<filename>BattleSquadronNTSC.Slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			C1:B:Convert PAL version to NTSC
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
 	<game filename="BattleSquadronDemo_v1.0"  sha1="a395c38b92920a2391d11571b874622b6e388914">
 		<name>Battle Squadron (Demo)</name>
 		<subpath>BattleSquadronDemo</subpath>
@@ -20530,6 +20838,23 @@ joyport1_amiberry_custom_none_west=Space
 		
 		</hardware>
 	</game>
+	<game filename="Battlestorm_v1.2_NTSC_2008"  sha1="2e9d1e840ce0946e3ce29d5e0ba2c54333da8171">
+		<name>Battlestorm (NTSC)</name>
+		<subpath>BattlestormNTSC</subpath>
+		<variant_uuid>c1d8bb80-9c05-5689-9a27-a7ac9c6cd147</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>BattlestormNTSC.Slave</slave_default>
+		<slave number="1">
+			<filename>BattlestormNTSC.Slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
 	<game filename="Battletech_v1.0_1402"  sha1="f72912001b3f88556e40c2526adeee818d8dfb14">
 		<name>BattleTech - The Crescent Hawk's Inception</name>
 		<subpath>Battletech</subpath>
@@ -20538,6 +20863,23 @@ joyport1_amiberry_custom_none_west=Space
 		<slave_default>Battletech.Slave</slave_default>
 		<slave number="1">
 			<filename>Battletech.Slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="Battletech_v1.0_NTSC_1402"  sha1="6d0bffded3a7cd66b934f810260b98c0089999e6">
+		<name>Battletech (NTSC)</name>
+		<subpath>BattletechNTSC</subpath>
+		<variant_uuid>8349a8a3-e54c-507d-abdf-8d64d0c5e5a5</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>BattletechNTSC.Slave</slave_default>
+		<slave number="1">
+			<filename>BattletechNTSC.Slave</filename>
 			<datapath>data</datapath>
 		</slave>
 		<hardware>
@@ -21075,6 +21417,23 @@ joyport1_amiberry_custom_none_west=Space
 		<slave_default>BetterDeadThanAlien.Slave</slave_default>
 		<slave number="1">
 			<filename>BetterDeadThanAlien.Slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="BetterDeadThanAlien_v1.1_NTSC_1839"  sha1="ff490b0f4974222a53518c21a5ff339e4d2e53ec">
+		<name>Better Dead Than Alien (NTSC)</name>
+		<subpath>BetterDeadThanAlienNTSC</subpath>
+		<variant_uuid>0d6f9fed-ff71-59dd-9c42-e559f9d2963a</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>BetterDeadThanAlienNTSC.Slave</slave_default>
+		<slave number="1">
+			<filename>BetterDeadThanAlienNTSC.Slave</filename>
 			<datapath>data</datapath>
 		</slave>
 		<hardware>
@@ -21974,6 +22333,26 @@ joyport1_amiberry_custom_none_west=Space
 		
 		</hardware>
 	</game>
+	<game filename="BlueAngels_v1.0_NTSC_1467"  sha1="6f1b61c4ed6b0317fbc8ef8096870b4d144c225e">
+		<name>Blue Angels (NTSC)</name>
+		<subpath>BlueAngelsNTSC</subpath>
+		<variant_uuid>5275beac-e361-5c1a-8605-6803055ac29f</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>BlueAngelsNTSC.Slave</slave_default>
+		<slave number="1">
+			<filename>BlueAngelsNTSC.Slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
 	<game filename="Blueberry_v1.0_De"  sha1="857af62bec30e1ec2388aa1f133a0f64bf5b5fa6">
 		<name>Blueberry (Deutsch)</name>
 		<subpath>BlueberryDe</subpath>
@@ -22347,6 +22726,23 @@ joyport1_amiberry_custom_none_west=Space
 		
 		</hardware>
 	</game>
+	<game filename="Boot_v1.0_NTSC_1996"  sha1="2745ce1700247bc20df1c77a38f52478aad31732">
+		<name>Boot (NTSC)</name>
+		<subpath>BootNTSC</subpath>
+		<variant_uuid>7141b09d-2ebc-5d27-ad82-369e5f323e86</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>BootNTSC.Slave</slave_default>
+		<slave number="1">
+			<filename>BootNTSC.Slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
 	<game filename="Borobodur_v1.1_1014"  sha1="48c3a8a293514d75ee486d2a7ff92f52bcfa18ea">
 		<name>Borobodur - The Planet of Doom</name>
 		<subpath>Borobodur</subpath>
@@ -22551,6 +22947,23 @@ joyport1_amiberry_custom_none_west=Space
 		
 		</hardware>
 	</game>
+	<game filename="Brataccas_v1.0_NTSC_1189"  sha1="d877f0b2407639b38f0b30e9401631926af0c505">
+		<name>Brataccas (NTSC)</name>
+		<subpath>BrataccasNTSC</subpath>
+		<variant_uuid>d5a5777e-3702-5c7b-a114-d12e5b675eb4</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>BrataccasNTSC.Slave</slave_default>
+		<slave number="1">
+			<filename>BrataccasNTSC.Slave</filename>
+			<datapath></datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
 	<game filename="Breach2_v1.0_1195"  sha1="1ade0fd52332754c49ccae953ea7af8894d96221">
 		<name>Breach 2</name>
 		<subpath>Breach2</subpath>
@@ -22579,6 +22992,26 @@ joyport1_amiberry_custom_none_west=Space
 		<slave_default>Breach.Slave</slave_default>
 		<slave number="1">
 			<filename>Breach.Slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			C1:B:Load scenario
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="Breach_v1.0_NTSC_1487"  sha1="fd8113f183399935948112071e34fab4ba83355d">
+		<name>Breach (NTSC)</name>
+		<subpath>BreachNTSC</subpath>
+		<variant_uuid>438d7cfd-f59c-5e1c-abf1-a792fead8625</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>BreachNTSC.Slave</slave_default>
+		<slave number="1">
+			<filename>BreachNTSC.Slave</filename>
 			<datapath>data</datapath>
 			<custom>
 			C1:B:Load scenario
@@ -23124,6 +23557,40 @@ joyport1_amiberry_custom_none_west=Space
 		<slave_default>BuckRogersCountdownDdayDe.slave</slave_default>
 		<slave number="1">
 			<filename>BuckRogersCountdownDdayDe.slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="BuckRogers_v1.2_De_0445"  sha1="af19ef1a2ba2ff1aa37da971aa1490cb90c23612">
+		<name>Buck Rogers (Deutsch)</name>
+		<subpath>BuckRogersDe</subpath>
+		<variant_uuid>2e469bcd-16e7-51e0-a951-ee5d3ed8a7ec</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>BuckRogersDe.slave</slave_default>
+		<slave number="1">
+			<filename>BuckRogersDe.slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="BuckRogers_v1.2_NTSC_1994"  sha1="05a1bf47c9989a5945eac681d426195017a8a2f3">
+		<name>Buck Rogers (NTSC)</name>
+		<subpath>BuckRogersNTSC</subpath>
+		<variant_uuid>5b3603ee-a839-5cda-8390-159f2e599e4b</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>BuckRogersNTSC.slave</slave_default>
+		<slave number="1">
+			<filename>BuckRogersNTSC.slave</filename>
 			<datapath>data</datapath>
 		</slave>
 		<hardware>
@@ -24188,6 +24655,23 @@ joyport1_amiberry_custom_none_west=Space
 		
 		</hardware>
 	</game>
+	<game filename="CaptainBlood_v1.1_NTSC_0466"  sha1="e04aba04e383bfff98cfcf626f4b3a78a75a1db0">
+		<name>Captain Blood (NTSC)</name>
+		<subpath>CaptainBloodNTSC</subpath>
+		<variant_uuid>e4663829-3f05-50f4-92d0-223e43b5c837</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>CaptainBloodNTSC.Slave</slave_default>
+		<slave number="1">
+			<filename>CaptainBloodNTSC.Slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
 	<game filename="CaptainDynamo_v1.2_0995"  sha1="3042546fd05f8aeed4c8dc0a007b3baf081bc916">
 		<name>Captain Dynamo</name>
 		<subpath>CaptainDynamo</subpath>
@@ -24501,6 +24985,23 @@ joyport1_amiberry_custom_none_west=Space
 		
 		</hardware>
 	</game>
+	<game filename="Carthage_v1.1_NTSC_2329"  sha1="c911d7d1d58fa77ff322801a6ad6e0475aeb3200">
+		<name>Carthage (NTSC)</name>
+		<subpath>CarthageNTSC</subpath>
+		<variant_uuid>ab39c2a9-6312-5c07-913d-0d639c7dd84a</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>CarthageNTSC.Slave</slave_default>
+		<slave number="1">
+			<filename>CarthageNTSC.Slave</filename>
+			<datapath></datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
 	<game filename="CartonRouge_v1.2_Fr"  sha1="3eadca7b1df95ded5eb9065b2f57239104a3e63b">
 		<name>Carton Rouge (Francais)</name>
 		<subpath>CartonRougeFr</subpath>
@@ -24648,6 +25149,23 @@ joyport1_amiberry_custom_none_west=Space
 		<slave_default>CastleOfDrBrainDe.Slave</slave_default>
 		<slave number="1">
 			<filename>CastleOfDrBrainDe.Slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="CastleOfDrBrain_v1.1_NTSC_1287"  sha1="df712d8f7cd89bf29e78a509a47c8857eb4047fa">
+		<name>Castle Of Dr Brain (NTSC)</name>
+		<subpath>CastleOfDrBrainNTSC</subpath>
+		<variant_uuid>d1aea631-d01b-5e09-9592-db5a869dfa90</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>CastleOfDrBrainNTSC.Slave</slave_default>
+		<slave number="1">
+			<filename>CastleOfDrBrainNTSC.Slave</filename>
 			<datapath>data</datapath>
 		</slave>
 		<hardware>
@@ -24943,6 +25461,23 @@ joyport1_amiberry_custom_none_west=Space
 		PORT1=JOY
 		SCREEN_HEIGHT=200
 		SCREEN_Y_OFFSET=3
+		
+		</hardware>
+	</game>
+	<game filename="Centurion_v1.0_NTSC_1945"  sha1="bd2b735dc4796958aaf46cb7a6e05aa3accb0557">
+		<name>Centurion (NTSC)</name>
+		<subpath>CenturionNTSC</subpath>
+		<variant_uuid>f9f8e9e6-52a8-589a-8f6f-c7452f5de41a</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>CenturionNTSC.Slave</slave_default>
+		<slave number="1">
+			<filename>CenturionNTSC.Slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
 		
 		</hardware>
 	</game>
@@ -25432,6 +25967,23 @@ joyport1_amiberry_custom_none_west=Space
 		
 		</hardware>
 	</game>
+	<game filename="Chessmaster2100_v1.0_NTSC_1988"  sha1="ec7e0fccfec79eee5cabafb091b6f930715a087e">
+		<name>Chessmaster 2100 (NTSC)</name>
+		<subpath>Chessmaster2100NTSC</subpath>
+		<variant_uuid>97f4bdb0-d583-5cc8-ba07-d260c851715f</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>Chessmaster2100NTSC.Slave</slave_default>
+		<slave number="1">
+			<filename>Chessmaster2100NTSC.Slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
 	<game filename="ChessPlayer2150_v1.1_2493"  sha1="0f43b871946fd249d6f846415e2fcd2fe4327f50">
 		<name>Chess Player 2150</name>
 		<subpath>ChessPlayer2150</subpath>
@@ -25551,6 +26103,23 @@ joyport1_amiberry_custom_none_west=Space
 		
 		</hardware>
 	</game>
+	<game filename="ChipsChallenge_v1.2_0444"  sha1="03ef159ca2b994fff2218e82e5a6c4dd9c4faf8a">
+		<name>Chips Challenge</name>
+		<subpath>ChipsChallenge</subpath>
+		<variant_uuid>3312005e-e8f0-581a-a719-21835f66af07</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>ChipsChallenge.Slave</slave_default>
+		<slave number="1">
+			<filename>ChipsChallenge.Slave</filename>
+			<datapath></datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
 	<game filename="ChipsChallenge_v1.2_Epyx_2009"  sha1="b497f0a517d4a9c3bcad1c0019f85c7b145a3f57">
 		<name>Chip's Challenge (Epyx)</name>
 		<subpath>ChipsChallengeEpyx</subpath>
@@ -25568,6 +26137,23 @@ joyport1_amiberry_custom_none_west=Space
 		JIT=FALSE
 		SCREEN_HEIGHT=200
 		SCREEN_Y_OFFSET=3
+		
+		</hardware>
+	</game>
+	<game filename="ChipsChallenge_v1.2_NTSC_2009"  sha1="1d94a6baada442f94bd6281e6efaf90c446ed61f">
+		<name>Chips Challenge (NTSC)</name>
+		<subpath>ChipsChallengeNTSC</subpath>
+		<variant_uuid>9beb74ea-5d5b-5111-935e-dc713d87b606</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>ChipsChallengeNTSC.Slave</slave_default>
+		<slave number="1">
+			<filename>ChipsChallengeNTSC.Slave</filename>
+			<datapath></datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
 		
 		</hardware>
 	</game>
@@ -26468,6 +27054,23 @@ joyport1_amiberry_custom_none_west=Space
 		
 		</hardware>
 	</game>
+	<game filename="ClueMasterDetective_v1.1_NTSC_0672"  sha1="b46b7fbd285526c32af4d046b87818c7269b9a77">
+		<name>Clue Master Detective (NTSC)</name>
+		<subpath>ClueMasterDetectiveNTSC</subpath>
+		<variant_uuid>5843a631-5f06-5b72-b4cb-bcee92b33706</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>ClueMasterDetectiveNTSC.slave</slave_default>
+		<slave number="1">
+			<filename>ClueMasterDetectiveNTSC.slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
 	<game filename="Coala_v1.0_0242"  sha1="5e263ae34e510506666cd3e37b3fe77940fba69b">
 		<name>Coala</name>
 		<subpath>Coala</subpath>
@@ -27271,6 +27874,23 @@ joyport1_amiberry_custom_none_west=Space
 		
 		</hardware>
 	</game>
+	<game filename="CosmicRelief_v1.1_NTSC_1893"  sha1="51349f371b880603ee124335bc652ef89e0e9e34">
+		<name>Cosmic Relief (NTSC)</name>
+		<subpath>CosmicReliefNTSC</subpath>
+		<variant_uuid>527993b3-50e4-53d7-8d82-96dc9b79ef3e</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>CosmicReliefNTSC.Slave</slave_default>
+		<slave number="1">
+			<filename>CosmicReliefNTSC.Slave</filename>
+			<datapath></datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
 	<game filename="CosmicSpacehead_v1.3"  sha1="63dd3375f13b42ac0a1fdd874b688c0b06cf91f8">
 		<name>Cosmic Spacehead</name>
 		<subpath>CosmicSpacehead</subpath>
@@ -27428,6 +28048,23 @@ joyport1_amiberry_custom_none_west=Space
 		<slave_default>CrashGarrett.Slave</slave_default>
 		<slave number="1">
 			<filename>CrashGarrett.Slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="CrashGarrett_v1.0_NTSC_1373"  sha1="d0484522ca2762a2ea12e6e58447abaa25a250e8">
+		<name>Crash Garrett (NTSC)</name>
+		<subpath>CrashGarrettNTSC</subpath>
+		<variant_uuid>d0f166e0-dc49-5eb3-82dc-c62ae397c592</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>CrashGarrettNTSC.Slave</slave_default>
+		<slave number="1">
+			<filename>CrashGarrettNTSC.Slave</filename>
 			<datapath>data</datapath>
 		</slave>
 		<hardware>
@@ -28612,6 +29249,23 @@ joyport1_amiberry_custom_none_west=Space
 		
 		</hardware>
 	</game>
+	<game filename="Cytron_v1.02_NTSC"  sha1="289cf62c56964913e03411fbb7f78d999254f4a3">
+		<name>Cytron (NTSC)</name>
+		<subpath>CytronNTSC</subpath>
+		<variant_uuid>dea5bf38-72f1-546b-9dc1-684005fc327e</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>CytronNTSC.slave</slave_default>
+		<slave number="1">
+			<filename>CytronNTSC.slave</filename>
+			<datapath></datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
 	<game filename="DalekAttack_v1.2_1998"  sha1="6702630e5a2f6332d5eb73230c5da7ca9cffdca5">
 		<name>Dalek Attack</name>
 		<subpath>DalekAttack</subpath>
@@ -28720,6 +29374,23 @@ joyport1_amiberry_custom_none_west=Space
 		
 		</hardware>
 	</game>
+	<game filename="Damocles_v1.3_NTSC_1192"  sha1="7bf33c998b1582834d1ca2c56c498c61208fe280">
+		<name>Damocles (NTSC)</name>
+		<subpath>DamoclesNTSC</subpath>
+		<variant_uuid>33a7bf31-bb6a-5d40-b337-ee42216762e3</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>DamoclesNTSC.slave</slave_default>
+		<slave number="1">
+			<filename>DamoclesNTSC.slave</filename>
+			<datapath></datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
 	<game filename="DanDare3_v1.0_2257"  sha1="3f7eabfb46944793e3f6627d9acecc2c18ad20f1">
 		<name>Dan Dare III - The Escape</name>
 		<subpath>DanDare3</subpath>
@@ -28814,6 +29485,30 @@ joyport1_amiberry_custom_none_west=Space
 		<slave_default>DarkCastle.slave</slave_default>
 		<slave number="1">
 			<filename>DarkCastle.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			C1:X:Unlimited Lives:0
+			C1:X:Unlimited Rocks:1
+			C1:X:Unlimited Elixir:2
+			C1:X:Unlimited Bonus:3
+			C2:L:Timing Fix:Off,1x,2x,3x,4x
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="DarkCastle_v1.01_NTSC_1459"  sha1="8006d53af73068d54b46b2879d333bef1461dbc0">
+		<name>Dark Castle (NTSC)</name>
+		<subpath>DarkCastleNTSC</subpath>
+		<variant_uuid>728188b6-762b-5964-8b24-c44239f898f2</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>DarkCastleNTSC.slave</slave_default>
+		<slave number="1">
+			<filename>DarkCastleNTSC.slave</filename>
 			<datapath>data</datapath>
 			<custom>
 			C1:X:Unlimited Lives:0
@@ -29031,6 +29726,23 @@ joyport1_amiberry_custom_none_west=Space
 		<slave_default>DarkSide.Slave</slave_default>
 		<slave number="1">
 			<filename>DarkSide.Slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="DarkSide_v1.1_NTSC_1424"  sha1="fc9b89a04db680d64c113e68fb6c3c7e7efd4e6f">
+		<name>Dark Side (NTSC)</name>
+		<subpath>DarkSideNTSC</subpath>
+		<variant_uuid>5ecb20b1-bfd8-59fe-a9db-2f9b03476512</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>DarkSideNTSC.Slave</slave_default>
+		<slave number="1">
+			<filename>DarkSideNTSC.Slave</filename>
 			<datapath>data</datapath>
 		</slave>
 		<hardware>
@@ -29627,6 +30339,23 @@ joyport1_amiberry_custom_none_west=Space
 		
 		</hardware>
 	</game>
+	<game filename="DefenderOfTheCrown_v3.1_NTSC_0902"  sha1="1930eac5470916570ef32381f8eeccf74a37c78a">
+		<name>Defender Of The Crown (NTSC)</name>
+		<subpath>DefenderOfTheCrownNTSC</subpath>
+		<variant_uuid>60ec62e0-5b74-503f-9665-6b0632c076f5</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>DefenderOfTheCrownNTSC.Slave</slave_default>
+		<slave number="1">
+			<filename>DefenderOfTheCrownNTSC.Slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
 	<game filename="DefendersOfTheEarth_v1.2_0456"  sha1="5acc265bc16e95c0449eeab32ac84648aba88975">
 		<name>Defenders Of The Earth</name>
 		<subpath>DefendersOfTheEarth</subpath>
@@ -29722,6 +30451,23 @@ joyport1_amiberry_custom_none_west=Space
 		PORT1=JOY
 		SCREEN_HEIGHT=200
 		SCREEN_Y_OFFSET=3
+		
+		</hardware>
+	</game>
+	<game filename="DejaVu_v1.0_NTSC_1832"  sha1="9136e726cb4031307b1ad670bca59e1848150cb9">
+		<name>Deja Vu (NTSC)</name>
+		<subpath>DejaVuNTSC</subpath>
+		<variant_uuid>0eefe9e2-071d-5657-bfe7-33c0ebe3d2fb</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>DejaVuNTSC.Slave</slave_default>
+		<slave number="1">
+			<filename>DejaVuNTSC.Slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
 		
 		</hardware>
 	</game>
@@ -31593,6 +32339,23 @@ joyport1_amiberry_custom_none_west=Space
 		
 		</hardware>
 	</game>
+	<game filename="DragonStrike_v1.1_NTSC_1479"  sha1="aa199f253fd4dc5fcbb3dd47a4dc72db75306f9b">
+		<name>Dragon Strike (NTSC)</name>
+		<subpath>DragonStrikeNTSC</subpath>
+		<variant_uuid>accf6eb0-4d54-59ec-86c6-328e27db12a6</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>DragonStrikeNTSC.Slave</slave_default>
+		<slave number="1">
+			<filename>DragonStrikeNTSC.Slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
 	<game filename="DragonTiles2_v1.0"  sha1="dba1d95fd4ac667d3e8f38ec3bd78c01c33bf482">
 		<name>Dragon Tiles II - The Tournament</name>
 		<subpath>DragonTiles2</subpath>
@@ -32358,6 +33121,31 @@ joyport1_amiberry_custom_none_west=Space
 		
 		</hardware>
 	</game>
+	<game filename="DynaBlaster_v1.3_0664"  sha1="7e57bfe22dfcc28146ba2b98a668ed7f1eac8982">
+		<name>Dyna Blaster</name>
+		<subpath>DynaBlaster</subpath>
+		<variant_uuid>5a2d31aa-1daa-5b5d-a708-c9f6335fe039</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>DynaBlaster.slave</slave_default>
+		<slave number="1">
+			<filename>DynaBlaster.slave</filename>
+			<datapath></datapath>
+			<custom>
+			C1:B:Enable PAL screen
+			C2:L:Players Max.:3,5 (4-joy alt.),5 (4-joy default)
+			C3:B:Enable Cheat Mode
+			C4:B:12/6 pixels down screen
+			C5:B:Remove flicking text
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		SCREEN_HEIGHT=262
+		
+		</hardware>
+	</game>
 	<game filename="DynamiteDux_v1.0_1183"  sha1="7ed5731942d9a567b5067288baef47921a8de389">
 		<name>Dynamite Dux</name>
 		<subpath>DynamiteDux</subpath>
@@ -32455,6 +33243,23 @@ joyport1_amiberry_custom_none_west=Space
 		<slave_default>Ebonstar.Slave</slave_default>
 		<slave number="1">
 			<filename>Ebonstar.Slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="Ebonstar_v1.0_NTSC_0915"  sha1="57528508e55d8662851ae8058dd7cb48ab780ae6">
+		<name>Ebonstar (NTSC)</name>
+		<subpath>EbonstarNTSC</subpath>
+		<variant_uuid>4e21d023-dec5-5530-b699-29a451c43953</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>EbonstarNTSC.Slave</slave_default>
+		<slave number="1">
+			<filename>EbonstarNTSC.Slave</filename>
 			<datapath>data</datapath>
 		</slave>
 		<hardware>
@@ -34080,6 +34885,26 @@ joyport0_amiberry_custom_none_right_shoulder=Numpad 9
 		
 		</hardware>
 	</game>
+	<game filename="F117ANightHawk_v1.01_1209"  sha1="a5437fee42022fb4e75d2809fd54806b7fa24ff8">
+		<name>F 117 A Night Hawk</name>
+		<subpath>F117ANightHawk</subpath>
+		<variant_uuid>255bf9cb-ec0d-57da-b758-084f9e1f0d55</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>F117ANightHawk.slave</slave_default>
+		<slave number="1">
+			<filename>F117ANightHawk.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			C1:B:Skip Intro
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
 	<game filename="F15StrikeEagle2_v1.0_0479"  sha1="a47f5051cd1094f07241811d9e25ca3fbc243122">
 		<name>F-15 Strike Eagle II</name>
 		<subpath>F15StrikeEagle2</subpath>
@@ -34161,6 +34986,48 @@ joyport0_amiberry_custom_none_right_shoulder=Numpad 9
 		PORT1=JOY
 		JIT=TRUE
 		CLOCK=MAX
+		
+		</hardware>
+	</game>
+	<game filename="F19StealthFighter_v3.0_0117"  sha1="e23950d215918a1c0503d3da6e19283ed2d0b956">
+		<name>F-19 Stealth Fighter</name>
+		<subpath>F19StealthFighter</subpath>
+		<variant_uuid>1651df22-196e-54fd-ac33-b1f20ecc208b</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>F19StealthFighter.Slave</slave_default>
+		<slave number="1">
+			<filename>F19StealthFighter.Slave</filename>
+			<datapath></datapath>
+			<custom>
+			
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		JIT=TRUE
+		CLOCK=MAX
+		
+		</hardware>
+	</game>
+	<game filename="F19StealthFighter_v3.0_NTSC_1494"  sha1="310e8103325b087562a96097e4efe1b049556019">
+		<name>F 19 Stealth Fighter (NTSC)</name>
+		<subpath>F19StealthFighterNTSC</subpath>
+		<variant_uuid>847f8e68-7453-58ee-88de-99287fb45258</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>F19StealthFighterNTSC.Slave</slave_default>
+		<slave number="1">
+			<filename>F19StealthFighterNTSC.Slave</filename>
+			<datapath></datapath>
+			<custom>
+			
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
 		
 		</hardware>
 	</game>
@@ -34325,6 +35192,23 @@ joyport0_amiberry_custom_none_right_shoulder=Numpad 9
 		
 		</hardware>
 	</game>
+	<game filename="Falcon&amp;MissionDisk1_v1.1_NTSC_1197&amp;1205"  sha1="d2abf62dcbd2427caf12db7d831cf512eadd8e10">
+		<name>Falcon &amp; Mission Disk 1 (NTSC)</name>
+		<subpath>Falcon&amp;MissionDisk1NTSC</subpath>
+		<variant_uuid>2d5ec82c-8f2f-5aad-8241-f6c2473c019a</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>Falcon&amp;MissionDisk1NTSC.Slave</slave_default>
+		<slave number="1">
+			<filename>Falcon&amp;MissionDisk1NTSC.Slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
 	<game filename="Falcon&amp;MissionDisks_v1.1_1754&amp;1205&amp;0269"  sha1="78191ed37ef10aaa45ece5c0b75e7c4e72be490d">
 		<name>Falcon (&amp; Mission Disks)</name>
 		<subpath>Falcon&amp;MissionDisks</subpath>
@@ -34357,6 +35241,23 @@ joyport0_amiberry_custom_none_right_shoulder=Numpad 9
 		PORT0=MOUSE
 		PORT1=JOY
 		SCREEN_Y_OFFSET=3
+		
+		</hardware>
+	</game>
+	<game filename="Falcon_v1.1_NTSC_1197"  sha1="102b2d023c6741b2ca7f2436f441037991601cc4">
+		<name>Falcon (NTSC)</name>
+		<subpath>FalconNTSC</subpath>
+		<variant_uuid>b73a36b3-6c1e-53b0-8d93-4e6917a500f9</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>FalconNTSC.Slave</slave_default>
+		<slave number="1">
+			<filename>FalconNTSC.Slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
 		
 		</hardware>
 	</game>
@@ -35076,6 +35977,26 @@ joyport0_amiberry_custom_none_right_shoulder=Numpad 9
 		<slave_default>FighterDuelPro.Slave</slave_default>
 		<slave number="1">
 			<filename>FighterDuelPro.Slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="FighterDuelPro_v1.0_NTSC_0946"  sha1="9cabaff00067386a762519acd384a15188d38dad">
+		<name>Fighter Duel Pro (NTSC)</name>
+		<subpath>FighterDuelProNTSC</subpath>
+		<variant_uuid>07408dec-0c56-599c-b235-62e700068081</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>FighterDuelProNTSC.Slave</slave_default>
+		<slave number="1">
+			<filename>FighterDuelProNTSC.Slave</filename>
 			<datapath>data</datapath>
 			<custom>
 			
@@ -35930,6 +36851,309 @@ joyport0_amiberry_custom_none_right_shoulder=Numpad 9
 		
 		</hardware>
 	</game>
+	<game filename="Flashback_v3.4_1163"  sha1="029529adc644afc20be501326dcd958824e20cdb">
+		<name>Flashback</name>
+		<subpath>Flashback</subpath>
+		<variant_uuid>09430849-ac56-565e-80e0-1c77e848bebd</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>Flashback.slave</slave_default>
+		<slave number="1">
+			<filename>Flashback.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			C1:B:Enable infinite shield
+			C4:B:Slowdown anim sequence
+			C2:L:play mode:Normal, Easy, Expert
+			C3:L:selected:----,Level 1,Level 2,Level 3,Level 4,Level 5,Level 6, Level 7
+			C5:X:Insert missing dialog in Level 5 intro seq:0
+			C5:X:Fix music speed in Level 4 &amp; 5 intro seq:1
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		JIT=FALSE
+		SCREEN_HEIGHT=240
+		SCREEN_Y_OFFSET=0
+		
+		</hardware>
+	</game>
+	<game filename="Flashback_v3.4_Cz"  sha1="449bd838164cad3159f333944a26e15755b8942e">
+		<name>Flashback (Czech)</name>
+		<subpath>FlashbackCz</subpath>
+		<variant_uuid>ec1e5e7e-4acc-5c4f-9adc-7d20b07bb573</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>FlashbackCz.slave</slave_default>
+		<slave number="1">
+			<filename>FlashbackCz.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			C1:B:Enable infinite shield
+			C4:B:Slowdown anim sequence
+			C2:L:play mode:Normal, Easy, Expert
+			C3:L:selected:----,Level 1,Level 2,Level 3,Level 4,Level 5,Level 6, Level 7
+			C5:X:Insert missing dialog in Level 5 intro seq:0
+			C5:X:Fix music speed in Level 4 &amp; 5 intro seq:1
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="Flashback_v3.4_De_0064"  sha1="7012f76a9ed4d0b7316ed02c2b2f1b4c125503f4">
+		<name>Flashback (Deutsch)</name>
+		<subpath>FlashbackDe</subpath>
+		<variant_uuid>b3db48e9-3aa7-50fc-923a-33932f2418ff</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>FlashbackDe.slave</slave_default>
+		<slave number="1">
+			<filename>FlashbackDe.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			C1:B:Enable infinite shield
+			C4:B:Slowdown anim sequence
+			C2:L:play mode:Normal, Easy, Expert
+			C3:L:selected:----,Level 1,Level 2,Level 3,Level 4,Level 5,Level 6, Level 7
+			C5:X:Insert missing dialog in Level 5 intro seq:0
+			C5:X:Fix music speed in Level 4 &amp; 5 intro seq:1
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="Flashback_v3.4_Fr_1736"  sha1="cb3d8eed7bda69c615e9fb068822e1a4172a50dc">
+		<name>Flashback (Francais)</name>
+		<subpath>FlashbackFr</subpath>
+		<variant_uuid>49f4c9d3-9667-5b5f-92db-d9c6d4584de2</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>FlashbackFr.slave</slave_default>
+		<slave number="1">
+			<filename>FlashbackFr.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			C1:B:Enable infinite shield
+			C4:B:Slowdown anim sequence
+			C2:L:play mode:Normal, Easy, Expert
+			C3:L:selected:----,Level 1,Level 2,Level 3,Level 4,Level 5,Level 6, Level 7
+			C5:X:Insert missing dialog in Level 5 intro seq:0
+			C5:X:Fix music speed in Level 4 &amp; 5 intro seq:1
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="Flashback_v3.4_It"  sha1="01c5919b8273eecefe7a20d909ad9c6eae1dd8cd">
+		<name>Flashback (Italiano)</name>
+		<subpath>FlashbackIt</subpath>
+		<variant_uuid>0478de5b-a1b6-5d76-b3e2-528aea20db3c</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>FlashbackIt.slave</slave_default>
+		<slave number="1">
+			<filename>FlashbackIt.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			C1:B:Enable infinite shield
+			C4:B:Slowdown anim sequence
+			C2:L:play mode:Normal, Easy, Expert
+			C3:L:selected:----,Level 1,Level 2,Level 3,Level 4,Level 5,Level 6, Level 7
+			C5:X:Insert missing dialog in Level 5 intro seq:0
+			C5:X:Fix music speed in Level 4 &amp; 5 intro seq:1
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="Flashback_v3.4_LowMem_1163"  sha1="581fdabc1587180d51ef558d3bd2e2e50cd1e109">
+		<name>Flashback Low Mem</name>
+		<subpath>FlashbackLowMem</subpath>
+		<variant_uuid>0e9f3940-3b30-5d8c-8b14-8a47ec19c707</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>FlashbackLowMem.slave</slave_default>
+		<slave number="1">
+			<filename>FlashbackLowMem.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			C1:B:Enable infinite shield
+			C4:B:Slowdown anim sequence
+			C2:L:play mode:Normal, Easy, Expert
+			C3:L:selected:----,Level 1,Level 2,Level 3,Level 4,Level 5,Level 6, Level 7
+			C5:X:Insert missing dialog in Level 5 intro seq:0
+			C5:X:Fix music speed in Level 4 &amp; 5 intro seq:1
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="Flashback_v3.4_LowMem_Cz"  sha1="dfadd237ab7604f1e7353e01a140b40adc267e01">
+		<name>Flashback Low Mem (Czech)</name>
+		<subpath>FlashbackLowMemCz</subpath>
+		<variant_uuid>984a2cd6-549b-5559-8a5b-13674bfdc0e7</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>FlashbackLowMemCz.slave</slave_default>
+		<slave number="1">
+			<filename>FlashbackLowMemCz.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			C1:B:Enable infinite shield
+			C4:B:Slowdown anim sequence
+			C2:L:play mode:Normal, Easy, Expert
+			C3:L:selected:----,Level 1,Level 2,Level 3,Level 4,Level 5,Level 6, Level 7
+			C5:X:Insert missing dialog in Level 5 intro seq:0
+			C5:X:Fix music speed in Level 4 &amp; 5 intro seq:1
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="Flashback_v3.4_LowMem_De_0064"  sha1="be8eb4e0f6939300aa17ea7bf43a1689757ce9a3">
+		<name>Flashback Low Mem (Deutsch)</name>
+		<subpath>FlashbackLowMemDe</subpath>
+		<variant_uuid>2435860b-396d-5b26-aa6a-3d05ca9eeec3</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>FlashbackLowMemDe.slave</slave_default>
+		<slave number="1">
+			<filename>FlashbackLowMemDe.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			C1:B:Enable infinite shield
+			C4:B:Slowdown anim sequence
+			C2:L:play mode:Normal, Easy, Expert
+			C3:L:selected:----,Level 1,Level 2,Level 3,Level 4,Level 5,Level 6, Level 7
+			C5:X:Insert missing dialog in Level 5 intro seq:0
+			C5:X:Fix music speed in Level 4 &amp; 5 intro seq:1
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="Flashback_v3.4_LowMem_Fr_1736"  sha1="37194ae02709ef82f48750ee99433eba48f77782">
+		<name>Flashback Low Mem (Francais)</name>
+		<subpath>FlashbackLowMemFr</subpath>
+		<variant_uuid>452749c1-0b51-57ca-a5cb-a9fcfea7c7b2</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>FlashbackLowMemFr.slave</slave_default>
+		<slave number="1">
+			<filename>FlashbackLowMemFr.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			C1:B:Enable infinite shield
+			C4:B:Slowdown anim sequence
+			C2:L:play mode:Normal, Easy, Expert
+			C3:L:selected:----,Level 1,Level 2,Level 3,Level 4,Level 5,Level 6, Level 7
+			C5:X:Insert missing dialog in Level 5 intro seq:0
+			C5:X:Fix music speed in Level 4 &amp; 5 intro seq:1
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="Flashback_v3.4_LowMem_It"  sha1="f964181d1361e07a69f2719d0e4d619bdcacf70c">
+		<name>Flashback Low Mem (Italiano)</name>
+		<subpath>FlashbackLowMemIt</subpath>
+		<variant_uuid>2d544545-c3b9-506a-8a1e-7cafc99b5223</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>FlashbackLowMemIt.slave</slave_default>
+		<slave number="1">
+			<filename>FlashbackLowMemIt.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			C1:B:Enable infinite shield
+			C4:B:Slowdown anim sequence
+			C2:L:play mode:Normal, Easy, Expert
+			C3:L:selected:----,Level 1,Level 2,Level 3,Level 4,Level 5,Level 6, Level 7
+			C5:X:Insert missing dialog in Level 5 intro seq:0
+			C5:X:Fix music speed in Level 4 &amp; 5 intro seq:1
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="Flashback_v3.4_LowMem_Pl"  sha1="69756062ce2802543fb8c09f94bb51ba1d9a91bb">
+		<name>Flashback Low Mem (Polski)</name>
+		<subpath>FlashbackLowMemPl</subpath>
+		<variant_uuid>9d18be3a-0baf-5efe-a219-d6a1737da7d1</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>FlashbackLowMemPl.slave</slave_default>
+		<slave number="1">
+			<filename>FlashbackLowMemPl.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			C1:B:Enable infinite shield
+			C4:B:Slowdown anim sequence
+			C2:L:play mode:Normal, Easy, Expert
+			C3:L:selected:----,Level 1,Level 2,Level 3,Level 4,Level 5,Level 6, Level 7
+			C5:X:Insert missing dialog in Level 5 intro seq:0
+			C5:X:Fix music speed in Level 4 &amp; 5 intro seq:1
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="Flashback_v3.4_Pl"  sha1="b1b461f9c486caafafe5237c4b9c7636c4dbd666">
+		<name>Flashback (Polski)</name>
+		<subpath>FlashbackPl</subpath>
+		<variant_uuid>a8b09111-1913-5af3-a136-c710b0a7c4d2</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>FlashbackPl.slave</slave_default>
+		<slave number="1">
+			<filename>FlashbackPl.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			C1:B:Enable infinite shield
+			C4:B:Slowdown anim sequence
+			C2:L:play mode:Normal, Easy, Expert
+			C3:L:selected:----,Level 1,Level 2,Level 3,Level 4,Level 5,Level 6, Level 7
+			C5:X:Insert missing dialog in Level 5 intro seq:0
+			C5:X:Fix music speed in Level 4 &amp; 5 intro seq:1
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
 	<game filename="FliesAttackOnEarth_v1.0_De"  sha1="1efd50b19b140a949dff82a7b6c8d6320b5751b5">
 		<name>Flies Attack On Earth (Deutsch)</name>
 		<subpath>FliesAttackOnEarthDe</subpath>
@@ -36633,6 +37857,47 @@ joyport0_amiberry_custom_none_right_shoulder=Numpad 9
 		
 		</hardware>
 	</game>
+	<game filename="FourCrystalsOfTrazere_v1.2_NTSC"  sha1="da4803ece869e35a6f933a4a05216f2fcaacc8e4">
+		<name>Four Crystals Of Trazere (NTSC)</name>
+		<subpath>FourCrystalsOfTrazereNTSC</subpath>
+		<variant_uuid>2fb33905-8fea-5c44-b981-30eca8788373</variant_uuid>
+		<slave_count>2</slave_count>
+		<slave_default>FourCrystalsOfTrazereNTSC.Slave</slave_default>
+		<slave number="1">
+			<filename>FourCrystalsOfTrazereNTSC.Slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<slave number="2">
+			<filename>getlegendsavedisk.slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="FractionAction_v1.0"  sha1="b3bec8c922bb57503e29147e216f12400223a9bb">
+		<name>Fraction Action</name>
+		<subpath>FractionAction</subpath>
+		<variant_uuid>928c6027-ad49-5019-8f81-61f89733ba44</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>FractionAction.Slave</slave_default>
+		<slave number="1">
+			<filename>FractionAction.Slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
 	<game filename="FrancoBaresiWorldCup_v1.2_It_2366"  sha1="3c9c341b1d68003223a72bbc9f06c05a0d031991">
 		<name>Franco Baresi World Cup (Italiano)</name>
 		<subpath>FrancoBaresiWorldCupIt</subpath>
@@ -37018,6 +38283,29 @@ joyport0_amiberry_custom_none_right_shoulder=Numpad 9
 		
 		</hardware>
 	</game>
+	<game filename="FullContact_v1.5a_2246"  sha1="6faf3b391857fd241e8d60f79c7e811a2ecf7624">
+		<name>Full Contact</name>
+		<subpath>FullContact</subpath>
+		<variant_uuid>9e922618-43b3-549c-a8fb-c45fb5335f34</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>FullContact.slave</slave_default>
+		<slave number="1">
+			<filename>FullContact.slave</filename>
+			<datapath></datapath>
+			<custom>
+			C1:B:Skip Intro
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		JIT=FALSE
+		SCREEN_HEIGHT=256
+		SCREEN_Y_OFFSET=3
+		
+		</hardware>
+	</game>
 	<game filename="FullMetalPlanete_v1.6_Files_0656"  sha1="ba6315c1b5e3daa6c64cf2a779c02c4b0c06f326">
 		<name>Full Metal Planete (Files)</name>
 		<subpath>FullMetalPlaneteFiles</subpath>
@@ -37052,6 +38340,23 @@ joyport0_amiberry_custom_none_right_shoulder=Numpad 9
 		
 		</hardware>
 	</game>
+	<game filename="FullMetalPlanete_v1.6_Files_NTSC_1204"  sha1="bf3399a010f933710ca2f034a86cfdd6cc9f2474">
+		<name>Full Metal Planete (NTSC)Files</name>
+		<subpath>FullMetalPlaneteNTSCFiles</subpath>
+		<variant_uuid>86a7ebcd-7199-5e4e-afe2-9975d5e30a62</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>FullMetalPlaneteNTSCFiles.Slave</slave_default>
+		<slave number="1">
+			<filename>FullMetalPlaneteNTSCFiles.Slave</filename>
+			<datapath></datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
 	<game filename="FullMetalPlanete_v1.6_Image_0656"  sha1="ae83136c78cd37589bd591c719b5f8a730815724">
 		<name>Full Metal Planete (Image)</name>
 		<subpath>FullMetalPlaneteImage</subpath>
@@ -37073,6 +38378,23 @@ joyport0_amiberry_custom_none_right_shoulder=Numpad 9
 		<name>Full Metal Planete (NTSC)Image</name>
 		<subpath>FullMetalPlaneteNTSCImage</subpath>
 		<variant_uuid>43e7b7f5-0b2d-5ea7-a0c4-c6e612bb2a55</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>FullMetalPlaneteNTSCImage.Slave</slave_default>
+		<slave number="1">
+			<filename>FullMetalPlaneteNTSCImage.Slave</filename>
+			<datapath></datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="FullMetalPlanete_v1.6_Image_NTSC_1204"  sha1="3ff12ac0d46dfc7d0a99e33e0daf80f1af3572f9">
+		<name>Full Metal Planete (NTSC)Image</name>
+		<subpath>FullMetalPlaneteNTSCImage</subpath>
+		<variant_uuid>492e6288-17ff-53c3-ada0-73767a56af6c</variant_uuid>
 		<slave_count>1</slave_count>
 		<slave_default>FullMetalPlaneteNTSCImage.Slave</slave_default>
 		<slave number="1">
@@ -38827,6 +40149,26 @@ joyport0_amiberry_custom_none_right_shoulder=Numpad 9
 		
 		</hardware>
 	</game>
+	<game filename="GoldenAxe_v1.5_NTSC"  sha1="4c28ee1e987e7ab13638aa580eff7a8420186d59">
+		<name>Golden Axe (NTSC)</name>
+		<subpath>GoldenAxeNTSC</subpath>
+		<variant_uuid>813249ec-71f4-5d02-9c42-8cf1f59b1eb8</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>GoldenAxeNTSC.Slave</slave_default>
+		<slave number="1">
+			<filename>GoldenAxeNTSC.Slave</filename>
+			<datapath></datapath>
+			<custom>
+			C1:B:Unlimited Energy Player 1 &amp; 2
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
 	<game filename="GoldenEagle_v1.1"  sha1="50535991a06c26efdaba4424eada5554d94edf2c">
 		<name>Golden Eagle</name>
 		<subpath>GoldenEagle</subpath>
@@ -39735,6 +41077,23 @@ joyport0_amiberry_custom_none_right_shoulder=Numpad 9
 		
 		</hardware>
 	</game>
+	<game filename="Hacker_v1.0_NTSC_0906"  sha1="0d04dc8193b28d5913c8c199e23d19ae35edebac">
+		<name>Hacker (NTSC)</name>
+		<subpath>HackerNTSC</subpath>
+		<variant_uuid>194e9a61-9250-53dd-aeeb-1b8df1042eef</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>HackerNTSC.Slave</slave_default>
+		<slave number="1">
+			<filename>HackerNTSC.Slave</filename>
+			<datapath></datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
 	<game filename="HagarTheHorrible_v1.0_1967"  sha1="99a87dba0bc61fbe28f0fa46a19c500708219b85">
 		<name>Hagar The Horrible</name>
 		<subpath>HagarTheHorrible</subpath>
@@ -39934,6 +41293,23 @@ joyport1_amiberry_custom_none_right_shoulder=F2
 		PORT1=JOY
 		SCREEN_HEIGHT=200
 		SCREEN_Y_OFFSET=3
+		
+		</hardware>
+	</game>
+	<game filename="HardBall2_v1.0_NTSC_2045"  sha1="d43a99d995cf635a0d7d8b49355a229eea0c68d3">
+		<name>Hard Ball 2 (NTSC)</name>
+		<subpath>HardBall2NTSC</subpath>
+		<variant_uuid>05f1f9e9-c101-53fb-94ac-7160315323f1</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>HardBall2NTSC.Slave</slave_default>
+		<slave number="1">
+			<filename>HardBall2NTSC.Slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
 		
 		</hardware>
 	</game>
@@ -40169,6 +41545,26 @@ joyport1_amiberry_custom_none_right_shoulder=F2
 		<slave_default>HarrierCombatSimulator.Slave</slave_default>
 		<slave number="1">
 			<filename>HarrierCombatSimulator.Slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="HarrierCombatSimulator_v1.0_NTSC_0919"  sha1="e27460f5fc2bc0e19cbae7428087d1b52e0f525b">
+		<name>Harrier Combat Sim (NTSC)</name>
+		<subpath>HarrierCombatSimNTSC</subpath>
+		<variant_uuid>30f99cd3-0b1a-5aaa-80b2-e5a2544a98cd</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>HarrierCombatSimNTSC.Slave</slave_default>
+		<slave number="1">
+			<filename>HarrierCombatSimNTSC.Slave</filename>
 			<datapath>data</datapath>
 			<custom>
 			
@@ -41770,6 +43166,28 @@ joyport1_amiberry_custom_none_right_shoulder=F2
 		
 		</hardware>
 	</game>
+	<game filename="Hybris_v2.3_NTSC_1457"  sha1="9e73047d80ecb3fd3fc5e5125bc8d3ec42b70537">
+		<name>Hybris (NTSC)</name>
+		<subpath>HybrisNTSC</subpath>
+		<variant_uuid>52519166-b63c-53fc-a7a5-5d16d7c49412</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>HybrisNTSC.Slave</slave_default>
+		<slave number="1">
+			<filename>HybrisNTSC.Slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			C1:B:Slow the game down (PAL only)
+			C2:B:Enable 'COMMANDER' cheatmode
+			C3:B:Skip BLITWAIT fix
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
 	<game filename="Hydra_v1.2_2515"  sha1="68e79f6c68a0e16f002f1fcc029a071f01ea74c6">
 		<name>Hydra</name>
 		<subpath>Hydra</subpath>
@@ -42401,6 +43819,23 @@ joyport1_amiberry_custom_none_right_shoulder=F2
 		<slave_default>IndianaJonesLastCrusAdvIt.slave</slave_default>
 		<slave number="1">
 			<filename>IndianaJonesLastCrusAdvIt.slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="IndianaJones&amp;TheLastCrusadeAdventure_v1.4_NTSC_1990"  sha1="b25f644b7cbbb5e1923f6f8f638de2bad8ce52c9">
+		<name>Indy Jones Last Crus Adv (NTSC)</name>
+		<subpath>IndyJonesLastCrusAdvNTSC</subpath>
+		<variant_uuid>0dc0c2c2-1646-5b16-ab55-90fc4ad4b226</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>IndyJonesLastCrusAdvNTSC.slave</slave_default>
+		<slave number="1">
+			<filename>IndyJonesLastCrusAdvNTSC.slave</filename>
 			<datapath>data</datapath>
 		</slave>
 		<hardware>
@@ -43582,6 +45017,23 @@ joyport2_amiberry_custom_none_south=Right Shift
 		PORT1=JOY
 		SCREEN_HEIGHT=200
 		SCREEN_Y_OFFSET=10
+		
+		</hardware>
+	</game>
+	<game filename="JamesBondTheStealthAffair_v2.0_NTSC_2016"  sha1="f297f22e23b8ebcdfe677282d53034363b6def10">
+		<name>James Bond Stlth Affair (NTSC)</name>
+		<subpath>JamesBondStlthAffairNTSC</subpath>
+		<variant_uuid>10e65dd5-4872-50e1-8209-87c3b556c540</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>JamesBondStlthAffairNTSC.Slave</slave_default>
+		<slave number="1">
+			<filename>JamesBondStlthAffairNTSC.Slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
 		
 		</hardware>
 	</game>
@@ -44798,6 +46250,23 @@ joyport2_amiberry_custom_none_south=Right Shift
 		
 		</hardware>
 	</game>
+	<game filename="KeefTheThief_v1.0_NTSC_1460"  sha1="e9b8234e80ac13ad5f932d9c93a248240f2ce6df">
+		<name>Keef The Thief (NTSC)</name>
+		<subpath>KeefTheThiefNTSC</subpath>
+		<variant_uuid>bca2ce91-7702-5ae5-9ad3-027c99b13789</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>KeefTheThiefNTSC.Slave</slave_default>
+		<slave number="1">
+			<filename>KeefTheThiefNTSC.Slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
 	<game filename="KellyX_v1.0_1133"  sha1="51b71a6d3e343828ddd53f4a1a9ada183a02aefb">
 		<name>Kelly X</name>
 		<subpath>KellyX</subpath>
@@ -44912,6 +46381,23 @@ joyport2_amiberry_custom_none_south=Right Shift
 		
 		</hardware>
 	</game>
+	<game filename="Khalaan_v1.1"  sha1="ec0ca6fd43edc91c66cf41825011c6c289cb252f">
+		<name>Khalaan</name>
+		<subpath>Khalaan</subpath>
+		<variant_uuid>0fc1c00d-0133-5e1e-b675-85aac05fe0d7</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>Khalaan.Slave</slave_default>
+		<slave number="1">
+			<filename>Khalaan.Slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
 	<game filename="Khalaan_v1.1_2395"  sha1="0eb7082ae1e4b4989ccae5c7d6ececf705bc2d9c">
 		<name>Khalaan</name>
 		<subpath>Khalaan</subpath>
@@ -44920,6 +46406,57 @@ joyport2_amiberry_custom_none_south=Right Shift
 		<slave_default>Khalaan.Slave</slave_default>
 		<slave number="1">
 			<filename>Khalaan.Slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="Khalaan_v1.1_De_1433"  sha1="a6d3176fa4aa7b2dec4cc973e66fc156dd20dc68">
+		<name>Khalaan (Deutsch)</name>
+		<subpath>KhalaanDe</subpath>
+		<variant_uuid>93e2d66b-f3b3-59ae-9d33-aa72c6c6785a</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>KhalaanDe.Slave</slave_default>
+		<slave number="1">
+			<filename>KhalaanDe.Slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="Khalaan_v1.1_Fr"  sha1="4abf460b17fa992af7712ac314eb0ed371472c74">
+		<name>Khalaan (Francais)</name>
+		<subpath>KhalaanFr</subpath>
+		<variant_uuid>ac6953d5-5d1e-59d0-b617-7cc38fe9fe6e</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>KhalaanFr.Slave</slave_default>
+		<slave number="1">
+			<filename>KhalaanFr.Slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="Khalaan_v1.1_NTSC_2395"  sha1="8fbf62965e8becbc26279876505feb8aae52efd8">
+		<name>Khalaan (NTSC)</name>
+		<subpath>KhalaanNTSC</subpath>
+		<variant_uuid>f896fc96-b934-52d9-bb55-5a0968724a41</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>KhalaanNTSC.Slave</slave_default>
+		<slave number="1">
+			<filename>KhalaanNTSC.Slave</filename>
 			<datapath>data</datapath>
 		</slave>
 		<hardware>
@@ -45660,6 +47197,43 @@ joyport2_amiberry_custom_none_south=Right Shift
 		JIT=FALSE
 		SCREEN_HEIGHT=200
 		SCREEN_Y_OFFSET=3
+		
+		</hardware>
+	</game>
+	<game filename="KillingCloud_v1.0_3031"  sha1="6dffc05b84239aa819ae9bc54c80c992bc82c7ba">
+		<name>Killing Cloud</name>
+		<subpath>KillingCloud</subpath>
+		<variant_uuid>36582ec5-ff81-5a58-8810-b43fe9bb029c</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>KillingCloud.Slave</slave_default>
+		<slave number="1">
+			<filename>KillingCloud.Slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=MOUSE
+		PORT0=MOUSE
+		PORT1=JOY
+		JIT=FALSE
+		SCREEN_HEIGHT=200
+		SCREEN_Y_OFFSET=3
+		
+		</hardware>
+	</game>
+	<game filename="KillingCloud_v1.0_NTSC_3019"  sha1="ceb7a7fd5e6bd2867ee2a9f4012059fa43af08b9">
+		<name>Killing Cloud (NTSC)</name>
+		<subpath>KillingCloudNTSC</subpath>
+		<variant_uuid>19a88de8-5c58-58ca-ae21-c1326a570042</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>KillingCloudNTSC.Slave</slave_default>
+		<slave number="1">
+			<filename>KillingCloudNTSC.Slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
 		
 		</hardware>
 	</game>
@@ -47036,6 +48610,30 @@ joyport2_amiberry_custom_none_south=Right Shift
 		
 		</hardware>
 	</game>
+	<game filename="Leander_v2.5_NTSC_2351"  sha1="d7715b099b946b8e88fb34aab4a000d2f2fb2c9f">
+		<name>Leander (NTSC)</name>
+		<subpath>LeanderNTSC</subpath>
+		<variant_uuid>e227d0f9-a9d9-5d0d-bbcd-8041418db991</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>LeanderNTSC.slave</slave_default>
+		<slave number="1">
+			<filename>LeanderNTSC.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			BW
+			C1:X:Trainer Infinite Lives:0
+			C2:X:Keep intro music skip option:0
+			C3:X:Skip introduction:0
+			
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
 	<game filename="Leander_v2.5_NTSC_2451"  sha1="d7715b099b946b8e88fb34aab4a000d2f2fb2c9f">
 		<name>Leander (NTSC)</name>
 		<subpath>LeanderNTSC</subpath>
@@ -47248,6 +48846,23 @@ joyport0_amiberry_custom_none_right_stick=F7
 		<slave_default>LegendOfFaerghailDe.Slave</slave_default>
 		<slave number="1">
 			<filename>LegendOfFaerghailDe.Slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="LegendOfFaerghail_v2.0b_NTSC_2843"  sha1="b1241eb90b84b08058f58a31a7922a70fd1c6fc1">
+		<name>Legend Of Faerghail (NTSC)</name>
+		<subpath>LegendOfFaerghailNTSC</subpath>
+		<variant_uuid>be311df4-0793-5ed8-aa6e-f60bf45e941c</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>LegendOfFaerghailNTSC.Slave</slave_default>
+		<slave number="1">
+			<filename>LegendOfFaerghailNTSC.Slave</filename>
 			<datapath>data</datapath>
 		</slave>
 		<hardware>
@@ -48534,6 +50149,23 @@ joyport0_amiberry_custom_none_right_shoulder=Return
 		
 		</hardware>
 	</game>
+	<game filename="LittleComputerPeople_v1.2_NTSC_0912"  sha1="212ca3e189a34579d42ea13f582d9054a4e556fe">
+		<name>Little Computer People (NTSC)</name>
+		<subpath>LittleComputerPeopleNTSC</subpath>
+		<variant_uuid>76fd53cd-37cd-504e-9e8b-091c819b0bca</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>LittleComputerPeopleNTSC.Slave</slave_default>
+		<slave number="1">
+			<filename>LittleComputerPeopleNTSC.Slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
 	<game filename="LittlePuffInDragonland_v1.0"  sha1="4f173a86fad5870e1595f1b73d604f68e96700a6">
 		<name>Little Puff In Dragonland</name>
 		<subpath>LittlePuffInDragonland</subpath>
@@ -49206,6 +50838,23 @@ joyport0_amiberry_custom_none_right_shoulder=Return
 		JIT=FALSE
 		SCREEN_HEIGHT=216
 		SCREEN_Y_OFFSET=13
+		
+		</hardware>
+	</game>
+	<game filename="LostPatrol_v1.3_NTSC_0498"  sha1="f05ac12276282319a445f0394d47f14f6ee7e6d3">
+		<name>Lost Patrol (NTSC)</name>
+		<subpath>LostPatrolNTSC</subpath>
+		<variant_uuid>5f0b8cbc-17bf-5bce-a9df-710370f1a584</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>LostPatrolNTSC.Slave</slave_default>
+		<slave number="1">
+			<filename>LostPatrolNTSC.Slave</filename>
+			<datapath></datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
 		
 		</hardware>
 	</game>
@@ -50142,6 +51791,23 @@ joyport0_amiberry_custom_none_right_shoulder=Return
 		JIT=FALSE
 		SCREEN_HEIGHT=200
 		SCREEN_Y_OFFSET=3
+		
+		</hardware>
+	</game>
+	<game filename="Manhunter2_v1.0_NTSC_1199"  sha1="1d837859f80d78b66a283a0a88f2ebe2342de38b">
+		<name>Manhunter 2 (NTSC)</name>
+		<subpath>Manhunter2NTSC</subpath>
+		<variant_uuid>f550ed64-edb3-5fab-a396-b91d6c145317</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>Manhunter2NTSC.slave</slave_default>
+		<slave number="1">
+			<filename>Manhunter2NTSC.slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
 		
 		</hardware>
 	</game>
@@ -52058,6 +53724,23 @@ joyport0_amiberry_custom_none_right_shoulder=Return
 		
 		</hardware>
 	</game>
+	<game filename="Millenium_v1.3_NTSC_2027"  sha1="2a6628ead53adb8db62497f7a9dc57ad4d38ec9b">
+		<name>Millenium (NTSC)</name>
+		<subpath>MilleniumNTSC</subpath>
+		<variant_uuid>ca46be8c-0f70-5aa3-968d-01a5e1cd3e9f</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>MilleniumNTSC.Slave</slave_default>
+		<slave number="1">
+			<filename>MilleniumNTSC.Slave</filename>
+			<datapath></datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
 	<game filename="Millennium22_v1.3_0537"  sha1="cdbaef93855e8f795a98382414a1147127730c9a">
 		<name>Millennium 2.2</name>
 		<subpath>Millennium22</subpath>
@@ -52156,6 +53839,23 @@ joyport0_amiberry_custom_none_right_shoulder=Return
 		<slave_default>MindWalker.slave</slave_default>
 		<slave number="1">
 			<filename>MindWalker.slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="MindWalker_v0.9_NTSC_0951"  sha1="3ff66beabaa63467d95d08589185be1652c6d02d">
+		<name>Mind Walker (NTSC)</name>
+		<subpath>MindWalkerNTSC</subpath>
+		<variant_uuid>2280be69-7084-5bdb-95b2-1239d4d9739d</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>MindWalkerNTSC.slave</slave_default>
+		<slave number="1">
+			<filename>MindWalkerNTSC.slave</filename>
 			<datapath>data</datapath>
 		</slave>
 		<hardware>
@@ -52307,6 +54007,26 @@ joyport0_amiberry_custom_none_right_shoulder=Return
 		PORT1=JOY
 		SCREEN_HEIGHT=200
 		SCREEN_Y_OFFSET=3
+		
+		</hardware>
+	</game>
+	<game filename="Moebius_v1.0_NTSC_1385"  sha1="ec191123f53976d1c599e68907b08943db00840c">
+		<name>Moebius (NTSC)</name>
+		<subpath>MoebiusNTSC</subpath>
+		<variant_uuid>ca8ff1a8-0dde-5904-93d7-839102535303</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>MoebiusNTSC.Slave</slave_default>
+		<slave number="1">
+			<filename>MoebiusNTSC.Slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
 		
 		</hardware>
 	</game>
@@ -53908,6 +55628,23 @@ joyport0_amiberry_custom_none_start=Space
 		
 		</hardware>
 	</game>
+	<game filename="Nightdawn_v1.1_NTSC_2015"  sha1="9ba4ccab4229dd0fd5a7b5e1bae2f0f9714b957d">
+		<name>Nightdawn (NTSC)</name>
+		<subpath>NightdawnNTSC</subpath>
+		<variant_uuid>ad49e685-32bb-5f60-ac62-e038ba93e57e</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>NightdawnNTSC.slave</slave_default>
+		<slave number="1">
+			<filename>NightdawnNTSC.slave</filename>
+			<datapath></datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
 	<game filename="NightHawkF117A_v1.01_1209"  sha1="1610bac5c4a4936959cbbe2bdeb2ee5d91a671e9">
 		<name>NightHawk F-117A Stealth Fighter</name>
 		<subpath>NightHawkF117A</subpath>
@@ -54415,6 +56152,23 @@ joyport0_amiberry_custom_none_start=Space
 		
 		</hardware>
 	</game>
+	<game filename="NuclearWar_v1.0_NTSC_2014"  sha1="83ff80431c53a975639d5828a55cf16c9cecc791">
+		<name>Nuclear War (NTSC)</name>
+		<subpath>NuclearWarNTSC</subpath>
+		<variant_uuid>465f8671-9b5d-5c49-9e4a-59e0c1906248</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>NuclearWarNTSC.Slave</slave_default>
+		<slave number="1">
+			<filename>NuclearWarNTSC.Slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
 	<game filename="Nucleus_v1.1"  sha1="0d4be45000deb16fe83a655de49aaa06fd449300">
 		<name>Nucleus</name>
 		<subpath>Nucleus</subpath>
@@ -54659,6 +56413,23 @@ joyport0_amiberry_custom_none_start=Space
 		
 		</hardware>
 	</game>
+	<game filename="Ogre_v1.0_NTSC_1386"  sha1="a19d9d61af44b9757490e8ba539dd89d865b9073">
+		<name>Ogre (NTSC)</name>
+		<subpath>OgreNTSC</subpath>
+		<variant_uuid>7cfe01be-cafc-5749-81c3-67047e201674</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>OgreNTSC.Slave</slave_default>
+		<slave number="1">
+			<filename>OgreNTSC.Slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
 	<game filename="OhNoMoreLemmings_v1.2_0697"  sha1="9ecbd08d3dbff38589991ded979b0ffe645e3b6b">
 		<name>Oh No! More Lemmings</name>
 		<subpath>OhNoMoreLemmings</subpath>
@@ -54862,6 +56633,27 @@ joyport0_amiberry_custom_none_start=Space
 		<slave_default>OneOnOne.slave</slave_default>
 		<slave number="1">
 			<filename>OneOnOne.slave</filename>
+			<datapath></datapath>
+			<custom>
+			C1:X:Swap joystick port:1
+			
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="OneOnOne_v1.1_NTSC_0907"  sha1="e3672af348f8533e2d2ff1fe024d36e108950109">
+		<name>One On One (NTSC)</name>
+		<subpath>OneOnOneNTSC</subpath>
+		<variant_uuid>cb60ef49-4712-50a2-ad13-65cb4d83d542</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>OneOnOneNTSC.slave</slave_default>
+		<slave number="1">
+			<filename>OneOnOneNTSC.slave</filename>
 			<datapath></datapath>
 			<custom>
 			C1:X:Swap joystick port:1
@@ -55322,6 +57114,23 @@ joyport0_amiberry_custom_none_start=Space
 		
 		</hardware>
 	</game>
+	<game filename="Ork_v1.2.2_NTSC_1374"  sha1="b2e4a3ea464572e28222905dceae4c4fc2620613">
+		<name>Ork (NTSC)</name>
+		<subpath>OrkNTSC</subpath>
+		<variant_uuid>0459112b-9691-5546-ba82-c960d749e2a0</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>OrkNTSC.Slave</slave_default>
+		<slave number="1">
+			<filename>OrkNTSC.Slave</filename>
+			<datapath></datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
 	<game filename="OrkAttackTheReturn_v1.0"  sha1="7fc052ae199a18415ad9835280e57623574627fa">
 		<name>Ork Attack - The Return</name>
 		<subpath>OrkAttackTheReturn</subpath>
@@ -55417,6 +57226,23 @@ joyport0_amiberry_custom_none_start=Space
 		<slave_default>OsWALDOfTheIceFloes.Slave</slave_default>
 		<slave number="1">
 			<filename>OsWALDOfTheIceFloes.Slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="OsWALDOfTheIceFloes_v1.0_NTSC"  sha1="5342e72f9ab85b635bc771e17e66b5edde1e0d1a">
+		<name>Os WA LDOf The Ice Floes (NTSC)</name>
+		<subpath>OsWALDOfTheIceFloesNTSC</subpath>
+		<variant_uuid>5ee56f68-aa9f-5616-af5c-9fedcf73304b</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>OsWALDOfTheIceFloesNTSC.Slave</slave_default>
+		<slave number="1">
+			<filename>OsWALDOfTheIceFloesNTSC.Slave</filename>
 			<datapath>data</datapath>
 		</slave>
 		<hardware>
@@ -55685,6 +57511,23 @@ joyport0_amiberry_custom_none_start=Space
 		<slave_default>OverTheNet.Slave</slave_default>
 		<slave number="1">
 			<filename>OverTheNet.Slave</filename>
+			<datapath></datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="OverTheNet_v1.0_NTSC_2439"  sha1="953d93afba2527347dd3122ed7d6a4bfd776add5">
+		<name>Over The Net (NTSC)</name>
+		<subpath>OverTheNetNTSC</subpath>
+		<variant_uuid>0617b23b-cb8e-51aa-9fae-ce1311b1182b</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>OverTheNetNTSC.Slave</slave_default>
+		<slave number="1">
+			<filename>OverTheNetNTSC.Slave</filename>
 			<datapath></datapath>
 		</slave>
 		<hardware>
@@ -56349,6 +58192,23 @@ joyport0_amiberry_custom_none_start=Space
 		<slave_default>PeterBeardsleysIF.Slave</slave_default>
 		<slave number="1">
 			<filename>PeterBeardsleysIF.Slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="PeterBeardsleysInternationalFootball_v1.2_NTSC_0952"  sha1="d26d13b7e810e872f2f0b9773c8f24a74c1dda90">
+		<name>Peter Beardsleys IFNTSC</name>
+		<subpath>PeterBeardsleysIFNTSC</subpath>
+		<variant_uuid>9eb77259-ba86-5850-991b-bda979daf18f</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>PeterBeardsleysIFNTSC.Slave</slave_default>
+		<slave number="1">
+			<filename>PeterBeardsleysIFNTSC.Slave</filename>
 			<datapath>data</datapath>
 		</slave>
 		<hardware>
@@ -57443,6 +59303,23 @@ joyport0_amiberry_custom_none_start=Space
 		
 		</hardware>
 	</game>
+	<game filename="Platoon_v1.1_NTSC_1483"  sha1="dfb830999a1c6a95f36714b5d311a311a4ddaa0f">
+		<name>Platoon (NTSC)</name>
+		<subpath>PlatoonNTSC</subpath>
+		<variant_uuid>ae8aef99-d09c-5508-886d-5d9e7e5e1a9f</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>PlatoonNTSC.Slave</slave_default>
+		<slave number="1">
+			<filename>PlatoonNTSC.Slave</filename>
+			<datapath></datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
 	<game filename="PlayerManager2_v1.01"  sha1="3232a434361bee9574137100f5b328eaad2f6347">
 		<name>Player Manager 2</name>
 		<subpath>PlayerManager2</subpath>
@@ -57597,6 +59474,23 @@ joyport0_amiberry_custom_none_start=Space
 		
 		</hardware>
 	</game>
+	<game filename="Plutos_v1.1_NTSC_0554"  sha1="ab9a852fad455b0ff174868c792e75e4a06a8de0">
+		<name>Plutos (NTSC)</name>
+		<subpath>PlutosNTSC</subpath>
+		<variant_uuid>18f4eb24-f73f-5f52-a8cf-10405f0c6a86</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>PlutosNTSC.Slave</slave_default>
+		<slave number="1">
+			<filename>PlutosNTSC.Slave</filename>
+			<datapath></datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
 	<game filename="Pod_v1.0"  sha1="4f938fc164d8d8acf702f916afa117fe09a02f55">
 		<name>Pod</name>
 		<subpath>Pod</subpath>
@@ -57739,6 +59633,23 @@ joyport0_amiberry_custom_none_start=Space
 		
 		</hardware>
 	</game>
+	<game filename="PoliceQuest3_v1.3_NTSC_1341"  sha1="159f1143a6fe1ae79f7909fb4887878aca45f528">
+		<name>Police Quest 3 (NTSC)</name>
+		<subpath>PoliceQuest3NTSC</subpath>
+		<variant_uuid>108c5d0c-2992-53ad-b47a-4bc5f33eec0d</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>PoliceQuest3NTSC.slave</slave_default>
+		<slave number="1">
+			<filename>PoliceQuest3NTSC.slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
 	<game filename="PoliceQuest_v1.0b_1207"  sha1="7d5a9a7fdbcd86b3b1ada831e08585ea989ebc2a">
 		<name>Police Quest - In Pursuit of the Death Angel</name>
 		<subpath>PoliceQuest</subpath>
@@ -57755,6 +59666,42 @@ joyport0_amiberry_custom_none_start=Space
 		PORT1=JOY
 		SCREEN_HEIGHT=200
 		SCREEN_Y_OFFSET=3
+		
+		</hardware>
+	</game>
+	<game filename="PoliceQuest_v1.0b_2262"  sha1="6dc74dc9d9781d102728a62c6c461feb457bda3e">
+		<name>Police Quest - In Pursuit of the Death Angel</name>
+		<subpath>PoliceQuest</subpath>
+		<variant_uuid>4ca770e9-f38c-53dc-86ba-c555b884875b</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>PoliceQuest.slave</slave_default>
+		<slave number="1">
+			<filename>PoliceQuest.slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=MOUSE
+		PORT0=MOUSE
+		PORT1=JOY
+		SCREEN_HEIGHT=200
+		SCREEN_Y_OFFSET=3
+		
+		</hardware>
+	</game>
+	<game filename="PoliceQuest_v1.0b_NTSC_1207"  sha1="fdd728b6abeb5646852970adf6aad1f5bfaea8df">
+		<name>Police Quest (NTSC)</name>
+		<subpath>PoliceQuestNTSC</subpath>
+		<variant_uuid>4ca770e9-f38c-53dc-86ba-c555b884875b</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>PoliceQuestNTSC.slave</slave_default>
+		<slave number="1">
+			<filename>PoliceQuestNTSC.slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
 		
 		</hardware>
 	</game>
@@ -57959,6 +59906,23 @@ joyport0_amiberry_custom_none_dpad_down=Cursor Down
 joyport0_amiberry_custom_none_dpad_left=Cursor Left
 joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		</custom_controls>
+	</game>
+	<game filename="Populous_v1.1_NTSC_0070"  sha1="56ac941d6d8e9cd453a94be10a721559bc99b1ae">
+		<name>Populous (NTSC)</name>
+		<subpath>PopulousNTSC</subpath>
+		<variant_uuid>0d96793a-608e-5159-8b0b-ff39de37813b</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>PopulousNTSC.Slave</slave_default>
+		<slave number="1">
+			<filename>PopulousNTSC.Slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
 	</game>
 	<game filename="PopulousWorldEditor_v1.0_0711"  sha1="695316b711c2279d82f4b0e166cc6bb60b330f6e">
 		<name>Populous - World Editor</name>
@@ -59349,6 +61313,23 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		
 		</hardware>
 	</game>
+	<game filename="Qix_v1.0_NTSC"  sha1="e1dae1dab02e1d8f9c1e2d7a4c9cbf4daf2e6427">
+		<name>Qix (NTSC)</name>
+		<subpath>QixNTSC</subpath>
+		<variant_uuid>a7c79aa2-bfa5-565e-a2ab-ace3f7ea8d50</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>QixNTSC.Slave</slave_default>
+		<slave number="1">
+			<filename>QixNTSC.Slave</filename>
+			<datapath></datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
 	<game filename="Quadralien_v1.0_0918"  sha1="78b16a67235b86ad82f132bbe78a52b053d8943f">
 		<name>Quadralien</name>
 		<subpath>Quadralien</subpath>
@@ -60023,6 +62004,43 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		
 		</hardware>
 	</game>
+	<game filename="Rambo3_v1.1_2433"  sha1="ae1bb53d901c7de1dbc41d4fadd1ea738ce003ab">
+		<name>Rambo III</name>
+		<subpath>Rambo3</subpath>
+		<variant_uuid>adb12fc8-68e1-545d-9cb3-1cb228a3e4b2</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>Rambo3.slave</slave_default>
+		<slave number="1">
+			<filename>Rambo3.slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		JIT=FALSE
+		SCREEN_HEIGHT=200
+		SCREEN_Y_OFFSET=3
+		
+		</hardware>
+	</game>
+	<game filename="Rambo3_v1.1_NTSC_2432"  sha1="7b65f82a876f97a5a2c90b26527f504e908e3bee">
+		<name>Rambo 3 (NTSC)</name>
+		<subpath>Rambo3NTSC</subpath>
+		<variant_uuid>84e4a580-affc-5b02-b67f-2ee2fdbdcc41</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>Rambo3NTSC.slave</slave_default>
+		<slave number="1">
+			<filename>Rambo3NTSC.slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
 	<game filename="Rampage_v1.3a"  sha1="d2cfe5b61dbe449cfa1cb630144ea5965d175c4f">
 		<name>Rampage</name>
 		<subpath>Rampage</subpath>
@@ -60334,6 +62352,23 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		<slave_default>RedLightning.slave</slave_default>
 		<slave number="1">
 			<filename>RedLightning.slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="RedLightning_v1.0_NTSC_1781"  sha1="fd65187291e6f2ae37d200afa6b563824755ceca">
+		<name>Red Lightning (NTSC)</name>
+		<subpath>RedLightningNTSC</subpath>
+		<variant_uuid>05fd191c-7b72-50a4-91d6-2521c345389a</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>RedLightningNTSC.slave</slave_default>
+		<slave number="1">
+			<filename>RedLightningNTSC.slave</filename>
 			<datapath>data</datapath>
 		</slave>
 		<hardware>
@@ -62714,6 +64749,23 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		
 		</hardware>
 	</game>
+	<game filename="SDI_v1.0_Cinemaware_NTSC_1266"  sha1="79a906da60f442614fc00525c838e4d331c59242">
+		<name>SDICinemaware (NTSC)</name>
+		<subpath>SDICinemawareNTSC</subpath>
+		<variant_uuid>4a28fc5b-9704-518a-a1f1-c96f46e1c701</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>SDICinemawareNTSC.Slave</slave_default>
+		<slave number="1">
+			<filename>SDICinemawareNTSC.Slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
 	<game filename="SecondSamurai_v1.1_0721"  sha1="a85e7ebb0c855f68f307f5930e6a0dce7fc632bf">
 		<name>Second Samurai</name>
 		<subpath>SecondSamurai</subpath>
@@ -63462,6 +65514,23 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		
 		</hardware>
 	</game>
+	<game filename="SevenCitiesOfGold_v1.1_NTSC_0908"  sha1="1b33a3fdc6afba4fa011c3468bfc4cf8d1cfd4ea">
+		<name>Seven Cities Of Gold (NTSC)</name>
+		<subpath>SevenCitiesOfGoldNTSC</subpath>
+		<variant_uuid>574a654a-4569-51d8-88ab-d6234493fad2</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>SevenCitiesOfGoldNTSC.slave</slave_default>
+		<slave number="1">
+			<filename>SevenCitiesOfGoldNTSC.slave</filename>
+			<datapath></datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
 	<game filename="SevenGatesOfJambala_v1.1_Files"  sha1="0ac05b35686f5fad49828d76d1fa2e7ad565f609">
 		<name>Seven Gates Of Jambala (Files)</name>
 		<subpath>SevenGatesOfJambalaFiles</subpath>
@@ -63903,6 +65972,23 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		
 		</hardware>
 	</game>
+	<game filename="Shanghai_v1.2_NTSC_1387"  sha1="42a50e85d510251701c1bc73212254263996f9fb">
+		<name>Shanghai (NTSC)</name>
+		<subpath>ShanghaiNTSC</subpath>
+		<variant_uuid>c60aa322-bc1c-535b-b59d-c011037c4726</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>ShanghaiNTSC.Slave</slave_default>
+		<slave number="1">
+			<filename>ShanghaiNTSC.Slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
 	<game filename="ShaqFu_v1.1"  sha1="de02fcad33221956f6e5fcc915f2cf19d5f2e771">
 		<name>Shaq Fu</name>
 		<subpath>ShaqFu</subpath>
@@ -64283,6 +66369,23 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		
 		</hardware>
 	</game>
+	<game filename="SilentService2_v2.1b_NTSC_0949"  sha1="36fea34746c38bc3ff2187a15ede015815c14f75">
+		<name>Silent Service 2 (NTSC)</name>
+		<subpath>SilentService2NTSC</subpath>
+		<variant_uuid>4c522952-1ff6-53b4-83b5-5096fb310e8b</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>SilentService2NTSC.slave</slave_default>
+		<slave number="1">
+			<filename>SilentService2NTSC.slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
 	<game filename="SilentService_v1.1_0402"  sha1="6c0a092f80a00d2ee50f7952ee442c808288128b">
 		<name>Silent Service - The Submarine Simulation</name>
 		<subpath>SilentService</subpath>
@@ -64310,6 +66413,23 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		<slave_default>SiliconDreams.Slave</slave_default>
 		<slave number="1">
 			<filename>SiliconDreams.Slave</filename>
+			<datapath></datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="SiliconDreams_v1.0_NTSC_1415"  sha1="47f0df54f29f3a237fb94a2384cb68b04a378aea">
+		<name>Silicon Dreams (NTSC)</name>
+		<subpath>SiliconDreamsNTSC</subpath>
+		<variant_uuid>e32b775f-2109-573a-ac07-fdccda4bf789</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>SiliconDreamsNTSC.Slave</slave_default>
+		<slave number="1">
+			<filename>SiliconDreamsNTSC.Slave</filename>
 			<datapath></datapath>
 		</slave>
 		<hardware>
@@ -64531,6 +66651,25 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		
 		</hardware>
 	</game>
+	<game filename="SimCity_v1.0_2193"  sha1="6bcd74365410f047138183a4412c7efc26abc06c">
+		<name>Sim City</name>
+		<subpath>SimCity</subpath>
+		<variant_uuid>369bb701-e258-5f01-9112-b02ce8ffec73</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>SimCity.Slave</slave_default>
+		<slave number="1">
+			<filename>SimCity.Slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=MOUSE
+		PORT0=MOUSE
+		PORT1=JOY
+		SCREEN_HEIGHT=200
+		SCREEN_Y_OFFSET=3
+		
+		</hardware>
+	</game>
 	<game filename="SimCity_v1.0_512KB_0888"  sha1="d2d2163656538b06a2da1cd70544ffaf1da2e0f6">
 		<name>Sim City (512Kb)</name>
 		<subpath>SimCity512KB</subpath>
@@ -64556,6 +66695,23 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		<slave_default>SimCityCDTV.Slave</slave_default>
 		<slave number="1">
 			<filename>SimCityCDTV.Slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="SimCity_v1.0_NTSC_1953"  sha1="ed86823cdd57b0a382dd140ae8ff810851d19860">
+		<name>Sim City (NTSC)</name>
+		<subpath>SimCityNTSC</subpath>
+		<variant_uuid>cfb81493-9355-54d6-9fb4-04ddf96882f5</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>SimCityNTSC.Slave</slave_default>
+		<slave number="1">
+			<filename>SimCityNTSC.Slave</filename>
 			<datapath>data</datapath>
 		</slave>
 		<hardware>
@@ -64875,6 +67031,26 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		<slave_default>Sinbad.Slave</slave_default>
 		<slave number="1">
 			<filename>Sinbad.Slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="Sinbad_v1.3_NTSC_0083"  sha1="c87c05fc9d8812a350b43d861d28b8f4ebaaa1e1">
+		<name>Sinbad (NTSC)</name>
+		<subpath>SinbadNTSC</subpath>
+		<variant_uuid>3d4f607d-f3bc-5187-8e7e-fac3d4e526e6</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>SinbadNTSC.Slave</slave_default>
+		<slave number="1">
+			<filename>SinbadNTSC.Slave</filename>
 			<datapath>data</datapath>
 			<custom>
 			
@@ -65249,6 +67425,23 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		<slave_default>Skyfox.slave</slave_default>
 		<slave number="1">
 			<filename>Skyfox.slave</filename>
+			<datapath></datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="Skyfox_v1.0_NTSC_0903"  sha1="c2e49924df269c443af515ff809b7bc25e7f6525">
+		<name>Skyfox (NTSC)</name>
+		<subpath>SkyfoxNTSC</subpath>
+		<variant_uuid>0dc3c1f3-0adf-5fd2-bf3f-4e3b95305892</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>SkyfoxNTSC.slave</slave_default>
+		<slave number="1">
+			<filename>SkyfoxNTSC.slave</filename>
 			<datapath></datapath>
 		</slave>
 		<hardware>
@@ -66260,6 +68453,23 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		
 		</hardware>
 	</game>
+	<game filename="Spacecutter_v1.0_NTSC_1408"  sha1="1653ac1d052245252ab27f915dd91e507a0a796a">
+		<name>Spacecutter (NTSC)</name>
+		<subpath>SpacecutterNTSC</subpath>
+		<variant_uuid>e8d93066-1484-5b8d-a0d4-e252c384f22f</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>SpacecutterNTSC.Slave</slave_default>
+		<slave number="1">
+			<filename>SpacecutterNTSC.Slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
 	<game filename="SpaceGun_v1.1"  sha1="67b8a4147fb45078ee75c7ee3b48aeb751daca21">
 		<name>Space Gun</name>
 		<subpath>SpaceGun</subpath>
@@ -66496,6 +68706,23 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		
 		</hardware>
 	</game>
+	<game filename="SpaceQuest4_v1.1_NTSC_1177"  sha1="5e50030e7f69e5bf205927a9814a10c5604efb65">
+		<name>Space Quest 4 (NTSC)</name>
+		<subpath>SpaceQuest4NTSC</subpath>
+		<variant_uuid>cdf8c86e-3bac-5547-8f3c-98dcf078a272</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>SpaceQuest4NTSC.slave</slave_default>
+		<slave number="1">
+			<filename>SpaceQuest4NTSC.slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
 	<game filename="SpaceQuest_v1.2_1484"  sha1="47b5ea7deb6aa1c9335d823e75b4ff47afbdb2a1">
 		<name>Space Quest</name>
 		<subpath>SpaceQuest</subpath>
@@ -66504,6 +68731,26 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		<slave_default>SpaceQuest.Slave</slave_default>
 		<slave number="1">
 			<filename>SpaceQuest.Slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="SpaceQuest_v1.2_NTSC_1484"  sha1="a79bf3e030e212010227a2d265bb721fb0a01e7a">
+		<name>Space Quest (NTSC)</name>
+		<subpath>SpaceQuestNTSC</subpath>
+		<variant_uuid>c9998fe1-97f7-55dd-aa3a-7c4bac6e12f2</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>SpaceQuestNTSC.Slave</slave_default>
+		<slave number="1">
+			<filename>SpaceQuestNTSC.Slave</filename>
 			<datapath>data</datapath>
 			<custom>
 			
@@ -67827,6 +70074,23 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		
 		</hardware>
 	</game>
+	<game filename="Stellar7_v1.0_NTSC_2026"  sha1="73c6f28891715478b7b37c334fe3ec0e6f3f2895">
+		<name>Stellar 7 (NTSC)</name>
+		<subpath>Stellar7NTSC</subpath>
+		<variant_uuid>67bdb7f1-4fef-5f62-a7de-8d7d2e13e436</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>Stellar7NTSC.Slave</slave_default>
+		<slave number="1">
+			<filename>Stellar7NTSC.Slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
 	<game filename="StirCrazyFeaturingBobo_v1.0"  sha1="d406e3204be1b9b249d14d599b984dc81345fb99">
 		<name>Stir Crazy Featuring Bobo</name>
 		<subpath>StirCrazyFeaturingBobo</subpath>
@@ -68201,6 +70465,23 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		
 		</hardware>
 	</game>
+	<game filename="StreetSportsBasketball_v1.0_NTSC_0953"  sha1="54323738b35aeb835a0dae917c8e23226aa38435">
+		<name>Street Sports BBNTSC</name>
+		<subpath>StreetSportsBBNTSC</subpath>
+		<variant_uuid>90e5b812-05c3-568e-b874-b09917af8c70</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>StreetSportsBBNTSC.Slave</slave_default>
+		<slave number="1">
+			<filename>StreetSportsBBNTSC.Slave</filename>
+			<datapath></datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
 	<game filename="Strider2_v1.1_0386"  sha1="c049c0bd410a97dc38ca806d2574fcd04df45b2f">
 		<name>Strider II</name>
 		<subpath>Strider2</subpath>
@@ -68245,6 +70526,28 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		<slave_default>StrikeAces.Slave</slave_default>
 		<slave number="1">
 			<filename>StrikeAces.Slave</filename>
+			<datapath></datapath>
+			<custom>
+			C1:B:Skip Intro
+			BW
+			
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="StrikeAces_v1.0_NTSC_1485"  sha1="0e6301d5f0e796382a10b02e2ee02e84ee6af0a6">
+		<name>Strike Aces (NTSC)</name>
+		<subpath>StrikeAcesNTSC</subpath>
+		<variant_uuid>a30abbfc-82f3-505f-988e-66db79d731aa</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>StrikeAcesNTSC.Slave</slave_default>
+		<slave number="1">
+			<filename>StrikeAcesNTSC.Slave</filename>
 			<datapath></datapath>
 			<custom>
 			C1:B:Skip Intro
@@ -68490,6 +70793,23 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		<slave_default>SubBattleSimulator.Slave</slave_default>
 		<slave number="1">
 			<filename>SubBattleSimulator.Slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="SubBattleSimulator_v1.0_NTSC_1458"  sha1="7c847b95cd370dbba565ea53cba5647338b64fa0">
+		<name>Sub Battle Simulator (NTSC)</name>
+		<subpath>SubBattleSimulatorNTSC</subpath>
+		<variant_uuid>36872573-45b2-5efd-8422-2a8c95f29ab5</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>SubBattleSimulatorNTSC.Slave</slave_default>
+		<slave number="1">
+			<filename>SubBattleSimulatorNTSC.Slave</filename>
 			<datapath>data</datapath>
 		</slave>
 		<hardware>
@@ -70940,6 +73260,23 @@ joyport2_amiberry_custom_none_west=Cursor Up
 		
 		</hardware>
 	</game>
+	<game filename="ThemeParkMystery_v1.3_NTSC_1175"  sha1="000889a78985d94a7835565c8c8c658f7e98da42">
+		<name>Theme Park Mystery (NTSC)</name>
+		<subpath>ThemeParkMysteryNTSC</subpath>
+		<variant_uuid>c78fc2b6-7cff-5ea3-8678-1a50d983c469</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>ThemeParkMysteryNTSC.slave</slave_default>
+		<slave number="1">
+			<filename>ThemeParkMysteryNTSC.slave</filename>
+			<datapath></datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
 	<game filename="Thexder_v1.1_0392"  sha1="4d505f6fcca872f58539e57e832f59b7f12c28bd">
 		<name>Thexder</name>
 		<subpath>Thexder</subpath>
@@ -71105,6 +73442,23 @@ joyport2_amiberry_custom_none_west=Cursor Up
 		
 		</hardware>
 	</game>
+	<game filename="ThreeStooges_v1.0_NTSC_0740"  sha1="0b722de05d94a526fcb173788e5a7626c4bd1a39">
+		<name>Three Stooges (NTSC)</name>
+		<subpath>ThreeStoogesNTSC</subpath>
+		<variant_uuid>1fecafd4-ffe2-56b8-a028-6048039a6824</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>ThreeStoogesNTSC.Slave</slave_default>
+		<slave number="1">
+			<filename>ThreeStoogesNTSC.Slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
 	<game filename="Thunderbirds_v1.0_0742"  sha1="93444c69a522ecdba69a1459478b4bc9e4f0e3f4">
 		<name>Thunderbirds</name>
 		<subpath>Thunderbirds</subpath>
@@ -71230,6 +73584,59 @@ joyport2_amiberry_custom_none_west=Cursor Up
 		PORT0=JOY
 		PORT1=JOY
 		SCREEN_HEIGHT=200
+		
+		</hardware>
+	</game>
+	<game filename="ThunderHawkAH73M_v2.2.1_0039"  sha1="9f3af85e6b0bea7ab4ff8db832927815d2c098af">
+		<name>ThunderHawk AH-73M</name>
+		<subpath>ThunderHawkAH73M</subpath>
+		<variant_uuid>9c667392-051b-574a-9fdb-b59dc7000ea0</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>ThunderHawkAH73M.Slave</slave_default>
+		<slave number="1">
+			<filename>ThunderHawkAH73M.Slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=MOUSE
+		PORT0=MOUSE
+		PORT1=JOY
+		SCREEN_HEIGHT=200
+		SCREEN_Y_OFFSET=3
+		
+		</hardware>
+	</game>
+	<game filename="ThunderHawkAH73M_v2.2.1_De"  sha1="c8ce26daf0709b4d6a3582610f8fe3d9352fced8">
+		<name>Thunder Hawk A H 73 MDe</name>
+		<subpath>ThunderHawkAH73MDe</subpath>
+		<variant_uuid>a60e531c-ee29-5ef1-9d6b-3a88186a2993</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>ThunderHawkAH73MDe.Slave</slave_default>
+		<slave number="1">
+			<filename>ThunderHawkAH73MDe.Slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="ThunderHawkAH73M_v2.2.1_Fr"  sha1="c03dace9aa756751bf4c508c631ebffa531d1321">
+		<name>Thunder Hawk A H 73 MFr</name>
+		<subpath>ThunderHawkAH73MFr</subpath>
+		<variant_uuid>848fccfa-24e1-519f-bf54-b63dda09dc9b</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>ThunderHawkAH73MFr.Slave</slave_default>
+		<slave number="1">
+			<filename>ThunderHawkAH73MFr.Slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
 		
 		</hardware>
 	</game>
@@ -72786,6 +75193,40 @@ joyport2_amiberry_custom_none_west=Cursor Up
 		
 		</hardware>
 	</game>
+	<game filename="TotalEclipse_v1.0_2255"  sha1="b4fbe61967e538dde671da105851d08c6b2e1d58">
+		<name>Total Eclipse</name>
+		<subpath>TotalEclipse</subpath>
+		<variant_uuid>a1811d1e-c40a-5545-ad89-c9ddb249d8d3</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>TotalEclipse.Slave</slave_default>
+		<slave number="1">
+			<filename>TotalEclipse.Slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="TotalEclipse_v1.0_NTSC_1973"  sha1="bea0f78433e239226824cc6922070f4b8463ebac">
+		<name>Total Eclipse (NTSC)</name>
+		<subpath>TotalEclipseNTSC</subpath>
+		<variant_uuid>db3030c1-99a8-5994-a2c3-4e28b9363676</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>TotalEclipseNTSC.Slave</slave_default>
+		<slave number="1">
+			<filename>TotalEclipseNTSC.Slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
 	<game filename="TotalFootball_v1.3_0154"  sha1="8e45f7be482adf43a5c11bcc506310848fbcd6d5">
 		<name>Total Football</name>
 		<subpath>TotalFootball</subpath>
@@ -73261,6 +75702,23 @@ joyport2_amiberry_custom_none_west=Cursor Up
 		<slave_default>TreasuresOfSavageFrontier.Slave</slave_default>
 		<slave number="1">
 			<filename>TreasuresOfSavageFrontier.Slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="TreasuresOfTheSavageFrontier_v1.0_NTSC_0992"  sha1="e9cabc3ea0f989c858ea936a5af353106a35bd8a">
+		<name>Treasure Savage Front (NTSC)</name>
+		<subpath>TreasureSavageFrontNTSC</subpath>
+		<variant_uuid>b375a557-30a5-506b-99a4-78ec6fc2bc45</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>TreasureSavageFrontNTSC.Slave</slave_default>
+		<slave number="1">
+			<filename>TreasureSavageFrontNTSC.Slave</filename>
 			<datapath>data</datapath>
 		</slave>
 		<hardware>
@@ -74173,6 +76631,23 @@ joyport2_amiberry_custom_none_west=Cursor Up
 		
 		</hardware>
 	</game>
+	<game filename="TyphoonThompson_v1.0_NTSC_1389"  sha1="7b9bbe4178d7a55c0d883cf5b2472fb702d31b06">
+		<name>Typhoon Thompson (NTSC)</name>
+		<subpath>TyphoonThompsonNTSC</subpath>
+		<variant_uuid>2d54edb0-f3b0-5fd9-84f0-6983aa14455d</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>TyphoonThompsonNTSC.Slave</slave_default>
+		<slave number="1">
+			<filename>TyphoonThompsonNTSC.Slave</filename>
+			<datapath></datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
 	<game filename="TZer0Demo_v1.0_AGA"  sha1="0d5957b22ec85d52b4b3d93bc7aed67f09b8b7fc">
 		<name>T-Zer0 (Demo) [AGA]</name>
 		<subpath>TZer0DemoAGA</subpath>
@@ -74365,6 +76840,23 @@ joyport2_amiberry_custom_none_west=Cursor Up
 		PORT1=JOY
 		SCREEN_HEIGHT=200
 		SCREEN_Y_OFFSET=3
+		
+		</hardware>
+	</game>
+	<game filename="Ultima4_v1.1_NTSC_1390"  sha1="dd72161ab29cc0c1408533a5f51ac646cecef757">
+		<name>Ultima 4 (NTSC)</name>
+		<subpath>Ultima4NTSC</subpath>
+		<variant_uuid>fe6d4db0-3c3b-5d3d-a6b8-eb19b0085a69</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>Ultima4NTSC.slave</slave_default>
+		<slave number="1">
+			<filename>Ultima4NTSC.slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
 		
 		</hardware>
 	</game>
@@ -74657,6 +77149,26 @@ joyport2_amiberry_custom_none_west=Cursor Up
 		
 		</hardware>
 	</game>
+	<game filename="Universe3_v1.0_NTSC_1476"  sha1="e53e48e2ba812b7ddec2fbfb1867787ee9bb3553">
+		<name>Universe 3 (NTSC)</name>
+		<subpath>Universe3NTSC</subpath>
+		<variant_uuid>8a46819f-ff4a-563e-abab-4588bc9708b9</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>Universe3NTSC.Slave</slave_default>
+		<slave number="1">
+			<filename>Universe3NTSC.Slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
 	<game filename="Universe_v1.3_0894"  sha1="4ad3cbf5f3bad7ebc67cd776fe8a62a64d727843">
 		<name>Universe</name>
 		<subpath>Universe</subpath>
@@ -74721,6 +77233,23 @@ joyport2_amiberry_custom_none_west=Cursor Up
 		<name>Unreal (NTSC)</name>
 		<subpath>UnrealNTSC</subpath>
 		<variant_uuid>35d3153b-a96e-5953-b1ac-7984a80ab490</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>UnrealNTSC.Slave</slave_default>
+		<slave number="1">
+			<filename>UnrealNTSC.Slave</filename>
+			<datapath></datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="Unreal_v1.2_NTSC_1952"  sha1="c9c2119d3c6f817f7952ffb2706f222e7cc9e11a">
+		<name>Unreal (NTSC)</name>
+		<subpath>UnrealNTSC</subpath>
+		<variant_uuid>01020b6e-993c-5ee9-b960-27d79755d93a</variant_uuid>
 		<slave_count>1</slave_count>
 		<slave_default>UnrealNTSC.Slave</slave_default>
 		<slave number="1">
@@ -76578,6 +79107,23 @@ joyport2_amiberry_custom_none_west=Cursor Up
 		
 		</hardware>
 	</game>
+	<game filename="WhereInTheWorldIsCarmenSandiego_v0.1_NTSC_2479"  sha1="86c773d182b1ccee6329e9e25bf4eaad0223c138">
+		<name>WITWIs Carmen Sandiego (NTSC)</name>
+		<subpath>WITWIsCarmenSandiegoNTSC</subpath>
+		<variant_uuid>078334ad-26a0-5445-924c-4df070439bc5</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>WITWIsCarmenSandiegoNTSC.slave</slave_default>
+		<slave number="1">
+			<filename>WITWIsCarmenSandiegoNTSC.slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
 	<game filename="WhereTimeStoodStill_v1.0"  sha1="764bd53188f03b5cd512c2b8927aa68c2ecbb4bc">
 		<name>Where Time Stood Still</name>
 		<subpath>WhereTimeStoodStill</subpath>
@@ -76936,6 +79482,26 @@ joyport2_amiberry_custom_none_west=Cursor Up
 		
 		</hardware>
 	</game>
+	<game filename="Windwalker_v1.0_NTSC_1391"  sha1="5ad006062680759d9361005fa40b88d560e726a4">
+		<name>Windwalker (NTSC)</name>
+		<subpath>WindwalkerNTSC</subpath>
+		<variant_uuid>f83a77d0-9ccc-502b-a403-9dd24f868cea</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>WindwalkerNTSC.Slave</slave_default>
+		<slave number="1">
+			<filename>WindwalkerNTSC.Slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
 	<game filename="WingCommander_v1.0_1657"  sha1="bffde91eafa7be510fc02a46d398ad414ab7682c">
 		<name>Wing Commander</name>
 		<subpath>WingCommander</subpath>
@@ -77145,6 +79711,23 @@ joyport2_amiberry_custom_none_west=Cursor Up
 		<slave_default>WinterChallenge.Slave</slave_default>
 		<slave number="1">
 			<filename>WinterChallenge.Slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="WinterChallenge_v1.1_NTSC_2863"  sha1="36adb3e10493f5e2fdb454bae0b31416782add37">
+		<name>Winter Challenge (NTSC)</name>
+		<subpath>WinterChallengeNTSC</subpath>
+		<variant_uuid>a75f2054-079a-5bac-82f1-8d6a3ed1a1ca</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>WinterChallengeNTSC.Slave</slave_default>
+		<slave number="1">
+			<filename>WinterChallengeNTSC.Slave</filename>
 			<datapath>data</datapath>
 		</slave>
 		<hardware>
@@ -77855,6 +80438,23 @@ joyport2_amiberry_custom_none_west=Cursor Up
 		JIT=FALSE
 		SCREEN_HEIGHT=200
 		SCREEN_Y_OFFSET=3
+		
+		</hardware>
+	</game>
+	<game filename="WorldGames_v1.0_NTSC_0604"  sha1="5a2c91b57dec18fe08991add3aef4b88593a8cc3">
+		<name>World Games (NTSC)</name>
+		<subpath>WorldGamesNTSC</subpath>
+		<variant_uuid>02efd7de-b927-5506-ac03-bc3ed2ab8d40</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>WorldGamesNTSC.Slave</slave_default>
+		<slave number="1">
+			<filename>WorldGamesNTSC.Slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
 		
 		</hardware>
 	</game>
@@ -78928,6 +81528,23 @@ joyport0_amiberry_custom_none_right_stick=F7
 		PORT0=JOY
 		PORT1=JOY
 		SCREEN_HEIGHT=200
+		
+		</hardware>
+	</game>
+	<game filename="ZanyGolf_v1.1_NTSC_1482"  sha1="d3cea813bc2c38f7566877a99f4e002e689cad60">
+		<name>Zany Golf (NTSC)</name>
+		<subpath>ZanyGolfNTSC</subpath>
+		<variant_uuid>6371ff9a-51f7-58ec-9824-c59a32ced31f</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>ZanyGolfNTSC.slave</slave_default>
+		<slave number="1">
+			<filename>ZanyGolfNTSC.slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
 		
 		</hardware>
 	</game>

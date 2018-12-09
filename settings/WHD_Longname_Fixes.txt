@@ -45,6 +45,8 @@ Alien Breed 3 DCD32|Alien Breed 3D [CD32]
 Alien Breed 3 DDemo Latest [AGA]|Alien Breed 3D (Demo) (Latest) [AGA]
 Alien Breed 3 DDemo Play [AGA]|Alien Breed 3D (Playable Demo) [AGA]
 Alien Breed 3 DDemo Roll [AGA]|Alien Breed 3D (Rolling Demo) [AGA]
+Alien Breed 3 DNo Music [AGA]|Alien Breed 3D (No Music) [AGA]
+Alien Breed 3 DNo Music [CD32]|Alien Breed 3D (No Music) [CD32]
 Alien Breed Special Edition|Alien Breed Special Edition '92
 Alien Breed Story|Alien Breed (Story)
 Alien Breed TA [AGA]|Alien Breed - Tower Assault [AGA]
@@ -59,15 +61,21 @@ Allan Borders Cricket|Allan Border's Cricket
 Allo Allo|Allo Allo! Cartoon Fun!
 Alpha 1|Alpha-1
 Amazing Spider Man|Amazing Spider-Man
+Amberstar De (Fast)|Amberstar (Fast) (Deutsch)
 Another World Lost Level|Another World - Lost Level (Hack by Earok)
 Aot GSA FP 27b 6|Attack of the Green Smelly Aliens from Planet 27b-6
 APBImage|APB (Image)
+A PBFiles|APB (Files)
+Apache & Overdrive Demo|Apache & Overdrive (Demo)
 Apidya Audios|Apidya (Audios)
 Apidya Kaiko|Apidya (Kaiko)
+Aquablast NTSC|Aquablast (NTSC)
+Aquaventura NTSC|Aquaventura (NTSC)
 Aquanaut F 1 Licenceware|Aquanaut (F1 Licenceware)
 Aquatic Games|Aquatic Games - Starring James Pond and the Aquabats
 Archer Mac Leans Pool|Archer MacLean's Pool
 Archer Macleans Billard Amcn|Archer Macleans's Le Billard Americain
+Archer Mac Leans Billard Amcn|Archer Macleans's Le Billard Americain
 Archon 2|Archon II - Adept
 Archon|Archon - The Light and the Dark
 Arena|Arena (Psygnosis)
@@ -88,6 +96,10 @@ B 17 Flying Fortress|B-17 Flying Fortress
 B AT|BAT
 BA T 2|B.A.T. II
 BA T|B.A.T.
+BA TDe|B.A.T. (Deutsch)
+BA TFr|B.A.T. (Francais)
+BA T 2 (Deutsch)|B.A.T. II (Deutsch)
+BA T 2 (Francais)|B.A.T. II (Francais)
 Baby Jo In Going Home|Baby Jo in 'Going Home'
 Babylonian Twins Demo|Babylonian Twins (Demo)
 Back To The Future Part 2|Back To The Future Part II
@@ -118,6 +130,7 @@ Batman Caped Crusader|Batman - The Caped Crusader
 Batman The Movie|Batman - The Movie
 Battle Chess 2|Battle Chess II - Chinese Chess
 Battle For Ashes|Battle For The Ashes
+Battle For Ashes Amiga Power|Battle For The Ashes (Amiga Power)
 Battle Isle & Data Disks|Battle Isle (& Data Disks)
 Battle Squadron|Battle Squadron - The Destruction of the Barrax Empire
 Battle Squadron Demo|Battle Squadron (Demo)
@@ -672,6 +685,7 @@ Paradroid 901 MB|Paradroid 90 (1MB)
 Parasol Stars|Parasol Stars - The Story of Rainbow Islands II
 Penthouse Hot Nums Dlx [AGA] (Deutsch)|Penthouse Hot Numbers Deluxe [AGA] (Deutsch)
 Penthouse Hot Nums Dlx [AGA] De|Penthouse Hot Numbers Deluxe [AGA] (Deutsch)
+Penthouse Hot Nums Dlx (Deutsch)|Penthouse Hot Numbers Deluxe (Deutsch)
 Perihelion|Perihelion - The Prophecy
 Peter Beardsleys IF|Peter Beardsley's International Football
 Peter Beardsleys IFCracked|Peter Beardsley's International Football (Cracked)
@@ -685,6 +699,9 @@ Pinball Fntsies [AGA]|Pinball Fantasies [AGA]
 Pinball Fntsies [CD32] (Chip)|Pinball Fantasies [CD32] (Chip)
 Pinball Fntsies [CD32]|Pinball Fantasies [CD32]
 Pinball Fntsies|Pinball Fantasies
+Pinball Fntsies [AGA] (Chip)|Pinball Fantasies [AGA]
+Pinball Fntsies [AGA] NTSC|Pinball Fantasies (NTSC) [AGA]
+Pinball Fntsies [AGA] NTSCChip|Pinball Fantasies (Chip) (NTSC) [AGA]
 Pinball Illusions [AGA] Demo|Pinball Illusions (Demo) [AGA]
 Pipeline Nomad|Pipeline (Nomad)
 Pipeline Oracle|Pipeline (Oracle)

@@ -143,6 +143,8 @@ def make_full_name(in_name):
     in_name = in_name.replace(" CDTV", " [CDTV]")
     in_name = in_name.replace(" AGA", " [AGA]")
     in_name = in_name.replace(" 512 Kb", " (512Kb)")
+    in_name = in_name.replace(" 512 KB", " (512Kb)")
+    in_name = in_name.replace(" 512k", " (512Kb)")
     in_name = in_name.replace(" 1 MB", " (1MB)")
     in_name = in_name.replace(" 2 MB", " (2MB)")
     in_name = in_name.replace(" 4 MB", " (4MB)")
@@ -157,7 +159,8 @@ def make_full_name(in_name):
     in_name = in_name.replace(" Fast", " (Fast)")
     in_name = in_name.replace("(Fast) Break", "Fast Break")
     in_name = in_name.replace("R³sselsheim", "Russelsheim")
-
+    in_name = in_name.replace(" NTSC", " (NTSC)")
+    
     # check the txt file
     file_name = "settings/WHD_Longname_Fixes.txt"
     content = ""

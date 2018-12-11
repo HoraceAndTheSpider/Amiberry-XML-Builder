@@ -85,8 +85,8 @@ print(
 print()
 
 hash_algorithm = 'SHA1'
-input_directory = ("/Volumes/Macintosh HD/Users/horaceandthespider/Google Drive/Geek/Shared Pi Games/amiga/_Standard/")
-#input_directory = ("/media/MARVIN/Geek/WHDLoad/")
+#input_directory = ("/Volumes/Macintosh HD/Users/horaceandthespider/Google Drive/Geek/Shared Pi Games/amiga/_Standard/")
+input_directory = ("/media/MARVIN/Geek/WHDLoad/")
 count = 1
 
 XML= '<?xml version="1.0" encoding="UTF-8"?>' + chr(10)

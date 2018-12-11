@@ -85,8 +85,8 @@ print(
 print()
 
 hash_algorithm = 'SHA1'
-#input_directory = ("/Volumes/Macintosh HD/Users/horaceandthespider/Google Drive/Geek/Shared Pi Games/amiga/_Standard/")
-input_directory = ("/media/MARVIN/Geek/WHDLoad/")
+input_directory = ("/Volumes/Macintosh HD/Users/horaceandthespider/Google Drive/Geek/Shared Pi Games/amiga/_Standard/")
+#input_directory = ("/media/MARVIN/Geek/WHDLoad/")
 count = 1
 
 XML= '<?xml version="1.0" encoding="UTF-8"?>' + chr(10)
@@ -99,14 +99,12 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
     archive_path = str(file2)
     
     this_file = os.path.basename(archive_path)
-
-
+    print("Processing: " + text_utils.FontColours.OKBLUE + text_utils.FontColours.BOLD  + this_file + text_utils.FontColours.ENDC)
     
     try:
             slave_archive = LhaSlaveArchive(archive_path, hash_algorithm)
             file_details = openretroid.parse_file(archive_path)
             
-            print("Processing: " + text_utils.FontColours.OKBLUE + text_utils.FontColours.BOLD  + this_file + text_utils.FontColours.ENDC)
             print(text_utils.FontColours.OKGREEN + slave_archive.absolute_path + text_utils.FontColours.ENDC)
             print()
             
@@ -546,6 +544,9 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
             print("Could not read LHA archive: {}".format(archive_path))
             ERROR_MSG = ERROR_MSG + "Could not read LHA archive: {}".format(archive_path)  + chr(10) 
             #sys.exit(1)
+    except:
+            print("Something went wrong with LHA archive: {}".format(archive_path))
+            ERROR_MSG = ERROR_MSG + "Could not read LHA archive: {}".format(archive_path)  + chr(10) 
    
     # limit  it to a certian number of archives (for testing)
     if count == 9999:

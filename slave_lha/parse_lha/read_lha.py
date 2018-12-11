@@ -28,9 +28,12 @@ class LhaSlaveArchive:
         self.original_path = archive_path
         self.hasher = self._get_hasher(hash_algorithm)
         self.absolute_path = os.path.abspath(self.original_path)
-        self.lha_file = lhafile.lhafile.Lhafile(self.absolute_path)
-        self.slaves = []
-
+        try:
+            self.lha_file = lhafile.lhafile.Lhafile(self.absolute_path)
+            self.slaves = []
+        except:
+            print("Problem reading LHA")
+            
     def read_lha(self):
         archive = lhafile.lhafile.Lhafile(self.absolute_path)
         for file in archive.filelist:

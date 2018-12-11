@@ -17,7 +17,7 @@ from utils import text_utils
 
 def sha1(fname):
     hash_sha1 = hashlib.sha1()
-    with open(fname, "rb") as f:
+    with open(str(fname), "rb") as f:
         for chunk in iter(lambda: f.read(4096), b""):
             hash_sha1.update(chunk)
     return hash_sha1.hexdigest()
@@ -85,7 +85,8 @@ print(
 print()
 
 hash_algorithm = 'SHA1'
-input_directory = ("/Volumes/Macintosh HD/Users/horaceandthespider/Google Drive/Geek/Shared Pi Games/amiga/_Standard/")
+#input_directory = ("/Volumes/Macintosh HD/Users/horaceandthespider/Google Drive/Geek/Shared Pi Games/amiga/_Standard/")
+input_directory = ("/media/MARVIN/Geek/WHDLoad/")
 count = 1
 
 XML= '<?xml version="1.0" encoding="UTF-8"?>' + chr(10)

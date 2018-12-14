@@ -1,4 +1,4 @@
-Scanned file log: 2018-12-12 at 21:54:08
+Scanned file log: 2018-12-14 at 03:00:07
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
 Skipped: 24HourEFix_v1.0_Quartz.lha
@@ -901,6 +901,7 @@ Skipped: AdventureConstructionSet_v1.1_NTSC_0904.lha
 Skipped: AdventuresOfGenlockHolmes_v1.0.lha
 Skipped: AdventuresOfQuik&Silva_v1.1.lha
 Skipped: AdventuresOfRobinHood_v1.1.lha
+Scanned: Adventures Of Willy Beamish
 Skipped: AfricanRaiders01_v1.01_1169.lha
 Skipped: AfterBurner_v1.0_Activision_0095.lha
 Skipped: AfterBurner_v1.4_NTSC_0947.lha

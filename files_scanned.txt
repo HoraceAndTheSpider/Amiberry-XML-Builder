@@ -1,4 +1,4 @@
-Scanned file log: 2018-12-19 at 03:00:08
+Scanned file log: 2018-12-21 at 03:00:07
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
 Skipped: 24HourEFix_v1.0_Quartz.lha
@@ -2942,11 +2942,11 @@ Skipped: MonkeyIsland2_v1.2_0020.lha
 Skipped: MonkeyIsland2_v1.2_De_0077.lha
 Skipped: MonkeyIsland2_v1.2_Fr_2596.lha
 Skipped: MonkeyIsland2_v1.2_It.lha
-Scanned: Monkey Island 2 - LeChuck's Revenge
-Scanned: Monkey Island 2 (Deutsch)
-Scanned: Monkey Island 2 (Espanol)
-Scanned: Monkey Island 2 (Francais)
-Scanned: Monkey Island 2 (Italiano)
+Skipped: MonkeyIsland2_v1.3_0020.lha
+Skipped: MonkeyIsland2_v1.3_De_0077.lha
+Skipped: MonkeyIsland2_v1.3_Es.lha
+Skipped: MonkeyIsland2_v1.3_Fr_2596.lha
+Skipped: MonkeyIsland2_v1.3_It.lha
 Skipped: MonsterBusiness_v1.4_3032.lha
 Skipped: MontyPythonsFlyingCircus_v1.3_0273.lha
 Skipped: MontyPythonsFlyingCircus_v1.3_NTSC_1174.lha

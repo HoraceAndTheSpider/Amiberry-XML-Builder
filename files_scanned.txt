@@ -1,4 +1,4 @@
-Scanned file log: 2018-12-24 at 02:00:08
+Scanned file log: 2018-12-31 at 02:00:10
 Scanned: 1001 Stolen Ideas
 Scanned: 242
 Scanned: 24 Hour EFix
@@ -911,6 +911,8 @@ Scanned: A.G.E. (Advanced Galactic Empire)
 Scanned: Agony (Demo)
 Scanned: Agony
 Scanned: Agony (NTSC)
+Scanned: Agony
+Scanned: Agony (NTSC)
 Scanned: Aigle DOr (Francais)
 Scanned: Airball
 Scanned: Airborne Ranger
@@ -1106,6 +1108,8 @@ Scanned: Bards Tale (NTSC)
 Scanned: Bar Games
 Scanned: Bargon Attack
 Scanned: Bargon Attack (Francais)
+Scanned: Barney Bear Goes To School
+Scanned: Barney Bear Goes To Space
 Scanned: Bart Vs Space Mutants (1 Disk)
 Scanned: Simpsons - Bart vs. The Space Mutants (2 Disk)
 Scanned: Simpsons - Bart vs. The World
@@ -1284,6 +1288,9 @@ Scanned: Bubble And Squeak [AGA]
 Scanned: Bubble And Squeak [CD32]
 Scanned: Bubble And Squeak
 Scanned: Bubble And Squeak [AGA]
+Scanned: Bubble And Squeak [CD32]
+Scanned: Bubble And Squeak
+Scanned: Bubble And Squeak [AGA]
 Scanned: Bubble Bobble
 Scanned: Bubble Bobble (NTSC)
 Scanned: Bubble Dizzy
@@ -1360,6 +1367,7 @@ Scanned: Captain Fizz Meets the Blaster-Trons
 Scanned: Captain Fizz Meets the Blaster-Trons
 Scanned: Captain Planet and the Planeteers
 Scanned: Captive
+Scanned: Carcharodon - White Sharks
 Scanned: Carcharodon - White Sharks
 Scanned: Carcharodon - White Sharks
 Scanned: Cardiaxx (Electronic Zoo)
@@ -1938,6 +1946,7 @@ Scanned: Fatal Heritage (Deutsch)
 Scanned: Fatal Mission
 Scanned: Fate Gates Of Dawn (Deutsch)
 Scanned: Fate - Gates Of Dawn
+Scanned: Fate Gates Of Dawn Uncensored
 Scanned: Fatman - Caped Consumer
 Scanned: Fatman - Caped Consumer [AGA]
 Scanned: Fears [AGA]
@@ -2142,6 +2151,7 @@ Scanned: Geisha (Deutsch)
 Scanned: Geisha (Espanol)
 Scanned: Geisha (Francais)
 Scanned: Gemini Wing
+Scanned: Gem'X
 Scanned: Gem'X
 Scanned: Gem'X
 Scanned: Genesia
@@ -2373,6 +2383,7 @@ Scanned: Indiana Jones Last Crus Adv (Espanol)
 Scanned: Indiana Jones Last Crus Adv (Francais)
 Scanned: Indiana Jones Last Crus Adv (Italiano)
 Scanned: Indy Jones Last Crus Adv (NTSC)
+Scanned: Indiana Jones and the Temple Of Doom
 Scanned: Indiana Jones and the Temple Of Doom
 Scanned: Indianapolis 500 - The Simulation
 Scanned: Indigo (Files)
@@ -2738,6 +2749,11 @@ Scanned: Lombard RAC Rally (2 Disk)
 Scanned: Loom
 Scanned: Loom (Deutsch)
 Scanned: Loom (Espanol)
+Scanned: Loom (Francais)
+Scanned: Loom (Italiano)
+Scanned: Loom
+Scanned: Loom (Deutsch)
+Scanned: Loom (Espanol)
 Scanned: Loopz
 Scanned: Lords Of Chaos (& Data Disk)
 Scanned: Lords Of Doom
@@ -2919,6 +2935,8 @@ Scanned: Might & Magic 3 (Deutsch)
 Scanned: Mighty BombJack
 Scanned: Mike Read's Computer Pop Quiz
 Scanned: Mikro Mortal Tennis
+Scanned: Millenium (NTSC)
+Scanned: Millennium 2.2
 Scanned: Millennium 2.2
 Scanned: Mindbender
 Scanned: Mindfighter
@@ -3425,6 +3443,7 @@ Scanned: Rise Of The Robots [AGA]
 Scanned: Rise Of The Robots [CD32]
 Scanned: Rise Of The Robots [AGA]
 Scanned: Rise Of The Robots [CD32]
+Scanned: Rise Ofthe Robots
 Scanned: Risky Woods
 Scanned: Risk
 Scanned: Road Blasters
@@ -3577,6 +3596,7 @@ Scanned: Shadow Of The Beast II
 Scanned: Shadow Of The Beast 2 (NTSC)
 Scanned: Shadow Of The Beast 3 (NTSC)
 Scanned: Shadow Of The Beast (Demo)
+Scanned: Shadow Of The Beast
 Scanned: Shadow Of The Beast
 Scanned: Shadoworlds
 Scanned: Shadoworlds
@@ -4346,6 +4366,7 @@ Scanned: Wiz 'n' Liz
 Scanned: Wolfchild
 Scanned: Wolfpack
 Scanned: Wonderboy In Monsterland
+Scanned: Wonder Dog
 Scanned: Wonder Dog
 Scanned: Wonderland - Dream the Dream
 Scanned: Woody's World

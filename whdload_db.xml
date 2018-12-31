@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<whdbooter timestamp="2018-12-24 at 02:00:08">
+<whdbooter timestamp="2018-12-31 at 02:00:10">
 	<game filename="1001StolenIdeas_v1.0_Airwalk"  sha1="a24c60e66c9cdb5ca96075d9f4f4ad7eaa900d76">
 		<name>1001 Stolen Ideas</name>
 		<subpath>1001StolenIdeas</subpath>
@@ -16584,6 +16584,56 @@
 		
 		</hardware>
 	</game>
+	<game filename="Agony_v2.0_0960"  sha1="d13f0bef9b5bc89195102277a616d3667c6ec5b5">
+		<name>Agony</name>
+		<subpath>Agony</subpath>
+		<variant_uuid>f4745a1a-b9b1-5374-8c87-171a084dce9f</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>Agony.slave</slave_default>
+		<slave number="1">
+			<filename>Agony.slave</filename>
+			<datapath></datapath>
+			<custom>
+			BW
+			C1:X:Infinite lives:0
+			C2:X:Full power:0
+			C3:X:Skip introduction (PAL only):0
+			
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		JIT=FALSE
+		SCREEN_HEIGHT=240
+		
+		</hardware>
+	</game>
+	<game filename="Agony_v2.0_NTSC_2701"  sha1="1cdd02f8ca83c5be552c94c931f54816572b655f">
+		<name>Agony (NTSC)</name>
+		<subpath>AgonyNTSC</subpath>
+		<variant_uuid>6bd6422f-54c4-518b-abdb-59e983a5ebb0</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>AgonyNTSC.slave</slave_default>
+		<slave number="1">
+			<filename>AgonyNTSC.slave</filename>
+			<datapath></datapath>
+			<custom>
+			BW
+			C1:X:Infinite lives:0
+			C2:X:Full power:0
+			C3:X:Skip introduction (PAL only):0
+			
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
 	<game filename="AigleDOr_v1.1_Fr_2600"  sha1="8c603e8ec30561c6d18d803b52849bc1fb1dbd47">
 		<name>Aigle DOr (Francais)</name>
 		<subpath>AigleDOrFr</subpath>
@@ -20358,6 +20408,46 @@ joyport1_amiberry_custom_none_west=Space
 		
 		</hardware>
 	</game>
+	<game filename="BarneyBearGoesToSchool_v1.0"  sha1="937d7d54c0e314a1cc485ba6c04993b6a99e6b91">
+		<name>Barney Bear Goes To School</name>
+		<subpath>BarneyBearGoesToSchool</subpath>
+		<variant_uuid>1ed5be77-b4cd-5aa8-9dd9-43ace56c443b</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>BarneyBearGoesToSchool.Slave</slave_default>
+		<slave number="1">
+			<filename>BarneyBearGoesToSchool.Slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="BarneyBearGoesToSpace_v1.0_2077"  sha1="f084adc664ed48382cdd9fcf692dfb2a76381384">
+		<name>Barney Bear Goes To Space</name>
+		<subpath>BarneyBearGoesToSpace</subpath>
+		<variant_uuid>1534e19e-5f42-530a-8a15-4a1caed1b527</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>BarneyBearGoesToSpace.Slave</slave_default>
+		<slave number="1">
+			<filename>BarneyBearGoesToSpace.Slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
 	<game filename="BartVsTheSpaceMutants_v1.1_1Disk_0884"  sha1="eb4b8a09a893ed01dacf1c8a153194ad6d635041">
 		<name>Bart Vs Space Mutants (1 Disk)</name>
 		<subpath>BartVsSpaceMutants1Disk</subpath>
@@ -23664,6 +23754,70 @@ joyport1_amiberry_custom_none_west=Space
 		
 		</hardware>
 	</game>
+	<game filename="BubbleAndSqueak_v2.1-B_2398"  sha1="0897ad9b3ebc37a32f8165ac689217f30548794c">
+		<name>Bubble And Squeak</name>
+		<subpath>BubbleAndSqueak</subpath>
+		<variant_uuid>bef7493e-319c-5e50-8774-5b050b150bf0</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>BubbleAndSqueak.slave</slave_default>
+		<slave number="1">
+			<filename>BubbleAndSqueak.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			C1:X:Start with 2 button joystick:0
+			
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="BubbleAndSqueak_v2.1-B_AGA_0210"  sha1="5bc10582a8c2d870f77da8dbffe9f245fe7ccd60">
+		<name>Bubble And Squeak [AGA]</name>
+		<subpath>BubbleAndSqueakAGA</subpath>
+		<variant_uuid>5c3bf5f5-206c-5545-9d79-9330e460004b</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>BubbleAndSqueakAGA.slave</slave_default>
+		<slave number="1">
+			<filename>BubbleAndSqueakAGA.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			C1:X:Start with standard 1 button joystick:0
+			
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		CHIPSET=AGA
+		
+		</hardware>
+	</game>
+	<game filename="BubbleAndSqueak_v2.1-B_CD32"  sha1="d28852d45b37916fee5ed1156bd5f24c9cad7d1b">
+		<name>Bubble And Squeak [CD32]</name>
+		<subpath>BubbleAndSqueakCD32</subpath>
+		<variant_uuid>5c5e571d-f922-57f4-96fa-eac4ba5157ec</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>BubbleAndSqueakCD32.slave</slave_default>
+		<slave number="1">
+			<filename>BubbleAndSqueakCD32.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			C1:X:Start with standard 1 button joystick:0
+			
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
 	<game filename="BubbleAndSqueak_v2.1_2398"  sha1="f677d3da9ba3d8f7e3d59f7803c8b092fed6c5da">
 		<name>Bubble And Squeak</name>
 		<subpath>BubbleAndSqueak</subpath>
@@ -25118,6 +25272,30 @@ joyport1_amiberry_custom_none_west=Space
 		<slave number="1">
 			<filename>Carcharodon.Slave</filename>
 			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="Carcharodon_v1.1a_2389"  sha1="884cb9b6b3639c4b141850eecc968dc11ffebbaf">
+		<name>Carcharodon - White Sharks</name>
+		<subpath>Carcharodon</subpath>
+		<variant_uuid>a3112865-865f-589e-8478-e38b58a3822c</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>Carcharodon.slave</slave_default>
+		<slave number="1">
+			<filename>Carcharodon.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			C1:X:Unlimited Lives:0
+			C1:X:Invincibility:1
+			C1:X:Start with Full Extra Equipmemt:2
+			C1:X:In-Game Keys (Press HELP during game):3
+			C2:L:Start at Level:1,2,3,4,5,6
+			</custom>
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
@@ -35789,6 +35967,26 @@ joyport0_amiberry_custom_none_right_shoulder=Numpad 9
 		
 		</hardware>
 	</game>
+	<game filename="FateGatesOfDawn_v1.1_Uncensored"  sha1="4b362be47e9e8b56f75a357656d04b0ecfb278dc">
+		<name>Fate Gates Of Dawn Uncensored</name>
+		<subpath>FateGatesOfDawnUncensored</subpath>
+		<variant_uuid>ea49bb6e-b176-5959-acf3-e9a8677d3eb2</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>FateGatesofDawnUncensored.slave</slave_default>
+		<slave number="1">
+			<filename>FateGatesofDawnUncensored.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			C1:B:Disable 'Disk access' floppy disk pic
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
 	<game filename="FatmanTheCapedConsumer_v1.1_0943"  sha1="828da7955a514bad79069709f0cf46c3ab99c9d1">
 		<name>Fatman - Caped Consumer</name>
 		<subpath>FatmanCapedConsumer</subpath>
@@ -39674,6 +39872,32 @@ joyport0_amiberry_custom_none_right_shoulder=Numpad 9
 		<name>Gem'X</name>
 		<subpath>GemX</subpath>
 		<variant_uuid>6c4d48ac-5e77-58bd-a521-a3d93577c013</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>GemX.slave</slave_default>
+		<slave number="1">
+			<filename>GemX.slave</filename>
+			<datapath></datapath>
+			<custom>
+			C1:B:Unlimited Lives
+			C2:B:Unlimited Time
+			C3:B:Reset High Scores
+			
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		JIT=FALSE
+		SCREEN_HEIGHT=256
+		SCREEN_Y_OFFSET=0
+		
+		</hardware>
+	</game>
+	<game filename="GemX_v1.5a_1181"  sha1="5315c7f9ebaee8369f570ad4efd01e7840d0f87c">
+		<name>Gem'X</name>
+		<subpath>GemX</subpath>
+		<variant_uuid>dc350d0a-9acb-5605-b920-4d3dc4bae610</variant_uuid>
 		<slave_count>1</slave_count>
 		<slave_default>GemX.slave</slave_default>
 		<slave number="1">
@@ -44066,6 +44290,27 @@ joyport1_amiberry_custom_none_right_shoulder=F2
 		<slave number="1">
 			<filename>IndianaJonesTempleOfDoom.slave</filename>
 			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="IndianaJones&amp;TheTempleOfDoom_v1.1-B_0660"  sha1="c4a4261b8b9616550846d7850376a98d22efcef0">
+		<name>Indiana Jones and the Temple Of Doom</name>
+		<subpath>IndianaJonesTempleOfDoom</subpath>
+		<variant_uuid>72fff05f-e723-5134-971b-9623c9f603a7</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>IndianaJonesTempleOfDoom.slave</slave_default>
+		<slave number="1">
+			<filename>IndianaJonesTempleOfDoom.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			C1:X:Run as fast as possible:0
+			
+			</custom>
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
@@ -50920,6 +51165,106 @@ joyport0_amiberry_custom_none_right_shoulder=Return
 		
 		</hardware>
 	</game>
+	<game filename="Loom_v2.0-B_0618"  sha1="1cd0e751d30d9d6e17e062ed094787ba72a0f86b">
+		<name>Loom</name>
+		<subpath>Loom</subpath>
+		<variant_uuid>74bc4a52-6413-517a-8423-ac1786e6094b</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>Loom.slave</slave_default>
+		<slave number="1">
+			<filename>Loom.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="Loom_v2.0-B_De_0075"  sha1="6ab1e2483217aaa5fc9da97b99af6be6115e037d">
+		<name>Loom (Deutsch)</name>
+		<subpath>LoomDe</subpath>
+		<variant_uuid>b6b2ff54-688a-5420-9f7b-409fe81f5821</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>LoomDe.slave</slave_default>
+		<slave number="1">
+			<filename>LoomDe.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="Loom_v2.0-B_Es"  sha1="e3d68dfa86cff196847c039b95493dcf9c86be41">
+		<name>Loom (Espanol)</name>
+		<subpath>LoomEs</subpath>
+		<variant_uuid>eecf6765-7f90-54cb-a4ab-146ac0fcb4fb</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>LoomEs.slave</slave_default>
+		<slave number="1">
+			<filename>LoomEs.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="Loom_v2.0-B_Fr"  sha1="48ff1c4aec22ee00ea789fe59d69f46d8f979142">
+		<name>Loom (Francais)</name>
+		<subpath>LoomFr</subpath>
+		<variant_uuid>ee43729d-5a8e-53b6-9a8a-c107d379a55d</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>LoomFr.slave</slave_default>
+		<slave number="1">
+			<filename>LoomFr.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="Loom_v2.0-B_It"  sha1="d7673a7700a6207f5e6e7a2ff673252bd4e10a5a">
+		<name>Loom (Italiano)</name>
+		<subpath>LoomIt</subpath>
+		<variant_uuid>f6747631-7259-5748-a3fc-8db2eb5d1079</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>LoomIt.slave</slave_default>
+		<slave number="1">
+			<filename>LoomIt.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
 	<game filename="Loom_v2.0_0618"  sha1="f31c78ef7e4bacb77a3a2520bb3762d5b1b2b9bb">
 		<name>Loom</name>
 		<subpath>Loom</subpath>
@@ -54421,10 +54766,46 @@ joyport0_amiberry_custom_none_right_shoulder=Return
 		
 		</hardware>
 	</game>
+	<game filename="Millenium_v1.4_NTSC_2027"  sha1="4a796b10282897600ae766dba6bf62f4a15c07a5">
+		<name>Millenium (NTSC)</name>
+		<subpath>MilleniumNTSC</subpath>
+		<variant_uuid>a05139ff-59b5-5036-b739-9026a142e86c</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>MilleniumNTSC.Slave</slave_default>
+		<slave number="1">
+			<filename>MilleniumNTSC.Slave</filename>
+			<datapath></datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
 	<game filename="Millennium22_v1.3_0537"  sha1="cdbaef93855e8f795a98382414a1147127730c9a">
 		<name>Millennium 2.2</name>
 		<subpath>Millennium22</subpath>
 		<variant_uuid>0b21f5c4-918b-585c-a966-3703eec2b7c6</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>Millennium22.Slave</slave_default>
+		<slave number="1">
+			<filename>Millennium22.Slave</filename>
+			<datapath></datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=MOUSE
+		PORT0=MOUSE
+		PORT1=JOY
+		SCREEN_HEIGHT=216
+		SCREEN_Y_OFFSET=0
+		
+		</hardware>
+	</game>
+	<game filename="Millennium22_v1.4_0537"  sha1="b116176e91d67716942b83a123bf6311ea6acaa4">
+		<name>Millennium 2.2</name>
+		<subpath>Millennium22</subpath>
+		<variant_uuid>984448bf-e473-5cae-ba88-54c17f472112</variant_uuid>
 		<slave_count>1</slave_count>
 		<slave_default>Millennium22.Slave</slave_default>
 		<slave number="1">
@@ -63718,10 +64099,10 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		
 		</hardware>
 	</game>
-	<game filename="RiseOfTheRobots_v1.3_AGA_1763"  sha1="9dab87a1772233d1099a48f3a332608da1bdf7f3">
+	<game filename="RiseOfTheRobots_v1.3_AGA_1763"  sha1="609cb7a786f540389fca031fccbaccc8a1e22167">
 		<name>Rise Of The Robots [AGA]</name>
 		<subpath>RiseOfTheRobotsAGA</subpath>
-		<variant_uuid>0f065f92-c66e-5d2a-aa36-058ef807b29c</variant_uuid>
+		<variant_uuid>860b99e6-1b97-535f-bd61-984d5481ec9e</variant_uuid>
 		<slave_count>1</slave_count>
 		<slave_default>RiseOfTheRobotsAGA.slave</slave_default>
 		<slave number="1">
@@ -63736,14 +64117,31 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		
 		</hardware>
 	</game>
-	<game filename="RiseOfTheRobots_v1.3_CD32"  sha1="4fcbce69bccb7965cc72c456beba7f185f606f60">
+	<game filename="RiseOfTheRobots_v1.3_CD32"  sha1="93ddbf01e7fbf5f68249ab36e3b7f34049a0b3f3">
 		<name>Rise Of The Robots [CD32]</name>
 		<subpath>RiseOfTheRobotsCD32</subpath>
-		<variant_uuid>b314cb89-6758-58b0-aecb-490a7f646ddc</variant_uuid>
+		<variant_uuid>e903f6ac-a8e2-57b6-a423-63b62b0c2c42</variant_uuid>
 		<slave_count>1</slave_count>
 		<slave_default>RiseOfTheRobotsCD32.slave</slave_default>
 		<slave number="1">
 			<filename>RiseOfTheRobotsCD32.slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="RiseOfTheRobots_v1.4-B_1365"  sha1="68dffcd130abef445591fb82192ecbf125264ae8">
+		<name>Rise Ofthe Robots</name>
+		<subpath>RiseOftheRobots</subpath>
+		<variant_uuid>53b3f1c6-2187-5a11-a897-254833a00bf8</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>RiseOfTheRobots.slave</slave_default>
+		<slave number="1">
+			<filename>RiseOfTheRobots.slave</filename>
 			<datapath>data</datapath>
 		</slave>
 		<hardware>
@@ -66526,6 +66924,31 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		<slave_default>ShadowOfTheBeast.slave</slave_default>
 		<slave number="1">
 			<filename>ShadowOfTheBeast.slave</filename>
+			<datapath></datapath>
+			<custom>
+			C1:X:Skip introduction:0
+			
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		FAST_COPPER=FALSE
+		JIT=FALSE
+		SCREEN_HEIGHT=200
+		SCREEN_Y_OFFSET=0
+		
+		</hardware>
+	</game>
+	<game filename="ShadowOfTheBeast_v2.3_1357"  sha1="cb3b786df96d6f52c06a12183eee640bb9f884d8">
+		<name>Shadow Of The Beast</name>
+		<subpath>ShadowOfTheBeast</subpath>
+		<variant_uuid>a571091a-6989-5f88-8a45-7d9ffd0dfad7</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>ShadowOfTheBeast.Slave</slave_default>
+		<slave number="1">
+			<filename>ShadowOfTheBeast.Slave</filename>
 			<datapath></datapath>
 			<custom>
 			C1:X:Skip introduction:0
@@ -80814,6 +81237,31 @@ joyport0_amiberry_custom_none_right_stick=F7
 		<slave number="1">
 			<filename>WonderDog.Slave</filename>
 			<datapath></datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="WonderDog_v1.2_1201"  sha1="268f9c50a37a9fe1a42e8699c1e1b1298c00b390">
+		<name>Wonder Dog</name>
+		<subpath>WonderDog</subpath>
+		<variant_uuid>8881a068-f551-50c0-a49f-245a9dcdba19</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>WonderDog.slave</slave_default>
+		<slave number="1">
+			<filename>WonderDog.slave</filename>
+			<datapath></datapath>
+			<custom>
+			C1:X:Trainer Infinite Lives:0
+			C2:X:Trivial password table xAAAAAAA:0
+			C3:X:Force sound effects by default:0
+			C4:X:use blue/2nd button for jump:0
+			C5:X:alternate backgrounds palette:0
+			
+			</custom>
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK

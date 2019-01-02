@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<whdbooter timestamp="2018-12-31 at 02:00:10">
+<whdbooter timestamp="2019-01-02 at 03:00:08">
 	<game filename="1001StolenIdeas_v1.0_Airwalk"  sha1="a24c60e66c9cdb5ca96075d9f4f4ad7eaa900d76">
 		<name>1001 Stolen Ideas</name>
 		<subpath>1001StolenIdeas</subpath>
@@ -85692,6 +85692,147 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 			<datapath>data</datapath>
 			<custom>
 			C1:B:Skip Title
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="BubbleAndSqueak_v2.2_2398"  sha1="81a25255b674de84f746b64f26038e9159625e1f">
+		<name>Bubble And Squeak</name>
+		<subpath>BubbleAndSqueak</subpath>
+		<variant_uuid>57f4b32e-520b-5c22-9615-39a84e20fcfb</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>BubbleAndSqueak.slave</slave_default>
+		<slave number="1">
+			<filename>BubbleAndSqueak.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			C1:X:Start with 2 button joystick:0
+			
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="Loom_v2.0-C_0618"  sha1="46bd828cdcb5eea467cf6ab6f3c0b95b94f87551">
+		<name>Loom</name>
+		<subpath>Loom</subpath>
+		<variant_uuid>3318adbd-5b03-5bd1-9cbb-aff50fcac746</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>Loom.slave</slave_default>
+		<slave number="1">
+			<filename>Loom.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="Loom_v2.0-C_De_0075"  sha1="c2f87d250faed790f4222f65b37d64ec96ad33b8">
+		<name>Loom (Deutsch)</name>
+		<subpath>LoomDe</subpath>
+		<variant_uuid>e47ccd8b-b759-5431-a59f-5570f05cb698</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>LoomDe.slave</slave_default>
+		<slave number="1">
+			<filename>LoomDe.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="Loom_v2.0-C_De_CDTV"  sha1="cf72304298e7ac95cdd14eb8926e9117c8bf427e">
+		<name>Loom De [CDTV]</name>
+		<subpath>LoomDeCDTV</subpath>
+		<variant_uuid>9c700e99-f796-52fd-9d6e-4318d0b9e249</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>LoomDeCDTV.slave</slave_default>
+		<slave number="1">
+			<filename>LoomDeCDTV.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="Loom_v2.0-C_Es"  sha1="9c6c583b41cf08f2fe95fee3490d643a4d4f8544">
+		<name>Loom (Espanol)</name>
+		<subpath>LoomEs</subpath>
+		<variant_uuid>1b3ff5f4-9c4f-5912-92b9-5fe2bad86a6b</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>LoomEs.slave</slave_default>
+		<slave number="1">
+			<filename>LoomEs.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="Loom_v2.0-C_Fr"  sha1="0bf085dd1e82b8df7b40c6e3eec0cecd396ca6b6">
+		<name>Loom (Francais)</name>
+		<subpath>LoomFr</subpath>
+		<variant_uuid>b92ccee1-e63c-5fe2-8764-ee4c226530ad</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>LoomFr.slave</slave_default>
+		<slave number="1">
+			<filename>LoomFr.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="Loom_v2.0-C_It"  sha1="893cd30bc0db481b60eeb7380982023284dee1f2">
+		<name>Loom (Italiano)</name>
+		<subpath>LoomIt</subpath>
+		<variant_uuid>f6e55e84-fd47-511f-9cee-dc2aa874d556</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>LoomIt.slave</slave_default>
+		<slave number="1">
+			<filename>LoomIt.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			
 			</custom>
 		</slave>
 		<hardware>

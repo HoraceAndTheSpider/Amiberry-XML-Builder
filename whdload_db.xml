@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<whdbooter timestamp="2019-01-02 at 03:00:08">
+<whdbooter timestamp="2019-01-04 at 03:00:08">
 	<game filename="1001StolenIdeas_v1.0_Airwalk"  sha1="a24c60e66c9cdb5ca96075d9f4f4ad7eaa900d76">
 		<name>1001 Stolen Ideas</name>
 		<subpath>1001StolenIdeas</subpath>
@@ -85830,6 +85830,162 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		<slave_default>LoomIt.slave</slave_default>
 		<slave number="1">
 			<filename>LoomIt.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="BreakOutRevolution_v1.0_AGA"  sha1="5f07d177627d985c3d20e2cd62616112ce4625d8">
+		<name>Break Out Revolution [AGA]</name>
+		<subpath>BreakOutRevolutionAGA</subpath>
+		<variant_uuid>091656a9-4411-5714-bb3d-57fb2ddfba8f</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>BreakOutRevolutionAGA.slave</slave_default>
+		<slave number="1">
+			<filename>BreakOutRevolutionAGA.slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="IndianaJones&amp;TheLastCrusadeAdventure_v1.5_De_0343"  sha1="9b7747e671b2092bf90b04b90bf231b64fc2bbe7">
+		<name>Indiana Jones Last Crus Adv (Deutsch)</name>
+		<subpath>IndianaJonesLastCrusAdvDe</subpath>
+		<variant_uuid>7b1c3e3c-aa61-5920-81d8-2552a23807c5</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>IndianaJonesLastCrusAdvDe.slave</slave_default>
+		<slave number="1">
+			<filename>IndianaJonesLastCrusAdvDe.slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="IndianaJones&amp;TheLastCrusadeAdventure_v1.5_De_CDTV"  sha1="419a26048f17cb25cbfeb45c2d8df56d445c1c3c">
+		<name>Indy Last Crus Adv De [CDTV]</name>
+		<subpath>IndyLastCrusAdvDeCDTV</subpath>
+		<variant_uuid>7b1c3e3c-aa61-5920-81d8-2552a23807c5</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>IndyLastCrusAdvDeCDTV.slave</slave_default>
+		<slave number="1">
+			<filename>IndyLastCrusAdvDeCDTV.slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="IndianaJones&amp;TheLastCrusadeAdventure_v1.5_Es"  sha1="31f997a51d014c6390d53b68a04661a5a29cf297">
+		<name>Indiana Jones Last Crus Adv (Espanol)</name>
+		<subpath>IndianaJonesLastCrusAdvEs</subpath>
+		<variant_uuid>79456d65-2e07-5038-909b-c63c337a606e</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>IndianaJonesLastCrusAdvEs.slave</slave_default>
+		<slave number="1">
+			<filename>IndianaJonesLastCrusAdvEs.slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="IndianaJones&amp;TheLastCrusadeAdventure_v1.5_Fr_1986"  sha1="f8c0c05031d2ca114786f65bf8963479feb1c58d">
+		<name>Indiana Jones Last Crus Adv (Francais)</name>
+		<subpath>IndianaJonesLastCrusAdvFr</subpath>
+		<variant_uuid>6bd993cf-877f-5c22-92d8-63eebcefe762</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>IndianaJonesLastCrusAdvFr.slave</slave_default>
+		<slave number="1">
+			<filename>IndianaJonesLastCrusAdvFr.slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="IndianaJones&amp;TheLastCrusadeAdventure_v1.5_It_2323"  sha1="3ccb4bd850999d22c29be35495b34e22ecd157d6">
+		<name>Indiana Jones Last Crus Adv (Italiano)</name>
+		<subpath>IndianaJonesLastCrusAdvIt</subpath>
+		<variant_uuid>126348e3-d4da-5477-8481-7d34dafc3678</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>IndianaJonesLastCrusAdvIt.slave</slave_default>
+		<slave number="1">
+			<filename>IndianaJonesLastCrusAdvIt.slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="IndianaJones&amp;TheLastCrusadeAdventure_v1.5_NTSC_1990"  sha1="896b79f21a0e9104cc9fa766caebf6ed36139139">
+		<name>Indy Jones Last Crus Adv (NTSC)</name>
+		<subpath>IndyJonesLastCrusAdvNTSC</subpath>
+		<variant_uuid>f3e03797-2eb1-53c6-b7f8-7af8259a2b44</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>IndyJonesLastCrusAdvNTSC.slave</slave_default>
+		<slave number="1">
+			<filename>IndyJonesLastCrusAdvNTSC.slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="Prehistorik_v2.0_0557"  sha1="3e02613d301be58f2e2aa8bcce26ffa03b8b24b3">
+		<name>Prehistorik</name>
+		<subpath>Prehistorik</subpath>
+		<variant_uuid>0c4bcaa6-2468-5eda-8be8-d70f3c242a73</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>Prehistorik.slave</slave_default>
+		<slave number="1">
+			<filename>Prehistorik.slave</filename>
+			<datapath></datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="Prehistorik_v2.0_CDTV"  sha1="3fab0345b635401e20fc75f02aa86c3ebfb7fa79">
+		<name>Prehistorik [CDTV]</name>
+		<subpath>PrehistorikCDTV</subpath>
+		<variant_uuid>506d520b-4a1b-5693-adbf-5fab19a12a51</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>PrehistorikCDTV.slave</slave_default>
+		<slave number="1">
+			<filename>PrehistorikCDTV.slave</filename>
 			<datapath>data</datapath>
 			<custom>
 			

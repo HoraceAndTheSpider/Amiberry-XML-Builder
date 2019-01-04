@@ -1,4 +1,4 @@
-Scanned file log: 2019-01-02 at 03:00:08
+Scanned file log: 2019-01-04 at 03:00:09
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
 Skipped: 24HourEFix_v1.0_Quartz.lha
@@ -1267,6 +1267,7 @@ Skipped: Brat_v2.0.lha
 Skipped: Breach2_v1.0_1195.lha
 Skipped: Breach_v1.0_1487.lha
 Skipped: Breach_v1.0_NTSC_1487.lha
+Scanned: Break Out Revolution [AGA]
 Skipped: BreathlessDemo_v1.1.lha
 Skipped: Breathless_v1.1_AGA_0178.lha
 Skipped: Breathless_v1.1_AGA_68060_0178.lha
@@ -1291,7 +1292,7 @@ Skipped: BubbleAndSqueak_v2.1-B_AGA_0210.lha
 Skipped: BubbleAndSqueak_v2.1-B_CD32.lha
 Skipped: BubbleAndSqueak_v2.1_2398.lha
 Skipped: BubbleAndSqueak_v2.1_AGA_0210.lha
-Scanned: Bubble And Squeak
+Skipped: BubbleAndSqueak_v2.2_2398.lha
 Skipped: BubbleBobble_v1.1_2518.lha
 Skipped: BubbleBobble_v1.1_NTSC_1342.lha
 Skipped: BubbleDizzy_v1.1_1644.lha
@@ -2384,6 +2385,12 @@ Skipped: IndianaJones&TheLastCrusadeAdventure_v1.4_Es.lha
 Skipped: IndianaJones&TheLastCrusadeAdventure_v1.4_Fr_1986.lha
 Skipped: IndianaJones&TheLastCrusadeAdventure_v1.4_It_2323.lha
 Skipped: IndianaJones&TheLastCrusadeAdventure_v1.4_NTSC_1990.lha
+Scanned: Indiana Jones Last Crus Adv (Deutsch)
+Scanned: Indy Last Crus Adv De [CDTV]
+Scanned: Indiana Jones Last Crus Adv (Espanol)
+Scanned: Indiana Jones Last Crus Adv (Francais)
+Scanned: Indiana Jones Last Crus Adv (Italiano)
+Scanned: Indy Jones Last Crus Adv (NTSC)
 Skipped: IndianaJones&TheTempleOfDoom_v1.0_0660.lha
 Skipped: IndianaJones&TheTempleOfDoom_v1.1-B_0660.lha
 Skipped: Indianapolis500_v2.0_0686.lha
@@ -2752,12 +2759,12 @@ Skipped: Loom_v2.0-B_De_0075.lha
 Skipped: Loom_v2.0-B_Es.lha
 Skipped: Loom_v2.0-B_Fr.lha
 Skipped: Loom_v2.0-B_It.lha
-Scanned: Loom
-Scanned: Loom (Deutsch)
-Scanned: Loom De [CDTV]
-Scanned: Loom (Espanol)
-Scanned: Loom (Francais)
-Scanned: Loom (Italiano)
+Skipped: Loom_v2.0-C_0618.lha
+Skipped: Loom_v2.0-C_De_0075.lha
+Skipped: Loom_v2.0-C_De_CDTV.lha
+Skipped: Loom_v2.0-C_Es.lha
+Skipped: Loom_v2.0-C_Fr.lha
+Skipped: Loom_v2.0-C_It.lha
 Skipped: Loom_v2.0_0618.lha
 Skipped: Loom_v2.0_De_0075.lha
 Skipped: Loom_v2.0_Es.lha
@@ -3203,6 +3210,7 @@ Skipped: Plutos_v1.1_NTSC_0554.lha
 Skipped: PoliceQuest3_v1.3_De.lha
 Skipped: Populous_v1.1_NTSC_0070.lha
 Skipped: Power_v1.1_1284.lha
+Skipped: PrimalRage_v1.1_AGA.lha
 Skipped: ProjectX_v1.3_0886.lha
 Skipped: ProTennisTour_v2.2_1080.lha
 Skipped: PinballFantasies_v2.6c_AGA_0047.lha
@@ -3297,6 +3305,8 @@ Skipped: Predator2_v1.1.lha
 Skipped: Predator_v1.0.lha
 Skipped: PrehistoricTale_v1.1.lha
 Skipped: Prehistorik_v1.3_0557.lha
+Scanned: Prehistorik
+Scanned: Prehistorik [CDTV]
 Skipped: Premiere_v2.0_1553.lha
 Skipped: Premiere_v2.0_CD32.lha
 Skipped: PremierManager2_v1.0_1130.lha
@@ -3304,7 +3314,6 @@ Skipped: PremierManager3Deluxe_v1.0_2889.lha
 Skipped: PremierManager3_v1.0_2127.lha
 Skipped: PremierManager3_v1.0_AGA_2021.lha
 Skipped: PremierManager_v1.0_2115.lha
-Skipped: PrimalRage_v1.1_AGA.lha
 Skipped: PrimeMover_v1.1_0694.lha
 Skipped: PrinceDePerse_v3.1_Fr_2290.lha
 Skipped: PrinceOfPersia_v3.1_1823.lha

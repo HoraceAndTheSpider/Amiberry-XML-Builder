@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<whdbooter timestamp="2019-01-04 at 03:00:08">
+<whdbooter timestamp="2019-01-07 at 02:00:07">
 	<game filename="1001StolenIdeas_v1.0_Airwalk"  sha1="a24c60e66c9cdb5ca96075d9f4f4ad7eaa900d76">
 		<name>1001 Stolen Ideas</name>
 		<subpath>1001StolenIdeas</subpath>
@@ -23403,6 +23403,23 @@ joyport1_amiberry_custom_none_west=Space
 		
 		</hardware>
 	</game>
+	<game filename="BreakOutRevolution_v1.0_AGA"  sha1="5f07d177627d985c3d20e2cd62616112ce4625d8">
+		<name>Break Out Revolution [AGA]</name>
+		<subpath>BreakOutRevolutionAGA</subpath>
+		<variant_uuid>091656a9-4411-5714-bb3d-57fb2ddfba8f</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>BreakOutRevolutionAGA.slave</slave_default>
+		<slave number="1">
+			<filename>BreakOutRevolutionAGA.slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
 	<game filename="BreathlessDemo_v1.1"  sha1="7a2911cb4b70864b931f2d849d62cd40b9635500">
 		<name>Breathless (Demo)</name>
 		<subpath>BreathlessDemo</subpath>
@@ -23775,10 +23792,10 @@ joyport1_amiberry_custom_none_west=Space
 		
 		</hardware>
 	</game>
-	<game filename="BubbleAndSqueak_v2.1-B_AGA_0210"  sha1="5bc10582a8c2d870f77da8dbffe9f245fe7ccd60">
+	<game filename="BubbleAndSqueak_v2.1-B_AGA_0210"  sha1="54b2b93e3379b6d49febc09a7d0d98ec4c327941">
 		<name>Bubble And Squeak [AGA]</name>
 		<subpath>BubbleAndSqueakAGA</subpath>
-		<variant_uuid>5c3bf5f5-206c-5545-9d79-9330e460004b</variant_uuid>
+		<variant_uuid>148e4662-c456-5f97-a9e5-c9df90a057d4</variant_uuid>
 		<slave_count>1</slave_count>
 		<slave_default>BubbleAndSqueakAGA.slave</slave_default>
 		<slave number="1">
@@ -23797,10 +23814,10 @@ joyport1_amiberry_custom_none_west=Space
 		
 		</hardware>
 	</game>
-	<game filename="BubbleAndSqueak_v2.1-B_CD32"  sha1="d28852d45b37916fee5ed1156bd5f24c9cad7d1b">
+	<game filename="BubbleAndSqueak_v2.1-B_CD32"  sha1="a664edff80ff169c9bbf955a31f9aa0737bb6262">
 		<name>Bubble And Squeak [CD32]</name>
 		<subpath>BubbleAndSqueakCD32</subpath>
-		<variant_uuid>5c5e571d-f922-57f4-96fa-eac4ba5157ec</variant_uuid>
+		<variant_uuid>489db258-8e71-54a2-a78a-d32de7fbb062</variant_uuid>
 		<slave_count>1</slave_count>
 		<slave_default>BubbleAndSqueakCD32.slave</slave_default>
 		<slave number="1">
@@ -23858,6 +23875,27 @@ joyport1_amiberry_custom_none_west=Space
 		PORT0=JOY
 		PORT1=JOY
 		CHIPSET=AGA
+		
+		</hardware>
+	</game>
+	<game filename="BubbleAndSqueak_v2.2_2398"  sha1="81a25255b674de84f746b64f26038e9159625e1f">
+		<name>Bubble And Squeak</name>
+		<subpath>BubbleAndSqueak</subpath>
+		<variant_uuid>57f4b32e-520b-5c22-9615-39a84e20fcfb</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>BubbleAndSqueak.slave</slave_default>
+		<slave number="1">
+			<filename>BubbleAndSqueak.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			C1:X:Start with 2 button joystick:0
+			
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
 		
 		</hardware>
 	</game>
@@ -44281,6 +44319,108 @@ joyport1_amiberry_custom_none_right_shoulder=F2
 		
 		</hardware>
 	</game>
+	<game filename="IndianaJones&amp;TheLastCrusadeAdventure_v1.5_De_0343"  sha1="9b7747e671b2092bf90b04b90bf231b64fc2bbe7">
+		<name>Indiana Jones Last Crus Adv (Deutsch)</name>
+		<subpath>IndianaJonesLastCrusAdvDe</subpath>
+		<variant_uuid>7b1c3e3c-aa61-5920-81d8-2552a23807c5</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>IndianaJonesLastCrusAdvDe.slave</slave_default>
+		<slave number="1">
+			<filename>IndianaJonesLastCrusAdvDe.slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="IndianaJones&amp;TheLastCrusadeAdventure_v1.5_De_CDTV"  sha1="419a26048f17cb25cbfeb45c2d8df56d445c1c3c">
+		<name>Indy Last Crus Adv De [CDTV]</name>
+		<subpath>IndyLastCrusAdvDeCDTV</subpath>
+		<variant_uuid>7b1c3e3c-aa61-5920-81d8-2552a23807c5</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>IndyLastCrusAdvDeCDTV.slave</slave_default>
+		<slave number="1">
+			<filename>IndyLastCrusAdvDeCDTV.slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="IndianaJones&amp;TheLastCrusadeAdventure_v1.5_Es"  sha1="31f997a51d014c6390d53b68a04661a5a29cf297">
+		<name>Indiana Jones Last Crus Adv (Espanol)</name>
+		<subpath>IndianaJonesLastCrusAdvEs</subpath>
+		<variant_uuid>79456d65-2e07-5038-909b-c63c337a606e</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>IndianaJonesLastCrusAdvEs.slave</slave_default>
+		<slave number="1">
+			<filename>IndianaJonesLastCrusAdvEs.slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="IndianaJones&amp;TheLastCrusadeAdventure_v1.5_Fr_1986"  sha1="f8c0c05031d2ca114786f65bf8963479feb1c58d">
+		<name>Indiana Jones Last Crus Adv (Francais)</name>
+		<subpath>IndianaJonesLastCrusAdvFr</subpath>
+		<variant_uuid>6bd993cf-877f-5c22-92d8-63eebcefe762</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>IndianaJonesLastCrusAdvFr.slave</slave_default>
+		<slave number="1">
+			<filename>IndianaJonesLastCrusAdvFr.slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="IndianaJones&amp;TheLastCrusadeAdventure_v1.5_It_2323"  sha1="3ccb4bd850999d22c29be35495b34e22ecd157d6">
+		<name>Indiana Jones Last Crus Adv (Italiano)</name>
+		<subpath>IndianaJonesLastCrusAdvIt</subpath>
+		<variant_uuid>126348e3-d4da-5477-8481-7d34dafc3678</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>IndianaJonesLastCrusAdvIt.slave</slave_default>
+		<slave number="1">
+			<filename>IndianaJonesLastCrusAdvIt.slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="IndianaJones&amp;TheLastCrusadeAdventure_v1.5_NTSC_1990"  sha1="896b79f21a0e9104cc9fa766caebf6ed36139139">
+		<name>Indy Jones Last Crus Adv (NTSC)</name>
+		<subpath>IndyJonesLastCrusAdvNTSC</subpath>
+		<variant_uuid>f3e03797-2eb1-53c6-b7f8-7af8259a2b44</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>IndyJonesLastCrusAdvNTSC.slave</slave_default>
+		<slave number="1">
+			<filename>IndyJonesLastCrusAdvNTSC.slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
 	<game filename="IndianaJones&amp;TheTempleOfDoom_v1.0_0660"  sha1="6b2989783a7cfaddd0243a60955e7897b36f0c6b">
 		<name>Indiana Jones and the Temple Of Doom</name>
 		<subpath>IndianaJonesTempleOfDoom</subpath>
@@ -51249,6 +51389,126 @@ joyport0_amiberry_custom_none_right_shoulder=Return
 		<name>Loom (Italiano)</name>
 		<subpath>LoomIt</subpath>
 		<variant_uuid>f6747631-7259-5748-a3fc-8db2eb5d1079</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>LoomIt.slave</slave_default>
+		<slave number="1">
+			<filename>LoomIt.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="Loom_v2.0-C_0618"  sha1="46bd828cdcb5eea467cf6ab6f3c0b95b94f87551">
+		<name>Loom</name>
+		<subpath>Loom</subpath>
+		<variant_uuid>3318adbd-5b03-5bd1-9cbb-aff50fcac746</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>Loom.slave</slave_default>
+		<slave number="1">
+			<filename>Loom.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="Loom_v2.0-C_De_0075"  sha1="c2f87d250faed790f4222f65b37d64ec96ad33b8">
+		<name>Loom (Deutsch)</name>
+		<subpath>LoomDe</subpath>
+		<variant_uuid>e47ccd8b-b759-5431-a59f-5570f05cb698</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>LoomDe.slave</slave_default>
+		<slave number="1">
+			<filename>LoomDe.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="Loom_v2.0-C_De_CDTV"  sha1="cf72304298e7ac95cdd14eb8926e9117c8bf427e">
+		<name>Loom De [CDTV]</name>
+		<subpath>LoomDeCDTV</subpath>
+		<variant_uuid>9c700e99-f796-52fd-9d6e-4318d0b9e249</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>LoomDeCDTV.slave</slave_default>
+		<slave number="1">
+			<filename>LoomDeCDTV.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="Loom_v2.0-C_Es"  sha1="9c6c583b41cf08f2fe95fee3490d643a4d4f8544">
+		<name>Loom (Espanol)</name>
+		<subpath>LoomEs</subpath>
+		<variant_uuid>1b3ff5f4-9c4f-5912-92b9-5fe2bad86a6b</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>LoomEs.slave</slave_default>
+		<slave number="1">
+			<filename>LoomEs.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="Loom_v2.0-C_Fr"  sha1="0bf085dd1e82b8df7b40c6e3eec0cecd396ca6b6">
+		<name>Loom (Francais)</name>
+		<subpath>LoomFr</subpath>
+		<variant_uuid>b92ccee1-e63c-5fe2-8764-ee4c226530ad</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>LoomFr.slave</slave_default>
+		<slave number="1">
+			<filename>LoomFr.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="Loom_v2.0-C_It"  sha1="893cd30bc0db481b60eeb7380982023284dee1f2">
+		<name>Loom (Italiano)</name>
+		<subpath>LoomIt</subpath>
+		<variant_uuid>f6e55e84-fd47-511f-9cee-dc2aa874d556</variant_uuid>
 		<slave_count>1</slave_count>
 		<slave_default>LoomIt.slave</slave_default>
 		<slave number="1">
@@ -59589,6 +59849,23 @@ joyport0_amiberry_custom_none_start=Space
 		
 		</hardware>
 	</game>
+	<game filename="PrimalRage_v1.1_AGA"  sha1="86eecdff65aba88bd8c1a4b8e690cc6ff896cba5">
+		<name>Primal Rage [AGA]</name>
+		<subpath>PrimalRageAGA</subpath>
+		<variant_uuid>02131ff7-4fdc-53aa-84d1-aa94b10a69ee</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>PrimalRageAGA.Slave</slave_default>
+		<slave number="1">
+			<filename>PrimalRageAGA.Slave</filename>
+			<datapath></datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
 	<game filename="ProjectX_v1.3_0886"  sha1="5f59865a4ee15bbbbb07efdd3f0d2b726fbeb7bc">
 		<name>Project-X</name>
 		<subpath>ProjectX</subpath>
@@ -61309,6 +61586,43 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		
 		</hardware>
 	</game>
+	<game filename="Prehistorik_v2.0_0557"  sha1="3e02613d301be58f2e2aa8bcce26ffa03b8b24b3">
+		<name>Prehistorik</name>
+		<subpath>Prehistorik</subpath>
+		<variant_uuid>0c4bcaa6-2468-5eda-8be8-d70f3c242a73</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>Prehistorik.slave</slave_default>
+		<slave number="1">
+			<filename>Prehistorik.slave</filename>
+			<datapath></datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="Prehistorik_v2.0_CDTV"  sha1="3fab0345b635401e20fc75f02aa86c3ebfb7fa79">
+		<name>Prehistorik [CDTV]</name>
+		<subpath>PrehistorikCDTV</subpath>
+		<variant_uuid>506d520b-4a1b-5693-adbf-5fab19a12a51</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>PrehistorikCDTV.slave</slave_default>
+		<slave number="1">
+			<filename>PrehistorikCDTV.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
 	<game filename="Premiere_v2.0_1553"  sha1="b894148357a5bc92cc2d318ae87977d227ac49b8">
 		<name>Premiere</name>
 		<subpath>Premiere</subpath>
@@ -61424,23 +61738,6 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		<slave number="1">
 			<filename>PremierManager.Slave</filename>
 			<datapath>data</datapath>
-		</slave>
-		<hardware>
-		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
-		
-		</hardware>
-	</game>
-	<game filename="PrimalRage_v1.1_AGA"  sha1="86eecdff65aba88bd8c1a4b8e690cc6ff896cba5">
-		<name>Primal Rage [AGA]</name>
-		<subpath>PrimalRageAGA</subpath>
-		<variant_uuid>02131ff7-4fdc-53aa-84d1-aa94b10a69ee</variant_uuid>
-		<slave_count>1</slave_count>
-		<slave_default>PrimalRageAGA.Slave</slave_default>
-		<slave number="1">
-			<filename>PrimalRageAGA.Slave</filename>
-			<datapath></datapath>
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
@@ -85692,303 +85989,6 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 			<datapath>data</datapath>
 			<custom>
 			C1:B:Skip Title
-			</custom>
-		</slave>
-		<hardware>
-		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
-		
-		</hardware>
-	</game>
-	<game filename="BubbleAndSqueak_v2.2_2398"  sha1="81a25255b674de84f746b64f26038e9159625e1f">
-		<name>Bubble And Squeak</name>
-		<subpath>BubbleAndSqueak</subpath>
-		<variant_uuid>57f4b32e-520b-5c22-9615-39a84e20fcfb</variant_uuid>
-		<slave_count>1</slave_count>
-		<slave_default>BubbleAndSqueak.slave</slave_default>
-		<slave number="1">
-			<filename>BubbleAndSqueak.slave</filename>
-			<datapath>data</datapath>
-			<custom>
-			C1:X:Start with 2 button joystick:0
-			
-			</custom>
-		</slave>
-		<hardware>
-		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
-		
-		</hardware>
-	</game>
-	<game filename="Loom_v2.0-C_0618"  sha1="46bd828cdcb5eea467cf6ab6f3c0b95b94f87551">
-		<name>Loom</name>
-		<subpath>Loom</subpath>
-		<variant_uuid>3318adbd-5b03-5bd1-9cbb-aff50fcac746</variant_uuid>
-		<slave_count>1</slave_count>
-		<slave_default>Loom.slave</slave_default>
-		<slave number="1">
-			<filename>Loom.slave</filename>
-			<datapath>data</datapath>
-			<custom>
-			
-			</custom>
-		</slave>
-		<hardware>
-		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
-		
-		</hardware>
-	</game>
-	<game filename="Loom_v2.0-C_De_0075"  sha1="c2f87d250faed790f4222f65b37d64ec96ad33b8">
-		<name>Loom (Deutsch)</name>
-		<subpath>LoomDe</subpath>
-		<variant_uuid>e47ccd8b-b759-5431-a59f-5570f05cb698</variant_uuid>
-		<slave_count>1</slave_count>
-		<slave_default>LoomDe.slave</slave_default>
-		<slave number="1">
-			<filename>LoomDe.slave</filename>
-			<datapath>data</datapath>
-			<custom>
-			
-			</custom>
-		</slave>
-		<hardware>
-		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
-		
-		</hardware>
-	</game>
-	<game filename="Loom_v2.0-C_De_CDTV"  sha1="cf72304298e7ac95cdd14eb8926e9117c8bf427e">
-		<name>Loom De [CDTV]</name>
-		<subpath>LoomDeCDTV</subpath>
-		<variant_uuid>9c700e99-f796-52fd-9d6e-4318d0b9e249</variant_uuid>
-		<slave_count>1</slave_count>
-		<slave_default>LoomDeCDTV.slave</slave_default>
-		<slave number="1">
-			<filename>LoomDeCDTV.slave</filename>
-			<datapath>data</datapath>
-			<custom>
-			
-			</custom>
-		</slave>
-		<hardware>
-		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
-		
-		</hardware>
-	</game>
-	<game filename="Loom_v2.0-C_Es"  sha1="9c6c583b41cf08f2fe95fee3490d643a4d4f8544">
-		<name>Loom (Espanol)</name>
-		<subpath>LoomEs</subpath>
-		<variant_uuid>1b3ff5f4-9c4f-5912-92b9-5fe2bad86a6b</variant_uuid>
-		<slave_count>1</slave_count>
-		<slave_default>LoomEs.slave</slave_default>
-		<slave number="1">
-			<filename>LoomEs.slave</filename>
-			<datapath>data</datapath>
-			<custom>
-			
-			</custom>
-		</slave>
-		<hardware>
-		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
-		
-		</hardware>
-	</game>
-	<game filename="Loom_v2.0-C_Fr"  sha1="0bf085dd1e82b8df7b40c6e3eec0cecd396ca6b6">
-		<name>Loom (Francais)</name>
-		<subpath>LoomFr</subpath>
-		<variant_uuid>b92ccee1-e63c-5fe2-8764-ee4c226530ad</variant_uuid>
-		<slave_count>1</slave_count>
-		<slave_default>LoomFr.slave</slave_default>
-		<slave number="1">
-			<filename>LoomFr.slave</filename>
-			<datapath>data</datapath>
-			<custom>
-			
-			</custom>
-		</slave>
-		<hardware>
-		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
-		
-		</hardware>
-	</game>
-	<game filename="Loom_v2.0-C_It"  sha1="893cd30bc0db481b60eeb7380982023284dee1f2">
-		<name>Loom (Italiano)</name>
-		<subpath>LoomIt</subpath>
-		<variant_uuid>f6e55e84-fd47-511f-9cee-dc2aa874d556</variant_uuid>
-		<slave_count>1</slave_count>
-		<slave_default>LoomIt.slave</slave_default>
-		<slave number="1">
-			<filename>LoomIt.slave</filename>
-			<datapath>data</datapath>
-			<custom>
-			
-			</custom>
-		</slave>
-		<hardware>
-		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
-		
-		</hardware>
-	</game>
-	<game filename="BreakOutRevolution_v1.0_AGA"  sha1="5f07d177627d985c3d20e2cd62616112ce4625d8">
-		<name>Break Out Revolution [AGA]</name>
-		<subpath>BreakOutRevolutionAGA</subpath>
-		<variant_uuid>091656a9-4411-5714-bb3d-57fb2ddfba8f</variant_uuid>
-		<slave_count>1</slave_count>
-		<slave_default>BreakOutRevolutionAGA.slave</slave_default>
-		<slave number="1">
-			<filename>BreakOutRevolutionAGA.slave</filename>
-			<datapath>data</datapath>
-		</slave>
-		<hardware>
-		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
-		
-		</hardware>
-	</game>
-	<game filename="IndianaJones&amp;TheLastCrusadeAdventure_v1.5_De_0343"  sha1="9b7747e671b2092bf90b04b90bf231b64fc2bbe7">
-		<name>Indiana Jones Last Crus Adv (Deutsch)</name>
-		<subpath>IndianaJonesLastCrusAdvDe</subpath>
-		<variant_uuid>7b1c3e3c-aa61-5920-81d8-2552a23807c5</variant_uuid>
-		<slave_count>1</slave_count>
-		<slave_default>IndianaJonesLastCrusAdvDe.slave</slave_default>
-		<slave number="1">
-			<filename>IndianaJonesLastCrusAdvDe.slave</filename>
-			<datapath>data</datapath>
-		</slave>
-		<hardware>
-		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
-		
-		</hardware>
-	</game>
-	<game filename="IndianaJones&amp;TheLastCrusadeAdventure_v1.5_De_CDTV"  sha1="419a26048f17cb25cbfeb45c2d8df56d445c1c3c">
-		<name>Indy Last Crus Adv De [CDTV]</name>
-		<subpath>IndyLastCrusAdvDeCDTV</subpath>
-		<variant_uuid>7b1c3e3c-aa61-5920-81d8-2552a23807c5</variant_uuid>
-		<slave_count>1</slave_count>
-		<slave_default>IndyLastCrusAdvDeCDTV.slave</slave_default>
-		<slave number="1">
-			<filename>IndyLastCrusAdvDeCDTV.slave</filename>
-			<datapath>data</datapath>
-		</slave>
-		<hardware>
-		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
-		
-		</hardware>
-	</game>
-	<game filename="IndianaJones&amp;TheLastCrusadeAdventure_v1.5_Es"  sha1="31f997a51d014c6390d53b68a04661a5a29cf297">
-		<name>Indiana Jones Last Crus Adv (Espanol)</name>
-		<subpath>IndianaJonesLastCrusAdvEs</subpath>
-		<variant_uuid>79456d65-2e07-5038-909b-c63c337a606e</variant_uuid>
-		<slave_count>1</slave_count>
-		<slave_default>IndianaJonesLastCrusAdvEs.slave</slave_default>
-		<slave number="1">
-			<filename>IndianaJonesLastCrusAdvEs.slave</filename>
-			<datapath>data</datapath>
-		</slave>
-		<hardware>
-		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
-		
-		</hardware>
-	</game>
-	<game filename="IndianaJones&amp;TheLastCrusadeAdventure_v1.5_Fr_1986"  sha1="f8c0c05031d2ca114786f65bf8963479feb1c58d">
-		<name>Indiana Jones Last Crus Adv (Francais)</name>
-		<subpath>IndianaJonesLastCrusAdvFr</subpath>
-		<variant_uuid>6bd993cf-877f-5c22-92d8-63eebcefe762</variant_uuid>
-		<slave_count>1</slave_count>
-		<slave_default>IndianaJonesLastCrusAdvFr.slave</slave_default>
-		<slave number="1">
-			<filename>IndianaJonesLastCrusAdvFr.slave</filename>
-			<datapath>data</datapath>
-		</slave>
-		<hardware>
-		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
-		
-		</hardware>
-	</game>
-	<game filename="IndianaJones&amp;TheLastCrusadeAdventure_v1.5_It_2323"  sha1="3ccb4bd850999d22c29be35495b34e22ecd157d6">
-		<name>Indiana Jones Last Crus Adv (Italiano)</name>
-		<subpath>IndianaJonesLastCrusAdvIt</subpath>
-		<variant_uuid>126348e3-d4da-5477-8481-7d34dafc3678</variant_uuid>
-		<slave_count>1</slave_count>
-		<slave_default>IndianaJonesLastCrusAdvIt.slave</slave_default>
-		<slave number="1">
-			<filename>IndianaJonesLastCrusAdvIt.slave</filename>
-			<datapath>data</datapath>
-		</slave>
-		<hardware>
-		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
-		
-		</hardware>
-	</game>
-	<game filename="IndianaJones&amp;TheLastCrusadeAdventure_v1.5_NTSC_1990"  sha1="896b79f21a0e9104cc9fa766caebf6ed36139139">
-		<name>Indy Jones Last Crus Adv (NTSC)</name>
-		<subpath>IndyJonesLastCrusAdvNTSC</subpath>
-		<variant_uuid>f3e03797-2eb1-53c6-b7f8-7af8259a2b44</variant_uuid>
-		<slave_count>1</slave_count>
-		<slave_default>IndyJonesLastCrusAdvNTSC.slave</slave_default>
-		<slave number="1">
-			<filename>IndyJonesLastCrusAdvNTSC.slave</filename>
-			<datapath>data</datapath>
-		</slave>
-		<hardware>
-		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
-		
-		</hardware>
-	</game>
-	<game filename="Prehistorik_v2.0_0557"  sha1="3e02613d301be58f2e2aa8bcce26ffa03b8b24b3">
-		<name>Prehistorik</name>
-		<subpath>Prehistorik</subpath>
-		<variant_uuid>0c4bcaa6-2468-5eda-8be8-d70f3c242a73</variant_uuid>
-		<slave_count>1</slave_count>
-		<slave_default>Prehistorik.slave</slave_default>
-		<slave number="1">
-			<filename>Prehistorik.slave</filename>
-			<datapath></datapath>
-		</slave>
-		<hardware>
-		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
-		
-		</hardware>
-	</game>
-	<game filename="Prehistorik_v2.0_CDTV"  sha1="3fab0345b635401e20fc75f02aa86c3ebfb7fa79">
-		<name>Prehistorik [CDTV]</name>
-		<subpath>PrehistorikCDTV</subpath>
-		<variant_uuid>506d520b-4a1b-5693-adbf-5fab19a12a51</variant_uuid>
-		<slave_count>1</slave_count>
-		<slave_default>PrehistorikCDTV.slave</slave_default>
-		<slave number="1">
-			<filename>PrehistorikCDTV.slave</filename>
-			<datapath>data</datapath>
-			<custom>
-			
 			</custom>
 		</slave>
 		<hardware>

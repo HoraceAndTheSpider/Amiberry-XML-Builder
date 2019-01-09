@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<whdbooter timestamp="2019-01-07 at 02:00:07">
+<whdbooter timestamp="2019-01-09 at 03:00:08">
 	<game filename="1001StolenIdeas_v1.0_Airwalk"  sha1="a24c60e66c9cdb5ca96075d9f4f4ad7eaa900d76">
 		<name>1001 Stolen Ideas</name>
 		<subpath>1001StolenIdeas</subpath>
@@ -85990,6 +85990,116 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 			<custom>
 			C1:B:Skip Title
 			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="BombJackBeerEdition_v1.0"  sha1="bf413d87c4c7bfa27acf080a52c8882fd80e7989">
+		<name>Bomb Jack Beer Edition</name>
+		<subpath>BombJackBeerEdition</subpath>
+		<variant_uuid>1e263a57-4b29-5de1-b95c-0344232e7deb</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>BombJackBeerEdition.slave</slave_default>
+		<slave number="1">
+			<filename>BombJackBeerEdition.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="FemmeFatale&amp;DataDisks_v1.0"  sha1="467abbf7b46ccae0bc230a3c7b5b23fced2876a4">
+		<name>Femme Fatale &amp; Data Disks</name>
+		<subpath>FemmeFatale&amp;DataDisks</subpath>
+		<variant_uuid>311ecce9-fed6-5424-8be3-4d908093ee56</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>FemmeFatale&amp;DataDisks.Slave</slave_default>
+		<slave number="1">
+			<filename>FemmeFatale&amp;DataDisks.Slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="ManiacMansion_v1.6_1571"  sha1="79803f59b69fa87646aaebb3f2e3c931e9b6f091">
+		<name>Maniac Mansion</name>
+		<subpath>ManiacMansion</subpath>
+		<variant_uuid>82858d7a-7791-50be-a417-1cecbdeffae0</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>ManiacMansion.slave</slave_default>
+		<slave number="1">
+			<filename>ManiacMansion.slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=MOUSE
+		PORT0=MOUSE
+		PORT1=JOY
+		SCREEN_HEIGHT=200
+		SCREEN_Y_OFFSET=3
+		
+		</hardware>
+	</game>
+	<game filename="ManiacMansion_v1.6_De_0355"  sha1="ecb8637c64a7880ccd3fb6c90080a8a13ce26481">
+		<name>Maniac Mansion (Deutsch)</name>
+		<subpath>ManiacMansionDe</subpath>
+		<variant_uuid>d5aab2f5-f5ea-5c4c-a8ea-29ec14c9555d</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>ManiacMansionDe.slave</slave_default>
+		<slave number="1">
+			<filename>ManiacMansionDe.slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="ManiacMansion_v1.6_Es"  sha1="a07dff98fc574a9150c3045cd62c7fc31162fd7a">
+		<name>Maniac Mansion (Espanol)</name>
+		<subpath>ManiacMansionEs</subpath>
+		<variant_uuid>83a672d8-2e8c-5776-b927-e0f5581d465f</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>ManiacMansionEs.slave</slave_default>
+		<slave number="1">
+			<filename>ManiacMansionEs.slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="ManiacMansion_v1.6_Fr_2376"  sha1="3682321c8867cf8c3efff920ebe1f0c0c5bf9e0d">
+		<name>Maniac Mansion (Francais)</name>
+		<subpath>ManiacMansionFr</subpath>
+		<variant_uuid>e542da04-b1d8-5776-8fd3-09b59768cd7a</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>ManiacMansionFr.slave</slave_default>
+		<slave number="1">
+			<filename>ManiacMansionFr.slave</filename>
+			<datapath>data</datapath>
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK

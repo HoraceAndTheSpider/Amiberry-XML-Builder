@@ -1,4 +1,4 @@
-Scanned file log: 2019-01-09 at 03:00:08
+Scanned file log: 2019-01-11 at 03:00:08
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
 Skipped: 24HourEFix_v1.0_Quartz.lha
@@ -1245,7 +1245,7 @@ Skipped: BodyBlows_v1.2_1147.lha
 Skipped: BodyBlows_v1.2_AGA_1322.lha
 Skipped: BomberBob_v1.0_1628.lha
 Skipped: BombFusion_v1.0.lha
-Scanned: Bomb Jack Beer Edition
+Skipped: BombJackBeerEdition_v1.0.lha
 Skipped: BombJack_v1.0_1804.lha
 Skipped: BombPacCD32_v1.0_AGA.lha
 Skipped: BombPacCD32_v1.0_AGA_Aminet.lha
@@ -1956,7 +1956,7 @@ Skipped: Fears_v3.4_AGA_1288.lha
 Skipped: Fears_v3.4_AGA_Censored.lha
 Skipped: Fears_v4.0.2_CD32.lha
 Skipped: FederationOfFreeTraders_v1.1.lha
-Scanned: Femme Fatale & Data Disks
+Skipped: FemmeFatale&DataDisks_v1.0.lha
 Skipped: FemmeFatale&DataDisk_v1.0.lha
 Skipped: FemmeFatale_v1.0.lha
 Skipped: FernandezMustDie_v2.1_1980.lha
@@ -2838,10 +2838,10 @@ Skipped: ManiacMansion_v1.4_Fr_2376.lha
 Skipped: ManiacMansion_v1.5_1571.lha
 Skipped: ManiacMansion_v1.5_De_0355.lha
 Skipped: ManiacMansion_v1.5_Fr_2376.lha
-Scanned: Maniac Mansion
-Scanned: Maniac Mansion (Deutsch)
-Scanned: Maniac Mansion (Espanol)
-Scanned: Maniac Mansion (Francais)
+Skipped: ManiacMansion_v1.6_1571.lha
+Skipped: ManiacMansion_v1.6_De_0355.lha
+Skipped: ManiacMansion_v1.6_Es.lha
+Skipped: ManiacMansion_v1.6_Fr_2376.lha
 Skipped: Maniax_v2.0.lha
 Skipped: ManicMiner_v0501.2_1116.lha
 Skipped: Manix_v1.1_2533.lha

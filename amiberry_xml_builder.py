@@ -471,9 +471,9 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                 elif check_list("CPU_ForceOCS.txt", sub_path) == True:
                         HW_CHIPSET = "OCS"  
 
-                if this_file.find("_AGA_") > -1:
+                if this_file.find("_AGA") > -1:
                         HW_CHIPSET = "AGA"                                       
-                if this_file.find("_CD32_") > -1:
+                if this_file.find("_CD32") > -1:
                         HW_CHIPSET = "AGA"                                       
 
 

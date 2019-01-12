@@ -21,6 +21,7 @@ Atomix
 BCKid
 Banshee
 BansheeAGA
+BansheeCD32
 Barbarian2Palace
 BarbarianPalace
 BatmanReturns

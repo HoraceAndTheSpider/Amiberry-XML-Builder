@@ -1,4 +1,4 @@
-Scanned file log: 2019-01-11 at 03:00:08
+Scanned file log: 2019-01-12 at 23:41:29
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
 Skipped: 24HourEFix_v1.0_Quartz.lha
@@ -168,6 +168,7 @@ Skipped: DanceTrance2_v1.0_Interactive.lha
 Skipped: DanceTrance_v1.0_Interactive.lha
 Skipped: DANE_v1.1_Kefrens.lha
 Skipped: DanishKnowHow_v1.0_FlashProduction.lha
+Scanned: Dark Hell BBSTrackmo
 Skipped: Darkroom_v1.0_Stellar.lha
 Skipped: Darkside_v1.0_BlackLotus_AGA.lha
 Skipped: Darktro_v1.0_Darkness.lha
@@ -348,6 +349,7 @@ Skipped: MusicRip2_v1.0_SiliconLeague.lha
 Skipped: MusicRip3_v1.0_Spreadpoint.lha
 Skipped: Musics3_v1.0_Enemies.lha
 Skipped: MusicSelector_v1.0_Deadlock.lha
+Scanned: Music Thingy
 Skipped: MusicWithAMessage_v1.0_MagneticFields.lha
 Skipped: MusiqueDisk_v1.0_Accession.lha
 Skipped: MuzakCompacting1_v1.0_Mindwarp.lha
@@ -771,6 +773,7 @@ Skipped: Techtech_v1.0_Sodan&Magician42.lha
 Skipped: Tekknobert_v1.0_Wildfire.lha
 Skipped: Ufonix_v1.0_Enigma.lha
 Skipped: UltimateGameBoySimulator_v1.0_Symbiosis.lha
+Scanned: Unbelievable
 Skipped: UniversalIntensity_v1.0_Complex.lha
 Skipped: Unleashed_v1.0_Insane.lha
 Skipped: VaginalMassacre_v1.01_UDO.lha

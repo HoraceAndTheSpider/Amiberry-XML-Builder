@@ -1,4 +1,4 @@
-Scanned file log: 2019-01-16 at 03:00:08
+Scanned file log: 2019-01-18 at 03:00:09
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
 Skipped: 24HourEFix_v1.0_Quartz.lha
@@ -349,6 +349,7 @@ Skipped: MusicRip2_v1.0_SiliconLeague.lha
 Skipped: MusicRip3_v1.0_Spreadpoint.lha
 Skipped: Musics3_v1.0_Enemies.lha
 Skipped: MusicSelector_v1.0_Deadlock.lha
+Scanned: Music Thingy
 Skipped: MusicThingy_v1.0_Exit.lha
 Skipped: MusicWithAMessage_v1.0_MagneticFields.lha
 Skipped: MusiqueDisk_v1.0_Accession.lha
@@ -536,6 +537,7 @@ Skipped: Nexus7_v1.1_Andromeda_AGA.lha
 Skipped: NightshadesHarmony_v1.0_Ecstacy.lha
 Skipped: NoBrainNoPain_v1.0_FlashProduction.lha
 Skipped: NoBrainNoPain_v1.0_Paradise.lha
+Scanned: Noises Of Pansy
 Skipped: NonStopMusic_v1.0_JungleCommand.lha
 Skipped: Nonterraqueous_v1.0_Alarm.lha
 Skipped: Nop_v1.0_Muffbusters_AGA.lha
@@ -670,6 +672,7 @@ Skipped: Smau92MusicDisk_v1.0_Nightfall.lha
 Skipped: Snap_v1.01_Rebels.lha
 Skipped: SOFTMovie_v1.0_Genocide.lha
 Skipped: Software_v1.1_WFMH.lha
+Scanned: Soho [AGA]
 Skipped: SongsOfInfinity_v1.0_Pointless.lha
 Skipped: SongsRack_v1.0_RamJam_AGA.lha
 Skipped: SonicalFantasia_v1.0_Equinox.lha
@@ -1248,6 +1251,7 @@ Skipped: BodyBlows_v1.2_1147.lha
 Skipped: BodyBlows_v1.2_AGA_1322.lha
 Skipped: BomberBob_v1.0_1628.lha
 Skipped: BombFusion_v1.0.lha
+Scanned: Bomb Jack Beer Edition
 Skipped: BombJackBeerEdition_v1.0.lha
 Skipped: BombJack_v1.0_1804.lha
 Skipped: BombPacCD32_v1.0_AGA.lha
@@ -3762,6 +3766,7 @@ Skipped: SpaceHarrier_v1.3_NTSC.lha
 Skipped: SpaceHulk_v1.0_1279.lha
 Skipped: SpaceMAX_v1.1_De.lha
 Skipped: SpacePilot89_v1.1.lha
+Scanned: Spaceport
 Skipped: SpaceQuest2_v1.0.lha
 Skipped: SpaceQuest3_v1.2b_0292.lha
 Skipped: SpaceQuest3_v1.2b_De_0579.lha

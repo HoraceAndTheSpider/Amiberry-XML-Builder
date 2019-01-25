@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<whdbooter timestamp="2019-01-23 at 03:00:07">
+<whdbooter timestamp="2019-01-25 at 03:00:10">
 	<game filename="1001StolenIdeas_v1.0_Airwalk"  sha1="a24c60e66c9cdb5ca96075d9f4f4ad7eaa900d76">
 		<name>1001 Stolen Ideas</name>
 		<subpath>1001StolenIdeas</subpath>
@@ -86674,6 +86674,26 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="Exile_v1.0_Desire"  sha1="bba01bc1aa354dfcff7c790a0e06d91720d3258c">
+		<name>Exile</name>
+		<subpath>Exile</subpath>
+		<variant_uuid>1a704791-b5da-563e-984f-22fada474d1b</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>Exile.Slave</slave_default>
+		<slave number="1">
+			<filename>Exile.Slave</filename>
+			<datapath></datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		JIT=FALSE
+		SCREEN_HEIGHT=256
+		SCREEN_Y_OFFSET=0
 		
 		</hardware>
 	</game>

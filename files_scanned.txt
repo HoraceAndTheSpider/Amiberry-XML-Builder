@@ -1,4 +1,4 @@
-Scanned file log: 2019-01-23 at 03:00:07
+Scanned file log: 2019-01-25 at 03:00:10
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
 Skipped: 24HourEFix_v1.0_Quartz.lha
@@ -203,6 +203,7 @@ Skipped: DigitalConcert5_v1.0_FlashProduction.lha
 Skipped: DigitalConcert6_v1.1_FlashProduction.lha
 Skipped: DigitalConcert_v1.0_FlashProduction.lha
 Skipped: DigitalInnovation_v1.0_Anarchy.lha
+Skipped: Epilepsia_v1.0_Amnesia.lha
 Skipped: EargasmTunes_v1.00a_Silents.lha
 Skipped: Earwig_v1.0_Infect.lha
 Skipped: ECESSlideshow_v1.02_Rebels.lha
@@ -217,14 +218,14 @@ Skipped: Engine_v1.0_Ramses_AGA.lha
 Skipped: Enigma_v1.3_Phenomena.lha
 Skipped: EnjoyTheSilents_v1.0_Silents.lha
 Skipped: Epilepsia2_v1.0_Amnesia.lha
-Skipped: Epilepsia_v1.0_Amnesia.lha
 Skipped: Erazorhead_v1.0_Razor1911.lha
 Skipped: EssentialBeats3_v1.0_Quote.lha
 Skipped: EssentialClassics_v1.0_Nova.lha
 Skipped: EstprobalMastic_v1.0_Imagine.lha
-Scanned: Evolution Desire
+Skipped: Evolution_v1.0_Desire.lha
 Skipped: Exage_v1.0_BurningIndependence.lha
 Skipped: Excess_v1.0_Reflex.lha
+Scanned: Exile
 Skipped: Experiment_v1.0_RamJam.lha
 Skipped: Explorer_v1.0_Delight_AGA.lha
 Skipped: Expressions_v1.0_Timecircle.lha
@@ -331,7 +332,7 @@ Skipped: LastSun_v1.0_Ackerlight.lha
 Skipped: LaternaMagica_v1.0_SurpriseProductions.lha
 Skipped: LegaliseIt_v1.1_Anarchy.lha
 Skipped: LegalizeIt2_v1.1_Anarchy.lha
-Scanned: Legalize It 2
+Skipped: LegalizeIt2_v1.2_Anarchy.lha
 Skipped: Legoland_v1.0_Desire.lha
 Skipped: LethalExit_v1.1_Digital.lha
 Skipped: LethalFrequency_v1.0_Aspect.lha
@@ -1346,7 +1347,7 @@ Skipped: Cabal_v1.2a_0638.lha
 Skipped: CabaretAsteroids_v1.1.lha
 Skipped: CabaretAsteroids_v1.1_Repacked.lha
 Skipped: Cadaver&CadaverThePayoff_v2.2_0900.lha
-Scanned: Cadaver & The Payoff
+Skipped: Cadaver&ThePayoff_v2.3_0900.lha
 Skipped: CadaverDemos_v1.0.lha
 Skipped: CadaverThePayoff_v2.2_0900.lha
 Skipped: Cadaver_v2.2_0900.lha
@@ -1862,7 +1863,7 @@ Skipped: EMotion_v1.0_0475.lha
 Skipped: EmpireSoccer94_v1.1_0844.lha
 Skipped: EmpireStrikesBack_v1.2_1235.lha
 Skipped: EnchantedLand_v1.2.lha
-Scanned: Enchanted Land
+Skipped: EnchantedLand_v1.3_3063.lha
 Skipped: Encounter_v1.2_0651.lha
 Skipped: Enemy2MissingInAction_v1.1.lha
 Skipped: Enemy2MissingInAction_v1.1_De.lha
@@ -1941,8 +1942,8 @@ Skipped: Falcon_v1.1_1754.lha
 Skipped: Falcon_v1.1_NTSC_1197.lha
 Skipped: FallenAngel_v1.1a.lha
 Skipped: FantasticDizzy_v1.1_1904.lha
-Scanned: Fantastic Dizzy
-Scanned: Fantastic Dizzy [AGA]
+Skipped: FantasticDizzy_v2.0_1904.lha
+Skipped: FantasticDizzy_v2.0_AGA.lha
 Skipped: FantasticVoyage_v1.0_0326.lha
 Skipped: FantasticVoyage_v1.0_CDTV.lha
 Skipped: FantasyFlyer_v1.0.lha
@@ -3780,8 +3781,8 @@ Skipped: SpaceQuest4_v1.1_1177.lha
 Skipped: SpaceQuest4_v1.1_De_2369.lha
 Skipped: SpaceQuest4_v1.1_NTSC_1177.lha
 Skipped: SpaceQuestEnhanced_v1.2_2222.lha
-Scanned: Space Quest I - Roger Wilco in the Sarien Encounter (Enhanced)
-Scanned: Space Quest Enhanced MT 32
+Skipped: SpaceQuestEnhanced_v1.3_2222.lha
+Skipped: SpaceQuestEnhanced_v1.3_MT32_2222.lha
 Skipped: SpaceQuest_v1.2_NTSC_1484.lha
 Skipped: SpaceRacer_v1.0_0580.lha
 Skipped: SpaceRacer_v1.0_Fr_2408.lha

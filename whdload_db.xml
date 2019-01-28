@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<whdbooter timestamp="2019-01-25 at 03:00:10">
+<whdbooter timestamp="2019-01-28 at 02:00:09">
 	<game filename="1001StolenIdeas_v1.0_Airwalk"  sha1="a24c60e66c9cdb5ca96075d9f4f4ad7eaa900d76">
 		<name>1001 Stolen Ideas</name>
 		<subpath>1001StolenIdeas</subpath>
@@ -3740,6 +3740,26 @@
 		
 		</hardware>
 	</game>
+	<game filename="Epilepsia_v1.0_Amnesia"  sha1="a12d9cace6cd0e3821ca45efd3eb31c01752063f">
+		<name>Epilepsia</name>
+		<subpath>Epilepsia</subpath>
+		<variant_uuid>b3cd53d6-0d5e-51dd-b9fd-cbdbb8e57741</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>Epilepsia.Slave</slave_default>
+		<slave number="1">
+			<filename>Epilepsia.Slave</filename>
+			<datapath></datapath>
+			<custom>
+			
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
 	<game filename="EargasmTunes_v1.00a_Silents"  sha1="a90c8a2394d50ba7b034150743c522ef2dd80248">
 		<name>Eargasm Tunes</name>
 		<subpath>EargasmTunes</subpath>
@@ -3994,26 +4014,6 @@
 		
 		</hardware>
 	</game>
-	<game filename="Epilepsia_v1.0_Amnesia"  sha1="a12d9cace6cd0e3821ca45efd3eb31c01752063f">
-		<name>Epilepsia</name>
-		<subpath>Epilepsia</subpath>
-		<variant_uuid>b3cd53d6-0d5e-51dd-b9fd-cbdbb8e57741</variant_uuid>
-		<slave_count>1</slave_count>
-		<slave_default>Epilepsia.Slave</slave_default>
-		<slave number="1">
-			<filename>Epilepsia.Slave</filename>
-			<datapath></datapath>
-			<custom>
-			
-			</custom>
-		</slave>
-		<hardware>
-		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
-		
-		</hardware>
-	</game>
 	<game filename="Erazorhead_v1.0_Razor1911"  sha1="79fe4e9c7165e9b152703d6aa50ddcee106123d5">
 		<name>Erazorhead</name>
 		<subpath>Erazorhead</subpath>
@@ -4092,6 +4092,23 @@
 		
 		</hardware>
 	</game>
+	<game filename="Evolution_v1.0_Desire"  sha1="b864f7d77a44010094edc0d45fcdaccb7917469e">
+		<name>Evolution Desire</name>
+		<subpath>EvolutionDesire</subpath>
+		<variant_uuid>a41a2a98-58c4-5d53-88b4-7e15e0d659bb</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>EvolutionDesire.Slave</slave_default>
+		<slave number="1">
+			<filename>EvolutionDesire.Slave</filename>
+			<datapath></datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
 	<game filename="Exage_v1.0_BurningIndependence"  sha1="c1ae38b3bd60f9efd9ed4ad99d6e6f33b5636e09">
 		<name>Exage</name>
 		<subpath>Exage</subpath>
@@ -4123,6 +4140,26 @@
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="Exile_v1.0_Desire"  sha1="bba01bc1aa354dfcff7c790a0e06d91720d3258c">
+		<name>Exile</name>
+		<subpath>Exile</subpath>
+		<variant_uuid>1a704791-b5da-563e-984f-22fada474d1b</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>Exile.Slave</slave_default>
+		<slave number="1">
+			<filename>Exile.Slave</filename>
+			<datapath></datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		JIT=FALSE
+		SCREEN_HEIGHT=256
+		SCREEN_Y_OFFSET=0
 		
 		</hardware>
 	</game>
@@ -6016,6 +6053,28 @@
 		<slave number="1">
 			<filename>LegalizeIt2.slave</filename>
 			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="LegalizeIt2_v1.2_Anarchy"  sha1="1edd7478f3d9cfdf23ee5a34d201858301e4880c">
+		<name>Legalize It 2</name>
+		<subpath>LegalizeIt2</subpath>
+		<variant_uuid>40aab6db-05ef-5553-9b82-fb428813decb</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>LegalizeIt2.slave</slave_default>
+		<slave number="1">
+			<filename>LegalizeIt2.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			C1:B:Skip Intro
+			C2:B:Run Hidden Part 1
+			C3:B:Run Hidden Part 2
+			</custom>
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
@@ -24938,6 +24997,29 @@ joyport1_amiberry_custom_none_west=Space
 		
 		</hardware>
 	</game>
+	<game filename="Cadaver&amp;ThePayoff_v2.3_0900"  sha1="92888baa79859d97facd298b4fa48d3912317e13">
+		<name>Cadaver &amp; The Payoff</name>
+		<subpath>Cadaver&amp;ThePayoff</subpath>
+		<variant_uuid>563733d4-1ba0-5145-a28f-11b3f0c29f0e</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>Cadaver&amp;ThePayoff.slave</slave_default>
+		<slave number="1">
+			<filename>Cadaver&amp;ThePayoff.slave</filename>
+			<datapath></datapath>
+			<custom>
+			C2:L:Level set:Original Game,The Payoff
+			C4:X:Trainer - free savegames:0
+			C5:X:Trainer - in game keys:0
+			
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
 	<game filename="CadaverDemos_v1.0"  sha1="5b3f30140cb128d61c0efbc8ebad5eeec9ef79c4">
 		<name>Cadaver (Demos)</name>
 		<subpath>CadaverDemos</subpath>
@@ -34485,6 +34567,27 @@ joyport1_amiberry_custom_none_west=Space
 		
 		</hardware>
 	</game>
+	<game filename="EnchantedLand_v1.3_3063"  sha1="ffed2e06e9d7e962f30ca21aa683f2b8a31cf242">
+		<name>Enchanted Land</name>
+		<subpath>EnchantedLand</subpath>
+		<variant_uuid>61e52df5-6f50-5396-be40-f8a9a032c0b3</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>EnchantedLand.Slave</slave_default>
+		<slave number="1">
+			<filename>EnchantedLand.Slave</filename>
+			<datapath></datapath>
+			<custom>
+			C1:X:Infinite energy:0
+			
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
 	<game filename="Encounter_v1.2_0651"  sha1="7d75210fe69c60eab66ba42a2abe09ce89e0e988">
 		<name>Amiga Encounter</name>
 		<subpath>Encounter</subpath>
@@ -35952,6 +36055,50 @@ joyport0_amiberry_custom_none_right_shoulder=Numpad 9
 		JIT=FALSE
 		SCREEN_HEIGHT=240
 		SCREEN_Y_OFFSET=0
+		
+		</hardware>
+	</game>
+	<game filename="FantasticDizzy_v2.0_1904"  sha1="40c004cc3f23c88c191b42e3d888d77615b65850">
+		<name>Fantastic Dizzy</name>
+		<subpath>FantasticDizzy</subpath>
+		<variant_uuid>97e90d3d-e8e3-57b2-8543-a5b4d619e20a</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>FantasticDizzy.slave</slave_default>
+		<slave number="1">
+			<filename>FantasticDizzy.slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		JIT=FALSE
+		SCREEN_HEIGHT=240
+		SCREEN_Y_OFFSET=0
+		
+		</hardware>
+	</game>
+	<game filename="FantasticDizzy_v2.0_AGA"  sha1="3101d90f5c46464396d0ecf13a60cdd1f3dd3e6b">
+		<name>Fantastic Dizzy [AGA]</name>
+		<subpath>FantasticDizzyAGA</subpath>
+		<variant_uuid>a0a88c35-70e5-51da-85a0-f09716ab115c</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>FantasticDizzyAGA.slave</slave_default>
+		<slave number="1">
+			<filename>FantasticDizzyAGA.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			C1:X:Infinite lives:0
+			C2:L:Start with lives:2,3,4,5
+			C3:X:Blue button jumps:0
+			
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		CHIPSET=AGA
 		
 		</hardware>
 	</game>
@@ -70456,6 +70603,40 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		
 		</hardware>
 	</game>
+	<game filename="SpaceQuestEnhanced_v1.3_2222"  sha1="e32738fa07041261c83c8d913366a3f03e18a053">
+		<name>Space Quest I - Roger Wilco in the Sarien Encounter (Enhanced)</name>
+		<subpath>SpaceQuestEnhanced</subpath>
+		<variant_uuid>de890543-3d92-57a4-9b2d-e03916e1c0f8</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>SpaceQuestEnhanced.slave</slave_default>
+		<slave number="1">
+			<filename>SpaceQuestEnhanced.slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="SpaceQuestEnhanced_v1.3_MT32_2222"  sha1="c228472f3795092cc207587ff4a2c464f2756d46">
+		<name>Space Quest Enhanced MT 32</name>
+		<subpath>SpaceQuestEnhancedMT32</subpath>
+		<variant_uuid>936f77ba-805a-5054-b70f-b5ecee1754ed</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>SpaceQuestEnhancedMT32.slave</slave_default>
+		<slave number="1">
+			<filename>SpaceQuestEnhancedMT32.slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
 	<game filename="SpaceQuest_v1.2_NTSC_1484"  sha1="a79bf3e030e212010227a2d265bb721fb0a01e7a">
 		<name>Space Quest (NTSC)</name>
 		<subpath>SpaceQuestNTSC</subpath>
@@ -86513,187 +86694,6 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		
-		</hardware>
-	</game>
-	<game filename="Evolution_v1.0_Desire"  sha1="b864f7d77a44010094edc0d45fcdaccb7917469e">
-		<name>Evolution Desire</name>
-		<subpath>EvolutionDesire</subpath>
-		<variant_uuid>a41a2a98-58c4-5d53-88b4-7e15e0d659bb</variant_uuid>
-		<slave_count>1</slave_count>
-		<slave_default>EvolutionDesire.Slave</slave_default>
-		<slave number="1">
-			<filename>EvolutionDesire.Slave</filename>
-			<datapath></datapath>
-		</slave>
-		<hardware>
-		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
-		
-		</hardware>
-	</game>
-	<game filename="LegalizeIt2_v1.2_Anarchy"  sha1="1edd7478f3d9cfdf23ee5a34d201858301e4880c">
-		<name>Legalize It 2</name>
-		<subpath>LegalizeIt2</subpath>
-		<variant_uuid>40aab6db-05ef-5553-9b82-fb428813decb</variant_uuid>
-		<slave_count>1</slave_count>
-		<slave_default>LegalizeIt2.slave</slave_default>
-		<slave number="1">
-			<filename>LegalizeIt2.slave</filename>
-			<datapath>data</datapath>
-			<custom>
-			C1:B:Skip Intro
-			C2:B:Run Hidden Part 1
-			C3:B:Run Hidden Part 2
-			</custom>
-		</slave>
-		<hardware>
-		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
-		
-		</hardware>
-	</game>
-	<game filename="Cadaver&amp;ThePayoff_v2.3_0900"  sha1="92888baa79859d97facd298b4fa48d3912317e13">
-		<name>Cadaver &amp; The Payoff</name>
-		<subpath>Cadaver&amp;ThePayoff</subpath>
-		<variant_uuid>563733d4-1ba0-5145-a28f-11b3f0c29f0e</variant_uuid>
-		<slave_count>1</slave_count>
-		<slave_default>Cadaver&amp;ThePayoff.slave</slave_default>
-		<slave number="1">
-			<filename>Cadaver&amp;ThePayoff.slave</filename>
-			<datapath></datapath>
-			<custom>
-			C2:L:Level set:Original Game,The Payoff
-			C4:X:Trainer - free savegames:0
-			C5:X:Trainer - in game keys:0
-			
-			</custom>
-		</slave>
-		<hardware>
-		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
-		
-		</hardware>
-	</game>
-	<game filename="EnchantedLand_v1.3_3063"  sha1="ffed2e06e9d7e962f30ca21aa683f2b8a31cf242">
-		<name>Enchanted Land</name>
-		<subpath>EnchantedLand</subpath>
-		<variant_uuid>61e52df5-6f50-5396-be40-f8a9a032c0b3</variant_uuid>
-		<slave_count>1</slave_count>
-		<slave_default>EnchantedLand.Slave</slave_default>
-		<slave number="1">
-			<filename>EnchantedLand.Slave</filename>
-			<datapath></datapath>
-			<custom>
-			C1:X:Infinite energy:0
-			
-			</custom>
-		</slave>
-		<hardware>
-		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
-		
-		</hardware>
-	</game>
-	<game filename="FantasticDizzy_v2.0_1904"  sha1="40c004cc3f23c88c191b42e3d888d77615b65850">
-		<name>Fantastic Dizzy</name>
-		<subpath>FantasticDizzy</subpath>
-		<variant_uuid>97e90d3d-e8e3-57b2-8543-a5b4d619e20a</variant_uuid>
-		<slave_count>1</slave_count>
-		<slave_default>FantasticDizzy.slave</slave_default>
-		<slave number="1">
-			<filename>FantasticDizzy.slave</filename>
-			<datapath>data</datapath>
-		</slave>
-		<hardware>
-		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
-		JIT=FALSE
-		SCREEN_HEIGHT=240
-		SCREEN_Y_OFFSET=0
-		
-		</hardware>
-	</game>
-	<game filename="FantasticDizzy_v2.0_AGA"  sha1="3101d90f5c46464396d0ecf13a60cdd1f3dd3e6b">
-		<name>Fantastic Dizzy [AGA]</name>
-		<subpath>FantasticDizzyAGA</subpath>
-		<variant_uuid>a0a88c35-70e5-51da-85a0-f09716ab115c</variant_uuid>
-		<slave_count>1</slave_count>
-		<slave_default>FantasticDizzyAGA.slave</slave_default>
-		<slave number="1">
-			<filename>FantasticDizzyAGA.slave</filename>
-			<datapath>data</datapath>
-			<custom>
-			C1:X:Infinite lives:0
-			C2:L:Start with lives:2,3,4,5
-			C3:X:Blue button jumps:0
-			
-			</custom>
-		</slave>
-		<hardware>
-		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
-		CHIPSET=AGA
-		
-		</hardware>
-	</game>
-	<game filename="SpaceQuestEnhanced_v1.3_2222"  sha1="e32738fa07041261c83c8d913366a3f03e18a053">
-		<name>Space Quest I - Roger Wilco in the Sarien Encounter (Enhanced)</name>
-		<subpath>SpaceQuestEnhanced</subpath>
-		<variant_uuid>de890543-3d92-57a4-9b2d-e03916e1c0f8</variant_uuid>
-		<slave_count>1</slave_count>
-		<slave_default>SpaceQuestEnhanced.slave</slave_default>
-		<slave number="1">
-			<filename>SpaceQuestEnhanced.slave</filename>
-			<datapath>data</datapath>
-		</slave>
-		<hardware>
-		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
-		
-		</hardware>
-	</game>
-	<game filename="SpaceQuestEnhanced_v1.3_MT32_2222"  sha1="c228472f3795092cc207587ff4a2c464f2756d46">
-		<name>Space Quest Enhanced MT 32</name>
-		<subpath>SpaceQuestEnhancedMT32</subpath>
-		<variant_uuid>936f77ba-805a-5054-b70f-b5ecee1754ed</variant_uuid>
-		<slave_count>1</slave_count>
-		<slave_default>SpaceQuestEnhancedMT32.slave</slave_default>
-		<slave number="1">
-			<filename>SpaceQuestEnhancedMT32.slave</filename>
-			<datapath>data</datapath>
-		</slave>
-		<hardware>
-		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
-		
-		</hardware>
-	</game>
-	<game filename="Exile_v1.0_Desire"  sha1="bba01bc1aa354dfcff7c790a0e06d91720d3258c">
-		<name>Exile</name>
-		<subpath>Exile</subpath>
-		<variant_uuid>1a704791-b5da-563e-984f-22fada474d1b</variant_uuid>
-		<slave_count>1</slave_count>
-		<slave_default>Exile.Slave</slave_default>
-		<slave number="1">
-			<filename>Exile.Slave</filename>
-			<datapath></datapath>
-		</slave>
-		<hardware>
-		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
-		JIT=FALSE
-		SCREEN_HEIGHT=256
-		SCREEN_Y_OFFSET=0
 		
 		</hardware>
 	</game>

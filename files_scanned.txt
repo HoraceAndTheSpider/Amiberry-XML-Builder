@@ -1,4 +1,4 @@
-Scanned file log: 2019-01-30 at 03:00:08
+Scanned file log: 2019-02-01 at 03:00:08
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
 Skipped: 24HourEFix_v1.0_Quartz.lha
@@ -1544,8 +1544,8 @@ Skipped: ConflictMiddleEastPoliticalSimulator_v1.0.lha
 Skipped: Conqueror_v1.1_1275.lha
 Skipped: ConquestsOfCamelot_v1.2_1112.lha
 Skipped: ConquestsOfTheLongbow_v1.0b.lha
-Scanned: Conquests Of The Longbow
-Scanned: Conquests Of The Longbow MT 32
+Skipped: ConquestsOfTheLongbow_v1.1.lha
+Skipped: ConquestsOfTheLongbow_v1.1_MT32.lha
 Skipped: ContinentalCircus_v1.2_1720.lha
 Skipped: CoolCrocTwins_v1.0_0920.lha
 Skipped: CoolSpot_v2.1_1345.lha
@@ -3290,10 +3290,10 @@ Skipped: PoliceQuest3_v1.2.lha
 Skipped: PoliceQuest3_v1.2_De.lha
 Skipped: PoliceQuest3_v1.3.lha
 Skipped: PoliceQuest3_v1.3_NTSC_1341.lha
-Scanned: Police Quest 3 (Deutsch)
-Scanned: Police Quest 3 De MT 32
-Scanned: Police Quest 3 (NTSC)
-Scanned: Police Quest 3 (NTSC)MT 32
+Skipped: PoliceQuest3_v1.4_De.lha
+Skipped: PoliceQuest3_v1.4_De_MT32.lha
+Skipped: PoliceQuest3_v1.4_NTSC_1341.lha
+Skipped: PoliceQuest3_v1.4_NTSC_MT32_1341.lha
 Skipped: PoliceQuest_v1.0b_1207.lha
 Skipped: PoliceQuest_v1.0b_2262.lha
 Skipped: PoliceQuest_v1.0b_NTSC_1207.lha
@@ -3370,8 +3370,8 @@ Skipped: Quadralien_v1.0_0918.lha
 Skipped: Quadrel_v1.0_0380.lha
 Skipped: Quartz_v1.1_2020.lha
 Skipped: QuestForGlory2_v1.2.lha
-Scanned: Quest For Glory II - Trial by Fire
-Scanned: Quest For Glory 2 MT 32
+Skipped: QuestForGlory2_v1.3_1868.lha
+Skipped: QuestForGlory2_v1.3_MT32_1868.lha
 Skipped: QuestForGlory_v1.3_0795.lha
 Skipped: QuestForTheTimeBird_v1.2_Files_0564.lha
 Skipped: QuestForTheTimeBird_v1.2_Image_0564.lha

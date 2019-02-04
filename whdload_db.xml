@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<whdbooter timestamp="2019-02-01 at 03:00:07">
+<whdbooter timestamp="2019-02-04 at 02:00:08">
 	<game filename="1001StolenIdeas_v1.0_Airwalk"  sha1="a24c60e66c9cdb5ca96075d9f4f4ad7eaa900d76">
 		<name>1001 Stolen Ideas</name>
 		<subpath>1001StolenIdeas</subpath>
@@ -5761,6 +5761,23 @@
 		<slave_default>JochenHippelSoundDemo.Slave</slave_default>
 		<slave number="1">
 			<filename>JochenHippelSoundDemo.Slave</filename>
+			<datapath></datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="JOESlideshow2_v1.0_Scoopex"  sha1="5d3f9be877e6534a9973809024171eb0f32baa7c">
+		<name>JOESlideshow 2</name>
+		<subpath>JOESlideshow2</subpath>
+		<variant_uuid>07ddca5a-8e01-5de3-80ec-2a2b68e577bd</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>JOESlideshow2.Slave</slave_default>
+		<slave number="1">
+			<filename>JOESlideshow2.Slave</filename>
 			<datapath></datapath>
 		</slave>
 		<hardware>
@@ -26369,6 +26386,23 @@ joyport1_amiberry_custom_none_west=Space
 		
 		</hardware>
 	</game>
+	<game filename="CastleOfDrBrain_v1.1_De_MT32_0304"  sha1="8828606843228b7307c609e8a07c94c2fdb56bf5">
+		<name>Castle Of Dr Brain De MT 32</name>
+		<subpath>CastleOfDrBrainDeMT32</subpath>
+		<variant_uuid>a3255b19-3c77-57be-a6ad-b18e4d9760b4</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>CastleOfDrBrainDeMT32.Slave</slave_default>
+		<slave number="1">
+			<filename>CastleOfDrBrainDeMT32.Slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
 	<game filename="CastleOfDrBrain_v1.1_NTSC_1287"  sha1="df712d8f7cd89bf29e78a509a47c8857eb4047fa">
 		<name>Castle Of Dr Brain (NTSC)</name>
 		<subpath>CastleOfDrBrainNTSC</subpath>
@@ -26377,6 +26411,23 @@ joyport1_amiberry_custom_none_west=Space
 		<slave_default>CastleOfDrBrainNTSC.Slave</slave_default>
 		<slave number="1">
 			<filename>CastleOfDrBrainNTSC.Slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="CastleOfDrBrain_v1.1_NTSC_MT32_1287"  sha1="f1c0a8480fef23a25e864e0426fd28384de71dbf">
+		<name>Castle Of Dr Brain (NTSC)MT 32</name>
+		<subpath>CastleOfDrBrainNTSCMT32</subpath>
+		<variant_uuid>4af6a25b-050c-545d-96b9-a658f68038bd</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>CastleOfDrBrainNTSCMT32.Slave</slave_default>
+		<slave number="1">
+			<filename>CastleOfDrBrainNTSCMT32.Slave</filename>
 			<datapath>data</datapath>
 		</slave>
 		<hardware>
@@ -28660,6 +28711,78 @@ joyport1_amiberry_custom_none_west=Space
 		PORT1=JOY
 		SCREEN_HEIGHT=200
 		SCREEN_Y_OFFSET=3
+		
+		</hardware>
+	</game>
+	<game filename="ConquestsOfTheLongbow_v1.1-B"  sha1="cf8cc55e43e3fa1dba24073bbf32c2d7fdadadfa">
+		<name>Conquests Of The Longbow</name>
+		<subpath>ConquestsOfTheLongbow</subpath>
+		<variant_uuid>6be3afdf-a5b5-592b-adfa-ba5cb3dcc87c</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>ConquestsOfTheLongbow.slave</slave_default>
+		<slave number="1">
+			<filename>ConquestsOfTheLongbow.slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=MOUSE
+		PORT0=MOUSE
+		PORT1=JOY
+		SCREEN_HEIGHT=200
+		SCREEN_Y_OFFSET=3
+		
+		</hardware>
+	</game>
+	<game filename="ConquestsOfTheLongbow_v1.1-B_MT32"  sha1="0d83126b5a4d7dcb049c27f4cc8a2acdc1e8c48c">
+		<name>Conquests Of The Longbow MT 32</name>
+		<subpath>ConquestsOfTheLongbowMT32</subpath>
+		<variant_uuid>4d025474-758a-5fd9-bf53-5426ce7b5d6c</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>ConquestsOfTheLongbowMT32.slave</slave_default>
+		<slave number="1">
+			<filename>ConquestsOfTheLongbowMT32.slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="ConquestsOfTheLongbow_v1.1"  sha1="2c046dbd946f82be764c1abdd85ea7626204fa1e">
+		<name>Conquests Of The Longbow</name>
+		<subpath>ConquestsOfTheLongbow</subpath>
+		<variant_uuid>05a33a86-c5d4-5a8b-bba0-0c74e1317a97</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>ConquestsOfTheLongbow.slave</slave_default>
+		<slave number="1">
+			<filename>ConquestsOfTheLongbow.slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=MOUSE
+		PORT0=MOUSE
+		PORT1=JOY
+		SCREEN_HEIGHT=200
+		SCREEN_Y_OFFSET=3
+		
+		</hardware>
+	</game>
+	<game filename="ConquestsOfTheLongbow_v1.1_MT32"  sha1="91e8715e223c7d8e9c5254968f6425e91d6f114b">
+		<name>Conquests Of The Longbow MT 32</name>
+		<subpath>ConquestsOfTheLongbowMT32</subpath>
+		<variant_uuid>744559a4-e9d1-5c9b-b5d8-79a67f508c31</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>ConquestsOfTheLongbowMT32.slave</slave_default>
+		<slave number="1">
+			<filename>ConquestsOfTheLongbowMT32.slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
 		
 		</hardware>
 	</game>
@@ -48818,6 +48941,23 @@ joyport2_amiberry_custom_none_south=Right Shift
 		
 		</hardware>
 	</game>
+	<game filename="KingsQuest5_v1.3_De_MT32"  sha1="55988ada11f0320e6f0eabcf59124c08591f6117">
+		<name>Kings Quest 5 De MT 32</name>
+		<subpath>KingsQuest5DeMT32</subpath>
+		<variant_uuid>38f2a3b3-89a3-56e2-b89b-b914286b4fc1</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>KingsQuest5DeMT32.slave</slave_default>
+		<slave number="1">
+			<filename>KingsQuest5DeMT32.slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
 	<game filename="KingsQuest5_v1.3_It"  sha1="875d5f500131632ea447e460a12c1aaf874c7435">
 		<name>Kings Quest 5 (Italiano)</name>
 		<subpath>KingsQuest5It</subpath>
@@ -48826,6 +48966,40 @@ joyport2_amiberry_custom_none_south=Right Shift
 		<slave_default>KingsQuest5It.slave</slave_default>
 		<slave number="1">
 			<filename>KingsQuest5It.slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="KingsQuest5_v1.3_It_MT32"  sha1="85c727a9c018b964ceae00cb9b4c43c0b23d5133">
+		<name>Kings Quest 5 It MT 32</name>
+		<subpath>KingsQuest5ItMT32</subpath>
+		<variant_uuid>5b93ab93-6423-575e-8271-64cc09ad7741</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>KingsQuest5ItMT32.slave</slave_default>
+		<slave number="1">
+			<filename>KingsQuest5ItMT32.slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="KingsQuest5_v1.3_MT32"  sha1="a20472df951e6e6e0d72354a1085cd7ddfa68d79">
+		<name>Kings Quest 5 MT 32</name>
+		<subpath>KingsQuest5MT32</subpath>
+		<variant_uuid>86e1f6e2-5b07-5e4a-9cb2-7f71a6e12dce</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>KingsQuest5MT32.slave</slave_default>
+		<slave number="1">
+			<filename>KingsQuest5MT32.slave</filename>
 			<datapath>data</datapath>
 		</slave>
 		<hardware>
@@ -48904,6 +49078,23 @@ joyport2_amiberry_custom_none_south=Right Shift
 		PORT1=JOY
 		SCREEN_HEIGHT=200
 		SCREEN_Y_OFFSET=3
+		
+		</hardware>
+	</game>
+	<game filename="KingsQuestEnhanced_v1.1b_MT32_1436"  sha1="62d50a5b2ff56c653d25c2e89b8bd66e59cbf4be">
+		<name>Kings Quest Enhanced MT 32</name>
+		<subpath>KingsQuestEnhancedMT32</subpath>
+		<variant_uuid>00d43e13-85cb-531f-be5f-1c73707104fb</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>KingsQuestEnhancedMT32.slave</slave_default>
+		<slave number="1">
+			<filename>KingsQuestEnhancedMT32.slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
 		
 		</hardware>
 	</game>
@@ -50695,6 +50886,40 @@ joyport0_amiberry_custom_none_right_stick=F7
 		
 		</hardware>
 	</game>
+	<game filename="LeisureSuitLarry5_v1.5_De_MT32"  sha1="d144d5873a128dbedd130041d877fd40f7d24e29">
+		<name>Leisure Suit Larry 5 De MT 32</name>
+		<subpath>LeisureSuitLarry5DeMT32</subpath>
+		<variant_uuid>567036e0-4711-54d7-9b9b-ca2f956768fa</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>LeisureSuitLarry5DeMT32.Slave</slave_default>
+		<slave number="1">
+			<filename>LeisureSuitLarry5DeMT32.Slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="LeisureSuitLarry5_v1.5_MT32_2244"  sha1="a53cc2cf9fe3c382f1e6b1b9e22d02074ea378c8">
+		<name>Leisure Suit Larry 5 MT 32</name>
+		<subpath>LeisureSuitLarry5MT32</subpath>
+		<variant_uuid>c84fb17b-1087-5fdd-92c8-2e4bfe973eb9</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>LeisureSuitLarry5MT32.Slave</slave_default>
+		<slave number="1">
+			<filename>LeisureSuitLarry5MT32.Slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
 	<game filename="LeisureSuitLarryEnhanced_v1.1"  sha1="cfda018cf52e3eb5af717251f6b6fa150f0a50a8">
 		<name>Leisure Suit Larry In The Land Of The Lounge Lizards (Enhanced)</name>
 		<subpath>LeisureSuitLarryEnhanced</subpath>
@@ -50711,6 +50936,23 @@ joyport0_amiberry_custom_none_right_stick=F7
 		PORT1=JOY
 		SCREEN_HEIGHT=200
 		SCREEN_Y_OFFSET=3
+		
+		</hardware>
+	</game>
+	<game filename="LeisureSuitLarryEnhanced_v1.1_MT32"  sha1="c648b19bac4ff3dab4d09b6d8b00d6179910f01b">
+		<name>Leisure Suit Larry Enhnd MT 32</name>
+		<subpath>LeisureSuitLarryEnhndMT32</subpath>
+		<variant_uuid>5d3c0173-0110-5963-b315-d3e3aeaf4aea</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>LeisureSuitLarryEnhndMT32.slave</slave_default>
+		<slave number="1">
+			<filename>LeisureSuitLarryEnhndMT32.slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
 		
 		</hardware>
 	</game>
@@ -56621,6 +56863,90 @@ joyport0_amiberry_custom_none_start=Space
 		
 		</hardware>
 	</game>
+	<game filename="NorthAndSouth_v2.0-B_Files_0194"  sha1="aa4073622710c2693deaf3462e5d6ec1e3406d21">
+		<name>North And South (Files)</name>
+		<subpath>NorthAndSouthFiles</subpath>
+		<variant_uuid>02073feb-0364-5979-b7ba-72520c580a85</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>NorthAndSouthFiles.Slave</slave_default>
+		<slave number="1">
+			<filename>NorthAndSouthFiles.Slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			C1:B:Forces Joystick or CD32Pad for PL2 (mouse port)
+			
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="NorthAndSouth_v2.0-B_Files_NTSC_1780"  sha1="197bf83e5dbf9036eb68c7a5a5e40c37116d21c7">
+		<name>North And South (Files) (NTSC)</name>
+		<subpath>NorthAndSouthFilesNTSC</subpath>
+		<variant_uuid>e30b13cc-ced8-5288-bc0a-9a9d7b5b3e2f</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>NorthAndSouthFilesNTSC.Slave</slave_default>
+		<slave number="1">
+			<filename>NorthAndSouthFilesNTSC.Slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			C1:B:Forces Joystick or CD32Pad for PL2 (mouse port)
+			
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="NorthAndSouth_v2.0-B_Image_0194"  sha1="81933260ea3d8d573e6f75a5a8b0d33f844614db">
+		<name>North &amp; South (Image)</name>
+		<subpath>NorthAndSouthImage</subpath>
+		<variant_uuid>86939f88-3713-5d08-af37-a8624de5375a</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>NorthAndSouthImage.Slave</slave_default>
+		<slave number="1">
+			<filename>NorthAndSouthImage.Slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			C1:B:Forces Joystick or CD32Pad for PL2 (mouse port)
+			
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="NorthAndSouth_v2.0-B_Image_NTSC_1780"  sha1="f8aff96fb3f37444de495acf6b8553b8fb09180e">
+		<name>North And South (Image) (NTSC)</name>
+		<subpath>NorthAndSouthImageNTSC</subpath>
+		<variant_uuid>5d7c4b85-62a9-58e2-800e-897efb777807</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>NorthAndSouthImageNTSC.Slave</slave_default>
+		<slave number="1">
+			<filename>NorthAndSouthImageNTSC.Slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			C1:B:Forces Joystick or CD32Pad for PL2 (mouse port)
+			
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
 	<game filename="NorthSeaInferno_v1.1"  sha1="1aa4888a6403e91b52771dbcf2f3c7a9d4b6fd33">
 		<name>North Sea Inferno</name>
 		<subpath>NorthSeaInferno</subpath>
@@ -61486,6 +61812,74 @@ joyport0_amiberry_custom_none_start=Space
 		
 		</hardware>
 	</game>
+	<game filename="PoliceQuest3_v1.4_De"  sha1="4460dea0f45558e00856ef245393433ebf51b3ea">
+		<name>Police Quest 3 (Deutsch)</name>
+		<subpath>PoliceQuest3De</subpath>
+		<variant_uuid>1a111cd9-99cc-53a2-9f46-436beefd2fb2</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>PoliceQuest3De.slave</slave_default>
+		<slave number="1">
+			<filename>PoliceQuest3De.slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="PoliceQuest3_v1.4_De_MT32"  sha1="a817c5de9ba41d643a8685e6a16adda0dd584fcf">
+		<name>Police Quest 3 De MT 32</name>
+		<subpath>PoliceQuest3DeMT32</subpath>
+		<variant_uuid>aa21b7d0-dee6-53a8-be5f-7fb63fded97a</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>PoliceQuest3DeMT32.slave</slave_default>
+		<slave number="1">
+			<filename>PoliceQuest3DeMT32.slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="PoliceQuest3_v1.4_NTSC_1341"  sha1="6b46c2d53e2d12438ca9765fbe72d3220b84611d">
+		<name>Police Quest 3 (NTSC)</name>
+		<subpath>PoliceQuest3NTSC</subpath>
+		<variant_uuid>aaf6b70c-9893-55ce-b0a6-3feda3d97789</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>PoliceQuest3NTSC.slave</slave_default>
+		<slave number="1">
+			<filename>PoliceQuest3NTSC.slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="PoliceQuest3_v1.4_NTSC_MT32_1341"  sha1="581e3c26131d112d7bcff828a39ec8c2a8a30500">
+		<name>Police Quest 3 (NTSC)MT 32</name>
+		<subpath>PoliceQuest3NTSCMT32</subpath>
+		<variant_uuid>8aaaa5c9-146e-50e9-8fbe-15fa747daaaf</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>PoliceQuest3NTSCMT32.slave</slave_default>
+		<slave number="1">
+			<filename>PoliceQuest3NTSCMT32.slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
 	<game filename="PoliceQuest_v1.0b_1207"  sha1="7d5a9a7fdbcd86b3b1ada831e08585ea989ebc2a">
 		<name>Police Quest - In Pursuit of the Death Angel</name>
 		<subpath>PoliceQuest</subpath>
@@ -62894,6 +63288,42 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		PORT1=JOY
 		SCREEN_HEIGHT=200
 		SCREEN_Y_OFFSET=3
+		
+		</hardware>
+	</game>
+	<game filename="QuestForGlory2_v1.3_1868"  sha1="95fdd21ee98b506260a55241b2b9367b978aae00">
+		<name>Quest For Glory II - Trial by Fire</name>
+		<subpath>QuestForGlory2</subpath>
+		<variant_uuid>c6b0445d-459c-58dd-8e08-fa14246ea63b</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>QuestForGlory2.Slave</slave_default>
+		<slave number="1">
+			<filename>QuestForGlory2.Slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=MOUSE
+		PORT0=MOUSE
+		PORT1=JOY
+		SCREEN_HEIGHT=200
+		SCREEN_Y_OFFSET=3
+		
+		</hardware>
+	</game>
+	<game filename="QuestForGlory2_v1.3_MT32_1868"  sha1="d51c25219b41eecff371c591fad6573e7e6b7357">
+		<name>Quest For Glory 2 MT 32</name>
+		<subpath>QuestForGlory2MT32</subpath>
+		<variant_uuid>773e86e8-3fa8-55b0-a03a-17141ea6a2aa</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>QuestForGlory2MT32.Slave</slave_default>
+		<slave number="1">
+			<filename>QuestForGlory2MT32.Slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
 		
 		</hardware>
 	</game>
@@ -70535,6 +70965,23 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		
 		</hardware>
 	</game>
+	<game filename="SpaceQuest3_v1.2b_De_MT32_0579"  sha1="3a7cadf4af465d8791c76626d5dfc8718e82b7fe">
+		<name>Space Quest 3 De MT 32</name>
+		<subpath>SpaceQuest3DeMT32</subpath>
+		<variant_uuid>15666dca-abba-5c3b-9f1c-52f86c08d740</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>SpaceQuest3DeMT32.slave</slave_default>
+		<slave number="1">
+			<filename>SpaceQuest3DeMT32.slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
 	<game filename="SpaceQuest4_v1.1_1177"  sha1="a460d41ce58953c5f9ba02e02a9e0b98e0135092">
 		<name>Space Quest IV - Roger Wilco and the Time Rippers</name>
 		<subpath>SpaceQuest4</subpath>
@@ -70569,6 +71016,23 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		
 		</hardware>
 	</game>
+	<game filename="SpaceQuest4_v1.1_De_MT32_2369"  sha1="d89c8677c49fa55a3567a474ad802cebad97eb8d">
+		<name>Space Quest 4 De MT 32</name>
+		<subpath>SpaceQuest4DeMT32</subpath>
+		<variant_uuid>e1adf2ef-9cac-5158-aa39-992ed8c2409c</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>SpaceQuest4DeMT32.slave</slave_default>
+		<slave number="1">
+			<filename>SpaceQuest4DeMT32.slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
 	<game filename="SpaceQuest4_v1.1_NTSC_1177"  sha1="5e50030e7f69e5bf205927a9814a10c5604efb65">
 		<name>Space Quest 4 (NTSC)</name>
 		<subpath>SpaceQuest4NTSC</subpath>
@@ -70577,6 +71041,23 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		<slave_default>SpaceQuest4NTSC.slave</slave_default>
 		<slave number="1">
 			<filename>SpaceQuest4NTSC.slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="SpaceQuest4_v1.1_NTSC_MT32_1177"  sha1="c9cdaa30440ea93659ad8fec34f4bfbe5bc2ab00">
+		<name>Space Quest 4 (NTSC)MT 32</name>
+		<subpath>SpaceQuest4NTSCMT32</subpath>
+		<variant_uuid>9ea9dee4-6faa-57c7-886d-64da3863cbdf</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>SpaceQuest4NTSCMT32.slave</slave_default>
+		<slave number="1">
+			<filename>SpaceQuest4NTSCMT32.slave</filename>
 			<datapath>data</datapath>
 		</slave>
 		<hardware>
@@ -86689,146 +87170,6 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 			<custom>
 			C1:B:Skip Title
 			</custom>
-		</slave>
-		<hardware>
-		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
-		
-		</hardware>
-	</game>
-	<game filename="ConquestsOfTheLongbow_v1.1"  sha1="2c046dbd946f82be764c1abdd85ea7626204fa1e">
-		<name>Conquests Of The Longbow</name>
-		<subpath>ConquestsOfTheLongbow</subpath>
-		<variant_uuid>05a33a86-c5d4-5a8b-bba0-0c74e1317a97</variant_uuid>
-		<slave_count>1</slave_count>
-		<slave_default>ConquestsOfTheLongbow.slave</slave_default>
-		<slave number="1">
-			<filename>ConquestsOfTheLongbow.slave</filename>
-			<datapath>data</datapath>
-		</slave>
-		<hardware>
-		PRIMARY_CONTROL=MOUSE
-		PORT0=MOUSE
-		PORT1=JOY
-		SCREEN_HEIGHT=200
-		SCREEN_Y_OFFSET=3
-		
-		</hardware>
-	</game>
-	<game filename="ConquestsOfTheLongbow_v1.1_MT32"  sha1="91e8715e223c7d8e9c5254968f6425e91d6f114b">
-		<name>Conquests Of The Longbow MT 32</name>
-		<subpath>ConquestsOfTheLongbowMT32</subpath>
-		<variant_uuid>744559a4-e9d1-5c9b-b5d8-79a67f508c31</variant_uuid>
-		<slave_count>1</slave_count>
-		<slave_default>ConquestsOfTheLongbowMT32.slave</slave_default>
-		<slave number="1">
-			<filename>ConquestsOfTheLongbowMT32.slave</filename>
-			<datapath>data</datapath>
-		</slave>
-		<hardware>
-		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
-		
-		</hardware>
-	</game>
-	<game filename="PoliceQuest3_v1.4_De"  sha1="4460dea0f45558e00856ef245393433ebf51b3ea">
-		<name>Police Quest 3 (Deutsch)</name>
-		<subpath>PoliceQuest3De</subpath>
-		<variant_uuid>1a111cd9-99cc-53a2-9f46-436beefd2fb2</variant_uuid>
-		<slave_count>1</slave_count>
-		<slave_default>PoliceQuest3De.slave</slave_default>
-		<slave number="1">
-			<filename>PoliceQuest3De.slave</filename>
-			<datapath>data</datapath>
-		</slave>
-		<hardware>
-		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
-		
-		</hardware>
-	</game>
-	<game filename="PoliceQuest3_v1.4_De_MT32"  sha1="a817c5de9ba41d643a8685e6a16adda0dd584fcf">
-		<name>Police Quest 3 De MT 32</name>
-		<subpath>PoliceQuest3DeMT32</subpath>
-		<variant_uuid>aa21b7d0-dee6-53a8-be5f-7fb63fded97a</variant_uuid>
-		<slave_count>1</slave_count>
-		<slave_default>PoliceQuest3DeMT32.slave</slave_default>
-		<slave number="1">
-			<filename>PoliceQuest3DeMT32.slave</filename>
-			<datapath>data</datapath>
-		</slave>
-		<hardware>
-		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
-		
-		</hardware>
-	</game>
-	<game filename="PoliceQuest3_v1.4_NTSC_1341"  sha1="6b46c2d53e2d12438ca9765fbe72d3220b84611d">
-		<name>Police Quest 3 (NTSC)</name>
-		<subpath>PoliceQuest3NTSC</subpath>
-		<variant_uuid>aaf6b70c-9893-55ce-b0a6-3feda3d97789</variant_uuid>
-		<slave_count>1</slave_count>
-		<slave_default>PoliceQuest3NTSC.slave</slave_default>
-		<slave number="1">
-			<filename>PoliceQuest3NTSC.slave</filename>
-			<datapath>data</datapath>
-		</slave>
-		<hardware>
-		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
-		
-		</hardware>
-	</game>
-	<game filename="PoliceQuest3_v1.4_NTSC_MT32_1341"  sha1="581e3c26131d112d7bcff828a39ec8c2a8a30500">
-		<name>Police Quest 3 (NTSC)MT 32</name>
-		<subpath>PoliceQuest3NTSCMT32</subpath>
-		<variant_uuid>8aaaa5c9-146e-50e9-8fbe-15fa747daaaf</variant_uuid>
-		<slave_count>1</slave_count>
-		<slave_default>PoliceQuest3NTSCMT32.slave</slave_default>
-		<slave number="1">
-			<filename>PoliceQuest3NTSCMT32.slave</filename>
-			<datapath>data</datapath>
-		</slave>
-		<hardware>
-		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
-		
-		</hardware>
-	</game>
-	<game filename="QuestForGlory2_v1.3_1868"  sha1="95fdd21ee98b506260a55241b2b9367b978aae00">
-		<name>Quest For Glory II - Trial by Fire</name>
-		<subpath>QuestForGlory2</subpath>
-		<variant_uuid>c6b0445d-459c-58dd-8e08-fa14246ea63b</variant_uuid>
-		<slave_count>1</slave_count>
-		<slave_default>QuestForGlory2.Slave</slave_default>
-		<slave number="1">
-			<filename>QuestForGlory2.Slave</filename>
-			<datapath>data</datapath>
-		</slave>
-		<hardware>
-		PRIMARY_CONTROL=MOUSE
-		PORT0=MOUSE
-		PORT1=JOY
-		SCREEN_HEIGHT=200
-		SCREEN_Y_OFFSET=3
-		
-		</hardware>
-	</game>
-	<game filename="QuestForGlory2_v1.3_MT32_1868"  sha1="d51c25219b41eecff371c591fad6573e7e6b7357">
-		<name>Quest For Glory 2 MT 32</name>
-		<subpath>QuestForGlory2MT32</subpath>
-		<variant_uuid>773e86e8-3fa8-55b0-a03a-17141ea6a2aa</variant_uuid>
-		<slave_count>1</slave_count>
-		<slave_default>QuestForGlory2MT32.Slave</slave_default>
-		<slave number="1">
-			<filename>QuestForGlory2MT32.Slave</filename>
-			<datapath>data</datapath>
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK

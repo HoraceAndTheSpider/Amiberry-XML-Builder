@@ -1,4 +1,4 @@
-Scanned file log: 2019-02-06 at 03:00:07
+Scanned file log: 2019-02-08 at 03:00:06
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
 Skipped: 24HourEFix_v1.0_Quartz.lha
@@ -1635,6 +1635,7 @@ Skipped: Dux_v1.0.lha
 Skipped: DylanDogTheMurderers_v1.3.lha
 Skipped: DynaBlaster_v1.2_0664.lha
 Skipped: DynaBlaster_v1.3_0664.lha
+Scanned: Dyna Blaster
 Skipped: DynamiteDux_v1.0_1183.lha
 Skipped: Dynamo_v1.3_0995.lha
 Skipped: DynastyWars_v1.1_0862.lha

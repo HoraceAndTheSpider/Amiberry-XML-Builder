@@ -22,6 +22,9 @@ ArcherMacleansPool
 ArmageddonMan
 ArmourGeddon
 ArmourGeddon2
+Arkanoid
+ArkanoidNTSC
+ArkanoidRevengeOfDoh
 AshesOfEmpire
 B17FlyingFortress
 BAT
@@ -435,3 +438,11 @@ ZakMcKracken
 Zeewolf
 Zeewolf2
 Zoom
+MonkeyIsland2Es
+MonkeyIsland2Fr
+MonkeyIsland2It
+MonkeyIsland2De
+SecretOfMonkeyIslandDe
+SecretOfMonkeyIslandEs
+SecretOfMonkeyIslandFr
+SecretOfMonkeyIslandIt

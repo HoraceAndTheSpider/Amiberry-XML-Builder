@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<whdbooter timestamp="2019-02-11 at 02:00:06">
+<whdbooter timestamp="2019-02-13 at 03:00:08">
 	<game filename="1001StolenIdeas_v1.0_Airwalk"  sha1="a24c60e66c9cdb5ca96075d9f4f4ad7eaa900d76">
 		<name>1001 Stolen Ideas</name>
 		<subpath>1001StolenIdeas</subpath>
@@ -87222,6 +87222,262 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="BeneathASteelSky_v2.1_0207"  sha1="9b9f3ff6556ba67b9211cac09ccdddea88e4891e">
+		<name>Beneath a Steel Sky</name>
+		<subpath>BeneathAStlSky</subpath>
+		<variant_uuid>01ce0d29-ed0f-57cf-bfa1-d6e0fe44af00</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>BeneathAStlSky.slave</slave_default>
+		<slave number="1">
+			<filename>BeneathAStlSky.slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=MOUSE
+		PORT0=MOUSE
+		PORT1=JOY
+		SCREEN_HEIGHT=200
+		SCREEN_Y_OFFSET=24
+		
+		</hardware>
+	</game>
+	<game filename="BeneathASteelSky_v2.1_CD32"  sha1="6c9920254c734f983f77ba92bfd5705604b98b27">
+		<name>Beneath A Steel Sky [CD32]</name>
+		<subpath>BeneathAStlSkyCD32</subpath>
+		<variant_uuid>9ca0e846-91ce-588f-a4a6-0e712ae2fc62</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>BeneathAStlSkyCD32.slave</slave_default>
+		<slave number="1">
+			<filename>BeneathAStlSkyCD32.slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=MOUSE
+		PORT0=MOUSE
+		PORT1=JOY
+		CHIPSET=AGA
+		SCREEN_HEIGHT=200
+		SCREEN_Y_OFFSET=24
+		
+		</hardware>
+	</game>
+	<game filename="BeneathASteelSky_v2.1_CD32_NoVoice"  sha1="723983ab05722426d1b4bc67e43a6b359993d921">
+		<name>Beneath A Steel Sky [CD32] (No Voice)</name>
+		<subpath>BeneathAStlSkyCD32NoVoice</subpath>
+		<variant_uuid>5e3090b8-f328-556f-8a1e-b1a3d627db28</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>BeneathAStlSkyCD32NoVoice.slave</slave_default>
+		<slave number="1">
+			<filename>BeneathAStlSkyCD32NoVoice.slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=MOUSE
+		PORT0=MOUSE
+		PORT1=JOY
+		CHIPSET=AGA
+		SCREEN_HEIGHT=200
+		SCREEN_Y_OFFSET=24
+		
+		</hardware>
+	</game>
+	<game filename="BeneathASteelSky_v2.1_De_0461"  sha1="5144aa2fad5487181ba18ad5d37508e385b5342e">
+		<name>Beneath A Stl Sky (Deutsch)</name>
+		<subpath>BeneathAStlSkyDe</subpath>
+		<variant_uuid>054600c9-cec2-5658-971f-092ef178ae19</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>BeneathAStlSkyDe.slave</slave_default>
+		<slave number="1">
+			<filename>BeneathAStlSkyDe.slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="BeneathASteelSky_v2.1_Fr_2340"  sha1="322896cf45b3532e0ebdea9e0ddafdd8f5b7117e">
+		<name>Beneath A Stl Sky (Francais)</name>
+		<subpath>BeneathAStlSkyFr</subpath>
+		<variant_uuid>30daae69-d7dc-5d59-95f2-639a424cdd55</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>BeneathAStlSkyFr.slave</slave_default>
+		<slave number="1">
+			<filename>BeneathAStlSkyFr.slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="BeneathASteelSky_v2.1_It"  sha1="93d494db79394000d73624b0e3141b48084091bb">
+		<name>Beneath A Stl Sky (Italiano)</name>
+		<subpath>BeneathAStlSkyIt</subpath>
+		<variant_uuid>16823ce2-83e3-501a-a077-492bbb31c5e3</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>BeneathAStlSkyIt.slave</slave_default>
+		<slave number="1">
+			<filename>BeneathAStlSkyIt.slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="BeneathASteelSky_v2.1_Se"  sha1="6e72c0756e9d6ce7c8de7df6b312c5c6f3d53f75">
+		<name>Beneath A Stl Sky (Svenska)</name>
+		<subpath>BeneathAStlSkySe</subpath>
+		<variant_uuid>fd4c263e-4c99-5688-8340-9d29478da4eb</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>BeneathAStlSkySe.slave</slave_default>
+		<slave number="1">
+			<filename>BeneathAStlSkySe.slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="NorthAndSouth_v2.1_Files_0194"  sha1="a828244a477b438ff68529d77d8387da2b9de6df">
+		<name>North And South (Files)</name>
+		<subpath>NorthAndSouthFiles</subpath>
+		<variant_uuid>970c35fc-ebc5-5d88-a173-4abeec50d8e0</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>NorthAndSouthFiles.slave</slave_default>
+		<slave number="1">
+			<filename>NorthAndSouthFiles.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			C1:B:Forces Joystick or CD32Pad for PL2 (mouse port)
+			
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="NorthAndSouth_v2.1_Files_NTSC_1780"  sha1="60c7453b3267858bc8868c0e542b67ae5ba675dd">
+		<name>North And South (Files) (NTSC)</name>
+		<subpath>NorthAndSouthFilesNTSC</subpath>
+		<variant_uuid>8ea01424-1385-58b4-bb1e-33df93ccaccf</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>NorthAndSouthFilesNTSC.slave</slave_default>
+		<slave number="1">
+			<filename>NorthAndSouthFilesNTSC.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			C1:B:Forces Joystick or CD32Pad for PL2 (mouse port)
+			
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="NorthAndSouth_v2.1_Image_0194"  sha1="3343788f754196ff838e0aa65a6b98a7f034fec6">
+		<name>North &amp; South (Image)</name>
+		<subpath>NorthAndSouthImage</subpath>
+		<variant_uuid>618af8a1-864e-5272-a024-921dffbd678c</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>NorthAndSouthImage.slave</slave_default>
+		<slave number="1">
+			<filename>NorthAndSouthImage.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			C1:B:Forces Joystick or CD32Pad for PL2 (mouse port)
+			
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="NorthAndSouth_v2.1_Image_NTSC_1780"  sha1="9c61675a5e2d74b4fc1195e8f6f8df9d31cbe4c7">
+		<name>North And South (Image) (NTSC)</name>
+		<subpath>NorthAndSouthImageNTSC</subpath>
+		<variant_uuid>d5683dc5-63b7-5c00-87c1-5a8157b4f24c</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>NorthAndSouthImageNTSC.slave</slave_default>
+		<slave number="1">
+			<filename>NorthAndSouthImageNTSC.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			C1:B:Forces Joystick or CD32Pad for PL2 (mouse port)
+			
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="ProjectXv2_v1.4_0289"  sha1="60f35e150535bfebb60dcfcf36d79200f0f98631">
+		<name>Project-X (v2)</name>
+		<subpath>ProjectXv2</subpath>
+		<variant_uuid>803ca314-7937-5fea-a41a-84dcf01a66d9</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>ProjectXv2.slave</slave_default>
+		<slave number="1">
+			<filename>ProjectXv2.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			C1:B:Enable all the 5 levels in menu
+			C2:B:Disable joystick weapon select
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		
+		</hardware>
+	</game>
+	<game filename="ProjectX_v1.4_0886"  sha1="4087269da136890ac89d4a7d87ecbad45c2c8878">
+		<name>Project-X</name>
+		<subpath>ProjectX</subpath>
+		<variant_uuid>4d5bbb6e-e144-5bb4-86aa-905b9578df30</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>ProjectX.slave</slave_default>
+		<slave number="1">
+			<filename>ProjectX.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			C1:B:Enable all the 5 levels in menu
+			C2:B:Disable joystick weapon select
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		JIT=FALSE
+		SCREEN_HEIGHT=270
+		SCREEN_Y_OFFSET=-3
 		
 		</hardware>
 	</game>

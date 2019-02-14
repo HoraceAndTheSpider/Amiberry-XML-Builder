@@ -1055,3 +1055,4 @@ Zool [AGA]|Zool - Ninja Of The 'Nth' Dimension [AGA]
 ZOut|Z-Out
 KGBFr|KGB (Francais)
 KGBDe|KGB (Deutsch)
+20000 Lieues Mers FR|20000 Lieues Mers (Francais)

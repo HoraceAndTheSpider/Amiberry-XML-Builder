@@ -28,14 +28,14 @@ def value_list(in_file, game_name):
     file_name = "settings/" + in_file
 
     if os.path.isfile(file_name) is False:
-        return 0
+        return ""
 
     with open(file_name) as f:
         content = f.readlines()
         content = [x.strip() for x in content]
     f.close()
 
-    answer = 0
+    answer = ""
 
     for this_line in content:
         if not this_line == "":
@@ -82,12 +82,12 @@ def check_list(in_file, game_name):
 print()
 print(
     text_utils.FontColours.BOLD + text_utils.FontColours.OKBLUE + "HoraceAndTheSpider and osvaldolove" + text_utils.FontColours.ENDC + "'s " + text_utils.FontColours.BOLD +
-    "Amiberry XML Builder" + text_utils.FontColours.ENDC + text_utils.FontColours.OKGREEN + " (0.4)" + text_utils.FontColours.ENDC + " | " + "" +
+    "Amiberry XML Builder" + text_utils.FontColours.ENDC + text_utils.FontColours.OKGREEN + " (0.5)" + text_utils.FontColours.ENDC + " | " + "" +
     text_utils.FontColours.FAIL + "www.ultimateamiga.co.uk" + text_utils.FontColours.ENDC)
 print()
 
 
-parser = argparse.ArgumentParser(description='Create UAE Configs for WHDLoad Packs.')
+parser = argparse.ArgumentParser(description='Create Amiberry XML for WHDLoad Packs.')
 
 parser.add_argument('--scandir', '-s',                         # command line argument
                     help='Directories to Scan',
@@ -100,17 +100,29 @@ parser.add_argument('--refresh', '-n',                      # command line argum
                     help="Full XML refresh"
                     )
 
+parser.add_argument('--forceinput', '-f',                  # command line argument
+                    action="store_true",                    # if argument present, store value as True otherwise False
+                    help="Force -S to be used on OSX, and ignore timecheck"
+                    )
+
 # Parse all command line arguments
 args = parser.parse_args()
 
 # Get the directories to scan (or default)
 # yeah, i shouldnt do this, but i'm lazy, so i will.
-if platform.system() == "Darwin":
+if platform.system() == "Darwin" and args.forceinput != True:
         input_directory = "/Volumes/Macintosh HD/Users/horaceandthespider/Google Drive/Geek/Shared Pi Games/amiga/_Standard/"
 else:
         input_directory = args.scandir
 
 #input_directory = args.scandir
+
+# Timecheck the original XML
+
+#text_file = open("whdload_db.xml", "r")
+#XML_OLD = text_file.read()
+#text_file.close()
+
 
       
 # >> Setup Bool Constant for xml refresh
@@ -153,19 +165,22 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
     this_file = os.path.basename(archive_path)
 
     # check for a skip, and that its value for skipping
-    if FULL_REFRESH==False and XML_OLD.find('<game filename="' + this_file[0:len(this_file)-4].replace("&", "&amp;") + '"')>-1:        
+    if (FULL_REFRESH==False and XML_OLD.find('<game filename="' + this_file[0:len(this_file)-4].replace("&", "&amp;") + '"')>-1):        
         print("Skipping: " + text_utils.FontColours.OKBLUE + text_utils.FontColours.BOLD  + this_file + text_utils.FontColours.ENDC)
         COMPLETE_MSG = COMPLETE_MSG + "Skipped: " + this_file + chr(10)
-        
+    elif text_utils.left(this_file,2)=="._":
+        ...
+        count = count - 1
     else:
-        print("Processing: " + text_utils.FontColours.OKBLUE + text_utils.FontColours.BOLD  + this_file + text_utils.FontColours.ENDC)
+        print()
+        print("Processing: " + text_utils.FontColours.FAIL + text_utils.FontColours.BOLD  + this_file + text_utils.FontColours.ENDC)
         
         try:
                 slave_archive = LhaSlaveArchive(archive_path, hash_algorithm)
                 file_details = openretroid.parse_file(archive_path)
                 
-                print(text_utils.FontColours.OKGREEN + slave_archive.absolute_path + text_utils.FontColours.ENDC)
-                print()
+                #print(text_utils.FontColours.OKGREEN + slave_archive.absolute_path + text_utils.FontColours.ENDC)
+
                 
                 slave_archive.read_lha()
                 ArchiveSHA = sha1(file2)
@@ -183,20 +198,34 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                 first_slave=""
                 UUID = ""
                 n=1
+                default_slave = ""
+                default_slave_found = False
                 
+                UUID = file_details['uuid']                    
+                print("Openretro URL: " + text_utils.FontColours.UNDERLINE + text_utils.FontColours.OKBLUE +  "http://www.openretro.org/game/{}".format(UUID) + text_utils.FontColours.ENDC)
+                #print("Variant UUID: {}".format(file_details['uuid']))
+                print()
+                # we should get the default slave here, so that we only select it if it
+
+                def_msg = ""
+                
+                # default slave
+                default_slave = value_list("WHD_DefaultSlave.txt", text_utils.left(this_file,len(this_file) - 4))
+                if default_slave != "":
+                     def_msg = " (Lookup from list using File Name)"                               
+
                 # From here, we need to process WHDLoad header information out of the slave files!
                 for slave in slave_archive.slaves:
                     slave.get_hash()
-                    print(text_utils.FontColours.BOLD + 'Slave Name: ', end='')
-                    print(slave.name)
-                    print( "{} Hash: ".format(slave.hasher.name.upper()), end='')
-                    print(slave.hash_digest + text_utils.FontColours.ENDC)
-                    #print("Variant UUID: {}".format(file_details['uuid']))
-                    UUID = file_details['uuid']
-                    
-                    print("Openretro URL: http://www.openretro.org/game/{}".format(UUID))
+                    print(text_utils.FontColours.BOLD + '  Slave Found: ', end='')
+                    print(text_utils.FontColours.OKBLUE + slave.name + text_utils.FontColours.ENDC)
+                    #print( "{} Hash: ".format(slave.hasher.name.upper()), end='')
+                    #print(slave.hash_digest + text_utils.FontColours.ENDC)
 
-
+                    if default_slave != "":
+                        if  slave.name.find(default_slave) >0:
+                            default_slave_found = True
+                        
                 # extract the slave as a temp file
                     fp = tempfile.NamedTemporaryFile()
                     fp.write(slave.data)
@@ -215,9 +244,6 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                     if first_slave == "":
                         first_slave = slave.name.replace(slave_path +"/","")
                         
-                    print("Game name: "+ full_game_name)
-                    print("Lookup Name: " + sub_path)
-
                 # Extract H/W settings from the slaves
                     for slave_flag in this_slave.flags:
                         #print(slave_flag)
@@ -274,13 +300,27 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                         
                     SLAVE_XML = SLAVE_XML + chr(9)+ chr(9)+ '</slave>'  + chr(10)
                     n=n+1
-                    print()
                     
-
-
+                    
                 # end of slave checking
 
+                print()
+                print("Game name: " + text_utils.FontColours.HEADER + full_game_name + text_utils.FontColours.ENDC)
+                print("Lookup Name: " + text_utils.FontColours.HEADER + sub_path + text_utils.FontColours.ENDC)
                 
+                # resurn of the default slave!
+                if default_slave_found == False:
+                        default_slave = ""
+                        
+                if len(slave_archive.slaves) == 1 and default_slave=="":
+                        default_slave = last_slave
+                        def_msg = " (Only slave in archive search)"
+
+                elif default_slave=="":
+                        default_slave = first_slave
+                        def_msg = " (First slave in archive search)"
+                        
+                print("Default Slave: " + text_utils.FontColours.HEADER + default_slave + text_utils.FontColours.WARNING + def_msg + text_utils.FontColours.ENDC)
                 # get what settings we can, based on the name lookup in old Config Maker Files
 
 
@@ -316,6 +356,8 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                 HW_NTSC = ""
                 if check_list("Screen_ForceNTSC.txt", sub_path) is True:
                      HW_NTSC = "TRUE"       
+                elif this_file.find("NTSC") > -1:
+                     HW_NTSC = "TRUE" 
                             
                 # '======== CONTROL SETTINGS =======
                 # ' ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -550,9 +592,8 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
 
                 if z3_ram != 0:
                     hardware += ("Z3_RAM=") + str(z3_ram) + chr(10)
-                    
-                                 
 
+                    
                 # custom controls
                 custom_file = "customcontrols/" + full_game_name + ".controls"
                 custom_text = ""
@@ -569,6 +610,11 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                             custom_text += this_line
 
 
+                # 
+                extra_libs = "False"
+                if check_list("WHD_Libraries.txt", sub_path) is True:
+                    extra_libs = "True"
+
                 COMPLETE_MSG = COMPLETE_MSG + "Scanned: " + full_game_name + chr(10)
                 ##generate XML
                 
@@ -578,11 +624,8 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                 XML = XML + chr(9)+ chr(9) + '<subpath>' + sub_path.replace("&", "&amp;") + '</subpath>' + chr(10)
                 XML = XML + chr(9)+ chr(9) + '<variant_uuid>' + UUID + '</variant_uuid>' + chr(10)
                 XML = XML + chr(9)+ chr(9) + '<slave_count>' + str(len(slave_archive.slaves)) + '</slave_count>' + chr(10)
-                if len(slave_archive.slaves) == 1:
-                        XML = XML + chr(9)+ chr(9) + '<slave_default>' + last_slave.replace("&", "&amp;")  + '</slave_default>' + chr(10)
-                else:
-                        XML = XML + chr(9)+ chr(9) + '<slave_default>' + first_slave.replace("&", "&amp;") + '</slave_default>' + chr(10)
-
+                XML = XML + chr(9)+ chr(9) + '<slave_default>' + default_slave.replace("&", "&amp;")  + '</slave_default>' + chr(10)
+                XML = XML + chr(9)+ chr(9) + '<slave_libraries>' + extra_libs  + '</slave_libraries>' + chr(10)
                 XML = XML + SLAVE_XML
                 XML = XML + chr(9)  + chr(9) + '<hardware>'
                 XML = XML + chr(10) + chr(9) + chr(9) + hardware.replace(chr(10), chr(10) + chr(9) + chr(9) )
@@ -603,6 +646,10 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                 print("Could not read LHA archive: {}".format(archive_path))
                 ERROR_MSG = ERROR_MSG + "Could not read LHA archive: {}".format(this_file)  + chr(10) 
                 #sys.exit(1)
+        except KeyboardInterrupt:
+                print()
+                print("User Abort")
+                break
         except:
                 print("Something went wrong with LHA archive: {}".format(archive_path))
                 ERROR_MSG = ERROR_MSG + "Could not read LHA archive: {}".format(this_file)  + chr(10) 
@@ -612,10 +659,10 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
         break
     count = count + 1
 
-
 XML = XML_HEADER + XML_OLD + XML + XML_FOOTER
 
 #print(XML)
+print("Generating XML File")
 text_file = open("whdload_db.xml", "w+")
 text_file.write(XML)
 text_file.close()

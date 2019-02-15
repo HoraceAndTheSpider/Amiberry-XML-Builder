@@ -2,6 +2,7 @@ BattleSquadron
 Darius+
 DisposableHero
 DisposableHeroFast
+Dynablaster
 EmpireSoccer94
 Heimdall
 HollywoodPokerPro

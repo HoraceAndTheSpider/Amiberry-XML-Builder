@@ -224,6 +224,7 @@ Dune2 3
 DungeonMaster 3
 DungeonMaster2AGA 16
 DungeonQuest 3
+DynaBlaster -4
 EOB1 3
 EOB1AGA 3
 EOB2 3

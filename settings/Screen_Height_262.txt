@@ -20,7 +20,6 @@ ChaosEngine2
 ChaosEngine2AGA
 DeluxePacman
 DeluxePacmanAGA
-DynaBlaster
 Elfmania
 FearsAGA
 FearsCD32

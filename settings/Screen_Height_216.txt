@@ -33,6 +33,7 @@ DragonsLairEscape
 DreamWeb
 DreamWebAGA
 DungeonMaster2AGA
+DynaBlaster
 ElfOcean
 Elvira
 Elvira2

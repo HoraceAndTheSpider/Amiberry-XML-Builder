@@ -1,4 +1,4 @@
-Scanned file log: 2019-02-15 at 22:47:24
+Scanned file log: 2019-02-18 at 02:00:07
 Scanned: 1001 Stolen Ideas
 Scanned: 242
 Scanned: 24 Hour EFix
@@ -2137,6 +2137,8 @@ Scanned: Future Bike Simulator
 Scanned: Future Classics Collection
 Scanned: Future Shock
 Scanned: Future Tank
+Scanned: Future Wars - Time Travellers
+Scanned: Future Wars (Deutsch)
 Scanned: Guardian Angel
 Scanned: Guardian [AGA]
 Scanned: Guardian [CD32]
@@ -4324,6 +4326,7 @@ Scanned: Volfied
 Scanned: Voodoo Nightmare
 Scanned: Voyager
 Scanned: Voyages Of Discovery
+Scanned: Voyageurs Du Temps (Francais)
 Scanned: Vermeer (Deutsch)
 Scanned: Voyageurs Du Temps (Francais)
 Scanned: World Games (NTSC)

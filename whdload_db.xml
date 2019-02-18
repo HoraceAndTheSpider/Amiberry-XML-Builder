@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<whdbooter timestamp="2019-02-15 at 22:47:24">
+<whdbooter timestamp="2019-02-18 at 02:00:07">
 	<game filename="1001StolenIdeas_v1.0_Airwalk"  sha1="a24c60e66c9cdb5ca96075d9f4f4ad7eaa900d76">
 		<name>1001 Stolen Ideas</name>
 		<subpath>1001StolenIdeas</subpath>
@@ -43866,6 +43866,44 @@ joyport0_amiberry_custom_none_right_shoulder=Numpad 9
 		<slave number="1">
 			<filename>FutureTank.slave</filename>
 			<datapath></datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		SCREEN_Y_OFFSET=
+		
+		</hardware>
+	</game>
+	<game filename="FutureWars_v4.0_1570"  sha1="642d529537f352bdea810163f64eefa5ae2041dd">
+		<name>Future Wars - Time Travellers</name>
+		<subpath>FutureWars</subpath>
+		<variant_uuid>78978ed6-3bf0-5e04-b6c0-fddd2e6abee7</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>FutureWars.Slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>FutureWars.Slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		SCREEN_Y_OFFSET=
+		
+		</hardware>
+	</game>
+	<game filename="FutureWars_v4.0_De_0506"  sha1="e393937b0732811a000a46483b47d3e592175edd">
+		<name>Future Wars (Deutsch)</name>
+		<subpath>FutureWarsDe</subpath>
+		<variant_uuid>66ac2b69-1066-5605-ba80-ca768a11f3c5</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>FutureWarsDe.Slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>FutureWarsDe.Slave</filename>
+			<datapath>data</datapath>
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
@@ -88838,6 +88876,25 @@ joyport2_amiberry_custom_none_west=Cursor Up
 			<custom>
 			
 			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		SCREEN_Y_OFFSET=
+		
+		</hardware>
+	</game>
+	<game filename="VoyageursDuTemps_v4.0_Fr_2384"  sha1="d11fd15f89751eab04a54e54d53aa7c7a7d7e073">
+		<name>Voyageurs Du Temps (Francais)</name>
+		<subpath>VoyageursDuTempsFr</subpath>
+		<variant_uuid>ec3dee19-1edf-5093-beb1-762de1657e4e</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>VoyageursDuTempsFr.Slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>VoyageursDuTempsFr.Slave</filename>
+			<datapath>data</datapath>
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK

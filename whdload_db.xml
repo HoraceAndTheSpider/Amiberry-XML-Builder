@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<whdbooter timestamp="2019-02-20 at 03:00:07">
+<whdbooter timestamp="2019-02-22 at 03:00:06">
 	<game filename="1001StolenIdeas_v1.0_Airwalk"  sha1="a24c60e66c9cdb5ca96075d9f4f4ad7eaa900d76">
 		<name>1001 Stolen Ideas</name>
 		<subpath>1001StolenIdeas</subpath>
@@ -145661,6 +145661,73 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		PORT0=JOY
 		PORT1=JOY
 		SCREEN_Y_OFFSET=
+		
+		</hardware>
+	</game>
+	<game filename="Drugstore_v1.0_Abyss"  sha1="43e857450616ac0e17e2add5e22eeae7a6bcadfc">
+		<name>Drugstore</name>
+		<subpath>Drugstore</subpath>
+		<variant_uuid>c0086978-68a7-5957-8aed-4fdc3bcecac0</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>Drugstore.Slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>Drugstore.Slave</filename>
+			<datapath></datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		SCREEN_Y_OFFSET=
+		
+		</hardware>
+	</game>
+	<game filename="ProjectXv2_v1.4.1_0289"  sha1="2c2902b853557398a0a63fc3a17a3e55d07145ed">
+		<name>Project-X (v2)</name>
+		<subpath>ProjectXv2</subpath>
+		<variant_uuid>c0a7f631-65d0-557d-b793-fba99eb6b35f</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>ProjectXv2.slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>ProjectXv2.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			C1:B:Enable all the 5 levels in menu
+			C2:B:Disable joystick weapon select
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		SCREEN_Y_OFFSET=
+		
+		</hardware>
+	</game>
+	<game filename="ProjectX_v1.4.1_0886"  sha1="c8cc21366c517966f10cdf0e27f0ea1671642048">
+		<name>Project-X</name>
+		<subpath>ProjectX</subpath>
+		<variant_uuid>00910640-e430-5948-b80d-0733d5f8a93c</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>ProjectX.slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>ProjectX.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			C1:B:Enable all the 5 levels in menu
+			C2:B:Disable joystick weapon select
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		JIT=FALSE
+		SCREEN_HEIGHT=270
+		SCREEN_Y_OFFSET=-3
 		
 		</hardware>
 	</game>

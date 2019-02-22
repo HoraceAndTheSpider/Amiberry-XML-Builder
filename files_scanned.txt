@@ -1,4 +1,4 @@
-Scanned file log: 2019-02-20 at 03:00:07
+Scanned file log: 2019-02-22 at 03:00:07
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
 Skipped: 24HourEFix_v1.0_Quartz.lha
@@ -158,6 +158,7 @@ Skipped: DoTheBartman_v1.0_FreeHand.lha
 Skipped: DoubleIntro_v1.0_Vega.lha
 Skipped: DragonLord_v1.0_AlfaForce.lha
 Skipped: DreamTrippin_v1.0_Digital.lha
+Scanned: Drugstore
 Skipped: Drums&Pipes_v1.0_TRSI.lha
 Skipped: Drums&Reverbs_v1.0_Chryseis.lha
 Skipped: DrunkDesertDemo_v1.0_Paradox.lha
@@ -3386,7 +3387,9 @@ Skipped: ProjectXBonusLevel_v1.0.lha
 Skipped: ProjectXSE_v1.5_0927.lha
 Skipped: ProjectXSE_v1.5_CD32.lha
 Skipped: ProjectXv2_v1.3_0289.lha
+Scanned: Project-X (v2)
 Skipped: ProjectXv2_v1.4_0289.lha
+Scanned: Project-X
 Skipped: ProjectX_v1.4_0886.lha
 Skipped: Projectyle_v1.11_0379.lha
 Skipped: Prophecy1VikingChild_v1.2_2557.lha

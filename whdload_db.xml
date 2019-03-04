@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<whdbooter timestamp="2019-03-01 at 03:00:08">
+<whdbooter timestamp="2019-03-04 at 02:00:07">
 	<game filename="1001StolenIdeas_v1.0_Airwalk"  sha1="a24c60e66c9cdb5ca96075d9f4f4ad7eaa900d76">
 		<name>1001 Stolen Ideas</name>
 		<subpath>1001StolenIdeas</subpath>
@@ -23902,6 +23902,60 @@ joyport1_amiberry_custom_none_west=Space
 		
 		</hardware>
 	</game>
+	<game filename="BattleSquadron_v1.7_0941"  sha1="4850d1fb315653b27545f964b2ba7f9f3821405e">
+		<name>Battle Squadron - The Destruction of the Barrax Empire</name>
+		<subpath>BattleSquadron</subpath>
+		<variant_uuid>77d93190-cc24-58c8-bd01-a4a1c87fa273</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>BattleSquadron.slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>BattleSquadron.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			C1:B:Convert PAL version to NTSC
+			C2:B:Nova missile only with 2nd button
+			C3:B:Detect connected controller type
+			C4:B:Skip BLITTER WAIT patch
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		FAST_COPPER=FALSE
+		JIT=FALSE
+		SCREEN_HEIGHT=256
+		SCREEN_Y_OFFSET=-3
+		
+		</hardware>
+	</game>
+	<game filename="BattleSquadron_v1.7_NTSC_0942"  sha1="c2a38716ee5733a63a388d6c3e3d75e7d6dfd366">
+		<name>Battle Squadron (NTSC)</name>
+		<subpath>BattleSquadronNTSC</subpath>
+		<variant_uuid>76984109-2a15-50fa-bebb-540097a1063e</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>BattleSquadronNTSC.slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>BattleSquadronNTSC.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			C1:B:Convert PAL version to NTSC
+			C2:B:Nova missile only with 2nd button
+			C3:B:Detect connected controller type
+			C4:B:Skip BLITTER WAIT patch
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		NTSC=
+		SCREEN_Y_OFFSET=
+		
+		</hardware>
+	</game>
 	<game filename="Battlestorm_v1.2_2008"  sha1="7720f28abd29c01b0b9f924de826d746c951d8c3">
 		<name>Battlestorm</name>
 		<subpath>Battlestorm</subpath>
@@ -27028,6 +27082,60 @@ joyport1_amiberry_custom_none_west=Space
 		<slave number="1">
 			<filename>BubbleBobbleNTSC.Slave</filename>
 			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		NTSC=
+		SCREEN_Y_OFFSET=
+		
+		</hardware>
+	</game>
+	<game filename="BubbleBobble_v2.0_2518"  sha1="0d67f5e7495543d67d266e15e262bd0a89732903">
+		<name>Bubble Bobble</name>
+		<subpath>BubbleBobble</subpath>
+		<variant_uuid>b3bf7ca7-4e1d-5cbb-8ada-2422cf6cddf5</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>BubbleBobble.slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>BubbleBobble.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			BW
+			C1:X:Trainer Infinite Lives:0
+			C2:X:Blue/2nd button jumps:0
+			
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		JIT=FALSE
+		CLOCK=7
+		SCREEN_HEIGHT=200
+		SCREEN_Y_OFFSET=11
+		
+		</hardware>
+	</game>
+	<game filename="BubbleBobble_v2.0_NTSC_1342"  sha1="74a1aa6ac4e23280468a429bb2c71d7b44a0bf0b">
+		<name>Bubble Bobble (NTSC)</name>
+		<subpath>BubbleBobbleNTSC</subpath>
+		<variant_uuid>0281974f-c57a-52cd-a90a-1ca93ecfc342</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>BubbleBobbleNTSC.slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>BubbleBobbleNTSC.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			BW
+			C1:X:Trainer Infinite Lives:0
+			C2:X:Blue/2nd button jumps:0
+			
+			</custom>
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
@@ -81312,6 +81420,65 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		</slave>
 		<slave number="2">
 			<filename>SuperfrogIntroCD32.Slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		CHIPSET=AGA
+		SCREEN_HEIGHT=256
+		SCREEN_Y_OFFSET=
+		
+		</hardware>
+	</game>
+	<game filename="Superfrog_v1.3_0035"  sha1="74d40628086b9e580b750239ad48fc43b80318f3">
+		<name>Superfrog</name>
+		<subpath>Superfrog</subpath>
+		<variant_uuid>06c6ca0c-61d3-5f76-ba52-0d2ad7e9d5e7</variant_uuid>
+		<slave_count>2</slave_count>
+		<slave_default>Superfrog.slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>Superfrog.slave</filename>
+			<datapath></datapath>
+			<custom>
+			C1:X:blue/second button jumps:0
+			C2:X:preserve original level codes:0
+			
+			</custom>
+		</slave>
+		<slave number="2">
+			<filename>SuperfrogIntro.slave</filename>
+			<datapath></datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		SCREEN_HEIGHT=262
+		SCREEN_Y_OFFSET=
+		
+		</hardware>
+	</game>
+	<game filename="Superfrog_v1.3_CD32"  sha1="b5e69b49d772f8e330c9ccace34f03540ff2b278">
+		<name>Superfrog [CD32]</name>
+		<subpath>SuperfrogCD32</subpath>
+		<variant_uuid>bf2e90a7-a17e-5853-9a1e-71a90949609d</variant_uuid>
+		<slave_count>2</slave_count>
+		<slave_default>SuperfrogCD32.slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>SuperfrogCD32.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			C1:X:blue/second button jumps:0
+			C2:X:preserve original level codes:0
+			
+			</custom>
+		</slave>
+		<slave number="2">
+			<filename>SuperfrogIntroCD32.slave</filename>
 			<datapath>data</datapath>
 		</slave>
 		<hardware>

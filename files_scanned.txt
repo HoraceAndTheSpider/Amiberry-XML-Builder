@@ -1,4 +1,4 @@
-Scanned file log: 2019-03-13 at 03:00:08
+Scanned file log: 2019-03-15 at 03:00:08
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
 Skipped: 24HourEFix_v1.0_Quartz.lha
@@ -1500,8 +1500,8 @@ Skipped: ChuckieEgg2_v1.1.lha
 Skipped: ChuckieEgg_v1.1.lha
 Skipped: ChuckRock2_v2.4_0282.lha
 Skipped: ChuckRock2_v2.4_CD32.lha
-Scanned: Chuck Rock 2 - Son of Chuck
-Scanned: Chuck Rock 2 [CD32]
+Skipped: ChuckRock2_v3.0_0282.lha
+Skipped: ChuckRock2_v3.0_CD32.lha
 Skipped: ChuckRock_v1.1_CD32.lha
 Skipped: ChuckYeagersAdvancedFlightTrainer2_v1.0_0670.lha
 Skipped: CircusAttractions_v1.0_1Disk_1689.lha
@@ -3455,7 +3455,7 @@ Skipped: RunningMan_v1.0_0382.lha
 Skipped: RunTheGauntlet_v1.1_1250.lha
 Skipped: Rushhour_v1.0.lha
 Skipped: RVFHonda_v1.2_1081.lha
-Scanned: Rygar [AGA]
+Skipped: Rygar_v1.0_AGA.lha
 Skipped: RaceDrivin_v0601.1.lha
 Skipped: RaceDrivin_v0601.1_NoIntro.lha
 Skipped: RackneysIsland_v1.0.lha
@@ -5252,7 +5252,7 @@ Skipped: Entity-WHDL.lha
 Skipped: Epsilon9-WHDL.lha
 Skipped: Equality2015TLK-WHDL.lha
 Skipped: EqualityTLK-WHDL.lha
-Scanned: Erben Erde [AGA] CDDE
+Skipped: ErbenErdeAGACDDE-WHDL.lha
 Skipped: ErbenErdeAGADE-WHDL.lha
 Skipped: ErbenErdeDE-WHDL.lha
 Skipped: EricWarriorSeuck-WHDL.lha
@@ -5538,7 +5538,7 @@ Skipped: IndianMissionFR-WHDL.lha
 Skipped: IndycarChallenge-WHDL.lha
 Skipped: Ineptris-WHDL.lha
 Skipped: Inersex-WHDL.lha
-Scanned: Inherit Earth [AGA] CD
+Skipped: InheritEarthAGACD-WHDL.lha
 Skipped: Insectoids1-WHDL.lha
 Skipped: Insectoids2-WHDL.lha
 Skipped: Insidia-WHDL.lha

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<whdbooter timestamp="2019-03-15 at 03:00:08">
+<whdbooter timestamp="2019-03-18 at 02:00:08">
 	<game filename="1001StolenIdeas_v1.0_Airwalk"  sha1="a24c60e66c9cdb5ca96075d9f4f4ad7eaa900d76">
 		<name>1001 Stolen Ideas</name>
 		<subpath>1001StolenIdeas</subpath>
@@ -30779,6 +30779,57 @@ joyport1_amiberry_custom_none_west=Space
 		<slave number="1">
 			<filename>ChuckRock2CD32.slave</filename>
 			<datapath></datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		CHIPSET=AGA
+		SCREEN_Y_OFFSET=
+		
+		</hardware>
+	</game>
+	<game filename="ChuckRock2_v3.0_0282"  sha1="aa84ff9fd88c58138f756fe760d618c28d2b45ec">
+		<name>Chuck Rock 2 - Son of Chuck</name>
+		<subpath>ChuckRock2</subpath>
+		<variant_uuid>abbaadf8-e688-5574-b57f-b439e38e372f</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>ChuckRock2.slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>ChuckRock2.slave</filename>
+			<datapath></datapath>
+			<custom>
+			C1:X:Trainer infinite lives:0
+			C2:X:second button jumps:0
+			
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		JIT=FALSE
+		SCREEN_HEIGHT=216
+		SCREEN_Y_OFFSET=0
+		
+		</hardware>
+	</game>
+	<game filename="ChuckRock2_v3.0_CD32"  sha1="22ee3f26bec260a9ba0d789f4583e9e9b450b8cc">
+		<name>Chuck Rock 2 [CD32]</name>
+		<subpath>ChuckRock2CD32</subpath>
+		<variant_uuid>95536c8a-1dfc-538a-81b7-c57b614bdb21</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>ChuckRock2CD32.slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>ChuckRock2CD32.slave</filename>
+			<datapath></datapath>
+			<custom>
+			C1:X:Trainer infinite lives:0
+			C2:X:second button jumps:0
+			
+			</custom>
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
@@ -71084,6 +71135,29 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
+		SCREEN_Y_OFFSET=
+		
+		</hardware>
+	</game>
+	<game filename="Rygar_v1.0_AGA"  sha1="26259161c418bbdfb23d15d9f6ccc28b3a2c7e5b">
+		<name>Rygar [AGA]</name>
+		<subpath>RygarAGA</subpath>
+		<variant_uuid>f419149c-11b8-5b69-a4e2-7f8fa8beaad9</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>RygarAGA.slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>RygarAGA.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		CHIPSET=AGA
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -115741,6 +115815,34 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		
 		</hardware>
 	</game>
+	<game filename="ErbenErdeAGACDDE-WHDL"  sha1="66beccb1ac9f3454b0c29cb26ffd3091c53ebca2">
+		<name>Erben Erde [AGA] CDDE</name>
+		<subpath>ErbenErdeAGACDDE</subpath>
+		<variant_uuid>a63d5ee3-645d-5510-bf9f-2732798eb98e</variant_uuid>
+		<slave_count>3</slave_count>
+		<slave_default>Workbench31_1.Slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>Workbench31_1.Slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<slave number="2">
+			<filename>Workbench31_32.Slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<slave number="3">
+			<filename>Workbench31_4.Slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		SCREEN_Y_OFFSET=
+		FAST_RAM=8
+		
+		</hardware>
+	</game>
 	<game filename="ErbenErdeAGADE-WHDL"  sha1="be5e86f0d6c4ec438980db7eeaed559644970b7a">
 		<name>Erben Erde [AGA] DE</name>
 		<subpath>ErbenErdeAGADE</subpath>
@@ -124924,6 +125026,34 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		<name>Inersex</name>
 		<subpath>Inersex</subpath>
 		<variant_uuid>c6f5cff7-15e9-516d-86cd-0016eb966644</variant_uuid>
+		<slave_count>3</slave_count>
+		<slave_default>Workbench31_1.Slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>Workbench31_1.Slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<slave number="2">
+			<filename>Workbench31_32.Slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<slave number="3">
+			<filename>Workbench31_4.Slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		SCREEN_Y_OFFSET=
+		FAST_RAM=8
+		
+		</hardware>
+	</game>
+	<game filename="InheritEarthAGACD-WHDL"  sha1="fe1094ecaf2cab3f4dda721102afd8aaf472bcbb">
+		<name>Inherit Earth [AGA] CD</name>
+		<subpath>InheritEarthAGACD</subpath>
+		<variant_uuid>1f1d680a-d41e-5fe1-aec5-76f24fb09821</variant_uuid>
 		<slave_count>3</slave_count>
 		<slave_default>Workbench31_1.Slave</slave_default>
 		<slave_libraries>False</slave_libraries>
@@ -145892,136 +146022,6 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		PORT0=JOY
 		PORT1=JOY
 		SCREEN_Y_OFFSET=
-		
-		</hardware>
-	</game>
-	<game filename="ChuckRock2_v3.0_0282"  sha1="aa84ff9fd88c58138f756fe760d618c28d2b45ec">
-		<name>Chuck Rock 2 - Son of Chuck</name>
-		<subpath>ChuckRock2</subpath>
-		<variant_uuid>abbaadf8-e688-5574-b57f-b439e38e372f</variant_uuid>
-		<slave_count>1</slave_count>
-		<slave_default>ChuckRock2.slave</slave_default>
-		<slave_libraries>False</slave_libraries>
-		<slave number="1">
-			<filename>ChuckRock2.slave</filename>
-			<datapath></datapath>
-			<custom>
-			C1:X:Trainer infinite lives:0
-			C2:X:second button jumps:0
-			
-			</custom>
-		</slave>
-		<hardware>
-		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
-		JIT=FALSE
-		SCREEN_HEIGHT=216
-		SCREEN_Y_OFFSET=0
-		
-		</hardware>
-	</game>
-	<game filename="ChuckRock2_v3.0_CD32"  sha1="22ee3f26bec260a9ba0d789f4583e9e9b450b8cc">
-		<name>Chuck Rock 2 [CD32]</name>
-		<subpath>ChuckRock2CD32</subpath>
-		<variant_uuid>95536c8a-1dfc-538a-81b7-c57b614bdb21</variant_uuid>
-		<slave_count>1</slave_count>
-		<slave_default>ChuckRock2CD32.slave</slave_default>
-		<slave_libraries>False</slave_libraries>
-		<slave number="1">
-			<filename>ChuckRock2CD32.slave</filename>
-			<datapath></datapath>
-			<custom>
-			C1:X:Trainer infinite lives:0
-			C2:X:second button jumps:0
-			
-			</custom>
-		</slave>
-		<hardware>
-		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
-		CHIPSET=AGA
-		SCREEN_Y_OFFSET=
-		
-		</hardware>
-	</game>
-	<game filename="Rygar_v1.0_AGA"  sha1="26259161c418bbdfb23d15d9f6ccc28b3a2c7e5b">
-		<name>Rygar [AGA]</name>
-		<subpath>RygarAGA</subpath>
-		<variant_uuid>f419149c-11b8-5b69-a4e2-7f8fa8beaad9</variant_uuid>
-		<slave_count>1</slave_count>
-		<slave_default>RygarAGA.slave</slave_default>
-		<slave_libraries>False</slave_libraries>
-		<slave number="1">
-			<filename>RygarAGA.slave</filename>
-			<datapath>data</datapath>
-			<custom>
-			
-			</custom>
-		</slave>
-		<hardware>
-		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
-		CHIPSET=AGA
-		SCREEN_Y_OFFSET=
-		
-		</hardware>
-	</game>
-	<game filename="ErbenErdeAGACDDE-WHDL"  sha1="66beccb1ac9f3454b0c29cb26ffd3091c53ebca2">
-		<name>Erben Erde [AGA] CDDE</name>
-		<subpath>ErbenErdeAGACDDE</subpath>
-		<variant_uuid>a63d5ee3-645d-5510-bf9f-2732798eb98e</variant_uuid>
-		<slave_count>3</slave_count>
-		<slave_default>Workbench31_1.Slave</slave_default>
-		<slave_libraries>False</slave_libraries>
-		<slave number="1">
-			<filename>Workbench31_1.Slave</filename>
-			<datapath>data</datapath>
-		</slave>
-		<slave number="2">
-			<filename>Workbench31_32.Slave</filename>
-			<datapath>data</datapath>
-		</slave>
-		<slave number="3">
-			<filename>Workbench31_4.Slave</filename>
-			<datapath>data</datapath>
-		</slave>
-		<hardware>
-		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
-		SCREEN_Y_OFFSET=
-		FAST_RAM=8
-		
-		</hardware>
-	</game>
-	<game filename="InheritEarthAGACD-WHDL"  sha1="fe1094ecaf2cab3f4dda721102afd8aaf472bcbb">
-		<name>Inherit Earth [AGA] CD</name>
-		<subpath>InheritEarthAGACD</subpath>
-		<variant_uuid>1f1d680a-d41e-5fe1-aec5-76f24fb09821</variant_uuid>
-		<slave_count>3</slave_count>
-		<slave_default>Workbench31_1.Slave</slave_default>
-		<slave_libraries>False</slave_libraries>
-		<slave number="1">
-			<filename>Workbench31_1.Slave</filename>
-			<datapath>data</datapath>
-		</slave>
-		<slave number="2">
-			<filename>Workbench31_32.Slave</filename>
-			<datapath>data</datapath>
-		</slave>
-		<slave number="3">
-			<filename>Workbench31_4.Slave</filename>
-			<datapath>data</datapath>
-		</slave>
-		<hardware>
-		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
-		SCREEN_Y_OFFSET=
-		FAST_RAM=8
 		
 		</hardware>
 	</game>

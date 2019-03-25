@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<whdbooter timestamp="2019-03-22 at 03:00:07">
+<whdbooter timestamp="2019-03-25 at 02:00:08">
 	<game filename="1001StolenIdeas_v1.0_Airwalk"  sha1="a24c60e66c9cdb5ca96075d9f4f4ad7eaa900d76">
 		<name>1001 Stolen Ideas</name>
 		<subpath>1001StolenIdeas</subpath>
@@ -40192,6 +40192,30 @@ joyport0_amiberry_custom_none_right_shoulder=Numpad 9
 		
 		</hardware>
 	</game>
+	<game filename="Falcon&amp;MissionDisk1_v1.2_NTSC_1197&amp;1205"  sha1="0288ec8dcf94a404a2ba7504f20acfea9a0bc843">
+		<name>Falcon &amp; Mission Disk 1 (NTSC)</name>
+		<subpath>Falcon&amp;MissionDisk1NTSC</subpath>
+		<variant_uuid>8ca3fe86-8185-53db-8181-a00dd013fac4</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>Falcon&amp;MissionDisk1NTSC.slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>Falcon&amp;MissionDisk1NTSC.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			C1:L:Game Speed:---,1=Fast,2,3,4,5,6=Defaut,7,8,9=Slow
+			C2:L:Mission:None,Op. Counterstrike, Op. Firefight
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		NTSC=
+		SCREEN_Y_OFFSET=
+		
+		</hardware>
+	</game>
 	<game filename="Falcon&amp;MissionDisks_v1.1_1754&amp;1205&amp;0269"  sha1="a9cf5528fdd734b700368589c09959b485120192">
 		<name>Falcon (&amp; Mission Disks)</name>
 		<subpath>Falcon&amp;MissionDisks</subpath>
@@ -40202,6 +40226,29 @@ joyport0_amiberry_custom_none_right_shoulder=Numpad 9
 		<slave number="1">
 			<filename>Falcon&amp;MissionDisks.Slave</filename>
 			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		SCREEN_Y_OFFSET=
+		
+		</hardware>
+	</game>
+	<game filename="Falcon&amp;MissionDisks_v1.2_1754&amp;1205&amp;0269"  sha1="1cb66d72c5b01ea3afffa1947554d8723e16d927">
+		<name>Falcon (&amp; Mission Disks)</name>
+		<subpath>Falcon&amp;MissionDisks</subpath>
+		<variant_uuid>69f368c7-752e-508f-b73f-5f9a9b523af2</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>Falcon&amp;MissionDisks.Slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>Falcon&amp;MissionDisks.Slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			C1:L:Game Speed:---,1=Fast,2,3,4,5,6=Defaut,7,8,9=Slow
+			C2:L:Mission:None,Op. Counterstrike, Op. Firefight
+			</custom>
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
@@ -40240,6 +40287,76 @@ joyport0_amiberry_custom_none_right_shoulder=Numpad 9
 		<slave number="1">
 			<filename>FalconNTSC.Slave</filename>
 			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		NTSC=
+		SCREEN_Y_OFFSET=
+		
+		</hardware>
+	</game>
+	<game filename="Falcon_v1.2_1754"  sha1="4eaeef7fd01b301d91f85e956f8af64b60305d1e">
+		<name>Falcon</name>
+		<subpath>Falcon</subpath>
+		<variant_uuid>d28c2990-c41b-59f2-b210-44db9365876c</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>Falcon.slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>Falcon.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			C1:L:Game Speed:---,1=Fast,2,3,4,5,6=Defaut,7,8,9=Slow
+			C2:L:Mission:None,Op. Counterstrike, Op. Firefight
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=MOUSE
+		PORT0=MOUSE
+		PORT1=JOY
+		SCREEN_Y_OFFSET=3
+		
+		</hardware>
+	</game>
+	<game filename="Falcon_v1.2_CDTV"  sha1="36b6d66aeacacc5c9e0a87e91a2d087626e774d9">
+		<name>Falcon [CDTV]</name>
+		<subpath>FalconCDTV</subpath>
+		<variant_uuid>9ed82db0-3a41-51d2-961c-81527690f077</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>FalconCDTV.slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>FalconCDTV.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			C1:L:Game Speed:---,1=Fast,2,3,4,5,6=Defaut,7,8,9=Slow
+			C2:L:Mission:None,Op. Counterstrike, Op. Firefight
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		SCREEN_Y_OFFSET=
+		
+		</hardware>
+	</game>
+	<game filename="Falcon_v1.2_NTSC_1197"  sha1="2efeec1b4f40cfa36e1dc9033b68cff6e112bdd2">
+		<name>Falcon (NTSC)</name>
+		<subpath>FalconNTSC</subpath>
+		<variant_uuid>59f8bef2-79ac-5d20-9ff9-6e85bed85b68</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>FalconNTSC.slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>FalconNTSC.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			C1:L:Game Speed:---,1=Fast,2,3,4,5,6=Defaut,7,8,9=Slow
+			C2:L:Mission:None,Op. Counterstrike, Op. Firefight
+			</custom>
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
@@ -40390,278 +40507,6 @@ joyport0_amiberry_custom_none_right_shoulder=Numpad 9
 		<slave number="1">
 			<filename>FantasyFlyer.Slave</filename>
 			<datapath>data</datapath>
-		</slave>
-		<hardware>
-		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
-		SCREEN_Y_OFFSET=
-		
-		</hardware>
-	</game>
-	<game filename="FantasyFlyer_v1.0_AGA"  sha1="2d253c85b88d701d573ca9512c4551a44580a830">
-		<name>Fantasy Flyer [AGA]</name>
-		<subpath>FantasyFlyerAGA</subpath>
-		<variant_uuid>4811930b-61aa-5e7c-8637-bc1505b7c369</variant_uuid>
-		<slave_count>1</slave_count>
-		<slave_default>FantasyFlyerAGA.Slave</slave_default>
-		<slave_libraries>False</slave_libraries>
-		<slave number="1">
-			<filename>FantasyFlyerAGA.Slave</filename>
-			<datapath>data</datapath>
-		</slave>
-		<hardware>
-		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
-		CHIPSET=AGA
-		SCREEN_Y_OFFSET=
-		
-		</hardware>
-	</game>
-	<game filename="FantasyWorldDizzy_v1.1_0120"  sha1="ac721fd3700d9802fd9131c5a869c5563725af9a">
-		<name>Fantasy World Dizzy</name>
-		<subpath>FantasyWorldDizzy</subpath>
-		<variant_uuid>6c66a374-1624-525d-a1ac-e68d8e34b932</variant_uuid>
-		<slave_count>1</slave_count>
-		<slave_default>FantasyWorldDizzy.Slave</slave_default>
-		<slave_libraries>False</slave_libraries>
-		<slave number="1">
-			<filename>FantasyWorldDizzy.Slave</filename>
-			<datapath></datapath>
-		</slave>
-		<hardware>
-		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
-		JIT=FALSE
-		SCREEN_HEIGHT=216
-		SCREEN_Y_OFFSET=16
-		
-		</hardware>
-	</game>
-	<game filename="Fascination_v1.1"  sha1="83aea5e845923358b52038b4d2d9f2f374ad14ad">
-		<name>Fascination</name>
-		<subpath>Fascination</subpath>
-		<variant_uuid>4fe4fb4e-b22f-595f-a902-fdbaf57d138d</variant_uuid>
-		<slave_count>1</slave_count>
-		<slave_default>Fascination.Slave</slave_default>
-		<slave_libraries>False</slave_libraries>
-		<slave number="1">
-			<filename>Fascination.Slave</filename>
-			<datapath>data</datapath>
-		</slave>
-		<hardware>
-		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
-		SCREEN_Y_OFFSET=
-		
-		</hardware>
-	</game>
-	<game filename="Fascination_v1.1_De"  sha1="292574d827994d951a00bf9c8d32393fda83b0ba">
-		<name>Fascination (Deutsch)</name>
-		<subpath>FascinationDe</subpath>
-		<variant_uuid>95e9e715-0e6a-5b05-af39-631ea1c5a858</variant_uuid>
-		<slave_count>1</slave_count>
-		<slave_default>FascinationDe.Slave</slave_default>
-		<slave_libraries>False</slave_libraries>
-		<slave number="1">
-			<filename>FascinationDe.Slave</filename>
-			<datapath>data</datapath>
-		</slave>
-		<hardware>
-		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
-		SCREEN_Y_OFFSET=
-		
-		</hardware>
-	</game>
-	<game filename="Fascination_v1.1_Es"  sha1="30460ac0d6e274c0e844a45a9bf85996c92db08c">
-		<name>Fascination (Espanol)</name>
-		<subpath>FascinationEs</subpath>
-		<variant_uuid>b4eb3d17-72ab-5c1d-8b88-a39de9d2f8f7</variant_uuid>
-		<slave_count>1</slave_count>
-		<slave_default>FascinationEs.Slave</slave_default>
-		<slave_libraries>False</slave_libraries>
-		<slave number="1">
-			<filename>FascinationEs.Slave</filename>
-			<datapath>data</datapath>
-		</slave>
-		<hardware>
-		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
-		SCREEN_Y_OFFSET=
-		
-		</hardware>
-	</game>
-	<game filename="Fascination_v1.1_Fr"  sha1="662bd570111f8f1d24cb2ebf39b9dd7607c34b9c">
-		<name>Fascination (Francais)</name>
-		<subpath>FascinationFr</subpath>
-		<variant_uuid>d3a792ba-73a8-5501-9edc-a6824bfd4635</variant_uuid>
-		<slave_count>1</slave_count>
-		<slave_default>FascinationFr.Slave</slave_default>
-		<slave_libraries>False</slave_libraries>
-		<slave number="1">
-			<filename>FascinationFr.Slave</filename>
-			<datapath>data</datapath>
-		</slave>
-		<hardware>
-		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
-		SCREEN_Y_OFFSET=
-		
-		</hardware>
-	</game>
-	<game filename="Fascination_v1.1_It"  sha1="af43110a39d4dc90de54116bf5fc36c889a34fb0">
-		<name>Fascination (Italiano)</name>
-		<subpath>FascinationIt</subpath>
-		<variant_uuid>00aabeb9-e41e-5eaa-b0e7-f92af0eed2d9</variant_uuid>
-		<slave_count>1</slave_count>
-		<slave_default>FascinationIt.Slave</slave_default>
-		<slave_libraries>False</slave_libraries>
-		<slave number="1">
-			<filename>FascinationIt.Slave</filename>
-			<datapath>data</datapath>
-		</slave>
-		<hardware>
-		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
-		SCREEN_Y_OFFSET=
-		
-		</hardware>
-	</game>
-	<game filename="FastBrain_v0.2_Pl"  sha1="92695097096269d72b697ed6c550da5c6574d69e">
-		<name>Fast Brain (Polski)</name>
-		<subpath>FastBrainPl</subpath>
-		<variant_uuid>f07dd7c5-92bb-5bae-9d17-ba58a8e4cb13</variant_uuid>
-		<slave_count>1</slave_count>
-		<slave_default>FastBrainPl.slave</slave_default>
-		<slave_libraries>False</slave_libraries>
-		<slave number="1">
-			<filename>FastBrainPl.slave</filename>
-			<datapath>data</datapath>
-		</slave>
-		<hardware>
-		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
-		SCREEN_Y_OFFSET=
-		
-		</hardware>
-	</game>
-	<game filename="FastBreak_v1.0_0652"  sha1="9a46f0f55ae4da9cd012809644935b35f3bef193">
-		<name>Fast Break</name>
-		<subpath>FastBreak</subpath>
-		<variant_uuid>205f81da-c999-51d9-a1b8-1ad5013a2af7</variant_uuid>
-		<slave_count>1</slave_count>
-		<slave_default>FastBreak.Slave</slave_default>
-		<slave_libraries>False</slave_libraries>
-		<slave number="1">
-			<filename>FastBreak.Slave</filename>
-			<datapath>data</datapath>
-		</slave>
-		<hardware>
-		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
-		SCREEN_Y_OFFSET=
-		
-		</hardware>
-	</game>
-	<game filename="FastFood_v1.0_1947"  sha1="91dba8a76a31fdb6204ecec4319a8070ce2a1020">
-		<name>Fast Food</name>
-		<subpath>FastFood</subpath>
-		<variant_uuid>17af9534-89bb-5238-b60d-6615e435896b</variant_uuid>
-		<slave_count>1</slave_count>
-		<slave_default>FastFood.Slave</slave_default>
-		<slave_libraries>False</slave_libraries>
-		<slave number="1">
-			<filename>FastFood.Slave</filename>
-			<datapath>data</datapath>
-		</slave>
-		<hardware>
-		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
-		SCREEN_Y_OFFSET=
-		
-		</hardware>
-	</game>
-	<game filename="FastFood_v1.0_DizzyCollection"  sha1="fc5e39e60295a407ecd7124287e151d91d6aeb4f">
-		<name>Fast Food (Dizzy Collection)</name>
-		<subpath>FastFoodDizzyCollection</subpath>
-		<variant_uuid>36ca07dd-8714-5ba6-85ec-bc476cd2d264</variant_uuid>
-		<slave_count>1</slave_count>
-		<slave_default>FastFoodDizzyCollection.Slave</slave_default>
-		<slave_libraries>False</slave_libraries>
-		<slave number="1">
-			<filename>FastFoodDizzyCollection.Slave</filename>
-			<datapath>data</datapath>
-		</slave>
-		<hardware>
-		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
-		SCREEN_Y_OFFSET=
-		
-		</hardware>
-	</game>
-	<game filename="FastLane_v1.0"  sha1="5293d75320264e3f9ded40d7ee308a25d5f811f6">
-		<name>Fast Lane! - The Spice Engineering Challenge</name>
-		<subpath>FastLane</subpath>
-		<variant_uuid>c14e74c7-1092-5875-9e9e-b6aace95b581</variant_uuid>
-		<slave_count>1</slave_count>
-		<slave_default>FastLane.Slave</slave_default>
-		<slave_libraries>False</slave_libraries>
-		<slave number="1">
-			<filename>FastLane.Slave</filename>
-			<datapath>data</datapath>
-			<custom>
-			C1:L:Slow Down Factor:Off,1,2,3,4
-			</custom>
-		</slave>
-		<hardware>
-		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
-		SCREEN_Y_OFFSET=
-		
-		</hardware>
-	</game>
-	<game filename="FatalHeritage_v1.0_De_0052"  sha1="82f820664619c701882937c4af7f45e1220d4a69">
-		<name>Fatal Heritage (Deutsch)</name>
-		<subpath>FatalHeritageDe</subpath>
-		<variant_uuid>4efa49f4-448c-5840-ae48-9ea7b27c4558</variant_uuid>
-		<slave_count>1</slave_count>
-		<slave_default>FatalHeritageDe.Slave</slave_default>
-		<slave_libraries>False</slave_libraries>
-		<slave number="1">
-			<filename>FatalHeritageDe.Slave</filename>
-			<datapath>data</datapath>
-		</slave>
-		<hardware>
-		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
-		SCREEN_Y_OFFSET=
-		
-		</hardware>
-	</game>
-	<game filename="FatalMission_v1.0"  sha1="2b32e67e9bb0626ab9a4d3464d68d0a2063bdb96">
-		<name>Fatal Mission</name>
-		<subpath>FatalMission</subpath>
-		<variant_uuid>5c08e8a9-d10b-5679-9b62-6396d75c24bc</variant_uuid>
-		<slave_count>1</slave_count>
-		<slave_default>FatalMission.slave</slave_default>
-		<slave_libraries>False</slave_libraries>
-		<slave number="1">
-			<filename>FatalMission.slave</filename>
-			<datapath></datapath>
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
@@ -41100,6 +40945,26 @@ joyport0_amiberry_custom_none_right_shoulder=Numpad 9
 		PORT0=JOY
 		PORT1=JOY
 		NTSC=
+		SCREEN_Y_OFFSET=
+		
+		</hardware>
+	</game>
+	<game filename="FantasyFlyer_v1.0_AGA"  sha1="2d253c85b88d701d573ca9512c4551a44580a830">
+		<name>Fantasy Flyer [AGA]</name>
+		<subpath>FantasyFlyerAGA</subpath>
+		<variant_uuid>4811930b-61aa-5e7c-8637-bc1505b7c369</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>FantasyFlyerAGA.Slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>FantasyFlyerAGA.Slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		CHIPSET=AGA
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -44082,6 +43947,258 @@ joyport0_amiberry_custom_none_right_shoulder=Numpad 9
 		<slave number="1">
 			<filename>FutureWarsDe.Slave</filename>
 			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		SCREEN_Y_OFFSET=
+		
+		</hardware>
+	</game>
+	<game filename="FantasyWorldDizzy_v1.1_0120"  sha1="ac721fd3700d9802fd9131c5a869c5563725af9a">
+		<name>Fantasy World Dizzy</name>
+		<subpath>FantasyWorldDizzy</subpath>
+		<variant_uuid>6c66a374-1624-525d-a1ac-e68d8e34b932</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>FantasyWorldDizzy.Slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>FantasyWorldDizzy.Slave</filename>
+			<datapath></datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		JIT=FALSE
+		SCREEN_HEIGHT=216
+		SCREEN_Y_OFFSET=16
+		
+		</hardware>
+	</game>
+	<game filename="Fascination_v1.1"  sha1="83aea5e845923358b52038b4d2d9f2f374ad14ad">
+		<name>Fascination</name>
+		<subpath>Fascination</subpath>
+		<variant_uuid>4fe4fb4e-b22f-595f-a902-fdbaf57d138d</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>Fascination.Slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>Fascination.Slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		SCREEN_Y_OFFSET=
+		
+		</hardware>
+	</game>
+	<game filename="Fascination_v1.1_De"  sha1="292574d827994d951a00bf9c8d32393fda83b0ba">
+		<name>Fascination (Deutsch)</name>
+		<subpath>FascinationDe</subpath>
+		<variant_uuid>95e9e715-0e6a-5b05-af39-631ea1c5a858</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>FascinationDe.Slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>FascinationDe.Slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		SCREEN_Y_OFFSET=
+		
+		</hardware>
+	</game>
+	<game filename="Fascination_v1.1_Es"  sha1="30460ac0d6e274c0e844a45a9bf85996c92db08c">
+		<name>Fascination (Espanol)</name>
+		<subpath>FascinationEs</subpath>
+		<variant_uuid>b4eb3d17-72ab-5c1d-8b88-a39de9d2f8f7</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>FascinationEs.Slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>FascinationEs.Slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		SCREEN_Y_OFFSET=
+		
+		</hardware>
+	</game>
+	<game filename="Fascination_v1.1_Fr"  sha1="662bd570111f8f1d24cb2ebf39b9dd7607c34b9c">
+		<name>Fascination (Francais)</name>
+		<subpath>FascinationFr</subpath>
+		<variant_uuid>d3a792ba-73a8-5501-9edc-a6824bfd4635</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>FascinationFr.Slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>FascinationFr.Slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		SCREEN_Y_OFFSET=
+		
+		</hardware>
+	</game>
+	<game filename="Fascination_v1.1_It"  sha1="af43110a39d4dc90de54116bf5fc36c889a34fb0">
+		<name>Fascination (Italiano)</name>
+		<subpath>FascinationIt</subpath>
+		<variant_uuid>00aabeb9-e41e-5eaa-b0e7-f92af0eed2d9</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>FascinationIt.Slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>FascinationIt.Slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		SCREEN_Y_OFFSET=
+		
+		</hardware>
+	</game>
+	<game filename="FastBrain_v0.2_Pl"  sha1="92695097096269d72b697ed6c550da5c6574d69e">
+		<name>Fast Brain (Polski)</name>
+		<subpath>FastBrainPl</subpath>
+		<variant_uuid>f07dd7c5-92bb-5bae-9d17-ba58a8e4cb13</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>FastBrainPl.slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>FastBrainPl.slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		SCREEN_Y_OFFSET=
+		
+		</hardware>
+	</game>
+	<game filename="FastBreak_v1.0_0652"  sha1="9a46f0f55ae4da9cd012809644935b35f3bef193">
+		<name>Fast Break</name>
+		<subpath>FastBreak</subpath>
+		<variant_uuid>205f81da-c999-51d9-a1b8-1ad5013a2af7</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>FastBreak.Slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>FastBreak.Slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		SCREEN_Y_OFFSET=
+		
+		</hardware>
+	</game>
+	<game filename="FastFood_v1.0_1947"  sha1="91dba8a76a31fdb6204ecec4319a8070ce2a1020">
+		<name>Fast Food</name>
+		<subpath>FastFood</subpath>
+		<variant_uuid>17af9534-89bb-5238-b60d-6615e435896b</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>FastFood.Slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>FastFood.Slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		SCREEN_Y_OFFSET=
+		
+		</hardware>
+	</game>
+	<game filename="FastFood_v1.0_DizzyCollection"  sha1="fc5e39e60295a407ecd7124287e151d91d6aeb4f">
+		<name>Fast Food (Dizzy Collection)</name>
+		<subpath>FastFoodDizzyCollection</subpath>
+		<variant_uuid>36ca07dd-8714-5ba6-85ec-bc476cd2d264</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>FastFoodDizzyCollection.Slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>FastFoodDizzyCollection.Slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		SCREEN_Y_OFFSET=
+		
+		</hardware>
+	</game>
+	<game filename="FastLane_v1.0"  sha1="5293d75320264e3f9ded40d7ee308a25d5f811f6">
+		<name>Fast Lane! - The Spice Engineering Challenge</name>
+		<subpath>FastLane</subpath>
+		<variant_uuid>c14e74c7-1092-5875-9e9e-b6aace95b581</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>FastLane.Slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>FastLane.Slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			C1:L:Slow Down Factor:Off,1,2,3,4
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		SCREEN_Y_OFFSET=
+		
+		</hardware>
+	</game>
+	<game filename="FatalHeritage_v1.0_De_0052"  sha1="82f820664619c701882937c4af7f45e1220d4a69">
+		<name>Fatal Heritage (Deutsch)</name>
+		<subpath>FatalHeritageDe</subpath>
+		<variant_uuid>4efa49f4-448c-5840-ae48-9ea7b27c4558</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>FatalHeritageDe.Slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>FatalHeritageDe.Slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		SCREEN_Y_OFFSET=
+		
+		</hardware>
+	</game>
+	<game filename="FatalMission_v1.0"  sha1="2b32e67e9bb0626ab9a4d3464d68d0a2063bdb96">
+		<name>Fatal Mission</name>
+		<subpath>FatalMission</subpath>
+		<variant_uuid>5c08e8a9-d10b-5679-9b62-6396d75c24bc</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>FatalMission.slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>FatalMission.slave</filename>
+			<datapath></datapath>
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK

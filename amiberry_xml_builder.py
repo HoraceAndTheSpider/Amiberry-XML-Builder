@@ -449,7 +449,7 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                 if check_list("Chipset_FastCopper.txt", sub_path) is True:
                     HW_FASTCOPPER = "TRUE"
 
-
+                
 
                 # '======== CPU SETTINGS =======
                 # ' ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -572,7 +572,7 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                     hardware += ("CHIPSET=") + HW_CHIPSET + chr(10)
                     
                 if HW_NTSC != "":
-                    hardware += ("NTSC=") + HW_CHIPSET + chr(10)
+                    hardware += ("NTSC=") + HW_NTSC + chr(10)
 
                 # SCREEN OPTIONS
                 if HW_HEIGHT != "":

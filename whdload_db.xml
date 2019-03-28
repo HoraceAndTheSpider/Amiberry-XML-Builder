@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<whdbooter timestamp="2019-03-27 at 03:00:07">
+<whdbooter timestamp="2019-03-28 at 22:26:44">
 	<game filename="1001StolenIdeas_v1.0_Airwalk"  sha1="a24c60e66c9cdb5ca96075d9f4f4ad7eaa900d76">
 		<name>1001 Stolen Ideas</name>
 		<subpath>1001StolenIdeas</subpath>
@@ -17281,7 +17281,7 @@
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -17513,7 +17513,7 @@
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -17533,7 +17533,7 @@
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -17753,7 +17753,7 @@
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -18227,7 +18227,7 @@
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -18460,7 +18460,7 @@
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -18613,7 +18613,7 @@
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -18739,7 +18739,7 @@
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -18794,7 +18794,7 @@
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -18940,7 +18940,7 @@
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -20015,7 +20015,7 @@ joyport1_amiberry_custom_none_west=Space
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -20276,7 +20276,7 @@ joyport1_amiberry_custom_none_west=Space
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -20430,7 +20430,7 @@ joyport1_amiberry_custom_none_west=Space
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -20513,7 +20513,7 @@ joyport1_amiberry_custom_none_west=Space
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -20779,7 +20779,7 @@ joyport1_amiberry_custom_none_west=Space
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -20799,7 +20799,7 @@ joyport1_amiberry_custom_none_west=Space
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -20838,7 +20838,7 @@ joyport1_amiberry_custom_none_west=Space
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -20877,7 +20877,7 @@ joyport1_amiberry_custom_none_west=Space
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -20956,7 +20956,7 @@ joyport1_amiberry_custom_none_west=Space
 		PRIMARY_CONTROL=MOUSE
 		PORT0=MOUSE
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -21058,7 +21058,7 @@ joyport1_amiberry_custom_none_west=Space
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -21442,7 +21442,7 @@ joyport1_amiberry_custom_none_west=Space
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -22324,7 +22324,7 @@ joyport1_amiberry_custom_none_west=Space
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -22401,7 +22401,7 @@ joyport1_amiberry_custom_none_west=Space
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -22499,7 +22499,7 @@ joyport1_amiberry_custom_none_west=Space
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -22891,7 +22891,7 @@ joyport1_amiberry_custom_none_west=Space
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -23552,7 +23552,7 @@ joyport1_amiberry_custom_none_west=Space
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -23897,7 +23897,7 @@ joyport1_amiberry_custom_none_west=Space
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -23951,7 +23951,7 @@ joyport1_amiberry_custom_none_west=Space
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -24009,7 +24009,7 @@ joyport1_amiberry_custom_none_west=Space
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -24048,7 +24048,7 @@ joyport1_amiberry_custom_none_west=Space
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -24819,7 +24819,7 @@ joyport1_amiberry_custom_none_west=Space
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -25074,7 +25074,7 @@ joyport1_amiberry_custom_none_west=Space
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -25760,7 +25760,7 @@ joyport1_amiberry_custom_none_west=Space
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -26199,7 +26199,7 @@ joyport1_amiberry_custom_none_west=Space
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -26409,7 +26409,7 @@ joyport1_amiberry_custom_none_west=Space
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -26495,7 +26495,7 @@ joyport1_amiberry_custom_none_west=Space
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -27087,7 +27087,7 @@ joyport1_amiberry_custom_none_west=Space
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -27141,7 +27141,7 @@ joyport1_amiberry_custom_none_west=Space
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -27259,7 +27259,7 @@ joyport1_amiberry_custom_none_west=Space
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -27872,7 +27872,7 @@ joyport1_amiberry_custom_none_west=Space
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -28540,7 +28540,7 @@ joyport1_amiberry_custom_none_west=Space
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -28560,7 +28560,7 @@ joyport1_amiberry_custom_none_west=Space
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -28908,7 +28908,7 @@ joyport1_amiberry_custom_none_west=Space
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -28928,7 +28928,7 @@ joyport1_amiberry_custom_none_west=Space
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -29203,7 +29203,7 @@ joyport1_amiberry_custom_none_west=Space
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -29497,7 +29497,7 @@ joyport1_amiberry_custom_none_west=Space
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -29517,7 +29517,7 @@ joyport1_amiberry_custom_none_west=Space
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -29836,7 +29836,7 @@ joyport1_amiberry_custom_none_west=Space
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -29898,7 +29898,7 @@ joyport1_amiberry_custom_none_west=Space
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -30515,7 +30515,7 @@ joyport1_amiberry_custom_none_west=Space
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -31457,7 +31457,7 @@ joyport1_amiberry_custom_none_west=Space
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -32418,7 +32418,7 @@ joyport1_amiberry_custom_none_west=Space
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -32602,7 +32602,7 @@ joyport1_amiberry_custom_none_west=Space
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -34093,7 +34093,7 @@ joyport1_amiberry_custom_none_west=Space
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -34460,7 +34460,7 @@ joyport1_amiberry_custom_none_west=Space
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -34713,7 +34713,7 @@ joyport1_amiberry_custom_none_west=Space
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -34833,7 +34833,7 @@ joyport1_amiberry_custom_none_west=Space
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -35082,7 +35082,7 @@ joyport1_amiberry_custom_none_west=Space
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -35140,7 +35140,7 @@ joyport1_amiberry_custom_none_west=Space
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -35481,7 +35481,7 @@ joyport1_amiberry_custom_none_west=Space
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -36870,7 +36870,7 @@ joyport1_amiberry_custom_none_west=Space
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -36961,7 +36961,7 @@ joyport1_amiberry_custom_none_west=Space
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -37274,7 +37274,7 @@ joyport1_amiberry_custom_none_west=Space
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -37419,7 +37419,7 @@ joyport1_amiberry_custom_none_west=Space
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -37679,7 +37679,7 @@ joyport1_amiberry_custom_none_west=Space
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -37703,7 +37703,7 @@ joyport1_amiberry_custom_none_west=Space
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -37723,7 +37723,7 @@ joyport1_amiberry_custom_none_west=Space
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -37884,7 +37884,7 @@ joyport1_amiberry_custom_none_west=Space
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -38108,7 +38108,7 @@ joyport1_amiberry_custom_none_west=Space
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -39760,7 +39760,7 @@ joyport0_amiberry_custom_none_right_shoulder=Numpad 9
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -39962,7 +39962,7 @@ joyport0_amiberry_custom_none_right_shoulder=Numpad 9
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -40009,7 +40009,7 @@ joyport0_amiberry_custom_none_right_shoulder=Numpad 9
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -40127,7 +40127,7 @@ joyport0_amiberry_custom_none_right_shoulder=Numpad 9
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -40211,7 +40211,7 @@ joyport0_amiberry_custom_none_right_shoulder=Numpad 9
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -40292,7 +40292,7 @@ joyport0_amiberry_custom_none_right_shoulder=Numpad 9
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -40362,7 +40362,7 @@ joyport0_amiberry_custom_none_right_shoulder=Numpad 9
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -40944,7 +40944,7 @@ joyport0_amiberry_custom_none_right_shoulder=Numpad 9
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -41254,7 +41254,7 @@ joyport0_amiberry_custom_none_right_shoulder=Numpad 9
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -41280,7 +41280,7 @@ joyport0_amiberry_custom_none_right_shoulder=Numpad 9
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -43162,7 +43162,7 @@ joyport0_amiberry_custom_none_right_shoulder=Numpad 9
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -43631,7 +43631,7 @@ joyport0_amiberry_custom_none_right_shoulder=Numpad 9
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -43651,7 +43651,7 @@ joyport0_amiberry_custom_none_right_shoulder=Numpad 9
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -43690,7 +43690,7 @@ joyport0_amiberry_custom_none_right_shoulder=Numpad 9
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -43710,7 +43710,7 @@ joyport0_amiberry_custom_none_right_shoulder=Numpad 9
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -44472,7 +44472,7 @@ joyport0_amiberry_custom_none_right_shoulder=Numpad 9
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -44815,7 +44815,7 @@ joyport0_amiberry_custom_none_right_shoulder=Numpad 9
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -45386,7 +45386,7 @@ joyport0_amiberry_custom_none_right_shoulder=Numpad 9
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -45611,7 +45611,7 @@ joyport0_amiberry_custom_none_right_shoulder=Numpad 9
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -46032,7 +46032,7 @@ joyport0_amiberry_custom_none_right_shoulder=Numpad 9
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -46079,7 +46079,7 @@ joyport0_amiberry_custom_none_right_shoulder=Numpad 9
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -46979,7 +46979,7 @@ joyport0_amiberry_custom_none_right_shoulder=Numpad 9
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -47094,7 +47094,7 @@ joyport0_amiberry_custom_none_right_shoulder=Numpad 9
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -47335,7 +47335,7 @@ joyport1_amiberry_custom_none_right_shoulder=F2
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -47602,7 +47602,7 @@ joyport1_amiberry_custom_none_right_shoulder=F2
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -50021,7 +50021,7 @@ joyport1_amiberry_custom_none_right_shoulder=F2
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -50136,7 +50136,7 @@ joyport1_amiberry_custom_none_right_shoulder=F2
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -51818,7 +51818,7 @@ joyport2_amiberry_custom_none_south=Right Shift
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -52577,7 +52577,7 @@ joyport2_amiberry_custom_none_south=Right Shift
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -52987,7 +52987,7 @@ joyport2_amiberry_custom_none_south=Right Shift
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -53208,7 +53208,7 @@ joyport2_amiberry_custom_none_south=Right Shift
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -54118,7 +54118,7 @@ joyport2_amiberry_custom_none_south=Right Shift
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -54335,7 +54335,7 @@ joyport2_amiberry_custom_none_south=Right Shift
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -54747,7 +54747,7 @@ joyport2_amiberry_custom_none_south=Right Shift
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -55390,7 +55390,7 @@ joyport2_amiberry_custom_none_south=Right Shift
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -55698,7 +55698,7 @@ joyport2_amiberry_custom_none_south=Right Shift
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -55753,7 +55753,7 @@ joyport2_amiberry_custom_none_south=Right Shift
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -55780,7 +55780,7 @@ joyport2_amiberry_custom_none_south=Right Shift
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -56264,7 +56264,7 @@ joyport2_amiberry_custom_none_south=Right Shift
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -56326,7 +56326,7 @@ joyport0_amiberry_custom_none_right_stick=F7
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -56385,7 +56385,7 @@ joyport0_amiberry_custom_none_right_stick=F7
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -56737,7 +56737,7 @@ joyport0_amiberry_custom_none_right_shoulder=Return
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -56995,7 +56995,7 @@ joyport0_amiberry_custom_none_right_shoulder=Return
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -57068,7 +57068,7 @@ joyport0_amiberry_custom_none_right_shoulder=Return
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -57393,7 +57393,7 @@ joyport0_amiberry_custom_none_right_shoulder=Return
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -57440,7 +57440,7 @@ joyport0_amiberry_custom_none_right_shoulder=Return
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -58390,7 +58390,7 @@ joyport0_amiberry_custom_none_right_shoulder=Return
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -59106,7 +59106,7 @@ joyport0_amiberry_custom_none_right_shoulder=Return
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -59384,7 +59384,7 @@ joyport0_amiberry_custom_none_right_shoulder=Return
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -60148,7 +60148,7 @@ joyport0_amiberry_custom_none_right_shoulder=Return
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -61997,7 +61997,7 @@ joyport0_amiberry_custom_none_right_shoulder=Return
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -62155,7 +62155,7 @@ joyport0_amiberry_custom_none_right_shoulder=Return
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -62314,7 +62314,7 @@ joyport0_amiberry_custom_none_right_shoulder=Return
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -62667,7 +62667,7 @@ joyport0_amiberry_custom_none_start=Space
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -62811,7 +62811,7 @@ joyport0_amiberry_custom_none_start=Space
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -62966,7 +62966,7 @@ joyport0_amiberry_custom_none_start=Space
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -63075,7 +63075,7 @@ joyport0_amiberry_custom_none_start=Space
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -63124,7 +63124,7 @@ joyport0_amiberry_custom_none_start=Space
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -63171,7 +63171,7 @@ joyport0_amiberry_custom_none_start=Space
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -63218,7 +63218,7 @@ joyport0_amiberry_custom_none_start=Space
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -63265,7 +63265,7 @@ joyport0_amiberry_custom_none_start=Space
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -63312,7 +63312,7 @@ joyport0_amiberry_custom_none_start=Space
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -63431,7 +63431,7 @@ joyport0_amiberry_custom_none_start=Space
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -64411,7 +64411,7 @@ joyport0_amiberry_custom_none_start=Space
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -64489,7 +64489,7 @@ joyport0_amiberry_custom_none_start=Space
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -64529,7 +64529,7 @@ joyport0_amiberry_custom_none_start=Space
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -64590,7 +64590,7 @@ joyport0_amiberry_custom_none_start=Space
 		PORT0=JOY
 		PORT1=JOY
 		CHIPSET=AGA
-		NTSC=AGA
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -64629,7 +64629,7 @@ joyport0_amiberry_custom_none_start=Space
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -64668,7 +64668,7 @@ joyport0_amiberry_custom_none_start=Space
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -64906,7 +64906,7 @@ joyport0_amiberry_custom_none_start=Space
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -64973,7 +64973,7 @@ joyport0_amiberry_custom_none_start=Space
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -65174,7 +65174,7 @@ joyport0_amiberry_custom_none_start=Space
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -65364,7 +65364,7 @@ joyport0_amiberry_custom_none_start=Space
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -65580,7 +65580,7 @@ joyport0_amiberry_custom_none_start=Space
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -66911,7 +66911,7 @@ joyport0_amiberry_custom_none_start=Space
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -67279,7 +67279,7 @@ joyport0_amiberry_custom_none_start=Space
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -67405,7 +67405,7 @@ joyport0_amiberry_custom_none_start=Space
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -67425,7 +67425,7 @@ joyport0_amiberry_custom_none_start=Space
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -67464,7 +67464,7 @@ joyport0_amiberry_custom_none_start=Space
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -67612,7 +67612,7 @@ joyport0_amiberry_custom_none_start=Space
 		PORT0=JOY
 		PORT1=JOY
 		CHIPSET=AGA
-		NTSC=AGA
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -67633,7 +67633,7 @@ joyport0_amiberry_custom_none_start=Space
 		PORT0=JOY
 		PORT1=JOY
 		CHIPSET=AGA
-		NTSC=AGA
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -67763,7 +67763,7 @@ joyport0_amiberry_custom_none_start=Space
 		PORT0=JOY
 		PORT1=JOY
 		CHIPSET=AGA
-		NTSC=AGA
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -67784,7 +67784,7 @@ joyport0_amiberry_custom_none_start=Space
 		PORT0=JOY
 		PORT1=JOY
 		CHIPSET=AGA
-		NTSC=AGA
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -68327,7 +68327,7 @@ joyport0_amiberry_custom_none_start=Space
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -68656,7 +68656,7 @@ joyport0_amiberry_custom_none_start=Space
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -68714,7 +68714,7 @@ joyport0_amiberry_custom_none_start=Space
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -68734,7 +68734,7 @@ joyport0_amiberry_custom_none_start=Space
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -68794,7 +68794,7 @@ joyport0_amiberry_custom_none_start=Space
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -69616,6 +69616,59 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		
 		</hardware>
 	</game>
+	<game filename="Premiere_v3.1_1553"  sha1="c81a47feab69135b059c748e173c33ed4c107e0c">
+		<name>Premiere</name>
+		<subpath>Premiere</subpath>
+		<variant_uuid>1be75ed0-65f1-5f70-93f0-e2f06eff1d93</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>Premiere.slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>Premiere.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			C1:X:Trainer infinite lives energy and ammo:0
+			C2:X:2nd button jump:0
+			C3:X:Start with sfx by default:0
+			C4:L:Start level:Western,Not so fast Pardner,Aegypt,Don t stain the train,Horror,Which way to turn ?,Cartoon,A quick touchup,Space,What s big N black,Middle age,Err Hello?
+			
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		SCREEN_Y_OFFSET=
+		
+		</hardware>
+	</game>
+	<game filename="Premiere_v3.1_CD32"  sha1="60858f7ccb59675c9533074b0831e22b25318a17">
+		<name>Premiere [CD32]</name>
+		<subpath>PremiereCD32</subpath>
+		<variant_uuid>590d91f5-4fb5-5945-98e6-7bf737aebbee</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>PremiereCD32.slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>PremiereCD32.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			C1:X:Trainer infinite lives energy and ammo:0
+			C2:X:2nd button jump:0
+			C3:X:Start with sfx by default:0
+			C4:L:Start level:Western,Not so fast Pardner,Aegypt,Don t stain the train,Horror,Which way to turn ?,Cartoon,A quick touchup,Space,What s big N black,Middle age,Err Hello?
+			
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		CHIPSET=AGA
+		SCREEN_Y_OFFSET=
+		
+		</hardware>
+	</game>
 	<game filename="PremierManager2_v1.0_1130"  sha1="6ef1d24ce381a42f1b0e6a77cb82f01a49637527">
 		<name>Premier Manager 2</name>
 		<subpath>PremierManager2</subpath>
@@ -69828,7 +69881,7 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -69889,7 +69942,7 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -70358,7 +70411,7 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -71668,7 +71721,7 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -72019,7 +72072,7 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -72408,7 +72461,7 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -73230,7 +73283,7 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -73438,7 +73491,7 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -74500,7 +74553,7 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -75242,7 +75295,7 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -75602,7 +75655,7 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -75869,7 +75922,7 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -75892,7 +75945,7 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -76104,7 +76157,7 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -76240,7 +76293,7 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -76504,7 +76557,7 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -76563,7 +76616,7 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -76848,7 +76901,7 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -77202,7 +77255,7 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -77617,7 +77670,7 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -78779,7 +78832,7 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -79014,7 +79067,7 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -79034,7 +79087,7 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -79114,7 +79167,7 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -79234,7 +79287,7 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -79293,7 +79346,7 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -79374,7 +79427,7 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -79413,7 +79466,7 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -79680,7 +79733,7 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -80481,7 +80534,7 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -80577,7 +80630,7 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -80902,7 +80955,7 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -80967,7 +81020,7 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -81219,7 +81272,7 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -81239,7 +81292,7 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -81962,7 +82015,7 @@ joyport2_amiberry_custom_none_west=Cursor Up
 		<variant_uuid>0164612d-36f8-5932-9c05-bffb2ca76596</variant_uuid>
 		<slave_count>1</slave_count>
 		<slave_default>SuperOffRoadNTSC.Slave</slave_default>
-		<slave_libraries>False</slave_libraries>
+		<slave_libraries>True</slave_libraries>
 		<slave number="1">
 			<filename>SuperOffRoadNTSC.Slave</filename>
 			<datapath></datapath>
@@ -81971,10 +82024,20 @@ joyport2_amiberry_custom_none_west=Cursor Up
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
+		<custom_controls>
+joyport0_amiberry_custom_none_west=Joy1 Up
+joyport1_amiberry_custom_none_west=Joy2 Up
+joyport2_amiberry_custom_none_dpad_up=Cursor Up
+joyport2_amiberry_custom_none_dpad_down=Cursor Down
+joyport2_amiberry_custom_none_dpad_left=Cursor Left
+joyport2_amiberry_custom_none_dpad_right=Cursor Down
+joyport2_amiberry_custom_none_south=Right Shift
+joyport2_amiberry_custom_none_west=Cursor Up
+		</custom_controls>
 	</game>
 	<game filename="SuperOsWALD_v1.0_Dk"  sha1="f0f4d22f41b062c99ccd219a286ac456e3dc4050">
 		<name>Super Os WA LDDk</name>
@@ -82491,7 +82554,7 @@ joyport2_amiberry_custom_none_west=Cursor Up
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -83999,7 +84062,7 @@ joyport2_amiberry_custom_none_west=Cursor Up
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -84309,7 +84372,7 @@ joyport2_amiberry_custom_none_west=Cursor Up
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -84368,7 +84431,7 @@ joyport2_amiberry_custom_none_west=Cursor Up
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -85710,7 +85773,7 @@ joyport2_amiberry_custom_none_west=Cursor Up
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -86149,7 +86212,7 @@ joyport2_amiberry_custom_none_west=Cursor Up
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -86286,7 +86349,7 @@ joyport2_amiberry_custom_none_west=Cursor Up
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -86665,7 +86728,7 @@ joyport2_amiberry_custom_none_west=Cursor Up
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -87406,7 +87469,7 @@ joyport2_amiberry_custom_none_west=Cursor Up
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -87619,7 +87682,7 @@ joyport2_amiberry_custom_none_west=Cursor Up
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -87919,7 +87982,7 @@ joyport2_amiberry_custom_none_west=Cursor Up
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -88003,7 +88066,7 @@ joyport2_amiberry_custom_none_west=Cursor Up
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -88023,7 +88086,7 @@ joyport2_amiberry_custom_none_west=Cursor Up
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -88415,7 +88478,7 @@ joyport2_amiberry_custom_none_west=Cursor Up
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -89438,7 +89501,7 @@ joyport2_amiberry_custom_none_west=Cursor Up
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -90782,7 +90845,7 @@ joyport0_amiberry_custom_none_right_stick=F7
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -91348,7 +91411,7 @@ joyport0_amiberry_custom_none_right_stick=F7
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -91583,7 +91646,7 @@ joyport0_amiberry_custom_none_right_stick=F7
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -92112,7 +92175,7 @@ joyport0_amiberry_custom_none_right_stick=F7
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -92487,7 +92550,7 @@ joyport0_amiberry_custom_none_right_stick=F7
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -93178,7 +93241,7 @@ joyport0_amiberry_custom_none_right_stick=F7
 		PORT0=JOY
 		PORT1=JOY
 		CHIPSET=AGA
-		NTSC=AGA
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -93444,7 +93507,7 @@ joyport0_amiberry_custom_none_right_stick=F7
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>
@@ -94152,7 +94215,7 @@ joyport0_amiberry_custom_none_right_stick=F7
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
-		NTSC=
+		NTSC=TRUE
 		SCREEN_Y_OFFSET=
 		
 		</hardware>

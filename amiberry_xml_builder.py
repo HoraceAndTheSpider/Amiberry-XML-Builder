@@ -516,7 +516,8 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                 if this_file.find("_AGA") > -1:
                         HW_CHIPSET = "AGA"                                       
                 if this_file.find("_CD32") > -1:
-                        HW_CHIPSET = "AGA"                                       
+                        HW_CHIPSET = "AGA"
+                        use_cd32_pad = True
 
 
 

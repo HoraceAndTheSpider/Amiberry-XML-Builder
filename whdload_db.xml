@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<whdbooter timestamp="2019-04-05 at 03:00:08">
+<whdbooter timestamp="2019-04-08 at 02:00:07">
 	<game filename="1001StolenIdeas_v1.0_Airwalk"  sha1="a24c60e66c9cdb5ca96075d9f4f4ad7eaa900d76">
 		<name>1001 Stolen Ideas</name>
 		<subpath>1001StolenIdeas</subpath>
@@ -19176,8 +19176,8 @@
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		CHIPSET=AGA
 		SCREEN_Y_OFFSET=
 		
@@ -19344,8 +19344,8 @@
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		CHIPSET=AGA
 		SCREEN_HEIGHT=240
 		SCREEN_Y_OFFSET=
@@ -19623,7 +19623,7 @@
 		<hardware>
 		PRIMARY_CONTROL=MOUSE
 		PORT0=MOUSE
-		PORT1=JOY
+		PORT1=CD32
 		CPU=68040
 		CLOCK=MAX
 		CHIPSET=AGA
@@ -19675,8 +19675,8 @@
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		CHIPSET=AGA
 		SCREEN_Y_OFFSET=
 		
@@ -19844,8 +19844,8 @@ joyport1_amiberry_custom_none_west=Space
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		JIT=FALSE
 		CHIPSET=AGA
 		SCREEN_HEIGHT=262
@@ -20550,8 +20550,8 @@ joyport1_amiberry_custom_none_west=Space
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		CHIPSET=AGA
 		SCREEN_HEIGHT=216
 		SCREEN_Y_OFFSET=-6
@@ -20659,7 +20659,7 @@ joyport1_amiberry_custom_none_west=Space
 		<hardware>
 		PRIMARY_CONTROL=MOUSE
 		PORT0=MOUSE
-		PORT1=JOY
+		PORT1=CD32
 		CHIPSET=AGA
 		SCREEN_HEIGHT=240
 		SCREEN_Y_OFFSET=
@@ -22654,8 +22654,8 @@ joyport1_amiberry_custom_none_west=Space
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		JIT=FALSE
 		CHIPSET=AGA
 		SCREEN_HEIGHT=256
@@ -22676,8 +22676,8 @@ joyport1_amiberry_custom_none_west=Space
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		JIT=FALSE
 		CHIPSET=AGA
 		SCREEN_HEIGHT=256
@@ -23099,8 +23099,8 @@ joyport1_amiberry_custom_none_west=Space
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		CHIPSET=AGA
 		SCREEN_HEIGHT=256
 		SCREEN_Y_OFFSET=
@@ -23348,7 +23348,7 @@ joyport1_amiberry_custom_none_west=Space
 		<hardware>
 		PRIMARY_CONTROL=MOUSE
 		PORT0=MOUSE
-		PORT1=JOY
+		PORT1=CD32
 		CHIPSET=AGA
 		SCREEN_HEIGHT=200
 		SCREEN_Y_OFFSET=3
@@ -23745,8 +23745,8 @@ joyport1_amiberry_custom_none_west=Space
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		CHIPSET=AGA
 		SCREEN_Y_OFFSET=
 		
@@ -24085,8 +24085,8 @@ joyport1_amiberry_custom_none_west=Space
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		CHIPSET=AGA
 		SCREEN_Y_OFFSET=
 		
@@ -24411,7 +24411,7 @@ joyport1_amiberry_custom_none_west=Space
 		<hardware>
 		PRIMARY_CONTROL=MOUSE
 		PORT0=MOUSE
-		PORT1=JOY
+		PORT1=CD32
 		CHIPSET=AGA
 		SCREEN_HEIGHT=200
 		SCREEN_Y_OFFSET=24
@@ -24432,7 +24432,7 @@ joyport1_amiberry_custom_none_west=Space
 		<hardware>
 		PRIMARY_CONTROL=MOUSE
 		PORT0=MOUSE
-		PORT1=JOY
+		PORT1=CD32
 		CHIPSET=AGA
 		SCREEN_HEIGHT=200
 		SCREEN_Y_OFFSET=24
@@ -24549,7 +24549,7 @@ joyport1_amiberry_custom_none_west=Space
 		<hardware>
 		PRIMARY_CONTROL=MOUSE
 		PORT0=MOUSE
-		PORT1=JOY
+		PORT1=CD32
 		CHIPSET=AGA
 		SCREEN_HEIGHT=200
 		SCREEN_Y_OFFSET=24
@@ -24570,7 +24570,7 @@ joyport1_amiberry_custom_none_west=Space
 		<hardware>
 		PRIMARY_CONTROL=MOUSE
 		PORT0=MOUSE
-		PORT1=JOY
+		PORT1=CD32
 		CHIPSET=AGA
 		SCREEN_HEIGHT=200
 		SCREEN_Y_OFFSET=24
@@ -24687,8 +24687,8 @@ joyport1_amiberry_custom_none_west=Space
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		JIT=FALSE
 		CHIPSET=AGA
 		SCREEN_HEIGHT=256
@@ -25345,8 +25345,8 @@ joyport1_amiberry_custom_none_west=Space
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		CLOCK=28
 		CHIPSET=AGA
 		SCREEN_HEIGHT=200
@@ -26742,8 +26742,8 @@ joyport1_amiberry_custom_none_west=Space
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		CHIPSET=AGA
 		SCREEN_Y_OFFSET=
 		
@@ -26783,8 +26783,8 @@ joyport1_amiberry_custom_none_west=Space
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		CHIPSET=AGA
 		SCREEN_Y_OFFSET=
 		
@@ -26824,8 +26824,8 @@ joyport1_amiberry_custom_none_west=Space
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		CHIPSET=AGA
 		SCREEN_Y_OFFSET=
 		
@@ -26902,8 +26902,8 @@ joyport1_amiberry_custom_none_west=Space
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		CHIPSET=AGA
 		SCREEN_Y_OFFSET=
 		
@@ -26973,8 +26973,8 @@ joyport1_amiberry_custom_none_west=Space
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		CHIPSET=AGA
 		SCREEN_Y_OFFSET=
 		
@@ -27393,8 +27393,8 @@ joyport1_amiberry_custom_none_west=Space
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		CHIPSET=AGA
 		SCREEN_Y_OFFSET=
 		
@@ -28319,7 +28319,7 @@ joyport1_amiberry_custom_none_west=Space
 		<hardware>
 		PRIMARY_CONTROL=MOUSE
 		PORT0=MOUSE
-		PORT1=JOY
+		PORT1=CD32
 		CHIPSET=AGA
 		SCREEN_HEIGHT=240
 		SCREEN_Y_OFFSET=0
@@ -29535,8 +29535,8 @@ joyport1_amiberry_custom_none_west=Space
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		CHIPSET=AGA
 		SCREEN_Y_OFFSET=
 		
@@ -29734,8 +29734,8 @@ joyport1_amiberry_custom_none_west=Space
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		CHIPSET=AGA
 		SCREEN_Y_OFFSET=
 		
@@ -29754,8 +29754,8 @@ joyport1_amiberry_custom_none_west=Space
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		JIT=FALSE
 		CHIPSET=AGA
 		SCREEN_HEIGHT=262
@@ -30128,8 +30128,8 @@ joyport1_amiberry_custom_none_west=Space
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		JIT=FALSE
 		CLOCK=28
 		CHIPSET=AGA
@@ -30782,8 +30782,8 @@ joyport1_amiberry_custom_none_west=Space
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		CHIPSET=AGA
 		SCREEN_Y_OFFSET=
 		
@@ -30833,8 +30833,8 @@ joyport1_amiberry_custom_none_west=Space
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		CHIPSET=AGA
 		SCREEN_Y_OFFSET=
 		
@@ -30858,8 +30858,8 @@ joyport1_amiberry_custom_none_west=Space
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		CHIPSET=AGA
 		SCREEN_Y_OFFSET=
 		
@@ -31300,7 +31300,7 @@ joyport1_amiberry_custom_none_west=Space
 		<hardware>
 		PRIMARY_CONTROL=MOUSE
 		PORT0=MOUSE
-		PORT1=JOY
+		PORT1=CD32
 		CHIPSET=AGA
 		SCREEN_HEIGHT=256
 		SCREEN_Y_OFFSET=3
@@ -34330,7 +34330,7 @@ joyport1_amiberry_custom_none_west=Space
 		<hardware>
 		PRIMARY_CONTROL=MOUSE
 		PORT0=MOUSE
-		PORT1=JOY
+		PORT1=CD32
 		CHIPSET=AGA
 		SCREEN_HEIGHT=200
 		SCREEN_Y_OFFSET=30
@@ -35014,8 +35014,8 @@ joyport1_amiberry_custom_none_west=Space
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		CHIPSET=AGA
 		SCREEN_Y_OFFSET=
 		
@@ -35177,8 +35177,8 @@ joyport1_amiberry_custom_none_west=Space
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		CHIPSET=AGA
 		SCREEN_Y_OFFSET=
 		
@@ -35379,8 +35379,8 @@ joyport1_amiberry_custom_none_west=Space
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		CHIPSET=AGA
 		SCREEN_Y_OFFSET=
 		
@@ -35399,8 +35399,8 @@ joyport1_amiberry_custom_none_west=Space
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		CHIPSET=AGA
 		SCREEN_Y_OFFSET=
 		
@@ -35818,8 +35818,8 @@ joyport1_amiberry_custom_none_west=Space
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		CHIPSET=AGA
 		SCREEN_Y_OFFSET=
 		
@@ -36073,8 +36073,8 @@ joyport1_amiberry_custom_none_west=Space
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		CHIPSET=AGA
 		SCREEN_Y_OFFSET=
 		
@@ -36151,8 +36151,8 @@ joyport1_amiberry_custom_none_west=Space
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		CHIPSET=AGA
 		SCREEN_Y_OFFSET=
 		
@@ -36192,8 +36192,8 @@ joyport1_amiberry_custom_none_west=Space
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		JIT=FALSE
 		CHIPSET=AGA
 		SCREEN_Y_OFFSET=3
@@ -36389,8 +36389,8 @@ joyport1_amiberry_custom_none_west=Space
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		CHIPSET=AGA
 		SCREEN_Y_OFFSET=
 		
@@ -37351,7 +37351,7 @@ joyport1_amiberry_custom_none_west=Space
 		<hardware>
 		PRIMARY_CONTROL=MOUSE
 		PORT0=MOUSE
-		PORT1=JOY
+		PORT1=CD32
 		JIT=FALSE
 		CHIPSET=AGA
 		SCREEN_HEIGHT=240
@@ -39434,8 +39434,8 @@ joyport1_amiberry_custom_none_west=Space
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		CHIPSET=AGA
 		SCREEN_Y_OFFSET=
 		
@@ -40676,7 +40676,7 @@ joyport0_amiberry_custom_none_right_shoulder=Numpad 9
 		<hardware>
 		PRIMARY_CONTROL=MOUSE
 		PORT0=MOUSE
-		PORT1=JOY
+		PORT1=CD32
 		CLOCK=28
 		CHIPSET=AGA
 		SCREEN_HEIGHT=262
@@ -41350,8 +41350,8 @@ joyport0_amiberry_custom_none_right_shoulder=Numpad 9
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		CHIPSET=AGA
 		SCREEN_Y_OFFSET=
 		
@@ -41583,8 +41583,8 @@ joyport0_amiberry_custom_none_right_shoulder=Numpad 9
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		JIT=FALSE
 		CHIPSET=AGA
 		SCREEN_HEIGHT=216
@@ -41649,8 +41649,8 @@ joyport0_amiberry_custom_none_right_shoulder=Numpad 9
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		JIT=FALSE
 		CHIPSET=AGA
 		SCREEN_Y_OFFSET=3
@@ -42684,8 +42684,8 @@ joyport0_amiberry_custom_none_right_shoulder=Numpad 9
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		CHIPSET=AGA
 		SCREEN_Y_OFFSET=
 		
@@ -42864,8 +42864,8 @@ joyport0_amiberry_custom_none_right_shoulder=Numpad 9
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		CHIPSET=AGA
 		SCREEN_Y_OFFSET=
 		
@@ -43488,7 +43488,7 @@ joyport0_amiberry_custom_none_right_shoulder=Numpad 9
 		<hardware>
 		PRIMARY_CONTROL=MOUSE
 		PORT0=MOUSE
-		PORT1=JOY
+		PORT1=CD32
 		BLITTER=IMMEDIATE
 		CPU=68040
 		CLOCK=MAX
@@ -43773,8 +43773,8 @@ joyport0_amiberry_custom_none_right_shoulder=Numpad 9
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		JIT=FALSE
 		CHIPSET=AGA
 		SCREEN_HEIGHT=216
@@ -44267,8 +44267,8 @@ joyport0_amiberry_custom_none_right_shoulder=Numpad 9
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		CPU=68040
 		CLOCK=MAX
 		CHIPSET=AGA
@@ -44429,7 +44429,7 @@ joyport0_amiberry_custom_none_right_shoulder=Numpad 9
 		<hardware>
 		PRIMARY_CONTROL=MOUSE
 		PORT0=MOUSE
-		PORT1=JOY
+		PORT1=CD32
 		CPU=68040
 		CLOCK=MAX
 		CHIPSET=AGA
@@ -45723,7 +45723,7 @@ joyport0_amiberry_custom_none_right_shoulder=Numpad 9
 		<hardware>
 		PRIMARY_CONTROL=MOUSE
 		PORT0=MOUSE
-		PORT1=JOY
+		PORT1=CD32
 		CPU=68040
 		CLOCK=MAX
 		CHIPSET=AGA
@@ -47815,8 +47815,8 @@ joyport1_amiberry_custom_none_right_shoulder=F2
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		CHIPSET=AGA
 		SCREEN_Y_OFFSET=
 		
@@ -49227,8 +49227,8 @@ joyport1_amiberry_custom_none_right_shoulder=F2
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		FAST_COPPER=FALSE
 		CHIPSET=AGA
 		SCREEN_Y_OFFSET=
@@ -49493,8 +49493,8 @@ joyport1_amiberry_custom_none_right_shoulder=F2
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		CHIPSET=AGA
 		SCREEN_Y_OFFSET=
 		
@@ -51845,8 +51845,8 @@ joyport2_amiberry_custom_none_south=Right Shift
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		CHIPSET=AGA
 		SCREEN_Y_OFFSET=
 		
@@ -51936,8 +51936,8 @@ joyport2_amiberry_custom_none_south=Right Shift
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		CHIPSET=AGA
 		SCREEN_Y_OFFSET=
 		
@@ -52275,8 +52275,8 @@ joyport2_amiberry_custom_none_south=Right Shift
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		CHIPSET=AGA
 		SCREEN_HEIGHT=216
 		SCREEN_Y_OFFSET=
@@ -53862,8 +53862,8 @@ joyport2_amiberry_custom_none_south=Right Shift
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		CHIPSET=AGA
 		SCREEN_Y_OFFSET=
 		
@@ -54289,8 +54289,8 @@ joyport2_amiberry_custom_none_south=Right Shift
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		CHIPSET=AGA
 		SCREEN_Y_OFFSET=
 		
@@ -54787,8 +54787,8 @@ joyport2_amiberry_custom_none_south=Right Shift
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		CHIPSET=AGA
 		SCREEN_Y_OFFSET=
 		
@@ -54932,8 +54932,8 @@ joyport2_amiberry_custom_none_south=Right Shift
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		CHIPSET=AGA
 		SCREEN_Y_OFFSET=
 		
@@ -54952,8 +54952,8 @@ joyport2_amiberry_custom_none_south=Right Shift
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		CHIPSET=AGA
 		SCREEN_Y_OFFSET=
 		
@@ -55534,8 +55534,8 @@ joyport2_amiberry_custom_none_south=Right Shift
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		CHIPSET=AGA
 		SCREEN_Y_OFFSET=
 		
@@ -56196,8 +56196,8 @@ joyport2_amiberry_custom_none_south=Right Shift
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		CHIPSET=AGA
 		SCREEN_Y_OFFSET=
 		
@@ -58697,8 +58697,8 @@ joyport0_amiberry_custom_none_right_shoulder=Return
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		CHIPSET=AGA
 		SCREEN_Y_OFFSET=
 		
@@ -59810,8 +59810,8 @@ joyport0_amiberry_custom_none_right_shoulder=Return
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		CHIPSET=AGA
 		SCREEN_Y_OFFSET=
 		
@@ -60495,8 +60495,8 @@ joyport0_amiberry_custom_none_right_shoulder=Return
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		CHIPSET=AGA
 		SCREEN_Y_OFFSET=
 		
@@ -61213,8 +61213,8 @@ joyport0_amiberry_custom_none_right_shoulder=Return
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		CHIPSET=AGA
 		SCREEN_Y_OFFSET=
 		
@@ -63610,8 +63610,8 @@ joyport0_amiberry_custom_none_start=Space
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		CHIPSET=AGA
 		SCREEN_Y_OFFSET=
 		
@@ -63948,8 +63948,8 @@ joyport0_amiberry_custom_none_start=Space
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		CHIPSET=AGA
 		SCREEN_Y_OFFSET=
 		
@@ -64069,8 +64069,8 @@ joyport0_amiberry_custom_none_start=Space
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		CHIPSET=AGA
 		SCREEN_Y_OFFSET=
 		
@@ -64568,8 +64568,8 @@ joyport0_amiberry_custom_none_start=Space
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		CHIPSET=AGA
 		SCREEN_Y_OFFSET=
 		
@@ -64588,8 +64588,8 @@ joyport0_amiberry_custom_none_start=Space
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		CHIPSET=AGA
 		NTSC=TRUE
 		SCREEN_Y_OFFSET=
@@ -66988,8 +66988,8 @@ joyport0_amiberry_custom_none_start=Space
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		CHIPSET=AGA
 		SCREEN_Y_OFFSET=
 		
@@ -67237,8 +67237,8 @@ joyport0_amiberry_custom_none_start=Space
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		CHIPSET=AGA
 		SCREEN_Y_OFFSET=
 		
@@ -67384,8 +67384,8 @@ joyport0_amiberry_custom_none_start=Space
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		CHIPSET=AGA
 		SCREEN_Y_OFFSET=
 		
@@ -67653,7 +67653,7 @@ joyport0_amiberry_custom_none_start=Space
 		<hardware>
 		PRIMARY_CONTROL=MOUSE
 		PORT0=MOUSE
-		PORT1=JOY
+		PORT1=CD32
 		JIT=FALSE
 		CHIPSET=AGA
 		SCREEN_HEIGHT=262
@@ -67674,8 +67674,8 @@ joyport0_amiberry_custom_none_start=Space
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		CHIPSET=AGA
 		SCREEN_Y_OFFSET=
 		
@@ -67804,7 +67804,7 @@ joyport0_amiberry_custom_none_start=Space
 		<hardware>
 		PRIMARY_CONTROL=MOUSE
 		PORT0=MOUSE
-		PORT1=JOY
+		PORT1=CD32
 		JIT=FALSE
 		CHIPSET=AGA
 		SCREEN_HEIGHT=262
@@ -67890,7 +67890,7 @@ joyport0_amiberry_custom_none_start=Space
 		<hardware>
 		PRIMARY_CONTROL=MOUSE
 		PORT0=MOUSE
-		PORT1=JOY
+		PORT1=CD32
 		JIT=FALSE
 		CHIPSET=AGA
 		SCREEN_HEIGHT=262
@@ -68169,7 +68169,7 @@ joyport0_amiberry_custom_none_start=Space
 		<hardware>
 		PRIMARY_CONTROL=MOUSE
 		PORT0=MOUSE
-		PORT1=JOY
+		PORT1=CD32
 		CHIPSET=AGA
 		SCREEN_HEIGHT=200
 		SCREEN_Y_OFFSET=23
@@ -69557,8 +69557,8 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		CHIPSET=AGA
 		SCREEN_Y_OFFSET=
 		
@@ -69610,8 +69610,8 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		CHIPSET=AGA
 		SCREEN_Y_OFFSET=
 		
@@ -69663,8 +69663,8 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		CHIPSET=AGA
 		SCREEN_Y_OFFSET=
 		
@@ -70048,8 +70048,8 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		JIT=FALSE
 		CHIPSET=AGA
 		SCREEN_HEIGHT=270
@@ -70778,8 +70778,8 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		CHIPSET=AGA
 		SCREEN_Y_OFFSET=
 		
@@ -70819,8 +70819,8 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		CHIPSET=AGA
 		SCREEN_Y_OFFSET=
 		
@@ -72841,8 +72841,8 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		CHIPSET=AGA
 		SCREEN_Y_OFFSET=
 		
@@ -72881,8 +72881,8 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		CHIPSET=AGA
 		SCREEN_Y_OFFSET=
 		
@@ -73010,8 +73010,8 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		CHIPSET=AGA
 		SCREEN_Y_OFFSET=
 		Z3_RAM=64
@@ -73031,8 +73031,8 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		CHIPSET=AGA
 		SCREEN_Y_OFFSET=
 		
@@ -74089,8 +74089,8 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		CHIPSET=AGA
 		SCREEN_Y_OFFSET=
 		
@@ -74978,8 +74978,8 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		CHIPSET=AGA
 		SCREEN_Y_OFFSET=
 		
@@ -75516,8 +75516,8 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		CHIPSET=AGA
 		SCREEN_Y_OFFSET=
 		
@@ -75536,8 +75536,8 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		CHIPSET=AGA
 		SCREEN_Y_OFFSET=
 		
@@ -75822,8 +75822,8 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		CHIPSET=AGA
 		SCREEN_Y_OFFSET=
 		
@@ -77456,8 +77456,8 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		CHIPSET=AGA
 		SCREEN_Y_OFFSET=
 		
@@ -78202,8 +78202,8 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		CHIPSET=AGA
 		SCREEN_Y_OFFSET=
 		
@@ -79366,8 +79366,8 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		CHIPSET=AGA
 		SCREEN_Y_OFFSET=
 		
@@ -79386,8 +79386,8 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		CHIPSET=AGA
 		SCREEN_Y_OFFSET=
 		
@@ -79568,8 +79568,8 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		CHIPSET=AGA
 		SCREEN_Y_OFFSET=
 		
@@ -80859,8 +80859,8 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		CHIPSET=AGA
 		SCREEN_Y_OFFSET=
 		
@@ -81155,8 +81155,8 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		CHIPSET=AGA
 		SCREEN_Y_OFFSET=
 		
@@ -81389,8 +81389,8 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		CHIPSET=AGA
 		SCREEN_Y_OFFSET=
 		
@@ -81723,8 +81723,8 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		CHIPSET=AGA
 		SCREEN_HEIGHT=256
 		SCREEN_Y_OFFSET=
@@ -81782,8 +81782,8 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		CHIPSET=AGA
 		SCREEN_HEIGHT=256
 		SCREEN_Y_OFFSET=
@@ -82081,8 +82081,8 @@ joyport2_amiberry_custom_none_west=Cursor Up
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		CHIPSET=AGA
 		SCREEN_Y_OFFSET=
 		
@@ -82158,8 +82158,8 @@ joyport2_amiberry_custom_none_west=Cursor Up
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		CHIPSET=AGA
 		SCREEN_Y_OFFSET=
 		
@@ -82428,8 +82428,8 @@ joyport2_amiberry_custom_none_west=Cursor Up
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		CHIPSET=AGA
 		SCREEN_Y_OFFSET=
 		
@@ -82675,8 +82675,8 @@ joyport2_amiberry_custom_none_west=Cursor Up
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		CHIPSET=AGA
 		SCREEN_Y_OFFSET=
 		
@@ -84314,8 +84314,8 @@ joyport2_amiberry_custom_none_west=Cursor Up
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		CHIPSET=AGA
 		SCREEN_Y_OFFSET=
 		
@@ -86056,8 +86056,8 @@ joyport2_amiberry_custom_none_west=Cursor Up
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		CHIPSET=AGA
 		SCREEN_Y_OFFSET=
 		
@@ -86708,8 +86708,8 @@ joyport2_amiberry_custom_none_west=Cursor Up
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		CHIPSET=AGA
 		SCREEN_Y_OFFSET=
 		
@@ -87041,8 +87041,8 @@ joyport2_amiberry_custom_none_west=Cursor Up
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		CHIPSET=AGA
 		SCREEN_Y_OFFSET=
 		
@@ -88023,8 +88023,8 @@ joyport2_amiberry_custom_none_west=Cursor Up
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		JIT=FALSE
 		CHIPSET=AGA
 		SCREEN_HEIGHT=216
@@ -88349,7 +88349,7 @@ joyport2_amiberry_custom_none_west=Cursor Up
 		<hardware>
 		PRIMARY_CONTROL=MOUSE
 		PORT0=MOUSE
-		PORT1=JOY
+		PORT1=CD32
 		CLOCK=28
 		CHIPSET=AGA
 		SCREEN_Y_OFFSET=
@@ -88397,7 +88397,7 @@ joyport2_amiberry_custom_none_west=Cursor Up
 		<hardware>
 		PRIMARY_CONTROL=MOUSE
 		PORT0=MOUSE
-		PORT1=JOY
+		PORT1=CD32
 		CLOCK=28
 		CHIPSET=AGA
 		SCREEN_Y_OFFSET=
@@ -88561,8 +88561,8 @@ joyport2_amiberry_custom_none_west=Cursor Up
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		CHIPSET=AGA
 		SCREEN_Y_OFFSET=
 		
@@ -88981,8 +88981,8 @@ joyport2_amiberry_custom_none_west=Cursor Up
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		CHIPSET=AGA
 		SCREEN_Y_OFFSET=
 		
@@ -89787,8 +89787,8 @@ joyport0_amiberry_custom_none_right_stick=F7
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		CHIPSET=AGA
 		SCREEN_Y_OFFSET=
 		
@@ -89807,8 +89807,8 @@ joyport0_amiberry_custom_none_right_stick=F7
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		CHIPSET=AGA
 		SCREEN_Y_OFFSET=
 		
@@ -91465,7 +91465,7 @@ joyport0_amiberry_custom_none_right_stick=F7
 		<hardware>
 		PRIMARY_CONTROL=MOUSE
 		PORT0=MOUSE
-		PORT1=JOY
+		PORT1=CD32
 		CPU=68040
 		CLOCK=MAX
 		CHIPSET=AGA
@@ -93220,8 +93220,8 @@ joyport0_amiberry_custom_none_right_stick=F7
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		CHIPSET=AGA
 		SCREEN_Y_OFFSET=
 		
@@ -93240,8 +93240,8 @@ joyport0_amiberry_custom_none_right_stick=F7
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		CHIPSET=AGA
 		NTSC=TRUE
 		SCREEN_Y_OFFSET=
@@ -93885,8 +93885,8 @@ joyport0_amiberry_custom_none_right_stick=F7
 		</slave>
 		<hardware>
 		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
+		PORT0=CD32
+		PORT1=CD32
 		CHIPSET=AGA
 		SCREEN_Y_OFFSET=
 		

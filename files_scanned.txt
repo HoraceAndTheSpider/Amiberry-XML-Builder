@@ -1,4 +1,4 @@
-Scanned file log: 2019-04-17 at 03:00:08
+Scanned file log: 2019-04-19 at 03:00:08
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
 Skipped: 24HourEFix_v1.0_Quartz.lha
@@ -3211,6 +3211,7 @@ Skipped: PurpleSaturnDay_v1.1_0562.lha
 Skipped: PushOver_v1.23_1267.lha
 Skipped: PuttySquadDemo_v1.0_AGA.lha
 Skipped: PuttySquad_v1.0_AGA.lha
+Scanned: Putty Squad [AGA]
 Skipped: Putty_v1.2a_0197.lha
 Skipped: Puzznic_v1.3_0041.lha
 Skipped: Pyramax_v1.0_0563.lha
@@ -4244,6 +4245,7 @@ Skipped: TurboRaketti2_v1.0_Fi.lha
 Skipped: TurboTrax_v1.1_Arcane_1MB_0156.lha
 Skipped: TurboTrax_v1.1_Arcane_512KB_0156.lha
 Skipped: Turbo_v1.0.lha
+Scanned: Turbo
 Skipped: TurnNBurn_v1.1_2523.lha
 Skipped: Turrican2Demo_v1.0.lha
 Skipped: Turrican2_v1.4_CDTV.lha

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<whdbooter timestamp="2019-04-17 at 03:00:08">
+<whdbooter timestamp="2019-04-19 at 03:00:08">
 	<game filename="1001StolenIdeas_v1.0_Airwalk"  sha1="a24c60e66c9cdb5ca96075d9f4f4ad7eaa900d76">
 		<name>1001 Stolen Ideas</name>
 		<subpath>1001StolenIdeas</subpath>
@@ -146197,6 +146197,56 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 			<datapath>data</datapath>
 			<custom>
 			C1:B:Skip Title
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		SCREEN_Y_OFFSET=
+		
+		</hardware>
+	</game>
+	<game filename="PuttySquad_v1.1_AGA"  sha1="7c0593aa7167a3db038d8a551bce7dbe1d49a900">
+		<name>Putty Squad [AGA]</name>
+		<subpath>PuttySquadAGA</subpath>
+		<variant_uuid>ed60206c-1b32-5b53-8c6c-a1dc32bdc0f1</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>PuttySquadAGA.slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>PuttySquadAGA.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			C1:B:Infinite lives
+			C2:L:Starting level (1-35): Default,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35
+			C3:B:View easter egg
+			C5:B:Disable 'Up' by pressing 2nd button
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		CHIPSET=AGA
+		SCREEN_HEIGHT=240
+		SCREEN_Y_OFFSET=12
+		
+		</hardware>
+	</game>
+	<game filename="Turbo_v1.1_3087"  sha1="64deba5ef5afd46c5dd89c4a07db4f0ea9516eaa">
+		<name>Turbo</name>
+		<subpath>Turbo</subpath>
+		<variant_uuid>5fd8c9a3-7f20-5cbc-ac22-93e397b46b31</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>Turbo.Slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>Turbo.Slave</filename>
+			<datapath></datapath>
+			<custom>
+			C1:B:Infinite time
+			
 			</custom>
 		</slave>
 		<hardware>

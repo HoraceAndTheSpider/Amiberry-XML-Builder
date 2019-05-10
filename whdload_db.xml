@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<whdbooter timestamp="2019-05-08 at 03:00:07">
+<whdbooter timestamp="2019-05-10 at 03:00:08">
 	<game filename="1001StolenIdeas_v1.0_Airwalk"  sha1="a24c60e66c9cdb5ca96075d9f4f4ad7eaa900d76">
 		<name>1001 Stolen Ideas</name>
 		<subpath>1001StolenIdeas</subpath>
@@ -146253,6 +146253,85 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		PRIMARY_CONTROL=JOYSTICK
 		PORT0=JOY
 		PORT1=JOY
+		SCREEN_Y_OFFSET=
+		
+		</hardware>
+	</game>
+	<game filename="ChaosEngine2_v2.2_AGA_0173"  sha1="28eab6e78ee93d0f56ad4b17a074ef18067b17dc">
+		<name>Chaos Engine 2 [AGA]</name>
+		<subpath>ChaosEngine2AGA</subpath>
+		<variant_uuid>0c938afd-4da0-5c42-891a-41f0411ada35</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>ChaosEngine2AGA.slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>ChaosEngine2AGA.slave</filename>
+			<datapath></datapath>
+			<custom>
+			C1:X:disable mouse/2nd player joystick:0
+			
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		JIT=FALSE
+		CLOCK=28
+		CHIPSET=AGA
+		SCREEN_HEIGHT=262
+		SCREEN_Y_OFFSET=0
+		
+		</hardware>
+	</game>
+	<game filename="Zool_v2.0_2426"  sha1="36108d49745066f8db8fd8649a4521459ed20a3b">
+		<name>Zool - Ninja Of The 'Nth' Dimension</name>
+		<subpath>Zool</subpath>
+		<variant_uuid>1b887ba3-98a0-538c-9c4f-e457ec49b80c</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>Zool.slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>Zool.slave</filename>
+			<datapath></datapath>
+			<custom>
+			
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		FAST_COPPER=FALSE
+		JIT=FALSE
+		SCREEN_HEIGHT=262
+		SCREEN_Y_OFFSET=0
+		
+		</hardware>
+	</game>
+	<game filename="Zool_v2.0_CD32"  sha1="517ea77fe6f2218aec179577ac9944964212a3e8">
+		<name>Zool [CD32]</name>
+		<subpath>ZoolCD32</subpath>
+		<variant_uuid>02488b6f-faf6-5a81-bb40-5f1d2821543d</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>ZoolCD32.slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>ZoolCD32.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			C1:L:controls:CD32 original,red fires blue/green jumps,1-button joystick
+			C2:B:99% sweets
+			C3:B:infinite lives
+			C4:B:infinite energy and time
+			
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=CD32
+		PORT1=CD32
+		CHIPSET=AGA
 		SCREEN_Y_OFFSET=
 		
 		</hardware>

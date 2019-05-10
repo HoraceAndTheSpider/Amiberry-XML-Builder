@@ -1,4 +1,4 @@
-Scanned file log: 2019-05-08 at 03:00:07
+Scanned file log: 2019-05-10 at 03:00:08
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
 Skipped: 24HourEFix_v1.0_Quartz.lha
@@ -1464,6 +1464,7 @@ Skipped: ChampionshipRun_v1.0_0825.lha
 Skipped: Champ_v1.0.lha
 Skipped: ChaosEngine2_v2.1_0172.lha
 Skipped: ChaosEngine2_v2.1_AGA_0173.lha
+Scanned: Chaos Engine 2 [AGA]
 Skipped: ChaosEngineDemo_v1.0.lha
 Skipped: ChaosEngine_v1.2_0106.lha
 Skipped: ChaosEngine_v1.2_AGA_1324.lha
@@ -4533,7 +4534,9 @@ Skipped: Zool2_v1.0_AGA_0415.lha
 Skipped: Zool_v1.2_CD32.lha
 Skipped: Zool_v1.2_CD32_NTSC.lha
 Skipped: Zool_v1.4_2426.lha
+Scanned: Zool - Ninja Of The 'Nth' Dimension
 Skipped: Zool_v2.0_AGA_1675.lha
+Scanned: Zool [CD32]
 Skipped: Zoom_v1.0a_1910.lha
 Skipped: ZOut_v3.4_0609.lha
 Skipped: ZOut_v3.5_0609.lha

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<whdbooter timestamp="2019-05-13 at 02:00:09">
+<whdbooter timestamp="2019-05-15 at 03:00:09">
 	<game filename="1001StolenIdeas_v1.0_Airwalk"  sha1="a24c60e66c9cdb5ca96075d9f4f4ad7eaa900d76">
 		<name>1001 Stolen Ideas</name>
 		<subpath>1001StolenIdeas</subpath>
@@ -146337,6 +146337,86 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		PORT0=JOY
 		PORT1=JOY
 		SCREEN_Y_OFFSET=
+		
+		</hardware>
+	</game>
+	<game filename="DesertStrike_v3.1_0112"  sha1="e4f6d204e1be44c30a0ed8dd78d027e721cd8b69">
+		<name>Desert Strike - Return to the Gulf</name>
+		<subpath>DesertStrike</subpath>
+		<variant_uuid>469fc614-0966-5b12-b3f6-100c02e623a1</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>DesertStrike.slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>DesertStrike.slave</filename>
+			<datapath></datapath>
+			<custom>
+			BW
+			C1:X:Trainer Infinite Lives/Energy:0
+			C2:L:Select Starting Level:Air Superiority,Scud Buster,Embassy City,Nuclear Storm,The End
+			C3:X:Disable Blitter Patches:0
+			C4:X:Enable alternate CD32 Joypad controls:0
+			C5:X:Skip Intro:0
+			
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		JIT=FALSE
+		SCREEN_HEIGHT=240
+		SCREEN_Y_OFFSET=-10
+		
+		</hardware>
+	</game>
+	<game filename="Superfrog_v1.4_0035"  sha1="a39681f5303f45d1f937eee215d2a88755a0419c">
+		<name>Superfrog</name>
+		<subpath>Superfrog</subpath>
+		<variant_uuid>ad879f6d-52a7-5815-8cd7-2bf7a5b3918f</variant_uuid>
+		<slave_count>2</slave_count>
+		<slave_default>Superfrog.slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>Superfrog.slave</filename>
+			<datapath></datapath>
+			<custom>
+			C1:X:blue/second button jumps:0
+			C2:X:preserve original level codes:0
+			
+			</custom>
+		</slave>
+		<slave number="2">
+			<filename>SuperfrogIntro.slave</filename>
+			<datapath></datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		SCREEN_HEIGHT=262
+		SCREEN_Y_OFFSET=
+		
+		</hardware>
+	</game>
+	<game filename="Ugh_v1.1_0396"  sha1="92fc7138179fce1c045533aa6e08ec51d3d5ad28">
+		<name>Ugh</name>
+		<subpath>Ugh</subpath>
+		<variant_uuid>302fe575-2088-5390-8400-3dac423e90f5</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>Ugh.slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>Ugh.slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=MOUSE
+		PORT0=MOUSE
+		PORT1=JOY
+		JIT=FALSE
+		SCREEN_HEIGHT=256
+		SCREEN_Y_OFFSET=-6
 		
 		</hardware>
 	</game>

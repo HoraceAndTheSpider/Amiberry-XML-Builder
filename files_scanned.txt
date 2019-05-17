@@ -1,4 +1,4 @@
-Scanned file log: 2019-05-15 at 03:00:09
+Scanned file log: 2019-05-17 at 03:00:09
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
 Skipped: 24HourEFix_v1.0_Quartz.lha
@@ -1751,7 +1751,7 @@ Skipped: Dennis_v1.5.2_AGA_DesktopDynamite.lha
 Skipped: Dennis_v1.5.2_CD32.lha
 Skipped: DenverJeFaisDesCouleurs_v1.0_Fr.lha
 Skipped: DesertStrike_v2.3_0112.lha
-Scanned: Desert Strike - Return to the Gulf
+Skipped: DesertStrike_v3.1_0112.lha
 Skipped: Destroyer_v1.0_0318.lha
 Skipped: Detonator_v1.0.lha
 Skipped: Detroit_v1.0_1861.lha
@@ -3982,7 +3982,7 @@ Skipped: Superfrog_v1.2_0035.lha
 Skipped: Superfrog_v1.2_CD32.lha
 Skipped: Superfrog_v1.3_0035.lha
 Skipped: Superfrog_v1.3_CD32.lha
-Scanned: Superfrog
+Skipped: Superfrog_v1.4_0035.lha
 Skipped: SuperGrandPrix_v1.0_2145.lha
 Skipped: SuperGridRunner_v1.0.lha
 Skipped: SuperHangOn_v1.5_0816.lha
@@ -4304,7 +4304,7 @@ Skipped: UFOEnemyUnknown_v1.0_CD32.lha
 Skipped: UFOEnemyUnknown_v1.1_AGA_0157.lha
 Skipped: UFOEnemyUnknown_v1.1_CD32.lha
 Skipped: Ugh_v1.0_0396.lha
-Scanned: Ugh
+Skipped: Ugh_v1.1_0396.lha
 Skipped: Ultima3_v1.1.lha
 Skipped: Ultima4_v1.1_1390.lha
 Skipped: Ultima4_v1.1_NTSC_1390.lha

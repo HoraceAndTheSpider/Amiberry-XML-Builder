@@ -539,7 +539,7 @@ ParasolStars 16
 Patrician 3
 Perihelion 7
 PersonalNightmare 7
-PinballDreams -2
+PinballDreams -4
 PinballFntsies -1
 PinballFntsiesAGA -1
 PinballFntsiesCD32 -1

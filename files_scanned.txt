@@ -1,4 +1,4 @@
-Scanned file log: 2019-05-22 at 03:00:09
+Scanned file log: 2019-05-24 at 03:00:09
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
 Skipped: 24HourEFix_v1.0_Quartz.lha
@@ -2498,6 +2498,7 @@ Skipped: JimmysFantasticJourney_v1.1.lha
 Skipped: JimmyWhitesWhirlwindSnooker_v2.0_2466.lha
 Skipped: JimmyWillburne_v1.0_Fr.lha
 Skipped: JimPower_v1.1_0068.lha
+Scanned: Jim Power - In Mutant Planet
 Skipped: Jinks_v1.0_0973.lha
 Skipped: Jinxter_v1.0.lha
 Skipped: JockyWilsonsDartsChallenge_v1.1.lha
@@ -3906,6 +3907,8 @@ Skipped: Starlord_v1.1_1878.lha
 Skipped: Starlord_v1.1_De_0788.lha
 Skipped: Starlord_v1.1_Fr.lha
 Skipped: StarRay_v3.0_2Disk.lha
+Scanned: Star Ray
+Scanned: Star Ray No Intro
 Skipped: StarTrash_v1.1_0695.lha
 Skipped: StarTrek25thAnniversary_v1.0_AGA_1466.lha
 Skipped: StarTrek25thAnniversary_v1.0_AGA_De_1687.lha

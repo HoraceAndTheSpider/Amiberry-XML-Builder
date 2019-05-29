@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<whdbooter timestamp="2019-05-27 at 02:00:09">
+<whdbooter timestamp="2019-05-29 at 03:00:09">
 	<game filename="1001StolenIdeas_v1.0_Airwalk"  sha1="a24c60e66c9cdb5ca96075d9f4f4ad7eaa900d76">
 		<name>1001 Stolen Ideas</name>
 		<subpath>1001StolenIdeas</subpath>
@@ -146430,6 +146430,30 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 			<datapath>data</datapath>
 			<custom>
 			C1:B:Skip Title
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		SCREEN_Y_OFFSET=
+		
+		</hardware>
+	</game>
+	<game filename="Deliverance_v1.5_1500"  sha1="da3ec607703bd7d5a1320d3e7e9717522062584a">
+		<name>Deliverance</name>
+		<subpath>Deliverance</subpath>
+		<variant_uuid>39994ad2-b3da-53d9-bb23-67475f9fe4d4</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>Deliverance.slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>Deliverance.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			C1:X:Trainer Infinite Lives:0
+			C2:X:Second/blue button jumps:0
+			
 			</custom>
 		</slave>
 		<hardware>

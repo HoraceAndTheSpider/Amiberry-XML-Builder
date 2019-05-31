@@ -1,4 +1,4 @@
-Scanned file log: 2019-05-29 at 03:00:09
+Scanned file log: 2019-05-31 at 03:00:09
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
 Skipped: 24HourEFix_v1.0_Quartz.lha
@@ -1733,7 +1733,7 @@ Skipped: DejaVu2LostInLasVegas_v1.0.lha
 Skipped: DejaVuANightmareComesTrue_v1.0_1832.lha
 Skipped: DejaVu_v1.0_NTSC_1832.lha
 Skipped: Deliverance_v1.4_1500.lha
-Scanned: Deliverance
+Skipped: Deliverance_v1.5_1500.lha
 Skipped: DeltaCommand_v0.2_Arcadia.lha
 Skipped: DeluxeGalaga_v1.1.lha
 Skipped: DeluxeGalaga_v1.1_AGA.lha

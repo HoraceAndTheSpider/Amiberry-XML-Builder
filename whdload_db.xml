@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<whdbooter timestamp="2019-05-31 at 03:00:09">
+<whdbooter timestamp="2019-06-03 at 02:00:09">
 	<game filename="1001StolenIdeas_v1.0_Airwalk"  sha1="a24c60e66c9cdb5ca96075d9f4f4ad7eaa900d76">
 		<name>1001 Stolen Ideas</name>
 		<subpath>1001StolenIdeas</subpath>
@@ -35538,6 +35538,30 @@ joyport1_amiberry_custom_none_west=Space
 		
 		</hardware>
 	</game>
+	<game filename="Deliverance_v1.5_1500"  sha1="da3ec607703bd7d5a1320d3e7e9717522062584a">
+		<name>Deliverance</name>
+		<subpath>Deliverance</subpath>
+		<variant_uuid>39994ad2-b3da-53d9-bb23-67475f9fe4d4</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>Deliverance.slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>Deliverance.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			C1:X:Trainer Infinite Lives:0
+			C2:X:Second/blue button jumps:0
+			
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		SCREEN_Y_OFFSET=
+		
+		</hardware>
+	</game>
 	<game filename="DeltaCommand_v0.2_Arcadia"  sha1="ced5e8df55f77ccebf1acc3d4ca1de8ad786e0d8">
 		<name>Delta Command (Arcadia)</name>
 		<subpath>DeltaCommandArcadia</subpath>
@@ -40322,6 +40346,53 @@ joyport0_amiberry_custom_none_right_shoulder=Numpad 9
 		
 		</hardware>
 	</game>
+	<game filename="Falcon&amp;MissionDisks_v1.3_1754&amp;0268&amp;0269"  sha1="f0938d3a2772e17dcfa45cd04cf27468e483c41b">
+		<name>Falcon (&amp; Mission Disks)</name>
+		<subpath>Falcon&amp;MissionDisks</subpath>
+		<variant_uuid>691a1d44-2c0d-5c8e-b022-5f68fc5e93f6</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>Falcon&amp;MissionDisks.slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>Falcon&amp;MissionDisks.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			C1:L:Game Speed:---,1=Fast,2,3,4,5,6=Defaut,7,8,9=Slow
+			C2:L:Mission:None,Op. Counterstrike, Op. Firefight
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		SCREEN_Y_OFFSET=
+		
+		</hardware>
+	</game>
+	<game filename="Falcon&amp;MissionDisks_v1.3_NTSC_1197&amp;1205&amp;1206"  sha1="f92cb5f55a3e1bb3ce75173468d9beff4e49b9b3">
+		<name>Falcon &amp; Mission Disks (NTSC)</name>
+		<subpath>Falcon&amp;MissionDisksNTSC</subpath>
+		<variant_uuid>b1243b84-1f97-5c03-9122-9ac2f07eb688</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>Falcon&amp;MissionDisksNTSC.slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>Falcon&amp;MissionDisksNTSC.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			C1:L:Game Speed:---,1=Fast,2,3,4,5,6=Defaut,7,8,9=Slow
+			C2:L:Mission:None,Op. Counterstrike, Op. Firefight
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		NTSC=TRUE
+		SCREEN_Y_OFFSET=
+		
+		</hardware>
+	</game>
 	<game filename="Falcon_v1.1_1754"  sha1="4902f9e63b5e509232e4f268d5b88e834e47ea84">
 		<name>Falcon</name>
 		<subpath>Falcon</subpath>
@@ -40411,6 +40482,76 @@ joyport0_amiberry_custom_none_right_shoulder=Numpad 9
 		<name>Falcon (NTSC)</name>
 		<subpath>FalconNTSC</subpath>
 		<variant_uuid>59f8bef2-79ac-5d20-9ff9-6e85bed85b68</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>FalconNTSC.slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>FalconNTSC.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			C1:L:Game Speed:---,1=Fast,2,3,4,5,6=Defaut,7,8,9=Slow
+			C2:L:Mission:None,Op. Counterstrike, Op. Firefight
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		NTSC=TRUE
+		SCREEN_Y_OFFSET=
+		
+		</hardware>
+	</game>
+	<game filename="Falcon_v1.3_1754"  sha1="757b45688d5aa46a89b6ae54e0efc0a7b560a77e">
+		<name>Falcon</name>
+		<subpath>Falcon</subpath>
+		<variant_uuid>81f4ce81-20d8-559f-a0ab-6bfac31df0ba</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>Falcon.slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>Falcon.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			C1:L:Game Speed:---,1=Fast,2,3,4,5,6=Defaut,7,8,9=Slow
+			C2:L:Mission:None,Op. Counterstrike, Op. Firefight
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=MOUSE
+		PORT0=MOUSE
+		PORT1=JOY
+		SCREEN_Y_OFFSET=3
+		
+		</hardware>
+	</game>
+	<game filename="Falcon_v1.3_CDTV"  sha1="e031d91d9b0d6991c85ae6d336ee8745ba5be8fb">
+		<name>Falcon [CDTV]</name>
+		<subpath>FalconCDTV</subpath>
+		<variant_uuid>108e2f2b-fe20-5f2a-8cad-4f39d414e023</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>FalconCDTV.slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>FalconCDTV.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			C1:L:Game Speed:---,1=Fast,2,3,4,5,6=Defaut,7,8,9=Slow
+			C2:L:Mission:None,Op. Counterstrike, Op. Firefight
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		SCREEN_Y_OFFSET=
+		
+		</hardware>
+	</game>
+	<game filename="Falcon_v1.3_NTSC_1197"  sha1="c5a8f302691ae7735de61060326a8bf840a689f5">
+		<name>Falcon (NTSC)</name>
+		<subpath>FalconNTSC</subpath>
+		<variant_uuid>245f0d6e-7a95-51ea-acfe-3b62959edda5</variant_uuid>
 		<slave_count>1</slave_count>
 		<slave_default>FalconNTSC.slave</slave_default>
 		<slave_libraries>False</slave_libraries>
@@ -66283,6 +66424,33 @@ joyport0_amiberry_custom_none_start=Space
 		
 		</hardware>
 	</game>
+	<game filename="PuttySquad_v1.2_AGA"  sha1="67bdcb407a1833e2a8a1cd0b13560361aa49e704">
+		<name>Putty Squad [AGA]</name>
+		<subpath>PuttySquadAGA</subpath>
+		<variant_uuid>a3614574-4054-5265-9e8a-3e4bb2478f85</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>PuttySquadAGA.slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>PuttySquadAGA.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			C1:B:Infinite lives
+			C2:L:Starting level (1-35): Default,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35
+			C3:B:View easter egg
+			C5:B:Disable 'Up' by pressing 2nd button
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		CHIPSET=AGA
+		SCREEN_HEIGHT=240
+		SCREEN_Y_OFFSET=12
+		
+		</hardware>
+	</game>
 	<game filename="Putty_v1.2a_0197"  sha1="543b775272b985af90f025f9414dec61a5beea87">
 		<name>Putty</name>
 		<subpath>Putty</subpath>
@@ -82767,6 +82935,38 @@ joyport2_amiberry_custom_none_west=Cursor Up
 			C4:B:All Weapons/Max.Power/9 lives
 			C5:B:Set stars sprites in HiRes (intro/end seq)
 			
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		FAST_COPPER=FALSE
+		BLITTER=IMMEDIATE
+		JIT=FALSE
+		CHIPSET=AGA
+		SCREEN_Y_OFFSET=3
+		
+		</hardware>
+	</game>
+	<game filename="SuperStardust_v1.2_AGA_0175"  sha1="1558fb56683585d854bedf2902ba52877989408e">
+		<name>Super Stardust [AGA]</name>
+		<subpath>SuperStardustAGA</subpath>
+		<variant_uuid>a0dee752-2745-5e5e-9a7e-a0001780722b</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>SuperStardustAGA.slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>SuperStardustAGA.slave</filename>
+			<datapath></datapath>
+			<custom>
+			C1:L:Select World:-,1,2,3,4,5
+			C5:X:Enter in Warp Level (Current World):1
+			C2:L:Set Energy in Game:Default,X2,X3,X4,Unlimited
+			C4:L:Set Energy in Watp Tunnel:Default,X2,X3,X4,Unlimited
+			C3:L:Set Shield:Default,X2,X3,X4,Unlimited
+			C5:X:All Weapons/Max.Power/9 lives:0
+			C5:X:Set stars sprites in HiRes (intro/end seq):2
 			</custom>
 		</slave>
 		<hardware>
@@ -146430,30 +146630,6 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 			<datapath>data</datapath>
 			<custom>
 			C1:B:Skip Title
-			</custom>
-		</slave>
-		<hardware>
-		PRIMARY_CONTROL=JOYSTICK
-		PORT0=JOY
-		PORT1=JOY
-		SCREEN_Y_OFFSET=
-		
-		</hardware>
-	</game>
-	<game filename="Deliverance_v1.5_1500"  sha1="da3ec607703bd7d5a1320d3e7e9717522062584a">
-		<name>Deliverance</name>
-		<subpath>Deliverance</subpath>
-		<variant_uuid>39994ad2-b3da-53d9-bb23-67475f9fe4d4</variant_uuid>
-		<slave_count>1</slave_count>
-		<slave_default>Deliverance.slave</slave_default>
-		<slave_libraries>False</slave_libraries>
-		<slave number="1">
-			<filename>Deliverance.slave</filename>
-			<datapath>data</datapath>
-			<custom>
-			C1:X:Trainer Infinite Lives:0
-			C2:X:Second/blue button jumps:0
-			
 			</custom>
 		</slave>
 		<hardware>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<whdbooter timestamp="2019-06-03 at 02:00:09">
+<whdbooter timestamp="2019-06-05 at 03:00:11">
 	<game filename="1001StolenIdeas_v1.0_Airwalk"  sha1="a24c60e66c9cdb5ca96075d9f4f4ad7eaa900d76">
 		<name>1001 Stolen Ideas</name>
 		<subpath>1001StolenIdeas</subpath>
@@ -146637,6 +146637,88 @@ joyport0_amiberry_custom_none_dpad_right=Cursor Right
 		PORT0=JOY
 		PORT1=JOY
 		SCREEN_Y_OFFSET=
+		
+		</hardware>
+	</game>
+	<game filename="MagicPockets_v3.0_0917"  sha1="cce59a21c0e307f002519c6c324869b104ae3459">
+		<name>Magic Pockets</name>
+		<subpath>MagicPockets</subpath>
+		<variant_uuid>28010920-7f56-51d7-8540-82644ee79dc0</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>MagicPockets.slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>MagicPockets.slave</filename>
+			<datapath></datapath>
+			<custom>
+			C1:X:enable cheat keys (HELP/T/S):0
+			C2:X:second button jumps:0
+			C3:X:enable external level files:0
+			
+			</custom>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		SCREEN_HEIGHT=216
+		SCREEN_Y_OFFSET=
+		
+		</hardware>
+	</game>
+	<game filename="ErbenErdeAGACDDE-WHDL"  sha1="66beccb1ac9f3454b0c29cb26ffd3091c53ebca2">
+		<name>Erben Erde [AGA] CDDE</name>
+		<subpath>ErbenErdeAGACDDE</subpath>
+		<variant_uuid>a63d5ee3-645d-5510-bf9f-2732798eb98e</variant_uuid>
+		<slave_count>3</slave_count>
+		<slave_default>Workbench31_1.Slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>Workbench31_1.Slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<slave number="2">
+			<filename>Workbench31_32.Slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<slave number="3">
+			<filename>Workbench31_4.Slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		SCREEN_Y_OFFSET=
+		FAST_RAM=8
+		
+		</hardware>
+	</game>
+	<game filename="InheritEarthAGACD-WHDL"  sha1="fe1094ecaf2cab3f4dda721102afd8aaf472bcbb">
+		<name>Inherit Earth [AGA] CD</name>
+		<subpath>InheritEarthAGACD</subpath>
+		<variant_uuid>1f1d680a-d41e-5fe1-aec5-76f24fb09821</variant_uuid>
+		<slave_count>3</slave_count>
+		<slave_default>Workbench31_1.Slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>Workbench31_1.Slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<slave number="2">
+			<filename>Workbench31_32.Slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<slave number="3">
+			<filename>Workbench31_4.Slave</filename>
+			<datapath>data</datapath>
+		</slave>
+		<hardware>
+		PRIMARY_CONTROL=JOYSTICK
+		PORT0=JOY
+		PORT1=JOY
+		SCREEN_Y_OFFSET=
+		FAST_RAM=8
 		
 		</hardware>
 	</game>

@@ -1,4 +1,4 @@
-Scanned file log: 2019-06-05 at 03:00:11
+Scanned file log: 2019-06-07 at 03:00:08
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
 Skipped: 24HourEFix_v1.0_Quartz.lha
@@ -2879,7 +2879,7 @@ Skipped: MagicMarble_v1.0.lha
 Skipped: MagicPocketsDemo_v1.0.lha
 Skipped: MagicPockets_v2.2_0917.lha
 Skipped: MagicPockets_v2.2_NTSC.lha
-Scanned: Magic Pockets
+Skipped: MagicPockets_v3.0_0917.lha
 Skipped: MagicPockets_v3.0_NTSC.lha
 Skipped: Magnatron_v1.2.lha
 Skipped: MajorMotion_v1.0_1756.lha
@@ -5280,7 +5280,7 @@ Skipped: Entity-WHDL.lha
 Skipped: Epsilon9-WHDL.lha
 Skipped: Equality2015TLK-WHDL.lha
 Skipped: EqualityTLK-WHDL.lha
-Scanned: Erben Erde [AGA] CDDE
+Skipped: ErbenErdeAGACDDE-WHDL.lha
 Skipped: ErbenErdeAGADE-WHDL.lha
 Skipped: ErbenErdeDE-WHDL.lha
 Skipped: EricWarriorSeuck-WHDL.lha
@@ -5566,7 +5566,7 @@ Skipped: IndianMissionFR-WHDL.lha
 Skipped: IndycarChallenge-WHDL.lha
 Skipped: Ineptris-WHDL.lha
 Skipped: Inersex-WHDL.lha
-Scanned: Inherit Earth [AGA] CD
+Skipped: InheritEarthAGACD-WHDL.lha
 Skipped: Insectoids1-WHDL.lha
 Skipped: Insectoids2-WHDL.lha
 Skipped: Insidia-WHDL.lha

@@ -335,7 +335,7 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                 screen_offset_y = value_list("Screen_OffsetY.txt", sub_path)
              #   screen_offset_x = value_list("Screen_OffsetX.txt", sub_path)
 
-                # ' screen heights
+                # ' screen heights { 200, 216, 240, 256, 262, 270 };
                 HW_HEIGHT = ""
                 if check_list("Screen_Height_270.txt", sub_path) is True:
                                 HW_HEIGHT = "270"
@@ -352,6 +352,21 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                 if check_list("Screen_Height_200.txt", sub_path) is True:
                                 HW_HEIGHT = "200"
 
+                # ' screen widths  { 320, 352, 384, 640, 704, 768 };
+                HW_WIDTH = ""
+                if check_list("Screen_Width_320.txt", sub_path) is True:
+                                HW_WIDTH = "320"
+                if check_list("Screen_Width_352.txt", sub_path) is True:
+                                HW_WIDTH = "352"
+                if check_list("Screen_Width_384.txt", sub_path) is True:
+                                HW_WIDTH = "384"
+                if check_list("Screen_Width_640.txt", sub_path) is True:
+                                HW_WIDTH = "640"
+                if check_list("Screen_Width_704.txt", sub_path) is True:
+                                HW_WIDTH = "704"
+                if check_list("Screen_Width_768.txt", sub_path) is True:
+                                HW_WIDTH = "768"
+                                
                 # ' extras
                 HW_NTSC = ""
                 if check_list("Screen_ForceNTSC.txt", sub_path) is True:
@@ -576,11 +591,16 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                     hardware += ("NTSC=") + HW_NTSC + chr(10)
 
                 # SCREEN OPTIONS
-                if HW_HEIGHT != "":
+                if HW_Width != "":
                     hardware += ("SCREEN_HEIGHT=") + HW_HEIGHT + chr(10)
+
+                if HW_WIDTH != "":
+                    hardware += ("SCREEN_WIDTH") + HW_WIDTH + chr(10)
 
                 if screen_offset_y != 0:
                     hardware += ("SCREEN_Y_OFFSET=") + str(screen_offset_y) + chr(10)
+
+
 
 
                 # MEMORY OPTIONS

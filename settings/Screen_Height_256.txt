@@ -25,6 +25,9 @@ BombPacCD32
 BombPacCD32AGA
 CardiaxxTeam17
 Carnage
+ChaosEngine
+ChaosEngineAGA
+ChaosEngineCD32
 CharlieJCool
 CharlieJCoolAGA
 Clockwiser
@@ -50,8 +53,11 @@ DragonsLair&EscapeSlow
 Embryo
 Executioner
 Exile
+Fire&Ice
+Fire&IceCD32
 FlimbosQuest
 FullContact
+FutureTank
 Fuzzball
 GemX
 Goal

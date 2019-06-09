@@ -7,6 +7,8 @@ F29Retaliator
 FA18Interceptor
 Frontier
 Hunter
+ItCameFromTheDesert
+ItCameFromTheDesert2
 MiG29Fulcrum
 MiG29MSuperFulcrum
 Mig29SovietFighter

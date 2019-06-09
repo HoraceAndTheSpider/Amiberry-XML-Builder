@@ -79,9 +79,6 @@ CelticLegends
 Centurion
 ChamberSciMutantPriestess
 ChampionsOfKrynn
-ChaosEngine
-ChaosEngineAGA
-ChaosEngineCD32
 ChaosStrikesBack&EnUtil
 ChaseHQ
 ChaseHQ2

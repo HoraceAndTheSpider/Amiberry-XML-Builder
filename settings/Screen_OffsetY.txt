@@ -117,8 +117,8 @@ ChamberSciMutantPriestess 3
 ChambersOfShaolin 0
 ChampionsOfKrynn 3
 ChaosEngine 8
-ChaosEngine2 0
-ChaosEngine2AGA 0
+ChaosEngine2 -5
+ChaosEngine2AGA -5
 ChaosEngineAGA 8
 ChaosEngineCD32 8
 ChaosStrikesBack&EnUtil 3
@@ -167,6 +167,8 @@ Cybernoid 3
 Cybernoid2 3
 Cytron 3
 DGeneration 16
+Damage -5
+DamagePreview -5
 Damocles 3
 DangerousStreets 1
 DangerousStreetsAGA 1
@@ -241,7 +243,7 @@ Encounter 3
 Epic 3
 Epic&MissionDisk 3
 EuropeanChampionsOcean 3
-Executioner 3
+Executioner 0
 Exile 0
 Extase 16
 EyeOfTheBeholder 3
@@ -258,8 +260,8 @@ FantasticDizzy 0
 FantasyWorldDizzy 16
 FinalFight -5
 FinalFight1MB -5
-Fire&Ice 3
-Fire&IceCD32 3
+Fire&Ice -3
+Fire&IceCD32 -3
 FireForce 3
 FireForceCD32 3
 FirstSamurai 16
@@ -420,7 +422,7 @@ Lemmings 3
 Lemmings2 3
 Lemmings21MB 3
 LemmingsFiles 3
-LethalWeapon 24
+LethalWeapon 14
 LethalXcess 0
 Links 3
 Lionheart 3
@@ -589,6 +591,9 @@ RickDangerous25 24
 RingsOfMedusa 3
 Risk 3
 RiskyWoods 0
+RoadkillAGA -5
+RoadkillCD32 -5
+RoadkillCD32NoIntro -5
 RoboCop 20
 RoboCop2 8
 RoboCop3 16
@@ -628,6 +633,11 @@ SlamTiltAGA 3
 Sleepwalker 3
 StarCrusader 5
 StarCrusaderAGA 5
+SuperfrogDemoAmigaAction 0
+SuperfrogDemoCUAmiga 0
+SuperfrogDemoTheOne 0
+Superfrog 0
+SuperfrogCD32 0
 SuperStardust 3
 SuperStardustAGA 3
 Switchblade 16

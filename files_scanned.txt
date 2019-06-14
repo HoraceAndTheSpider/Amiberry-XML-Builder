@@ -1,4 +1,4 @@
-Scanned file log: 2019-06-12 at 03:00:07
+Scanned file log: 2019-06-14 at 03:00:08
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
 Skipped: 24HourEFix_v1.0_Quartz.lha
@@ -6071,186 +6071,186 @@ Skipped: PerfectGeneral-WHDL.lha
 Skipped: PerfectGeneralFR-WHDL.lha
 Skipped: PerfectGeneralww2-WHDL.lha
 Skipped: PerfectGeneralww2FR-WHDL.lha
-Scanned: Permonie CZ
-Scanned: Pesten
-Scanned: PGwin PL
-Scanned: Phantom
-Scanned: Phoenix Fighters
-Scanned: Pic (Italiano)
-Scanned: Pick Out
-Scanned: Picross Sebel DE
-Scanned: Picture Puzzle
-Scanned: Piece NSpace
-Scanned: Pillmania
-Scanned: Pinball Dreams Lost Table
-Scanned: Pioneer Plague
-Scanned: Pioneers
-Scanned: Pipeline 3
-Scanned: Pipeline Brown
-Scanned: Pipeliner
-Scanned: Pipemaster 2
-Scanned: Pirate Cove
-Scanned: Pitch NPutt 4 Woods
-Scanned: Pixie Kingdom
-Scanned: Planet Zybex
-Scanned: Plasma Bubble
-Scanned: Platman ECSAGA
-Scanned: Platou
-Scanned: Playball
-Scanned: Play Pac
-Scanned: Plebs
-Scanned: Plorrds
-Scanned: Plouf
-Scanned: Plubz 2 Moped
-Scanned: Plubz [AGA]
-Scanned: Plumpy [AGA]
-Scanned: Poco Man
-Scanned: Poing 7
-Scanned: Poing 2-NV
-Scanned: Pokermania
-Scanned: Poker Solitaire Unsane
-Scanned: Polataa 4 [AGA]
-Scanned: Polataa 4 [AGA]demo
-Scanned: Polataa 5 [AGA]
-Scanned: Pole Walki-NV
-Scanned: Pollymorf
-Scanned: Poltergeist PL
-Scanned: Pom Pom Gunner-NV-NE
-Scanned: Pong 4
-Scanned: Pong 91
-Scanned: Pongo
-Scanned: Pooyan
-Scanned: Popcorn-noend
-Scanned: Popeye Wrestle
-Scanned: Pop Up Sly
-Scanned: Porkapork-novbrmove-noend
-Scanned: Pot Fun
-Scanned: Pot Panic
-Scanned: Powder
-Scanned: Powerboat USA
-Scanned: Power Ginger
-Scanned: Power Labyrint
-Scanned: Power Logik
-Scanned: Poweroids
-Scanned: Powerpac
-Scanned: Power Roller
-Scanned: Powerstones
-Scanned: Power Tetris 14 Demo
-Scanned: Powertris
-Scanned: Power Walls
-Scanned: Power Walls DE
-Scanned: Prawo Krwi [AGA] PL-NC
-Scanned: Prawo Krwi PL-NC
-Scanned: Precision Approach
-Scanned: Preludium PL-code
-Scanned: Premier Division
-Scanned: Produzent [AGA] DE
-Scanned: Produzent DE
-Scanned: Pro Flight
-Scanned: Project 1
-Scanned: Project Battlefield PL
-Scanned: Project Buzzbar
-Scanned: Project Intercalaris PL
-Scanned: Projekt Lila Demo
-Scanned: 10x 10
-Scanned: 42 Issue 1
-Scanned: 42 Issue 1 [AGA]
-Scanned: 42 Issue 2
-Scanned: Almighty
-Scanned: Compass 1
-Scanned: Cracker Journal 01
-Scanned: Cracker Journal 02
-Scanned: Cracker Journal 03
-Scanned: Cracker Journal 04
-Scanned: Cracker Journal 05
-Scanned: Cracker Journal 06
-Scanned: Cracker Journal 07 & 08
-Scanned: Cracker Journal 09
-Scanned: Cracker Journal 10
-Scanned: Cracker Journal 11
-Scanned: Cracker Journal 12
-Scanned: Cracker Journal 13
-Scanned: Cracker Journal 14
-Scanned: Cracker Journal 15
-Scanned: Cracker Journal 16
-Scanned: Cracker Journal 17
-Scanned: Cracker Journal 18
-Scanned: Cracker Journal 19
-Scanned: Cracker Journal 20
-Scanned: Cracker Journal 21
-Scanned: Cracker Journal 22
-Scanned: DISC 1
-Scanned: DISC 2
-Scanned: DISC 3
-Scanned: DISC 4
-Scanned: DISC 5
-Scanned: DISC 6
-Scanned: DISC 7
-Scanned: DISC 8
-Scanned: Exit 1
-Scanned: Exit 2
-Scanned: Exit 3
-Scanned: Exit 4
-Scanned: Fourth Dimension 1
-Scanned: Fourth Dimension 2
-Scanned: Fourth Dimension 3
-Scanned: Grapevine 05
-Scanned: Grapevine 06
-Scanned: Grapevine 07
-Scanned: Grapevine 08
-Scanned: Grapevine 09
-Scanned: Grapevine 10
-Scanned: Grapevine 11
-Scanned: Grapevine 12
-Scanned: Grapevine 13
-Scanned: Grapevine 14
-Scanned: Grapevine 15
-Scanned: Grapevine 16
-Scanned: Grapevine 17
-Scanned: Grapevine 18
-Scanned: Grapevine 19
-Scanned: Grapevine 20
-Scanned: Grapevine 21
-Scanned: Ice 01
-Scanned: Ice 02
-Scanned: Ice 3
-Scanned: Ice 4
-Scanned: Ice 5
-Scanned: Ice 6
-Scanned: Ice 7
-Scanned: Ice 8
-Scanned: Mc Disk 1
-Scanned: Mc Disk 2
-Scanned: Mc Disk 3
-Scanned: PENIS 1
-Scanned: PENIS 2
-Scanned: PENIS 3
-Scanned: ROM 1
-Scanned: ROM 2
-Scanned: Scene 1
-Scanned: Scene 2 Abel
-Scanned: Scene 3 Decay
-Scanned: Scene 4 Prophecy
-Scanned: Scene Talk 1
-Scanned: Scene Talk 2
-Scanned: Scene Talk 3
-Scanned: Scene Talk 4
-Scanned: Scene Talk 5
-Scanned: Scene Talk 6
-Scanned: Scene Talk 7
-Scanned: Scene Talk 8
-Scanned: Stolen Data 07
-Scanned: Stolen Data 08
-Scanned: Upstream 01
-Scanned: Visual Intensity 1
-Scanned: World Charts 09
-Scanned: Zine 01
-Scanned: Zine 02
-Scanned: Zine 03
-Scanned: Zine 04
-Scanned: Zine 05
-Scanned: Zine 06
-Scanned: Zine 07
-Scanned: Zine 08
-Scanned: Zine 09
-Scanned: Zine 10
+Skipped: PermonieCZ-WHDL.lha
+Skipped: Pesten-WHDL.lha
+Skipped: PGwinPL-WHDL.lha
+Skipped: Phantom-WHDL.lha
+Skipped: PhoenixFighters-WHDL.lha
+Skipped: PicIt-WHDL.lha
+Skipped: PickOut-WHDL.lha
+Skipped: PicrossSebelDE-WHDL.lha
+Skipped: PicturePuzzle-WHDL.lha
+Skipped: PieceNSpace-WHDL.lha
+Skipped: Pillmania-WHDL.lha
+Skipped: PinballDreamsLostTable-WHDL.lha
+Skipped: PioneerPlague-WHDL.lha
+Skipped: Pioneers-WHDL.lha
+Skipped: Pipeline3-WHDL.lha
+Skipped: PipelineBrown-WHDL.lha
+Skipped: Pipeliner-WHDL.lha
+Skipped: Pipemaster2-WHDL.lha
+Skipped: PirateCove-WHDL.lha
+Skipped: PitchNPutt-WHDL.lha
+Skipped: PixieKingdom-WHDL.lha
+Skipped: PlanetZybex-WHDL.lha
+Skipped: PlasmaBubble-WHDL.lha
+Skipped: PlatmanECSAGA-WHDL.lha
+Skipped: Platou-WHDL.lha
+Skipped: Playball-WHDL.lha
+Skipped: Playpac-WHDL.lha
+Skipped: Plebs-WHDL.lha
+Skipped: Plorrds-WHDL.lha
+Skipped: Plouf-WHDL.lha
+Skipped: Plubz2Moped-WHDL.lha
+Skipped: PlubzAGA-WHDL.lha
+Skipped: PlumpyAGA-WHDL.lha
+Skipped: PocoMan-WHDL.lha
+Skipped: Poing-WHDL.lha
+Skipped: Poing2-WHDL.lha
+Skipped: PokerMania-WHDL.lha
+Skipped: PokerSolitaireUnsane-WHDL.lha
+Skipped: Polataa4AGA-WHDL.lha
+Skipped: Polataa4AGAdemo-WHDL.lha
+Skipped: Polataa5AGA-WHDL.lha
+Skipped: PoleWalki-WHDL.lha
+Skipped: Pollymorf-WHDL.lha
+Skipped: PoltergeistPL-WHDL.lha
+Skipped: PomPomGunner-WHDL.lha
+Skipped: Pong4-WHDL.lha
+Skipped: Pong91-WHDL.lha
+Skipped: Pongo-WHDL.lha
+Skipped: Pooyan-WHDL.lha
+Skipped: Popcorn-WHDL.lha
+Skipped: PopeyeWrestle-WHDL.lha
+Skipped: PopUpSly-WHDL.lha
+Skipped: PorkAPork-WHDL.lha
+Skipped: PotFun-WHDL.lha
+Skipped: PotPanic-WHDL.lha
+Skipped: Powder-WHDL.lha
+Skipped: PowerboatUSA-WHDL.lha
+Skipped: PowerGinger-WHDL.lha
+Skipped: PowerLabyrint-WHDL.lha
+Skipped: PowerLogik-WHDL.lha
+Skipped: Poweroids-WHDL.lha
+Skipped: PowerPac-WHDL.lha
+Skipped: PowerRoller-WHDL.lha
+Skipped: Powerstones-WHDL.lha
+Skipped: PowerTetris-WHDL.lha
+Skipped: Powertris-WHDL.lha
+Skipped: PowerWalls-WHDL.lha
+Skipped: PowerWallsDE-WHDL.lha
+Skipped: PrawoKrwiAGAPL-WHDL.lha
+Skipped: PrawoKrwiPL-WHDL.lha
+Skipped: PrecisionApproach-WHDL.lha
+Skipped: PreludiumPL-code-WHDL.lha
+Skipped: PremierDivision-WHDL.lha
+Skipped: ProduzentAGADE-WHDL.lha
+Skipped: ProduzentDE-WHDL.lha
+Skipped: Proflight-WHDL.lha
+Skipped: Project1-WHDL.lha
+Skipped: ProjectBattlefieldPL-WHDL.lha
+Skipped: ProjectBuzzbar-WHDL.lha
+Skipped: ProjectIntercalarisPL-WHDL.lha
+Skipped: ProjektLilaDemo-WHDL.lha
+Skipped: 10x10-WHDL.lha
+Skipped: 42Issue1_v1.0_Talent.lha
+Skipped: 42Issue1_v1.0_Talent_AGA.lha
+Skipped: 42Issue2_v1.0_Talent.lha
+Skipped: Almight_v1.0_Manitou.lha
+Skipped: Compass1_v1.0_Alcatraz.lha
+Skipped: CrackerJournal01_v1.1_AlphaFlight.lha
+Skipped: CrackerJournal02_v1.0_AlphaFlight.lha
+Skipped: CrackerJournal03_v1.0_AlphaFlight.lha
+Skipped: CrackerJournal04_v1.01_AlphaFlight.lha
+Skipped: CrackerJournal05_v1.0_AlphaFlight.lha
+Skipped: CrackerJournal06_v1.0_AlphaFlight.lha
+Skipped: CrackerJournal07&08_v1.0_AlphaFlight.lha
+Skipped: CrackerJournal09_v1.0_AlphaFlight.lha
+Skipped: CrackerJournal10_v1.0_AlphaFlight.lha
+Skipped: CrackerJournal11_v1.0_AlphaFlight.lha
+Skipped: CrackerJournal12_v1.01_AlphaFlight.lha
+Skipped: CrackerJournal13_v1.0_AlphaFlight.lha
+Skipped: CrackerJournal14_v1.0_AlphaFlight.lha
+Skipped: CrackerJournal15_v1.0_AlphaFlight.lha
+Skipped: CrackerJournal16_v1.0_AlphaFlight.lha
+Skipped: CrackerJournal17_v1.0_AlphaFlight.lha
+Skipped: CrackerJournal18_v1.0_AlphaFlight.lha
+Skipped: CrackerJournal19_v1.0_AlphaFlight.lha
+Skipped: CrackerJournal20_v1.0_AlphaFlight.lha
+Skipped: CrackerJournal21_v1.0_AlphaFlight.lha
+Skipped: CrackerJournal22_v1.0_AlphaFlight.lha
+Skipped: DISC1_v1.0_Level4.lha
+Skipped: DISC2_v1.0_Level4.lha
+Skipped: DISC3_v1.0_Level4.lha
+Skipped: DISC4_v1.0_Level4.lha
+Skipped: DISC5_v1.0_Level4.lha
+Skipped: DISC6_v1.0_Level4.lha
+Skipped: DISC7_v1.0_Level4.lha
+Skipped: DISC8_v1.0_Level4.lha
+Skipped: Exit1_v1.0_Vectors.lha
+Skipped: Exit2_v1.0_Vectors.lha
+Skipped: Exit3_v1.0_Vectors.lha
+Skipped: Exit4_v1.0_Vectors.lha
+Skipped: FourthDimension1_v1.0_Cryptoburners.lha
+Skipped: FourthDimension2_v1.0_Cryptoburners.lha
+Skipped: FourthDimension3_v1.0_Cryptoburners.lha
+Skipped: Grapevine05_v1.0_LSD.lha
+Skipped: Grapevine06_v1.0_LSD.lha
+Skipped: Grapevine07_v1.0_LSD.lha
+Skipped: Grapevine08_v1.0_LSD.lha
+Skipped: Grapevine09_v1.0_LSD.lha
+Skipped: Grapevine10_v1.0_LSD.lha
+Skipped: Grapevine11_v1.0_LSD.lha
+Skipped: Grapevine12_v1.0_LSD.lha
+Skipped: Grapevine13_v1.0_LSD.lha
+Skipped: Grapevine14_v1.01_LSD.lha
+Skipped: Grapevine15_v1.01_LSD.lha
+Skipped: Grapevine16_v1.02_LSD.lha
+Skipped: Grapevine17_v1.0_LSD.lha
+Skipped: Grapevine18_v1.0_LSD.lha
+Skipped: Grapevine19_v1.0_LSD.lha
+Skipped: Grapevine20_v1.0_LSD.lha
+Skipped: Grapevine21_v1.0_LSD.lha
+Skipped: Ice1_v1.0_Cytax.lha
+Skipped: Ice2_v1.02_Cytax.lha
+Skipped: Ice3_v1.0_Cytax.lha
+Skipped: Ice4_v1.0_Cytax.lha
+Skipped: Ice5_v1.0_Cytax.lha
+Skipped: Ice6_v1.0_Cytax.lha
+Skipped: Ice7_v1.0_Cytax.lha
+Skipped: Ice8_v1.0_Cytax.lha
+Skipped: McDisk1_v1.0_Coma.lha
+Skipped: McDisk2_v1.0_Coma.lha
+Skipped: McDisk3_v1.0_Coma.lha
+Skipped: PENIS1_v1.0_DMOC.lha
+Skipped: PENIS2_v1.0_DMOC.lha
+Skipped: PENIS3_v1.0_DMOC.lha
+Skipped: ROM1_v1.0_Essence.lha
+Skipped: ROM2_v1.0_Essence.lha
+Skipped: Scene1_v1.0_Mystix.lha
+Skipped: Scene2_v1.0_Abel.lha
+Skipped: Scene3_v1.0_Decay.lha
+Skipped: Scene4_v1.0_Prophecy.lha
+Skipped: SceneTalk1_v1.01_Submission.lha
+Skipped: SceneTalk2_v1.01_Submission.lha
+Skipped: SceneTalk3_v1.01_Submission.lha
+Skipped: SceneTalk4_v1.0_Submission.lha
+Skipped: SceneTalk5_v1.0_Mystic.lha
+Skipped: SceneTalk6_v1.0_Mystic.lha
+Skipped: SceneTalk7_v1.0_Mystic.lha
+Skipped: SceneTalk8_v1.0_Mystic.lha
+Skipped: StolenData07_v1.0_Anarchy&FlashProductions.lha
+Skipped: StolenData08_v1.0_Anarchy.lha
+Skipped: Upstream01_v1.0_Frogs.lha
+Skipped: VisualIntensity1_v1.0_Dual4Mat.lha
+Skipped: WorldCharts09_v1.0_Silents.lha
+Skipped: Zine01_v1.0_Brainstorm.lha
+Skipped: Zine02_v1.0_Brainstorm.lha
+Skipped: Zine03_v1.0_Brainstorm.lha
+Skipped: Zine04_v1.0_Brainstorm.lha
+Skipped: Zine05_v1.0a_Brainstorm.lha
+Skipped: Zine06_v1.0a_Brainstorm.lha
+Skipped: Zine07_v1.0a_Brainstorm.lha
+Skipped: Zine08_v1.0_Brainstorm.lha
+Skipped: Zine09_v1.0_Brainstorm.lha
+Skipped: Zine10_v1.0_Brainstorm.lha

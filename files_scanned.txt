@@ -1,4 +1,4 @@
-Scanned file log: 2019-06-19 at 03:00:07
+Scanned file log: 2019-06-21 at 03:00:08
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
 Skipped: 24HourEFix_v1.0_Quartz.lha
@@ -1041,8 +1041,10 @@ Skipped: AshesOfEmpire_v1.0.lha
 Skipped: AshesOfEmpire_v1.0_De_0794.lha
 Skipped: AssassinSpecialEdition_v2.0_0766.lha
 Scanned: Assassin Special Edition
+Skipped: AssassinSpecialEdition_v3.0_0766.lha
 Skipped: Assassin_v1.1_1214.lha
 Scanned: Assassin
+Skipped: Assassin_v1.2_1214.lha
 Skipped: Astaroth_v1.0_1321.lha
 Skipped: Astatin_v1.0.lha
 Skipped: AsterixOperationGetafix_v1.3_1009.lha
@@ -2131,7 +2133,7 @@ Skipped: Frontier_v1.2_De_0505.lha
 Skipped: Frontier_v1.2_Fr_2745.lha
 Skipped: FrostByte_v0501.1_1529.lha
 Skipped: FullContact_v1.5a_2246.lha
-Scanned: Full Contact
+Skipped: FullContact_v1.6_2246.lha
 Skipped: FullMetalPlanete_v1.6_Files_0656.lha
 Skipped: FullMetalPlanete_v1.6_Files_NTSC.lha
 Skipped: FullMetalPlanete_v1.6_Files_NTSC_1204.lha

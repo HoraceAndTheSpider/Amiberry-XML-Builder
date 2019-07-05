@@ -1,4 +1,4 @@
-Scanned file log: 2019-07-03 at 03:00:06
+Scanned file log: 2019-07-05 at 03:00:07
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
 Skipped: 24HourEFix_v1.0_Quartz.lha
@@ -1262,7 +1262,7 @@ Skipped: BlueAngels_v1.0_NTSC_1467.lha
 Skipped: Blueberry_v1.0_De.lha
 Skipped: BluesBrothers_v1.2_3081.lha
 Skipped: BluesBrothers_v1.3_3081.lha
-Scanned: Blues Brothers
+Skipped: BluesBrothers_v1.4_3081.lha
 Skipped: BMXSimulator_v1.0.lha
 Skipped: Bobo_v1.0b_Fr_1951.lha
 Skipped: BobsBadDay_v1.5_0637.lha

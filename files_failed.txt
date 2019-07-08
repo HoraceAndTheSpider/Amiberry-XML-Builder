@@ -1,3 +1,5 @@
-Problem file log: 2019-07-05 at 03:00:07
+Problem file log: 2019-07-08 at 02:00:07
 Could not read LHA archive: 100MostRememberedGamesOnThe64_v1.01_PerhkanSundell&RonBirk.lha
 Could not read LHA archive: 100MostRememberedGamesOnThe64_v1.01_Perh�kanSundell&RonBirk.lha
+Could not read LHA archive: ErbenErdeAGACDDE-WHDL.lha
+Could not read LHA archive: InheritEarthAGACD-WHDL.lha

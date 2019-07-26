@@ -1,4 +1,4 @@
-Scanned file log: 2019-07-24 at 03:00:07
+Scanned file log: 2019-07-26 at 03:00:08
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
 Skipped: 24HourEFix_v1.0_Quartz.lha
@@ -1264,7 +1264,7 @@ Skipped: Blueberry_v1.0_De.lha
 Skipped: BluesBrothers_v1.2_3081.lha
 Skipped: BluesBrothers_v1.3_3081.lha
 Skipped: BluesBrothers_v1.4_3081.lha
-Scanned: Blues Brothers
+Skipped: BluesBrothers_v1.6_3081.lha
 Skipped: BMXSimulator_v1.0.lha
 Skipped: Bobo_v1.0b_Fr_1951.lha
 Skipped: BobsBadDay_v1.5_0637.lha
@@ -1373,7 +1373,7 @@ Skipped: Cadaver&CadaverThePayoff_v2.2_0900.lha
 Skipped: Cadaver&ThePayoff_v2.3_0900.lha
 Skipped: Cadaver&ThePayoff_v2.4_0900.lha
 Skipped: CadaverDemos_v1.0.lha
-Scanned: Cadaver (Demos)
+Skipped: CadaverDemos_v1.1.lha
 Skipped: CadaverThePayoff_v2.2_0900.lha
 Skipped: Cadaver_v2.2_0900.lha
 Skipped: Caesar_v1.0_3085.lha
@@ -2110,7 +2110,7 @@ Skipped: FootballGlory_v1.1_AGA_0122.lha
 Skipped: FootballManager2_v1.01_0246.lha
 Skipped: FootballManagerWorldCupEdition_v1.0_2272.lha
 Skipped: FootballManagerWorldCupEdition_v1.0_De_0483.lha
-Scanned: Forest Dumb Forever (Polski)
+Skipped: ForestDumbForever_v1.0_Pl.lha
 Skipped: ForgottenMine_v1.0.lha
 Skipped: ForgottenWorlds_v1.0b_1222.lha
 Skipped: Formula1GrandPrix_v1.0.lha
@@ -2685,8 +2685,8 @@ Skipped: KnightForce_v1.2_1574.lha
 Skipped: LostInMine_v1.1_Pl.lha
 Skipped: LostPatrol_v1.3_0773.lha
 Skipped: LostPatrol_v1.3_NTSC_0498.lha
-Scanned: Lost Vikings Demo
-Scanned: Lost Vikings Demo (Francais)
+Skipped: LostVikingsDemo_v2.0.lha
+Skipped: LostVikingsDemo_v2.0_Fr.lha
 Skipped: LostVikings_v2.0_2235.lha
 Skipped: LostVikings_v2.0_CD32.lha
 Skipped: LostVikings_v2.0_De_2774.lha
@@ -2725,7 +2725,7 @@ Skipped: LastDuel_v1.1.lha
 Skipped: LastNinja2_v1.1_0131.lha
 Skipped: LastNinja3_v1.1_0495.lha
 Skipped: LastNinja3_v1.1_CD32.lha
-Scanned: Last Soldier (Polski)
+Skipped: LastSoldier_v1.0_Pl.lha
 Skipped: LeaderBoardTournamentDisk1_v1.01_1474.lha
 Skipped: LeaderBoard_v0.1_Arcadia.lha
 Skipped: LeaderBoard_v1.01_0523.lha
@@ -3246,7 +3246,7 @@ Skipped: Pyramax_v1.0_0563.lha
 Skipped: P47Thunderbolt_v1.1_1227.lha
 Skipped: PacificIslands_v1.0_2812.lha
 Skipped: PacLand_v1.1_0023.lha
-Scanned: Pac Man 87
+Skipped: PacMan87_v1.0.lha
 Skipped: PacMania_v1.0_1117.lha
 Skipped: Paladin2_v1.0_2113.lha
 Skipped: Paladin_v1.0_2982.lha
@@ -3296,8 +3296,8 @@ Skipped: PierreLeChefIsOutToLunch_v2.3_AGA_0548.lha
 Skipped: PierreLeChefIsOutToLunch_v2.3_CD32.lha
 Skipped: PinballDreams_v1.3_0377.lha
 Skipped: PinballDreams_v1.3_NTSC.lha
-Scanned: Pinball Dreams
-Scanned: Pinball Dreams (NTSC)
+Skipped: PinballDreams_v1.4-B_0377.lha
+Skipped: PinballDreams_v1.4-B_NTSC.lha
 Skipped: ParadiseLost_v1.0.lha
 Skipped: PeterBeardsleysInternationalFootball_v1.2.lha
 Skipped: PinballBrainDamage_v1.0_AGA.lha
@@ -3387,8 +3387,8 @@ Skipped: Populous_v1.1_0069.lha
 Skipped: Portal_v1.1.lha
 Skipped: PortesDuTemps_v1.2_Fr.lha
 Skipped: PortsOfCall_v1.1_2489.lha
-Scanned: Ports Of Call (Deutsch)
-Scanned: Ports Of Call (Francais)
+Skipped: PortsOfCall_v1.1_De.lha
+Skipped: PortsOfCall_v1.1_Fr.lha
 Skipped: PostmanPat_v1.0_1092.lha
 Skipped: PowerDrift_v1.3_1444.lha
 Skipped: PowerDrive_v1.0_1658.lha
@@ -3486,7 +3486,7 @@ Skipped: RType2_v1.1_2065.lha
 Skipped: RType_v1.4.1_0940.lha
 Skipped: Rubicon_v1.1_0573.lha
 Skipped: Rubicon_v2.0_0573.lha
-Scanned: Rubicon
+Skipped: Rubicon_v2.1_0573.lha
 Skipped: Ruesselsheim_v1.0_AGA_De_2215.lha
 Skipped: Ruesselsheim_v1.0_De.lha
 Skipped: Ruff&ReddyInTheSpaceAdventure_v1.1.lha
@@ -3980,7 +3980,7 @@ Skipped: StreetSportsBasketball_v1.0_NTSC_0953.lha
 Skipped: Strider2_v1.1_0386.lha
 Skipped: Strider_v1.0_1224.lha
 Skipped: StrikeAces_v1.0_NTSC_1485.lha
-Scanned: Strikefleet
+Skipped: Strikefleet_v1.0_0583.lha
 Skipped: Striker_v1.0_1075.lha
 Skipped: StripPoker2+&DataDisk1_v1.1_0584&0784.lha
 Skipped: StripPoker2+_v1.1_0584.lha
@@ -4542,9 +4542,9 @@ Skipped: Xenon2_v1.10_2Disk_0297.lha
 Skipped: Xenon2_v1.11_1Disk_2234.lha
 Skipped: Xenon2_v1.11_2Disk_0297.lha
 Skipped: Xenon2_v1.11_NTSC.lha
-Scanned: Xenon 2 - Megablast (1 Disk)
-Scanned: Xenon 2 - Megablast (2 Disk)
-Scanned: Xenon 2 (NTSC)
+Skipped: Xenon2_v1.12_1Disk_2234.lha
+Skipped: Xenon2_v1.12_2Disk_0297.lha
+Skipped: Xenon2_v1.12_NTSC.lha
 Skipped: Xenon2_v1.7_CDTV.lha
 Skipped: Xenon_v0.2_Arcadia.lha
 Skipped: Xenon_v1.2_0399.lha

@@ -1,4 +1,4 @@
-Scanned file log: 2019-07-31 at 03:00:08
+Scanned file log: 2019-08-02 at 03:00:09
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
 Skipped: 24HourEFix_v1.0_Quartz.lha
@@ -872,6 +872,7 @@ Skipped: Amberstar_v1.2_De_Fast.lha
 Skipped: Amberstar_v1.2_Fast_1969.lha
 Skipped: Amegas_v1.0_1655.lha
 Skipped: AmericanGladiators_v1.2.lha
+Scanned: American Poker (Polski)
 Skipped: AmericanTagTeamWrestling_v1.0_2211.lha
 Skipped: AmigaKarate_v2.1_0045.lha
 Skipped: AmigaKarate_v2.1_NTSC_0045.lha
@@ -2124,6 +2125,7 @@ Skipped: Frankenstein_v1.2.lha
 Skipped: Franko_v1.2_Censored_Pl.lha
 Skipped: Franko_v1.2_Pl.lha
 Skipped: FranticFreddie_v1.0.lha
+Scanned: Frantic Freddie
 Skipped: FreakOut_v1.0.lha
 Skipped: Freedom_v1.0.lha
 Skipped: Freedom_v1.0_De.lha

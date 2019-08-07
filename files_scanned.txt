@@ -1,4 +1,4 @@
-Scanned file log: 2019-08-02 at 03:00:09
+Scanned file log: 2019-08-07 at 03:00:07
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
 Skipped: 24HourEFix_v1.0_Quartz.lha
@@ -872,7 +872,7 @@ Skipped: Amberstar_v1.2_De_Fast.lha
 Skipped: Amberstar_v1.2_Fast_1969.lha
 Skipped: Amegas_v1.0_1655.lha
 Skipped: AmericanGladiators_v1.2.lha
-Scanned: American Poker (Polski)
+Skipped: AmericanPoker_v1.0_Pl.lha
 Skipped: AmericanTagTeamWrestling_v1.0_2211.lha
 Skipped: AmigaKarate_v2.1_0045.lha
 Skipped: AmigaKarate_v2.1_NTSC_0045.lha
@@ -1748,6 +1748,8 @@ Skipped: Deliverance_v1.5_1500.lha
 Skipped: DeltaCommand_v0.2_Arcadia.lha
 Skipped: DeluxeGalaga_v1.1.lha
 Skipped: DeluxeGalaga_v1.1_AGA.lha
+Scanned: Deluxe Galaga
+Scanned: Deluxe Galaga [AGA]
 Skipped: DeluxePacMan_v1.0.lha
 Skipped: DeluxePacMan_v1.0_AGA.lha
 Skipped: DeluxeStripPoker2_v1.0.lha
@@ -2125,7 +2127,7 @@ Skipped: Frankenstein_v1.2.lha
 Skipped: Franko_v1.2_Censored_Pl.lha
 Skipped: Franko_v1.2_Pl.lha
 Skipped: FranticFreddie_v1.0.lha
-Scanned: Frantic Freddie
+Skipped: FranticFreddie_v2.0.lha
 Skipped: FreakOut_v1.0.lha
 Skipped: Freedom_v1.0.lha
 Skipped: Freedom_v1.0_De.lha
@@ -3129,6 +3131,7 @@ Skipped: NeverMind_v1.0_1507.lha
 Skipped: NewYorkWarriors_v1.4_512KB_0705.lha
 Skipped: NewZealandStoryDemo_v1.0.lha
 Skipped: NewZealandStory_v2.2_1180.lha
+Skipped: NibbyNibble_v1.0.lha
 Skipped: NickFaldosChampionshipGolf_v2.1b_1164.lha
 Skipped: NickFaldosChampionshipGolf_v2.1b_CD32.lha
 Skipped: Nicky2_v1.1.lha
@@ -3300,6 +3303,8 @@ Skipped: PinballDreams_v1.3_0377.lha
 Skipped: PinballDreams_v1.3_NTSC.lha
 Skipped: PinballDreams_v1.4-B_0377.lha
 Skipped: PinballDreams_v1.4-B_NTSC.lha
+Scanned: Pinball Dreams
+Scanned: Pinball Dreams (NTSC)
 Skipped: ParadiseLost_v1.0.lha
 Skipped: PeterBeardsleysInternationalFootball_v1.2.lha
 Skipped: PinballBrainDamage_v1.0_AGA.lha
@@ -4345,6 +4350,7 @@ Skipped: UFOEnemyUnknown_v1.1_AGA_0157.lha
 Skipped: UFOEnemyUnknown_v1.1_CD32.lha
 Skipped: Ugh_v1.0_0396.lha
 Skipped: Ugh_v1.1_0396.lha
+Scanned: Ugh
 Skipped: Ultima3_v1.1.lha
 Skipped: Ultima4_v1.1_1390.lha
 Skipped: Ultima4_v1.1_NTSC_1390.lha
@@ -4378,8 +4384,10 @@ Skipped: VideoKid_v1.0_2555.lha
 Skipped: Vigilante_v1.1_1188.lha
 Skipped: Vindicators_v1.1_0158.lha
 Skipped: Violator_v2.0.lha
+Scanned: Virocop
 Skipped: Virocop_v1.0_1836.lha
 Skipped: Virocop_v1.3_AGA_1920.lha
+Scanned: Virocop [AGA]
 Skipped: VirtualKarting2Demo_v1.0_AGA.lha
 Skipped: VirtualKarting2_v1.1_AGA.lha
 Skipped: VirtualKarting2_v1.1_AGA_CD.lha

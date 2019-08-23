@@ -1,4 +1,4 @@
-Scanned file log: 2019-08-21 at 03:00:04
+Scanned file log: 2019-08-23 at 03:00:04
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
 Skipped: 24HourEFix_v1.0_Quartz.lha
@@ -1188,7 +1188,7 @@ Skipped: BAT_v1.3b_2072.lha
 Skipped: BAT_v1.3b_De_2197.lha
 Skipped: BAT_v1.3b_Fr_2641.lha
 Skipped: BCKid_v1.4_0435.lha
-Scanned: BC Kid
+Skipped: BCKid_v1.5_0435.lha
 Skipped: BeachVolley_v1.0_1249.lha
 Skipped: Beam_v1.0_1304.lha
 Skipped: BeastBusters_v1.1_1012.lha
@@ -3428,6 +3428,8 @@ Skipped: Premiere_v2.1_1553.lha
 Skipped: Premiere_v2.1_CD32.lha
 Skipped: Premiere_v3.1_1553.lha
 Skipped: Premiere_v3.1_CD32.lha
+Scanned: Premiere
+Scanned: Premiere [CD32]
 Skipped: PremierManager2_v1.0_1130.lha
 Skipped: PremierManager3Deluxe_v1.0_2889.lha
 Skipped: PremierManager3_v1.0_2127.lha
@@ -3600,7 +3602,7 @@ Skipped: Roadkill_v2.2_AGA_1108.lha
 Skipped: Roadkill_v2.2_CD32.lha
 Skipped: Roadkill_v2.2_CD32_NoIntro.lha
 Skipped: RoadRash_v1.4_1313.lha
-Scanned: Road Rash
+Skipped: RoadRash_v2.0_1313.lha
 Skipped: RoadwarEuropa_v1.0_2510.lha
 Skipped: RoadWars_v0.1_Arcadia.lha
 Skipped: RoadWars_v1.1_0142.lha

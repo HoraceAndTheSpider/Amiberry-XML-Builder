@@ -1,4 +1,4 @@
-Scanned file log: 2019-08-28 at 03:00:05
+Scanned file log: 2019-08-30 at 03:00:05
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
 Skipped: 24HourEFix_v1.0_Quartz.lha
@@ -884,6 +884,7 @@ Skipped: AnotherWorld_v2.4_Fr_2377.lha
 Skipped: AnotherWorld_v2.4_It.lha
 Skipped: Anstoss_v1.2_De_0798.lha
 Skipped: Antago_v1.0.lha
+Scanned: Antago
 Skipped: AntaresDerGriffNachDenSternen_v1.0_De.lha
 Skipped: Apache&OverdriveDemo_v1.1_0426.lha
 Skipped: ApacheFlight_v1.0.lha
@@ -975,6 +976,9 @@ Skipped: AlienBreedTowerAssault11_v1.2_AGA_2331.lha
 Skipped: AlienBreedTowerAssault_v1.2_0279.lha
 Skipped: AlienBreedTowerAssault_v1.2_AGA_0279.lha
 Skipped: AlienBreedTowerAssault_v1.2_CD32.lha
+Scanned: Alien Breed - Tower Assault
+Scanned: Alien Breed - Tower Assault [AGA]
+Scanned: Alien Breed Tower Assault [CD32]
 Skipped: AlienBreed_v2.3a_0998.lha
 Skipped: AlienDrugLords_v1.0_1004.lha
 Skipped: AlienFishFinger_v1.0.lha
@@ -1666,6 +1670,7 @@ Skipped: DylanDogTheMurderers_v1.3.lha
 Skipped: DynaBlaster_v1.2_0664.lha
 Skipped: DynaBlaster_v1.3_0664.lha
 Skipped: DynaBlaster_v1.4_0664.lha
+Scanned: Dyna Blaster
 Skipped: DynamiteDux_v1.0_1183.lha
 Skipped: Dynamo_v1.3_0995.lha
 Skipped: DynastyWars_v1.1_0862.lha
@@ -3820,8 +3825,8 @@ Skipped: SkautKwatermaster_v1.0a_Pl.lha
 Skipped: SkeetShoot_v1.1_2231.lha
 Skipped: SkeletonKrew_v2.0_AGA_0725.lha
 Skipped: SkeletonKrew_v2.0_CD32.lha
-Scanned: Skeleton Krew [AGA]
-Scanned: Skeleton Krew [CD32]
+Skipped: SkeletonKrew_v3.0_AGA_0725.lha
+Skipped: SkeletonKrew_v3.0_CD32.lha
 Skipped: Skidmarks_v1.0_0204.lha
 Skipped: Skidmarks_v1.0_AGA_0204.lha
 Skipped: Skidz_v1.0.lha

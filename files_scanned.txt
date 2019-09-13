@@ -1,4 +1,4 @@
-Scanned file log: 2019-09-11 at 03:00:04
+Scanned file log: 2019-09-13 at 03:00:04
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
 Skipped: 24HourEFix_v1.0_Quartz.lha
@@ -876,7 +876,7 @@ Skipped: AmericanPoker_v1.0_Pl.lha
 Skipped: AmericanTagTeamWrestling_v1.0_2211.lha
 Skipped: AmigaKarate_v2.1_0045.lha
 Skipped: AmigaKarate_v2.1_NTSC_0045.lha
-Scanned: Ami Robbo (Polski)
+Skipped: AmiRobbo_v1.0_Pl.lha
 Skipped: Amnios_v1.3_0423.lha
 Skipped: Anarchy_v1.5.lha
 Skipped: AncientArtOfWarInTheSkies_v1.0_1666.lha
@@ -1005,7 +1005,7 @@ Skipped: Ambermoon_v1.0_De.lha
 Skipped: Apidya_v2.05_Audios_2465.lha
 Skipped: Apidya_v2.05_Kaiko_0764.lha
 Skipped: Apocalypse_v1.0_1813.lha
-Scanned: Apple Hunt
+Skipped: AppleHunt_v1.0.lha
 Skipped: Apprentice_v1.3_2288.lha
 Skipped: Aquablast_v1.1.lha
 Skipped: Aquablast_v1.1_NTSC.lha
@@ -1110,7 +1110,7 @@ Skipped: BadDudesVsDragonNinja_v1.2_0098.lha
 Skipped: BadDudes_v1.2_NTSC_2425.lha
 Skipped: BadlandsPete_v1.0.lha
 Skipped: Bagitman_v1.1.lha
-Scanned: Bagitman
+Skipped: Bagitman_v2.0.lha
 Skipped: BalanceOfPower1990Edition_v1.0_1818.lha
 Skipped: BalanceOfPower_v1.0_2374.lha
 Skipped: BalanceOfPower_v1.0_NTSC_2374.lha
@@ -2126,7 +2126,7 @@ Skipped: FootballManager2_v1.01_0246.lha
 Skipped: FootballManagerWorldCupEdition_v1.0_2272.lha
 Skipped: FootballManagerWorldCupEdition_v1.0_De_0483.lha
 Skipped: ForestDumbForever_v1.0_Pl.lha
-Scanned: Forest Dumb Forever (Polski)
+Skipped: ForestDumbForever_v1.1_Pl.lha
 Skipped: ForgottenMine_v1.0.lha
 Skipped: ForgottenWorlds_v1.0b_1222.lha
 Skipped: Formula1GrandPrix_v1.0.lha
@@ -2743,7 +2743,7 @@ Skipped: LastNinja2_v1.1_0131.lha
 Skipped: LastNinja3_v1.1_0495.lha
 Skipped: LastNinja3_v1.1_CD32.lha
 Skipped: LastSoldier_v1.0_Pl.lha
-Scanned: Last Soldier (Polski)
+Skipped: LastSoldier_v1.1_Pl.lha
 Skipped: LeaderBoardTournamentDisk1_v1.01_1474.lha
 Skipped: LeaderBoard_v0.1_Arcadia.lha
 Skipped: LeaderBoard_v1.01_0523.lha
@@ -3266,7 +3266,7 @@ Skipped: P47Thunderbolt_v1.1_1227.lha
 Skipped: PacificIslands_v1.0_2812.lha
 Skipped: PacLand_v1.1_0023.lha
 Skipped: PacMan87_v1.0.lha
-Scanned: Pacman 87
+Skipped: Pacman87_v1.1.lha
 Skipped: PacMania_v1.0_1117.lha
 Skipped: Paladin2_v1.0_2113.lha
 Skipped: Paladin_v1.0_2982.lha
@@ -3655,7 +3655,7 @@ Skipped: Switchblade_v1.3_1101.lha
 Skipped: SWIV_v1.7_0038.lha
 Skipped: Swooper_v1.0.lha
 Skipped: Sword&TheRose_v1.2.lha
-Scanned: Sword Of Aragon
+Skipped: SwordOfAragon_v1.0_2277.lha
 Skipped: SwordOfHonour_v1.0_0149.lha
 Skipped: SwordOfSodan_v1.0_1103.lha
 Skipped: Swords&Galleons_v1.0.lha

@@ -1,4 +1,4 @@
-Scanned file log: 2019-09-18 at 03:00:05
+Scanned file log: 2019-09-20 at 03:00:04
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
 Skipped: 24HourEFix_v1.0_Quartz.lha
@@ -51,6 +51,7 @@ Skipped: Amplifier2_v1.01_Dimension4.lha
 Skipped: Analogia_v1.1_Analog.lha
 Skipped: AnarchyAnnouncetro_v1.0_Silents&Anarchy.lha
 Skipped: AnarchyParty1991Slideshow_v1.0_Razor1911.lha
+Scanned: Anarchy Party Slideshow
 Skipped: Animatunes_v1.0_NewGenerationCrew_AGA.lha
 Skipped: Animotion_v1.01_Phenomena.lha
 Skipped: Announce_v1.0_Lemon.lha
@@ -260,8 +261,10 @@ Skipped: GlobalTrash_v1.0_Silents.lha
 Skipped: GloomPartyInvitation_v1.0_Gloom.lha
 Skipped: Glow_v1.0_BlackLotus_AGA.lha
 Skipped: Goa_v1.0_BlackLotus_AGA.lha
+Scanned: Go For The Record
 Skipped: GrapevineMegamix_v1.01_LSD.lha
 Skipped: GreatBytesInFire_v1.0_Cyberiad.lha
+Scanned: Greatest Bits 2
 Skipped: GreatestHits_v1.0_Cult.lha
 Skipped: GroovyJives3_v1.01_Relay.lha
 Skipped: Groovy_v1.1_Lemon.lha
@@ -380,6 +383,7 @@ Skipped: Masterpieces_v1.2_Kefrens.lha
 Skipped: Materialized_v1.0_Cryptoburners.lha
 Skipped: MaximumOverdrive2_v1.2_Rage.lha
 Skipped: MaximumVelocity_v1.0_Silents.lha
+Scanned: Maxx Party
 Skipped: Megablast_v1.0_Rebels.lha
 Skipped: Megademo2_v1.01_Alcatraz.lha
 Skipped: Megademo2_v1.01_Bass.lha
@@ -579,6 +583,7 @@ Skipped: PlanetM_v1.2_MelonDezign_AGA.lha
 Skipped: PlasticPassion_v1.1_Upfront.lha
 Skipped: PlaybyteCommercial_v1.0_Shining.lha
 Skipped: PointBlank_v1.0_Andromeda.lha
+Scanned: Polychrome
 Skipped: PowerAndAgony_v1.0_Trackers.lha
 Skipped: Powertrax_v1.0_TheLightCircle.lha
 Skipped: Prey_v1.0_PolkaBrothers_AGA.lha
@@ -608,6 +613,7 @@ Skipped: PixeledPleasures_v1.0_Them.lha
 Skipped: PixelNation_v1.0_DefJam.lha
 Skipped: QED2_v1.0_Talent_AGA.lha
 Skipped: QED_v1.0_Talent.lha
+Scanned: Quartzbox
 Skipped: Que_v1.0_BlackLotus_AGA.lha
 Skipped: QuickMusique_v1.0_Oxygen.lha
 Skipped: RainheartProject_v1.01_BadCompany.lha
@@ -674,6 +680,7 @@ Skipped: ShakkaLakka_v1.0_Digital_AGA.lha
 Skipped: ShedTears_v1.0_Ozone.lha
 Skipped: Sigh_v1.0_OldBulls.lha
 Skipped: SiliconGraphics2_v1.0_WFMH_AGA.lha
+Scanned: Silicon Sounds
 Skipped: Simpsons_v1.0_Decay.lha
 Skipped: Smau92MusicDisk_v1.0_Nightfall.lha
 Skipped: Snap_v1.01_Rebels.lha
@@ -702,6 +709,7 @@ Skipped: SoundEngine_v1.01_Absence.lha
 Skipped: SoundErection_v1.0_Shining8.lha
 Skipped: SoundHighlights1_v1.0_Timex.lha
 Skipped: SoundMania2_v1.0_Pussy.lha
+Scanned: Sound Mania
 Skipped: SoundOfMusic7_v1.01_Cave.lha
 Skipped: SoundOfSilents_v1.0_Silents.lha
 Skipped: SoundQuest1_v1.0_Quest.lha
@@ -795,6 +803,7 @@ Skipped: Vectordance_v1.0_Cult.lha
 Skipped: VectorDemo_v1.0_ProphetsAG.lha
 Skipped: VectorDemo_v1.0_TristanLorach.lha
 Skipped: VectorExterminator_v1.0_Shining.lha
+Scanned: Vector Up Your Ass
 Skipped: Viktoria_v1.0_Tristar&RedSectorInc.lha
 Skipped: VirtualHarmony_v1.02_Impact.lha
 Skipped: VirtualWorld_v1.0_TomSoft.lha
@@ -1288,7 +1297,7 @@ Skipped: BombFusion_v1.0.lha
 Skipped: BombJackBeerEdition_v1.0-B.lha
 Skipped: BombJackBeerEdition_v1.0.lha
 Skipped: BombJack_v1.0_1804.lha
-Scanned: Bomb Jack
+Skipped: BombJack_v1.1_2797.lha
 Skipped: BombPacCD32_v1.0_AGA.lha
 Skipped: BombPacCD32_v1.0_AGA_Aminet.lha
 Skipped: Bombuzal_v1.23_1739.lha
@@ -1493,11 +1502,11 @@ Skipped: ChaosEngine_v1.2_CD32.lha
 Skipped: ChaosInAndromeda_v1.0.lha
 Skipped: ChaosInAndromeda_v1.0_CDTV.lha
 Skipped: ChaosStrikesBack&EnglishUtilityDisk_v1.1.lha
-Scanned: Chaos Strikes Back (& Utility Disk)
+Skipped: ChaosStrikesBack&EnglishUtilityDisk_v1.2.lha
 Skipped: ChaosStrikesBack&FrenchUtilityDisk_v1.1.lha
-Scanned: Chaos Strikes Back (& Utility Disk) (Francais)
+Skipped: ChaosStrikesBack&FrenchUtilityDisk_v1.2.lha
 Skipped: ChaosStrikesBack&GermanUtilityDisk_v1.1.lha
-Scanned: Chaos Strikes Back (& Utility Disk) (Deutsch)
+Skipped: ChaosStrikesBack&GermanUtilityDisk_v1.2.lha
 Skipped: CharlieJCool_v1.2.lha
 Skipped: CharlieJCool_v1.2_AGA.lha
 Skipped: ChaseHQ2_v1.4_1246.lha
@@ -2558,6 +2567,8 @@ Skipped: JumpingJackSon_v1.41_1040.lha
 Skipped: Jabato_v1.0_Es.lha
 Skipped: JaguarXJ220_v1.5_Files_1200.lha
 Skipped: JaguarXJ220_v1.5_Image_1200.lha
+Scanned: Jaguar XJ 220 (Files)
+Scanned: Jaguar XJ220 (Image)
 Skipped: JahangirKhansWorldChampionshipSquash_v1.0_0129.lha
 Skipped: JamesBondTheStealthAffair_v2.0_2016.lha
 Skipped: JamesBondTheStealthAffair_v2.0_NTSC_2016.lha
@@ -6326,5 +6337,5 @@ Skipped: Zine07_v1.0a_Brainstorm.lha
 Skipped: Zine08_v1.0_Brainstorm.lha
 Skipped: Zine09_v1.0_Brainstorm.lha
 Skipped: Zine10_v1.0_Brainstorm.lha
-Scanned: 
-Scanned: 
+Skipped: BarbarianPlus_v0.lha
+Skipped: GreySlayer_v0.lha

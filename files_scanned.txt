@@ -1,4 +1,4 @@
-Scanned file log: 2019-10-02 at 03:00:05
+Scanned file log: 2019-10-04 at 03:00:04
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
 Skipped: 24HourEFix_v1.0_Quartz.lha
@@ -1628,7 +1628,7 @@ Skipped: CrazyCars2_v1.1_0311.lha
 Skipped: CrazyCars3_v2.1.lha
 Skipped: CrazyCars3_v2.1_NoIntro.lha
 Skipped: CrazyCars_v1.2.lha
-Scanned: Crazy Cars
+Skipped: CrazyCars_v1.3_2959.lha
 Skipped: CrazySeasons_v1.0.lha
 Skipped: CrazyShot_v1.1_2404.lha
 Skipped: CrazySueGoesOn_v1.1.lha
@@ -4565,7 +4565,7 @@ Skipped: Winzer_v1.01_De_CDTV.lha
 Skipped: Wizardy6BaneOfTheCosmicForge_v1.2_0991.lha
 Skipped: Wizardy6BaneOfTheCosmicForge_v1.2_De_0603.lha
 Skipped: Wizball_v1.2_0176.lha
-Scanned: Wizball
+Skipped: Wizball_v1.3_0176.lha
 Skipped: Wizkid_v1.0_1449.lha
 Skipped: Wizkid_v1.1_1449.lha
 Skipped: Wizkid_v1.2_1449.lha

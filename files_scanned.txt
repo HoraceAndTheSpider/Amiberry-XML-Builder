@@ -1,4 +1,4 @@
-Scanned file log: 2019-10-09 at 03:00:04
+Scanned file log: 2019-10-11 at 03:00:04
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
 Skipped: 24HourEFix_v1.0_Quartz.lha
@@ -543,6 +543,7 @@ Skipped: Musicland2_v1.02_Brainstorm.lha
 Skipped: NegativeFX_v1.0_Reality.lha
 Skipped: NeuralAssault_v1.1_Rage.lha
 Skipped: NewAge_v1.0_RamJam.lha
+Scanned: Newtrons Music Box
 Skipped: Nexus7_v1.1_Andromeda_AGA.lha
 Skipped: NightshadesHarmony_v1.0_Ecstacy.lha
 Skipped: NoBrainNoPain_v1.0_FlashProduction.lha
@@ -1503,13 +1504,13 @@ Skipped: ChaosInAndromeda_v1.0.lha
 Skipped: ChaosInAndromeda_v1.0_CDTV.lha
 Skipped: ChaosStrikesBack&EnglishUtilityDisk_v1.1.lha
 Skipped: ChaosStrikesBack&EnglishUtilityDisk_v1.2.lha
-Scanned: Chaos Strikes Back (& Utility Disk)
+Skipped: ChaosStrikesBack&EnglishUtilityDisk_v1.21.lha
 Skipped: ChaosStrikesBack&FrenchUtilityDisk_v1.1.lha
 Skipped: ChaosStrikesBack&FrenchUtilityDisk_v1.2.lha
-Scanned: Chaos Strikes Back (& Utility Disk) (Francais)
+Skipped: ChaosStrikesBack&FrenchUtilityDisk_v1.21.lha
 Skipped: ChaosStrikesBack&GermanUtilityDisk_v1.1.lha
 Skipped: ChaosStrikesBack&GermanUtilityDisk_v1.2.lha
-Scanned: Chaos Strikes Back (& Utility Disk) (Deutsch)
+Skipped: ChaosStrikesBack&GermanUtilityDisk_v1.21.lha
 Skipped: CharlieJCool_v1.2.lha
 Skipped: CharlieJCool_v1.2_AGA.lha
 Skipped: ChaseHQ2_v1.4_1246.lha

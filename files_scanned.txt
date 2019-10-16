@@ -1,4 +1,4 @@
-Scanned file log: 2019-10-11 at 03:00:04
+Scanned file log: 2019-10-16 at 03:00:04
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
 Skipped: 24HourEFix_v1.0_Quartz.lha
@@ -141,6 +141,7 @@ Skipped: CompilationDisk_v1.0_PowerLords.lha
 Skipped: Complete_v1.0_Talent.lha
 Skipped: ConceptCriminosical_v1.0_Ruthless.lha
 Skipped: ContactIntro_v1.0_Bronx.lha
+Scanned: Contagion
 Skipped: Deformations_v1.0_Deform.lha
 Skipped: Despair_v1.0_LSD.lha
 Skipped: DigitalMusicArt_v1.0_Wildfire.lha
@@ -543,7 +544,7 @@ Skipped: Musicland2_v1.02_Brainstorm.lha
 Skipped: NegativeFX_v1.0_Reality.lha
 Skipped: NeuralAssault_v1.1_Rage.lha
 Skipped: NewAge_v1.0_RamJam.lha
-Scanned: Newtrons Music Box
+Skipped: NewtronsMusicBox_v1.0_Orix.lha
 Skipped: Nexus7_v1.1_Andromeda_AGA.lha
 Skipped: NightshadesHarmony_v1.0_Ecstacy.lha
 Skipped: NoBrainNoPain_v1.0_FlashProduction.lha

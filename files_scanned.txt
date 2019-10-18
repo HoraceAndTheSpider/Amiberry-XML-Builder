@@ -1,4 +1,4 @@
-Scanned file log: 2019-10-16 at 03:00:04
+Scanned file log: 2019-10-18 at 03:00:05
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
 Skipped: 24HourEFix_v1.0_Quartz.lha
@@ -141,7 +141,7 @@ Skipped: CompilationDisk_v1.0_PowerLords.lha
 Skipped: Complete_v1.0_Talent.lha
 Skipped: ConceptCriminosical_v1.0_Ruthless.lha
 Skipped: ContactIntro_v1.0_Bronx.lha
-Scanned: Contagion
+Skipped: Contagion_v1.0_Appendix.lha
 Skipped: Deformations_v1.0_Deform.lha
 Skipped: Despair_v1.0_LSD.lha
 Skipped: DigitalMusicArt_v1.0_Wildfire.lha
@@ -795,6 +795,7 @@ Skipped: Ufonix_v1.0_Enigma.lha
 Skipped: UltimateGameBoySimulator_v1.0_Symbiosis.lha
 Skipped: Unbelievable_v1.0_Atomic.lha
 Skipped: UniversalIntensity_v1.0_Complex.lha
+Scanned: Unjust Sentence
 Skipped: Unleashed_v1.0_Insane.lha
 Skipped: VaginalMassacre_v1.01_UDO.lha
 Skipped: VectorBallsDemo_v1.0_TomSoft.lha
@@ -3547,6 +3548,7 @@ Skipped: RunTheGauntlet_v1.1_1250.lha
 Skipped: Rushhour_v1.0.lha
 Skipped: RVFHonda_v1.2_1081.lha
 Skipped: Rygar_v1.0_AGA.lha
+Scanned: Rygar [AGA]
 Skipped: RaceDrivin_v0601.1.lha
 Skipped: RaceDrivin_v0601.1_NoIntro.lha
 Skipped: RackneysIsland_v1.0.lha
@@ -3893,6 +3895,9 @@ Skipped: SnowStrike_v1.0_2419.lha
 Skipped: SoccerKid_v1.0_1129.lha
 Skipped: SoccerKid_v1.1_AGA_1150.lha
 Skipped: SoccerKid_v1.1_CD32.lha
+Scanned: Soccer Kid
+Scanned: Soccer Kid [AGA]
+Scanned: Soccer Kid [CD32]
 Skipped: SoccerPinball_v1.2_2522.lha
 Skipped: SoccerSuperstars_v1.0.lha
 Skipped: SoccerSuperstars_v1.0_AGA.lha

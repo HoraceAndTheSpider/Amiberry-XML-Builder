@@ -1,4 +1,4 @@
-Scanned file log: 2019-10-23 at 03:00:06
+Scanned file log: 2019-10-25 at 03:00:05
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
 Skipped: 24HourEFix_v1.0_Quartz.lha
@@ -1257,7 +1257,7 @@ Skipped: Bismarck_v1.0_2563&2702.lha
 Skipped: BlackCauldron_v1.2_2057.lha
 Skipped: BlackCrypt_v2.0_0281.lha
 Skipped: BlackGold_v1.5_ReLINE.lha
-Scanned: Black Gold Re LINE
+Skipped: BlackGold_v1.6_ReLINE.lha
 Skipped: BlackHornet_v1.0.lha
 Skipped: BlackLamp_v1.0_0826.lha
 Skipped: BlackShadow_v1.0_0997.lha
@@ -1632,7 +1632,7 @@ Skipped: CrackDown_v1.2.1.lha
 Skipped: Crack_v1.0_0057.lha
 Skipped: CrashGarrett_v1.0_NTSC_1373.lha
 Skipped: CrazyCars2_v1.1_0311.lha
-Scanned: Crazy Cars II
+Skipped: CrazyCars2_v1.2_0311.lha
 Skipped: CrazyCars3_v2.1.lha
 Skipped: CrazyCars3_v2.1_NoIntro.lha
 Skipped: CrazyCars_v1.2.lha
@@ -2006,7 +2006,7 @@ Skipped: F1_v1.3_2422.lha
 Skipped: F29Retaliator_v1.1_0022.lha
 Skipped: F40PursuitSimulator_v1.1.lha
 Skipped: F40PursuitSimulator_v1.1_NTSC.lha
-Scanned: F 40 Pursuit Simulator (NTSC)
+Skipped: F40PursuitSimulator_v1.2_NTSC.lha
 Skipped: FA18Interceptor_v1.4_0119.lha
 Skipped: FaceOff_v1.0_1670.lha
 Skipped: FaeryTaleAdventure_v1.1_0367.lha
@@ -3225,8 +3225,8 @@ Skipped: OhNoMoreLemmings_v1.2_0697.lha
 Skipped: OhNoMoreLemmings_v1.2_NTSC.lha
 Skipped: OilImperium_v1.5_3039.lha
 Skipped: OilImperium_v1.5_De_0545.lha
-Scanned: Oil Imperium
-Scanned: Oil Imperium (Deutsch)
+Skipped: OilImperium_v1.6_3039.lha
+Skipped: OilImperium_v1.6_De_0545.lha
 Skipped: Oktagon_v1.0.lha
 Skipped: Omega_v1.0_0373.lha
 Skipped: OmnicronConspiracy_v1.1_2200.lha
@@ -3896,8 +3896,8 @@ Skipped: Snoopy&Peanuts_v1.0.lha
 Skipped: Snoopy&Peanuts_v1.0_NoSounds.lha
 Skipped: SnowBros_v1.3_Files_2601.lha
 Skipped: SnowBros_v1.3_Image_2601.lha
-Scanned: Snow Bros (Files)
-Scanned: Snow Bros (Image)
+Skipped: SnowBros_v1.4_Files_2601.lha
+Skipped: SnowBros_v1.4_Image_2601.lha
 Skipped: SnowStrike_v1.0_2419.lha
 Skipped: SoccerKid_v1.0_1129.lha
 Skipped: SoccerKid_v1.1_AGA_1150.lha
@@ -5668,693 +5668,693 @@ Skipped: IndianMissionFR-WHDL.lha
 Skipped: IndycarChallenge-WHDL.lha
 Skipped: Ineptris-WHDL.lha
 Skipped: Inersex-WHDL.lha
-Scanned: Inherit Earth [AGA] CD
-Scanned: Insectoids 1
-Scanned: Insectoids 2-noend
-Scanned: Insidia 2 Mo
-Scanned: Int Champ Athletics
-Scanned: Int Champ Wrestling
-Scanned: ISGames 1991 FR
-Scanned: ISGames 1993 FR
-Scanned: Intense
-Scanned: Intense 1
-Scanned: Intense 2
-Scanned: Interlock
-Scanned: Internal Combustion
-Scanned: International Golf
-Scanned: Int Open Golf [AGA]
-Scanned: Interstate 1
-Scanned: Interstate 2
-Scanned: Interstellar [AGA]
-Scanned: Intruder Alert
-Scanned: Int Rugby Challenge
-Scanned: Invader Craft
-Scanned: Invasion Force Demo
-Scanned: IPuzzi Demo IT
-Scanned: Iridon
-Scanned: Island
-Scanned: Istanbul Efsaneleri-novbrmove
-Scanned: ITSCricket 94
-Scanned: ITSCricket 95
-Scanned: Its The Pits
-Scanned: Jackman
-Scanned: Jade FR
-Scanned: Jail Break
-Scanned: Janosik PL
-Scanned: Jar
-Scanned: Jasio PL-Clavier
-Scanned: Jay Miner 25 Easy
-Scanned: Jazznic
-Scanned: JBPoker
-Scanned: Jeanne DArc FR
-Scanned: Jelly Othelly
-Scanned: Jellyquest
-Scanned: Jeopard
-Scanned: Jetmen
-Scanned: Jet Pilot
-Scanned: Jet Set Billy
-Scanned: Jet Set Billy Jetset
-Scanned: Jetsetwilly 3
-Scanned: Jetsetwilly 97-NV
-Scanned: Jet Strike Fantasy Demo
-Scanned: Jet Strike Jr
-Scanned: Jim Lost Times Demo FR
-Scanned: Jims Video Poker
-Scanned: Joan Arc
-Scanned: Joe Bloggs
-Scanned: Joey Worm
-Scanned: Joker Poker
-Scanned: Joker Poker Wolf DE
-Scanned: Jonas Fulstrand
-Scanned: Journey Center Earth
-Scanned: Joust
-Scanned: JPSpider
-Scanned: Fuzzy Logic
-Scanned: Gardener DE
-Scanned: Glassback 1
-Scanned: Gloom Jecht Battle ECSAGA
-Scanned: Gony Shoot
-Scanned: Greenies
-Scanned: Hanger 18
-Scanned: Heartlight PL
-Scanned: High Octane (Fast)
-Scanned: Hoversprint-NV
-Scanned: Imagems DE
-Scanned: Infernal Machine YU
-Scanned: International Karate
-Scanned: JNicklaus 15 Major
-Scanned: Jump Em
-Scanned: Jumping Jack-noend
-Scanned: Jump Jet
-Scanned: Jump Machine
-Scanned: Jumpman
-Scanned: Jumpy
-Scanned: Jungle Jim
-Scanned: Jurajski Sen PL
-Scanned: Justice
-Scanned: Kaizokuban
-Scanned: KAKAGA Demo
-Scanned: Kang Fu [AGA]
-Scanned: Kangy
-Scanned: Karambolage Billard DE
-Scanned: Karateka
-Scanned: Karate Master
-Scanned: Kastle Kumquat
-Scanned: Kc Munchkin
-Scanned: Keith Quest-NV
-Scanned: Kengi
-Scanned: Kenny Dalglish Soccer Match
-Scanned: Key Master
-Scanned: Khalaan FR
-Scanned: Kickit Day Laiban
-Scanned: Kid Pool-noend
-Scanned: Kill Da Aliens
-Scanned: Kill Em All-NV
-Scanned: Killer Bees
-Scanned: Killing War CZ
-Scanned: Kill Little Dudes
-Scanned: King Barbarians
-Scanned: Kingdoms 3 Germany DE-NV
-Scanned: Kingdoms Steam Demo
-Scanned: Kings Korner Solitaire
-Scanned: Kings Valley
-Scanned: Kings Zeit Ritter DE
-Scanned: Kiwi Tale
-Scanned: Kiwi Tale [AGA]
-Scanned: Klak Tris
-Scanned: Klawz
-Scanned: Klondike Solitaire
-Scanned: Knightlore Demo
-Scanned: Knight Quest
-Scanned: Knights
-Scanned: Knockout 1
-Scanned: Knock Out Spierling
-Scanned: Kretacz PL
-Scanned: Krillian Incident
-Scanned: Kung Fu Charlies Demo-NV
-Scanned: Laberinto
-Scanned: Laberinto S 2 N
-Scanned: Labirynt PL
-Scanned: Labyrinth
-Scanned: Labyrinth 2
-Scanned: Lactose Intolerance
-Scanned: Lance A Lot Joust
-Scanned: Land Genesis CDAGA
-Scanned: Larrie
-Scanned: Lasermania 2 PL
-Scanned: Laser Strixx [CD32]
-Scanned: Last Refuge
-Scanned: Last Soldier PL
-Scanned: Last Tetris-clavier
-Scanned: Las Vegas
-Scanned: Lazarus PL
-Scanned: Legend Exploding
-Scanned: Legend Rome FR-NV
-Scanned: Legend Triten
-Scanned: Legion Doom
-Scanned: Lego Blast
-Scanned: Lemmings Level
-Scanned: Lemmings More 2016
-Scanned: Lepani
-Scanned: Lethal Formula
-Scanned: Liberator
-Scanned: Light Cycles 2
-Scanned: Litil Divil [CD32]
-Scanned: Litterbusters
-Scanned: Locomotion (Kingsoft)
-Scanned: Locomotion Kingsoft
-Scanned: Lode Looter
-Scanned: Lode Runner
-Scanned: Logic
-Scanned: Logical Stones [AGA]
-Scanned: Logik
-Scanned: Logistic
-Scanned: Lord Alcandria 2
-Scanned: Lord Alcandria 3
-Scanned: Lord Rings FR
-Scanned: Lords
-Scanned: Lords Chaos Escape Zol
-Scanned: Lost Prince
-Scanned: Lotus 96k
-Scanned: Love Dungeon Timeless
-Scanned: Lowca Glow PL
-Scanned: Lowca Ostatnie PL
-Scanned: Lucky Five [CD32] IT
-Scanned: Lumberjack
-Scanned: Lumberjack Reloaded Xmas
-Scanned: Lupengo
-Scanned: Mace
-Scanned: Macho Killers
-Scanned: Mad Bomber
-Scanned: Mad Crash Racing
-Scanned: Mad Fighters 2 [AGA]
-Scanned: Madhouse Indian
-Scanned: Mag [AGA] DE
-Scanned: MAGames SP
-Scanned: Mag DE
-Scanned: Magic Ball
-Scanned: Magic Ball (Deutsch)
-Scanned: Magic Cards-NE
-Scanned: Magic Coins PL
-Scanned: Magic Forest 2
-Scanned: Magic Island [AGA]
-Scanned: Magic Island [AGA]cz
-Scanned: Magic Number [CD32] IT
-Scanned: Magic Premium [CD32] IT
-Scanned: Magic Roller
-Scanned: Magic Serpent
-Scanned: Magic Turn
-Scanned: Mah Jong [AGA]
-Scanned: Mah Jongg [AGA]
-Scanned: Malediction [AGA] FR
-Scanned: Mamba Move
-Scanned: Manager FR-code
-Scanned: Man Dont Worry
-Scanned: Manga Hot Numbers
-Scanned: Mangled Fenders-NV
-Scanned: Maniac Ball Magic
-Scanned: Manic Miner Mayhem-NV
-Scanned: Mani Pulite IT
-Scanned: Man Machine
-Scanned: Marathon
-Scanned: Marble
-Scanned: Marble Rescue
-Scanned: Marbles
-Scanned: Marble Slide
-Scanned: Marco Gregorio
-Scanned: Marietto
-Scanned: Mario Bros
-Scanned: Martial Spirit
-Scanned: Mash
-Scanned: Masquerade [AGA]-NE
-Scanned: Master Mage
-Scanned: Master Ninja
-Scanned: Master Town
-Scanned: Match
-Scanned: Match Pairs FR
-Scanned: Match Patch
-Scanned: Matrioska
-Scanned: Mattix
-Scanned: Mattonite
-Scanned: Max Knight
-Scanned: Max Knight Xmas
-Scanned: Maxwell Mouse
-Scanned: May & Yam 2
-Scanned: Mayhem
-Scanned: Mayhem 2
-Scanned: Mayhem Ensigna
-Scanned: Maze Hunter FR
-Scanned: Maze Madness
-Scanned: Maze Man
-Scanned: Maze Warz
-Scanned: Mazeza M
-Scanned: Mean 18
-Scanned: Medieval Warriors
-Scanned: Megablock 1
-Scanned: Megablock 2
-Scanned: Mega Boulder Dash [AGA]
-Scanned: Megafortress
-Scanned: Megaman 1 UA E
-Scanned: Mega Mixture 1
-Scanned: Mega Traveller 2
-Scanned: Mega Worm
-Scanned: Megaworm Marco
-Scanned: Memo
-Scanned: Memorex FR
-Scanned: Mensch Rat Mal Pro DE
-Scanned: Mercury Mission
-Scanned: Metal Kombat PL
-Scanned: Metal Motion
-Scanned: Metal Robot Combat
-Scanned: Meteors
-Scanned: Mewilo FR
-Scanned: Miami Mice-NV-NE
-Scanned: Miam Man
-Scanned: Miasto Smierci PL-NV
-Scanned: Micro League Baseball
-Scanned: Miecze Valdgira 2 PL
-Scanned: Mighty Mind
-Scanned: Mighty Nerd
-Scanned: Mike Dragon 1
-Scanned: Mike Dragon 2 Runaway Demo
-Scanned: Mikiko Haicuchi
-Scanned: Miki PL
-Scanned: Mile Stone FR
-Scanned: Mind Breaker
-Scanned: Mindchaos
-Scanned: Minden DE
-Scanned: Mine Runner
-Scanned: Mines
-Scanned: Minetrasher
-Scanned: Mini Legion
-Scanned: Mini Swat
-Scanned: Mink Gold PL
-Scanned: Minos
-Scanned: Mirrormagic
-Scanned: Mirror
-Scanned: Missile
-Scanned: Mission Andromeda
-Scanned: Mission Andromeda 2-NV
-Scanned: Mission Builder
-Scanned: Mission Con Bat
-Scanned: Mission Seuck
-Scanned: Mister Missis
-Scanned: Mixed Up Mother
-Scanned: Mixed Up Mother Enhanced
-Scanned: MKSoft Solitaire
-Scanned: Mobile Warfare
-Scanned: Monaco
-Scanned: Money Cascade Pro
-Scanned: Money Player Pro DE
-Scanned: Monopoli 2 DE
-Scanned: Monopoly Amiga
-Scanned: Monopoly Basic
-Scanned: Monopoly DX
-Scanned: Monopoli Extended [AGA] DE
-Scanned: Monopoly Leisure
-Scanned: Monopoly Mike
-Scanned: JU 52 Flight Sim
-Scanned: Karciarz PL
-Scanned: Kingdoms 2 England
-Scanned: Kradwaty
-Scanned: Last Lap
-Scanned: Limbo Demo
-Scanned: Lost Parrot Island
-Scanned: Mad Locs DE
-Scanned: Magiczna Kostka PL
-Scanned: Marbles [AGA]-Clavier
-Scanned: Mau Mau
-Scanned: Mega Bomber Demo
-Scanned: Metro Cross
-Scanned: Mind Force
-Scanned: Mission Underground-noend
-Scanned: Monopoly Musgrave
-Scanned: Mortal Kumquat
-Scanned: Mr Munk Fluid Land
-Scanned: Nautilus
-Scanned: No Mercy
-Scanned: OCB
-Scanned: Omar Sharif Bridge
-Scanned: Othello
-Scanned: Pac Man 87
-Scanned: Paranoid DE
-Scanned: Paytlici CZ
-Scanned: Phuk World
-Scanned: Pizza Connection Teng
-Scanned: Poker Solitaire Ethos-NV
-Scanned: Postman 3
-Scanned: Monopoly Statistic
-Scanned: Monopoly Supervision
-Scanned: Monster Maze
-Scanned: Monster Mind [AGA]
-Scanned: Monster PLAGA-NV
-Scanned: Monsters Terror [AGA]
-Scanned: Montana
-Scanned: Montezuma
-Scanned: Monty Wolf
-Scanned: Moonbase Lunar Colony
-Scanned: Moonbases [AGA]
-Scanned: Moonbases [AGA] FR
-Scanned: Moon Child [AGA]demo
-Scanned: Moon City DE
-Scanned: Moose Drive
-Scanned: Mortal Weapon PL
-Scanned: Mostares 2 DE
-Scanned: Moth
-Scanned: Mother Lode
-Scanned: Motor Duel
-Scanned: Motorola Invaders 2 [AGA]
-Scanned: Mouse Impossible D 7
-Scanned: Mouth Man
-Scanned: Movem
-Scanned: Mover
-Scanned: Moving
-Scanned: Movix
-Scanned: Mr Beanbag [AGA]
-Scanned: Mr Beanbag Seasons [AGA]
-Scanned: Mr Bean Ween [AGA]
-Scanned: Mr Brownstone
-Scanned: Mr Shark Racing Demo
-Scanned: Mr Tomato PL
-Scanned: Mr Wobbly
-Scanned: Mr Zen
-Scanned: Mucus
-Scanned: Muhtar-NV-NE
-Scanned: Multi Zocker
-Scanned: Mummy Tomb
-Scanned: Murders Venice FR
-Scanned: Muscarine
-Scanned: Mutant Penguin
-Scanned: Muzzy-NV-NE
-Scanned: Mysi Steska CZ
-Scanned: Mystery Fish
-Scanned: Nano Fly
-Scanned: Napalm [AGA]
-Scanned: NBKdemo-NV
-Scanned: Necessary Roughness
-Scanned: Nemac 4 ECSAGA
-Scanned: Nemesis
-Scanned: Nestor Card Game
-Scanned: Never Noid 2
-Scanned: Nibbler Super X
-Scanned: Nibbly
-Scanned: Nimble
-Scanned: Ninjaws Cafe FR
-Scanned: Nishiran FR
-Scanned: Nobunaga Ambition
-Scanned: Noddy Big Adv
-Scanned: Noddy Playtime
-Scanned: No Escape
-Scanned: No Man Land-noend
-Scanned: Nord Sud FR
-Scanned: Norris
-Scanned: Norse Gods
-Scanned: Nostalgium
-Scanned: Nothingness [AGA]demo FR
-Scanned: Nova-clavier
-Scanned: Nu-NV-NE
-Scanned: Nukes RUs DE
-Scanned: Numerix
-Scanned: Numpty Alien Invaders
-Scanned: Nut Meg
-Scanned: Nuxelia [AGA] Demo
-Scanned: NYHardcash Pro
-Scanned: Oblidox
-Scanned: Obliteratives
-Scanned: Obstickle
-Scanned: Odds Favourite
-Scanned: Odkrywka
-Scanned: Offence
-Scanned: Offenderdemo
-Scanned: Off You Go
-Scanned: Ohm
-Scanned: Oids
-Scanned: Okey
-Scanned: Olaf Longhair Demo
-Scanned: Oldtimer DE
-Scanned: Oldtimer [AGA] DE
-Scanned: Olempiad
-Scanned: Olimpiada 96 PL
-Scanned: Oliver Company FR
-Scanned: Olo Fight [AGA]
-Scanned: Olympus
-Scanned: Omni Play Basketball
-Scanned: One On One
-Scanned: On Escapee [AGA] FR
-Scanned: On The Run DE
-Scanned: Ooze Demo
-Scanned: Ooze Demo [AGA]
-Scanned: Open Fire
-Scanned: Operation Com Bat 1
-Scanned: Operation Lemming 12-NV
-Scanned: Orb
-Scanned: Orbit 2000
-Scanned: Orbital
-Scanned: Orbit Cyberstyle
-Scanned: Org 2
-Scanned: Ork Attack-NV
-Scanned: Osiris
-Scanned: Othello Basic
-Scanned: Othello Killer FR
-Scanned: Othello Master
-Scanned: Oubliette
-Scanned: Outerim Demo
-Scanned: Outfall
-Scanned: Out Time Demo
-Scanned: Outpost Final Battle
-Scanned: Outpost Solo Assault
-Scanned: Overdose
-Scanned: Overlander (Elite)
-Scanned: Oxyd 1 FR
-Scanned: Oxyd 2 FR
-Scanned: Pacboy-NV-NE
-Scanned: Paccer
-Scanned: Pac Man 2000
-Scanned: Pacman 89
-Scanned: Pac Man 90
-Scanned: Pacman 96 ECSAGA
-Scanned: Pac Man Power
-Scanned: Pacomix 1 CZ-novbrmove
-Scanned: Pacomix 2 [AGA]-novbrmove
-Scanned: Pac Sim
-Scanned: Pacwar
-Scanned: Paintit
-Scanned: Pairs
-Scanned: Pallukat
-Scanned: Pan Vlku CZ
-Scanned: Parachute Joust
-Scanned: Paradox
-Scanned: Paragon
-Scanned: Parallel Worlds
-Scanned: Parasite 1-NV
-Scanned: Parasite 2-NV
-Scanned: Parattack
-Scanned: Parcheese
-Scanned: Paris Dakar 90
-Scanned: Park Golf
-Scanned: Particle Man
-Scanned: Passagerduvent FR
-Scanned: Pati [AGA] Demo
-Scanned: Patience 1
-Scanned: Patience 2
-Scanned: Patience 20games-NV
-Scanned: Patience 3
-Scanned: Patrol Cobry PL
-Scanned: Paws Claws
-Scanned: Payback [AGA] FR
-Scanned: Pechowy Prezent PL
-Scanned: Peebee Seuck
-Scanned: Pengo 1
-Scanned: Pengo 2
-Scanned: Penguins [AGA]
-Scanned: Pepe Screwdriver PL
-Scanned: Pepsi Game DE
-Scanned: Perfect General
-Scanned: Perfect General FR
-Scanned: Perfect Generalww 2
-Scanned: Perfect Generalww 2 FR
-Scanned: Permonie CZ
-Scanned: Pesten
-Scanned: PGwin PL
-Scanned: Phantom
-Scanned: Phoenix Fighters
-Scanned: Pic (Italiano)
-Scanned: Pick Out
-Scanned: Picross Sebel DE
-Scanned: Picture Puzzle
-Scanned: Piece NSpace
-Scanned: Pillmania
-Scanned: Pinball Dreams Lost Table
-Scanned: Pioneer Plague
-Scanned: Pioneers
-Scanned: Pipeline 3
-Scanned: Pipeline Brown
-Scanned: Pipeliner
-Scanned: Pipemaster 2
-Scanned: Pirate Cove
-Scanned: Pitch NPutt 4 Woods
-Scanned: Pixie Kingdom
-Scanned: Planet Zybex
-Scanned: Plasma Bubble
-Scanned: Platman ECSAGA
-Scanned: Platou
-Scanned: Playball
-Scanned: Play Pac
-Scanned: Plebs
-Scanned: Plorrds
-Scanned: Plouf
-Scanned: Plubz 2 Moped
-Scanned: Plubz [AGA]
-Scanned: Plumpy [AGA]
-Scanned: Poco Man
-Scanned: Poing 7
-Scanned: Poing 2-NV
-Scanned: Pokermania
-Scanned: Poker Solitaire Unsane
-Scanned: Polataa 4 [AGA]
-Scanned: Polataa 4 [AGA]demo
-Scanned: Polataa 5 [AGA]
-Scanned: Pole Walki-NV
-Scanned: Pollymorf
-Scanned: Poltergeist PL
-Scanned: Pom Pom Gunner-NV-NE
-Scanned: Pong 4
-Scanned: Pong 91
-Scanned: Pongo
-Scanned: Pooyan
-Scanned: Popcorn-noend
-Scanned: Popeye Wrestle
-Scanned: Pop Up Sly
-Scanned: Porkapork-novbrmove-noend
-Scanned: Pot Fun
-Scanned: Pot Panic
-Scanned: Powder
-Scanned: Powerboat USA
-Scanned: Power Ginger
-Scanned: Power Labyrint
-Scanned: Power Logik
-Scanned: Poweroids
-Scanned: Powerpac
-Scanned: Power Roller
-Scanned: Powerstones
-Scanned: Power Tetris 14 Demo
-Scanned: Powertris
-Scanned: Power Walls
-Scanned: Power Walls DE
-Scanned: Prawo Krwi [AGA] PL-NC
-Scanned: Prawo Krwi PL-NC
-Scanned: Precision Approach
-Scanned: Preludium PL-code
-Scanned: Premier Division
-Scanned: Produzent [AGA] DE
-Scanned: Produzent DE
-Scanned: Pro Flight
-Scanned: Project 1
-Scanned: Project Battlefield PL
-Scanned: Project Buzzbar
-Scanned: Project Intercalaris PL
-Scanned: Projekt Lila Demo
-Scanned: 10x 10
-Scanned: 42 Issue 1
-Scanned: 42 Issue 1 [AGA]
-Scanned: 42 Issue 2
-Scanned: Almighty
-Scanned: Compass 1
-Scanned: Cracker Journal 01
-Scanned: Cracker Journal 02
-Scanned: Cracker Journal 03
-Scanned: Cracker Journal 04
-Scanned: Cracker Journal 05
-Scanned: Cracker Journal 06
-Scanned: Cracker Journal 07 & 08
-Scanned: Cracker Journal 09
-Scanned: Cracker Journal 10
-Scanned: Cracker Journal 11
-Scanned: Cracker Journal 12
-Scanned: Cracker Journal 13
-Scanned: Cracker Journal 14
-Scanned: Cracker Journal 15
-Scanned: Cracker Journal 16
-Scanned: Cracker Journal 17
-Scanned: Cracker Journal 18
-Scanned: Cracker Journal 19
-Scanned: Cracker Journal 20
-Scanned: Cracker Journal 21
-Scanned: Cracker Journal 22
-Scanned: DISC 1
-Scanned: DISC 2
-Scanned: DISC 3
-Scanned: DISC 4
-Scanned: DISC 5
-Scanned: DISC 6
-Scanned: DISC 7
-Scanned: DISC 8
-Scanned: Exit 1
-Scanned: Exit 2
-Scanned: Exit 3
-Scanned: Exit 4
-Scanned: Fourth Dimension 1
-Scanned: Fourth Dimension 2
-Scanned: Fourth Dimension 3
-Scanned: Grapevine 05
-Scanned: Grapevine 06
-Scanned: Grapevine 07
-Scanned: Grapevine 08
-Scanned: Grapevine 09
-Scanned: Grapevine 10
-Scanned: Grapevine 11
-Scanned: Grapevine 12
-Scanned: Grapevine 13
-Scanned: Grapevine 14
-Scanned: Grapevine 15
-Scanned: Grapevine 16
-Scanned: Grapevine 17
-Scanned: Grapevine 18
-Scanned: Grapevine 19
-Scanned: Grapevine 20
-Scanned: Grapevine 21
-Scanned: Ice 01
-Scanned: Ice 02
-Scanned: Ice 3
-Scanned: Ice 4
-Scanned: Ice 5
-Scanned: Ice 6
-Scanned: Ice 7
-Scanned: Ice 8
-Scanned: Mc Disk 1
-Scanned: Mc Disk 2
-Scanned: Mc Disk 3
-Scanned: PENIS 1
-Scanned: PENIS 2
-Scanned: PENIS 3
-Scanned: ROM 1
-Scanned: ROM 2
-Scanned: Scene 1
-Scanned: Scene 2 Abel
-Scanned: Scene 3 Decay
-Scanned: Scene 4 Prophecy
-Scanned: Scene Talk 1
-Scanned: Scene Talk 2
-Scanned: Scene Talk 3
-Scanned: Scene Talk 4
-Scanned: Scene Talk 5
-Scanned: Scene Talk 6
-Scanned: Scene Talk 7
-Scanned: Scene Talk 8
-Scanned: Stolen Data 07
-Scanned: Stolen Data 08
-Scanned: Upstream 01
-Scanned: Visual Intensity 1
-Scanned: World Charts 09
-Scanned: Zine 01
-Scanned: Zine 02
-Scanned: Zine 03
-Scanned: Zine 04
-Scanned: Zine 05
-Scanned: Zine 06
-Scanned: Zine 07
-Scanned: Zine 08
-Scanned: Zine 09
-Scanned: Zine 10
-Scanned: 
-Scanned: 
+Skipped: InheritEarthAGACD-WHDL.lha
+Skipped: Insectoids1-WHDL.lha
+Skipped: Insectoids2-WHDL.lha
+Skipped: Insidia-WHDL.lha
+Skipped: IntChampAthletics-WHDL.lha
+Skipped: IntChampWrestling-WHDL.lha
+Skipped: IntelligentStrategyGames1991FR-WHDL.lha
+Skipped: IntelligentStrategyGames1993FR-WHDL.lha
+Skipped: Intense-WHDL.lha
+Skipped: Intense1-WHDL.lha
+Skipped: Intense2-WHDL.lha
+Skipped: Interlock-WHDL.lha
+Skipped: InternalCombustion-WHDL.lha
+Skipped: InternationalGolf-WHDL.lha
+Skipped: InternationalOpenGolfAGA-WHDL.lha
+Skipped: Interstate1-WHDL.lha
+Skipped: Interstate2-WHDL.lha
+Skipped: InterstellarAGA-WHDL.lha
+Skipped: IntruderAlert-WHDL.lha
+Skipped: IntRugbyChallenge-WHDL.lha
+Skipped: InvaderCraft-WHDL.lha
+Skipped: InvasionForceDemo-WHDL.lha
+Skipped: IPuzziDemoIT-WHDL.lha
+Skipped: Iridon-WHDL.lha
+Skipped: Island-WHDL.lha
+Skipped: IstanbulEfsaneleri-WHDL.lha
+Skipped: ITSCricket94-WHDL.lha
+Skipped: ITSCricket95-WHDL.lha
+Skipped: ItsThePits-WHDL.lha
+Skipped: Jackman-WHDL.lha
+Skipped: JadeFR-WHDL.lha
+Skipped: JailBreak-WHDL.lha
+Skipped: JanosikPL-WHDL.lha
+Skipped: Jar-WHDL.lha
+Skipped: JasioPL-WHDL.lha
+Skipped: JayMiner-WHDL.lha
+Skipped: Jazznic-WHDL.lha
+Skipped: JBPoker-WHDL.lha
+Skipped: JeanneDArcFR-WHDL.lha
+Skipped: JellyOthelly-WHDL.lha
+Skipped: JellyQuest-WHDL.lha
+Skipped: Jeopard-WHDL.lha
+Skipped: Jetmen-WHDL.lha
+Skipped: JetPilot-WHDL.lha
+Skipped: JetSetBilly-WHDL.lha
+Skipped: JetsetBillyJetSet-WHDL.lha
+Skipped: JetSetWilly3-WHDL.lha
+Skipped: JetSetWilly97-WHDL.lha
+Skipped: JetStrikeFantasyDemo-WHDL.lha
+Skipped: JetStrikeJr-WHDL.lha
+Skipped: JimLostTimesDemoFR-WHDL.lha
+Skipped: JimsVideoPoker-WHDL.lha
+Skipped: JoanArc-WHDL.lha
+Skipped: JoeBloggs-WHDL.lha
+Skipped: JoeyWorm-WHDL.lha
+Skipped: JokerPoker-WHDL.lha
+Skipped: JokerPokerWolfDE-WHDL.lha
+Skipped: JonasFulstrand-WHDL.lha
+Skipped: JourneyCenterEarth-WHDL.lha
+Skipped: Joust-WHDL.lha
+Skipped: JPSpider-WHDL.lha
+Skipped: FuzzyLogic-WHDL.lha
+Skipped: GardenerDE-WHDL.lha
+Skipped: Glassback1-WHDL.lha
+Skipped: GloomJechtBattleECSAGA-WHDL.lha
+Skipped: Gonyshoot-WHDL.lha
+Skipped: Greenies-WHDL.lha
+Skipped: Hanger18-WHDL.lha
+Skipped: HeartlightPL-WHDL.lha
+Skipped: HighOctane-WHDL.lha
+Skipped: Hoversprint-WHDL.lha
+Skipped: ImagemsDE-WHDL.lha
+Skipped: InfernalMachineYU-WHDL.lha
+Skipped: InternationalKarate-WHDL.lha
+Skipped: JackNicklaus1-WHDL.lha
+Skipped: JumpEm-WHDL.lha
+Skipped: JumpingJack-WHDL.lha
+Skipped: JumpJet-WHDL.lha
+Skipped: JumpMachine-WHDL.lha
+Skipped: Jumpman-WHDL.lha
+Skipped: Jumpy-WHDL.lha
+Skipped: JungleJim-WHDL.lha
+Skipped: JurajskiSenPL-WHDL.lha
+Skipped: Justice-WHDL.lha
+Skipped: Kaizokuban-WHDL.lha
+Skipped: KAKAGADemo-WHDL.lha
+Skipped: KangFuAGA-WHDL.lha
+Skipped: Kangy-WHDL.lha
+Skipped: KarambolageBillardDE-WHDL.lha
+Skipped: Karateka-WHDL.lha
+Skipped: KarateMaster-WHDL.lha
+Skipped: KastleKumquat-WHDL.lha
+Skipped: KcMunchkin-WHDL.lha
+Skipped: KeithQuest-WHDL.lha
+Skipped: Kengi-WHDL.lha
+Skipped: KennyDalglishSoccerMatch-WHDL.lha
+Skipped: KeyMaster-WHDL.lha
+Skipped: KhalaanFR-WHDL.lha
+Skipped: KickitDayLaiban-WHDL.lha
+Skipped: KidPool-WHDL.lha
+Skipped: KillDaAliens-WHDL.lha
+Skipped: KillEmAll-WHDL.lha
+Skipped: KillerBees-WHDL.lha
+Skipped: KillingWarCZ-WHDL.lha
+Skipped: KillLittleDudes-WHDL.lha
+Skipped: KingBarbarians-WHDL.lha
+Skipped: Kingdoms3GermanyDE-WHDL.lha
+Skipped: KingdomsSteamDemo-WHDL.lha
+Skipped: KingsKornerSolitaire-WHDL.lha
+Skipped: KingsValley-WHDL.lha
+Skipped: KingZeitRitterDE-WHDL.lha
+Skipped: KiwiTale-WHDL.lha
+Skipped: KiwiTaleAGA-WHDL.lha
+Skipped: Klaktris-WHDL.lha
+Skipped: Klawz-WHDL.lha
+Skipped: KlondikeSolitaire-WHDL.lha
+Skipped: KnightLoreDemo-WHDL.lha
+Skipped: KnightQuest-WHDL.lha
+Skipped: Knights-WHDL.lha
+Skipped: Knockout1-WHDL.lha
+Skipped: KnockOutSpierling-WHDL.lha
+Skipped: KretaszPL-WHDL.lha
+Skipped: KrillianIncident-WHDL.lha
+Skipped: KungFuCharliesDemo-WHDL.lha
+Skipped: Laberinto-WHDL.lha
+Skipped: LaberintoS2N-WHDL.lha
+Skipped: LabiryntPL-WHDL.lha
+Skipped: Labyrinth-WHDL.lha
+Skipped: Labyrinth2-WHDL.lha
+Skipped: LactoseIntolerance-WHDL.lha
+Skipped: LanceALotJoust-WHDL.lha
+Skipped: LandGenesisCDAGA-WHDL.lha
+Skipped: Larrie-WHDL.lha
+Skipped: Lasermania2PL-WHDL.lha
+Skipped: LaserStrixxCD32-WHDL.lha
+Skipped: LastRefuge-WHDL.lha
+Skipped: LastSoldierPL-WHDL.lha
+Skipped: LastTetris-WHDL.lha
+Skipped: LasVegas-WHDL.lha
+Skipped: LazarusPL-WHDL.lha
+Skipped: LegendExplosing-WHDL.lha
+Skipped: LegendRomeFR-WHDL.lha
+Skipped: LegendTriten-WHDL.lha
+Skipped: LegionDoom-WHDL.lha
+Skipped: LegoBlast-WHDL.lha
+Skipped: LemmingsLevel-WHDL.lha
+Skipped: LemmingsMore2016-WHDL.lha
+Skipped: Lepani-WHDL.lha
+Skipped: LethalFormula-WHDL.lha
+Skipped: Liberator-WHDL.lha
+Skipped: LightCycles2-WHDL.lha
+Skipped: LitilDivilCD32-WHDL.lha
+Skipped: Litterbusters-WHDL.lha
+Skipped: Locomotion-WHDL.lha
+Skipped: LocomotionKingsoft-WHDL.lha
+Skipped: LodeLooter-WHDL.lha
+Skipped: LodeRunner-WHDL.lha
+Skipped: Logic-WHDL.lha
+Skipped: LogicalStonesAGA-WHDL.lha
+Skipped: Logik-WHDL.lha
+Skipped: Logistic-WHDL.lha
+Skipped: LordAlcandria2-WHDL.lha
+Skipped: LordAlcandria3-WHDL.lha
+Skipped: LordRingsFR-WHDL.lha
+Skipped: Lords-WHDL.lha
+Skipped: LordsChaosEscapeZol-WHDL.lha
+Skipped: LostPrince-WHDL.lha
+Skipped: Lotus96k-WHDL.lha
+Skipped: LoveDungeon-WHDL.lha
+Skipped: LowcaGlowPL-WHDL.lha
+Skipped: LowcaOstatniePL-WHDL.lha
+Skipped: LuckyFiveCD32IT-WHDL.lha
+Skipped: LumberJack-WHDL.lha
+Skipped: LumberJackReloadedXmas-WHDL.lha
+Skipped: Lupengo-WHDL.lha
+Skipped: Mace-WHDL.lha
+Skipped: MachoKillers-WHDL.lha
+Skipped: MadBomber-WHDL.lha
+Skipped: MadCrashRacing-WHDL.lha
+Skipped: MadFighters2AGA-WHDL.lha
+Skipped: MadhouseIndian-WHDL.lha
+Skipped: MagAGADE-WHDL.lha
+Skipped: MAGamesSP-WHDL.lha
+Skipped: MagDE-WHDL.lha
+Skipped: MagicBall-WHDL.lha
+Skipped: MagicBallDE-WHDL.lha
+Skipped: MagicCards-WHDL.lha
+Skipped: MagicCoinsPL-WHDL.lha
+Skipped: MagicForest2-WHDL.lha
+Skipped: MagicIslandAGA-WHDL.lha
+Skipped: MagicIslandAGACZ-WHDL.lha
+Skipped: MagicNumberCD32IT-WHDL.lha
+Skipped: MagicPremiumCD32IT-WHDL.lha
+Skipped: MagicRoller-WHDL.lha
+Skipped: MagicSerpent-WHDL.lha
+Skipped: MagicTurn-WHDL.lha
+Skipped: MahJongAGA-WHDL.lha
+Skipped: MahJonggAGA-WHDL.lha
+Skipped: MaledictionAGAFR-WHDL.lha
+Skipped: MambaMove-WHDL.lha
+Skipped: ManagerFR-code-WHDL.lha
+Skipped: ManDontWorry-WHDL.lha
+Skipped: MangaHotNumbers-WHDL.lha
+Skipped: MangledFenders-WHDL.lha
+Skipped: ManiacBall-WHDL.lha
+Skipped: ManicMinerMayhem-WHDLG.lha
+Skipped: ManiPuliteIT-WHDL.lha
+Skipped: ManMachine-WHDL.lha
+Skipped: Marathon-WHDL.lha
+Skipped: Marble-WHDL.lha
+Skipped: MarbleRescue-WHDL.lha
+Skipped: Marbles-WHDL.lha
+Skipped: MarbleSlide-WHDL.lha
+Skipped: MarcoGregorio-WHDL.lha
+Skipped: Marietto-WHDL.lha
+Skipped: MarioBros-WHDL.lha
+Skipped: MartialSpirit-WHDL.lha
+Skipped: Mash-WHDL.lha
+Skipped: MasqueradeAGA-WHDL.lha
+Skipped: MasterMage-WHDL.lha
+Skipped: MasterNinja-WHDL.lha
+Skipped: MasterTown-WHDL.lha
+Skipped: Match-WHDL.lha
+Skipped: MatchPairsFR-WHDL.lha
+Skipped: MatchPatch-WHDL.lha
+Skipped: Matrioska-WHDL.lha
+Skipped: Mattix-WHDL.lha
+Skipped: Mattonite-WHDL.lha
+Skipped: MaxKnight-WHDL.lha
+Skipped: MaxKnightXmas-WHDL.lha
+Skipped: MaxwellMouse-WHDL.lha
+Skipped: May&Yam2-WHDL.lha
+Skipped: Mayhem-WHDL.lha
+Skipped: Mayhem2-WHDL.lha
+Skipped: MayhemEnsigna-WHDL.lha
+Skipped: MazeHunterFR-WHDL.lha
+Skipped: MazeMadness-WHDL.lha
+Skipped: MazeMan-WHDL.lha
+Skipped: MazeWarz-WHDL.lha
+Skipped: MazezaM-WHDL.lha
+Skipped: Mean18-WHDL.lha
+Skipped: MedievalWarriors-WHDL.lha
+Skipped: Megablock1-WHDL.lha
+Skipped: Megablock2-WHDL.lha
+Skipped: MegaBoulderDashAGA-WHDL.lha
+Skipped: Megafortress-WHDL.lha
+Skipped: Megaman1-WHDL.lha
+Skipped: MegaMixture1-WHDL.lha
+Skipped: MegaTraveller2-WHDL.lha
+Skipped: Megaworm-WHDL.lha
+Skipped: MegaWormMarco-WHDL.lha
+Skipped: Memo-WHDL.lha
+Skipped: MemorexFR-WHDL.lha
+Skipped: MenschRatMalProDE-WHDL.lha
+Skipped: MercuryMission-WHDL.lha
+Skipped: MetalKOmbatPL-WHDL.lha
+Skipped: MetalMotion-WHDL.lha
+Skipped: MetalRobotCombat-WHDL.lha
+Skipped: Meteors-WHDL.lha
+Skipped: MewiloFR-WHDL.lha
+Skipped: MiamiMice-WHDL.lha
+Skipped: MiamMan-WHDL.lha
+Skipped: MiastoSmierciPL-WHDL.lha
+Skipped: MicroLeagueBaseball-WHDL.lha
+Skipped: MieczeValdgira2PL-WHDL.lha
+Skipped: MightyMind-WHDL.lha
+Skipped: MightyNerd-WHDL.lha
+Skipped: MikeDragon1-WHDL.lha
+Skipped: MikeDragon2Runawaydemo-WHDL.lha
+Skipped: MikikoHaicuchi-WHDL.lha
+Skipped: MikiPL-WHDL.lha
+Skipped: MilestoneFR-WHDL.lha
+Skipped: MindBreaker-WHDL.lha
+Skipped: Mindchaos-WHDL.lha
+Skipped: MindenDE-WHDL.lha
+Skipped: MineRunner-WHDL.lha
+Skipped: Mines-WHDL.lha
+Skipped: MineTrasher-WHDL.lha
+Skipped: MiniLegion-WHDL.lha
+Skipped: MiniSwat-WHDL.lha
+Skipped: MinkGoldPL-WHDL.lha
+Skipped: Minos-WHDL.lha
+Skipped: Mirromagic-WHDL.lha
+Skipped: Mirror-WHDL.lha
+Skipped: Missile-WHDL.lha
+Skipped: MissionAndromeda-WHDL.lha
+Skipped: MissionAndromeda2-WHDL.lha
+Skipped: MissionBuilder-WHDL.lha
+Skipped: MissionConBat-WHDL.lha
+Skipped: MissionSeuck-WHDL.lha
+Skipped: MisterMissis-WHDL.lha
+Skipped: MixedUpMother-WHDL.lha
+Skipped: MixedUpMotherEnhanced-WHDL.lha
+Skipped: MKSoftSolitaire-WHDL.lha
+Skipped: MobileWarfare-WHDL.lha
+Skipped: Monaco-WHDL.lha
+Skipped: MoneyCascadePro-WHDL.lha
+Skipped: MoneyPlayerProDE-WHDL.lha
+Skipped: Monopoli2DE-WHDL.lha
+Skipped: MonopolyAmiga-WHDL.lha
+Skipped: MonopolyBasic-WHDL.lha
+Skipped: MonopolyDX-WHDL.lha
+Skipped: MonopolyExtendedAGADE-WHDL.lha
+Skipped: MonopolyLeisure-WHDL.lha
+Skipped: MonopolyMike-WHDL.lha
+Skipped: JU52FlightSim-WHDL.lha
+Skipped: KarciarzPL-WHDL.lha
+Skipped: Kingdoms2England-WHDL.lha
+Skipped: Kradwaty-WHDL.lha
+Skipped: LastLap-WHDL.lha
+Skipped: LimboDemo-WHDL.lha
+Skipped: LostParrotIsland-WHDL.lha
+Skipped: MadLocsDE-WHDL.lha
+Skipped: MagicznaKostkaPL-WHDL.lha
+Skipped: MarblesAGA-WHDL.lha
+Skipped: MauMau-WHDL.lha
+Skipped: MegaBomberDemo-WHDL.lha
+Skipped: MetroCross-WHDL.lha
+Skipped: MindForce-WHDL.lha
+Skipped: MissionUnderground-WHDL.lha
+Skipped: MonopolyMusgrave-WHDL.lha
+Skipped: MortalKumquat-WHDL.lha
+Skipped: MrMunkFluidland-WHDL.lha
+Skipped: Nautilus-WHDL.lha
+Skipped: NoMercy-WHDL.lha
+Skipped: OCB-WHDL.lha
+Skipped: OmarSharifBridge-WHDL.lha
+Skipped: Othello-WHDL.lha
+Skipped: Pacman87-WHDL.lha
+Skipped: ParanoidDE-WHDL.lha
+Skipped: PaytliciCZ-WHDL.lha
+Skipped: PhukWorld-WHDL.lha
+Skipped: PizzaConnectionTeng-WHDL.lha
+Skipped: PokerSolitaireEthos-WHDL.lha
+Skipped: Postman3-WHDL.lha
+Skipped: MonopolyStatistic-WHDL.lha
+Skipped: MonopolySupervision-WHDL.lha
+Skipped: MonsterMaze-WHDL.lha
+Skipped: MonsterMindAGA-WHDL.lha
+Skipped: MonsterPLAGA-WHDL.lha
+Skipped: MonstersTerrorAGA-WHDL.lha
+Skipped: Montana-WHDL.lha
+Skipped: Montezuma-WHDL.lha
+Skipped: MontyWolf-WHDL.lha
+Skipped: MoonbaseLunarColony-WHDL.lha
+Skipped: MoonbasesAGA-WHDL.lha
+Skipped: MoonbasesAGAFR-WHDL.lha
+Skipped: MoonChildAGAdemo-WHDL.lha
+Skipped: MoonCityDE-WHDL.lha
+Skipped: MooseDrive-WHDL.lha
+Skipped: MortalWeaponPL-WHDL.lha
+Skipped: Mostares2DE-WHDL.lha
+Skipped: Moth-WHDL.lha
+Skipped: MotherLode-WHDL.lha
+Skipped: MotorDuel-WHDL.lha
+Skipped: MotorolaInvaders2AGA-WHDL.lha
+Skipped: MouseImpossible-WHDL.lha
+Skipped: MouthMan-WHDL.lha
+Skipped: Movem-WHDL.lha
+Skipped: Mover-WHDL.lha
+Skipped: Moving-WHDL.lha
+Skipped: Movix-WHDL.lha
+Skipped: MrBeanbagAGA-WHDL.lha
+Skipped: MrBeanbagSeasonsAGA-WHDL.lha
+Skipped: MrBeanWeenAGA-WHDL.lha
+Skipped: MrBrownstone-WHDL.lha
+Skipped: MrSharkRacingDemo-WHDL.lha
+Skipped: MrTomatoPL-WHDL.lha
+Skipped: MrWobbly-WHDL.lha
+Skipped: MrZen-WHDL.lha
+Skipped: Mucus-WHDL.lha
+Skipped: Muhtar-WHDL.lha
+Skipped: MultiZocker-WHDL.lha
+Skipped: Mummy-WHDL.lha
+Skipped: MurdersVeniceFR-WHDL.lha
+Skipped: Muscarine-WHDL.lha
+Skipped: MutantPenguin-WHDL.lha
+Skipped: Muzzy-WHDL.lha
+Skipped: MysiSteskaCZ-WHDL.lha
+Skipped: MysteryFish-WHDL.lha
+Skipped: NanoFly-WHDL.lha
+Skipped: NapalmAGA-WHDL.lha
+Skipped: NBKdemo-WHDL.lha
+Skipped: NecessaryRoughness-WHDL.lha
+Skipped: Nemac4ECSAGA-WHDL.lha
+Skipped: Nemesis-WHDL.lha
+Skipped: NestorCardGame-WHDL.lha
+Skipped: Nevernoid2-WHDL.lha
+Skipped: NibblerSuperX-WHDL.lha
+Skipped: Nibbly-WHDL.lha
+Skipped: Nimble-WHDL.lha
+Skipped: NinjawsCafeFR-WHDL.lha
+Skipped: NishiranFR-WHDL.lha
+Skipped: NobunagaAmbition-WHDL.lha
+Skipped: NoddyBigAdv-WHDL.lha
+Skipped: NoddyPlaytime-WHDL.lha
+Skipped: NoEscape-WHDL.lha
+Skipped: NoMansLand-WHDL.lha
+Skipped: NordSudFR-WHDL.lha
+Skipped: Norris-WHDL.lha
+Skipped: NorseGods-WHDL.lha
+Skipped: Nostalgium-WHDL.lha
+Skipped: NothingnessAGAdemoFR-M2-WHDL.lha
+Skipped: Nova-WHDL.lha
+Skipped: Nu-WHDL.lha
+Skipped: NukesRUsDE-WHDL.lha
+Skipped: Numerix-WHDL.lha
+Skipped: NumptyAlienInvaders-WHDL.lha
+Skipped: NutMeg-WHDL.lha
+Skipped: NuxeliaAGAdemo-WHDL.lha
+Skipped: NYHardcashPro-WHDL.lha
+Skipped: Oblidox-WHDL.lha
+Skipped: Obliteratives-WHDL.lha
+Skipped: Obstickle-WHDL.lha
+Skipped: OddsFavourite-WHDL.lha
+Skipped: Odkrywka-WHDL.lha
+Skipped: Offence-WHDL.lha
+Skipped: OffendersDemo-WHDL.lha
+Skipped: OffYouGo-WHDL.lha
+Skipped: Ohm-WHDL.lha
+Skipped: Oids-WHDL.lha
+Skipped: Okey-WHDL.lha
+Skipped: OlafLonghairDemo-WHDL.lha
+Skipped: OldtimerDE-WHDL.lha
+Skipped: OldtomerAGADE-WHDL.lha
+Skipped: Olempiad-WHDL.lha
+Skipped: Olimpadia96PL-WHDL.lha
+Skipped: OliverCompanyFR-WHDL.lha
+Skipped: OlofightAGA-WHDL.lha
+Skipped: Olympus-WHDL.lha
+Skipped: OmniPlayBasketball-WHDL.lha
+Skipped: OneOnOneScorpius-WHDL.lha
+Skipped: OnEscapeeAGAFR-M21-WHDL.lha
+Skipped: OnTheRunDE-WHDL.lha
+Skipped: OozeDemo-WHDL.lha
+Skipped: OozeDemoAGA-WHDL.lha
+Skipped: OpenFire-WHDL.lha
+Skipped: OperationCombat1-WHDL.lha
+Skipped: OperationLemming-WHDL.lha
+Skipped: Orb-WHDL.lha
+Skipped: Orbit2000-WHDL.lha
+Skipped: Orbital-WHDL.lha
+Skipped: OrbitCyberstyle-WHDL.lha
+Skipped: Org2-WHDL.lha
+Skipped: OrkAttack-WHDL.lha
+Skipped: Osiris-WHDL.lha
+Skipped: OthelloBasic-WHDL.lha
+Skipped: OthelloKillerFR-WHDL.lha
+Skipped: OthelloMaster-WHDL.lha
+Skipped: Oubliette-WHDL.lha
+Skipped: OuterimDemo-WHDL.lha
+Skipped: Outfall-WHDL.lha
+Skipped: OutOfTimeDemo-WHDL.lha
+Skipped: OutpostFinalBattle-WHDL.lha
+Skipped: OutpostSoloAssault-WHDL.lha
+Skipped: Overdose-WHDL.lha
+Skipped: Overlander-WHDL.lha
+Skipped: Oxyd1FR-M3-WHDL.lha
+Skipped: Oxyd2FR-M3-WHDL.lha
+Skipped: Pacboy-WHDL.lha
+Skipped: Paccer-WHDL.lha
+Skipped: Pacman2000-WHDL.lha
+Skipped: Pacman89-WHDL.lha
+Skipped: Pacman90-WHDL.lha
+Skipped: PacMan96ECSAGA-WHDL.lha
+Skipped: PacmanPower-WHDL.lha
+Skipped: Pacomix1CZ-WHDL.lha
+Skipped: Pacomix2AGA-WHDL.lha
+Skipped: Pacsim-WHDL.lha
+Skipped: Pacwar-WHDL.lha
+Skipped: Paintit-WHDL.lha
+Skipped: Pairs-WHDL.lha
+Skipped: Pallukat-WHDL.lha
+Skipped: PanVlkuCZ-WHDL.lha
+Skipped: ParachuteJoust-WHDL.lha
+Skipped: Paradox-WHDL.lha
+Skipped: Paragon-WHDL.lha
+Skipped: ParallelWorlds-WHDL.lha
+Skipped: Parasite1-WHDL.lha
+Skipped: Parasite2-WHDL.lha
+Skipped: Parattack-WHDL.lha
+Skipped: Parcheese-WHDL.lha
+Skipped: ParisDakar-WHDL.lha
+Skipped: ParkGolf-WHDL.lha
+Skipped: ParticleMan-WHDL.lha
+Skipped: PassagerDuVentFR-WHDL.lha
+Skipped: PatiAGADemo-WHDL.lha
+Skipped: Patience1-WHDL.lha
+Skipped: Patience2-WHDL.lha
+Skipped: Patience20Games-WHDL.lha
+Skipped: Patience3-WHDL.lha
+Skipped: PatrolCobryPL-test.lha
+Skipped: PawsClaws-WHDL.lha
+Skipped: PaybackAGAFR-M13-WHDL.lha
+Skipped: PechowyPrezentPL-WHDL.lha
+Skipped: PeebeeSeuck-WHDL.lha
+Skipped: Pengo1-WHDL.lha
+Skipped: Pengo2-WHDL.lha
+Skipped: PenguinsAGA-WHDL.lha
+Skipped: PepeScrewdriverPL-WHDL.lha
+Skipped: PepsiGameDE-WHDL.lha
+Skipped: PerfectGeneral-WHDL.lha
+Skipped: PerfectGeneralFR-WHDL.lha
+Skipped: PerfectGeneralww2-WHDL.lha
+Skipped: PerfectGeneralww2FR-WHDL.lha
+Skipped: PermonieCZ-WHDL.lha
+Skipped: Pesten-WHDL.lha
+Skipped: PGwinPL-WHDL.lha
+Skipped: Phantom-WHDL.lha
+Skipped: PhoenixFighters-WHDL.lha
+Skipped: PicIt-WHDL.lha
+Skipped: PickOut-WHDL.lha
+Skipped: PicrossSebelDE-WHDL.lha
+Skipped: PicturePuzzle-WHDL.lha
+Skipped: PieceNSpace-WHDL.lha
+Skipped: Pillmania-WHDL.lha
+Skipped: PinballDreamsLostTable-WHDL.lha
+Skipped: PioneerPlague-WHDL.lha
+Skipped: Pioneers-WHDL.lha
+Skipped: Pipeline3-WHDL.lha
+Skipped: PipelineBrown-WHDL.lha
+Skipped: Pipeliner-WHDL.lha
+Skipped: Pipemaster2-WHDL.lha
+Skipped: PirateCove-WHDL.lha
+Skipped: PitchNPutt-WHDL.lha
+Skipped: PixieKingdom-WHDL.lha
+Skipped: PlanetZybex-WHDL.lha
+Skipped: PlasmaBubble-WHDL.lha
+Skipped: PlatmanECSAGA-WHDL.lha
+Skipped: Platou-WHDL.lha
+Skipped: Playball-WHDL.lha
+Skipped: Playpac-WHDL.lha
+Skipped: Plebs-WHDL.lha
+Skipped: Plorrds-WHDL.lha
+Skipped: Plouf-WHDL.lha
+Skipped: Plubz2Moped-WHDL.lha
+Skipped: PlubzAGA-WHDL.lha
+Skipped: PlumpyAGA-WHDL.lha
+Skipped: PocoMan-WHDL.lha
+Skipped: Poing-WHDL.lha
+Skipped: Poing2-WHDL.lha
+Skipped: PokerMania-WHDL.lha
+Skipped: PokerSolitaireUnsane-WHDL.lha
+Skipped: Polataa4AGA-WHDL.lha
+Skipped: Polataa4AGAdemo-WHDL.lha
+Skipped: Polataa5AGA-WHDL.lha
+Skipped: PoleWalki-WHDL.lha
+Skipped: Pollymorf-WHDL.lha
+Skipped: PoltergeistPL-WHDL.lha
+Skipped: PomPomGunner-WHDL.lha
+Skipped: Pong4-WHDL.lha
+Skipped: Pong91-WHDL.lha
+Skipped: Pongo-WHDL.lha
+Skipped: Pooyan-WHDL.lha
+Skipped: Popcorn-WHDL.lha
+Skipped: PopeyeWrestle-WHDL.lha
+Skipped: PopUpSly-WHDL.lha
+Skipped: PorkAPork-WHDL.lha
+Skipped: PotFun-WHDL.lha
+Skipped: PotPanic-WHDL.lha
+Skipped: Powder-WHDL.lha
+Skipped: PowerboatUSA-WHDL.lha
+Skipped: PowerGinger-WHDL.lha
+Skipped: PowerLabyrint-WHDL.lha
+Skipped: PowerLogik-WHDL.lha
+Skipped: Poweroids-WHDL.lha
+Skipped: PowerPac-WHDL.lha
+Skipped: PowerRoller-WHDL.lha
+Skipped: Powerstones-WHDL.lha
+Skipped: PowerTetris-WHDL.lha
+Skipped: Powertris-WHDL.lha
+Skipped: PowerWalls-WHDL.lha
+Skipped: PowerWallsDE-WHDL.lha
+Skipped: PrawoKrwiAGAPL-WHDL.lha
+Skipped: PrawoKrwiPL-WHDL.lha
+Skipped: PrecisionApproach-WHDL.lha
+Skipped: PreludiumPL-code-WHDL.lha
+Skipped: PremierDivision-WHDL.lha
+Skipped: ProduzentAGADE-WHDL.lha
+Skipped: ProduzentDE-WHDL.lha
+Skipped: Proflight-WHDL.lha
+Skipped: Project1-WHDL.lha
+Skipped: ProjectBattlefieldPL-WHDL.lha
+Skipped: ProjectBuzzbar-WHDL.lha
+Skipped: ProjectIntercalarisPL-WHDL.lha
+Skipped: ProjektLilaDemo-WHDL.lha
+Skipped: 10x10-WHDL.lha
+Skipped: 42Issue1_v1.0_Talent.lha
+Skipped: 42Issue1_v1.0_Talent_AGA.lha
+Skipped: 42Issue2_v1.0_Talent.lha
+Skipped: Almight_v1.0_Manitou.lha
+Skipped: Compass1_v1.0_Alcatraz.lha
+Skipped: CrackerJournal01_v1.1_AlphaFlight.lha
+Skipped: CrackerJournal02_v1.0_AlphaFlight.lha
+Skipped: CrackerJournal03_v1.0_AlphaFlight.lha
+Skipped: CrackerJournal04_v1.01_AlphaFlight.lha
+Skipped: CrackerJournal05_v1.0_AlphaFlight.lha
+Skipped: CrackerJournal06_v1.0_AlphaFlight.lha
+Skipped: CrackerJournal07&08_v1.0_AlphaFlight.lha
+Skipped: CrackerJournal09_v1.0_AlphaFlight.lha
+Skipped: CrackerJournal10_v1.0_AlphaFlight.lha
+Skipped: CrackerJournal11_v1.0_AlphaFlight.lha
+Skipped: CrackerJournal12_v1.01_AlphaFlight.lha
+Skipped: CrackerJournal13_v1.0_AlphaFlight.lha
+Skipped: CrackerJournal14_v1.0_AlphaFlight.lha
+Skipped: CrackerJournal15_v1.0_AlphaFlight.lha
+Skipped: CrackerJournal16_v1.0_AlphaFlight.lha
+Skipped: CrackerJournal17_v1.0_AlphaFlight.lha
+Skipped: CrackerJournal18_v1.0_AlphaFlight.lha
+Skipped: CrackerJournal19_v1.0_AlphaFlight.lha
+Skipped: CrackerJournal20_v1.0_AlphaFlight.lha
+Skipped: CrackerJournal21_v1.0_AlphaFlight.lha
+Skipped: CrackerJournal22_v1.0_AlphaFlight.lha
+Skipped: DISC1_v1.0_Level4.lha
+Skipped: DISC2_v1.0_Level4.lha
+Skipped: DISC3_v1.0_Level4.lha
+Skipped: DISC4_v1.0_Level4.lha
+Skipped: DISC5_v1.0_Level4.lha
+Skipped: DISC6_v1.0_Level4.lha
+Skipped: DISC7_v1.0_Level4.lha
+Skipped: DISC8_v1.0_Level4.lha
+Skipped: Exit1_v1.0_Vectors.lha
+Skipped: Exit2_v1.0_Vectors.lha
+Skipped: Exit3_v1.0_Vectors.lha
+Skipped: Exit4_v1.0_Vectors.lha
+Skipped: FourthDimension1_v1.0_Cryptoburners.lha
+Skipped: FourthDimension2_v1.0_Cryptoburners.lha
+Skipped: FourthDimension3_v1.0_Cryptoburners.lha
+Skipped: Grapevine05_v1.0_LSD.lha
+Skipped: Grapevine06_v1.0_LSD.lha
+Skipped: Grapevine07_v1.0_LSD.lha
+Skipped: Grapevine08_v1.0_LSD.lha
+Skipped: Grapevine09_v1.0_LSD.lha
+Skipped: Grapevine10_v1.0_LSD.lha
+Skipped: Grapevine11_v1.0_LSD.lha
+Skipped: Grapevine12_v1.0_LSD.lha
+Skipped: Grapevine13_v1.0_LSD.lha
+Skipped: Grapevine14_v1.01_LSD.lha
+Skipped: Grapevine15_v1.01_LSD.lha
+Skipped: Grapevine16_v1.02_LSD.lha
+Skipped: Grapevine17_v1.0_LSD.lha
+Skipped: Grapevine18_v1.0_LSD.lha
+Skipped: Grapevine19_v1.0_LSD.lha
+Skipped: Grapevine20_v1.0_LSD.lha
+Skipped: Grapevine21_v1.0_LSD.lha
+Skipped: Ice1_v1.0_Cytax.lha
+Skipped: Ice2_v1.02_Cytax.lha
+Skipped: Ice3_v1.0_Cytax.lha
+Skipped: Ice4_v1.0_Cytax.lha
+Skipped: Ice5_v1.0_Cytax.lha
+Skipped: Ice6_v1.0_Cytax.lha
+Skipped: Ice7_v1.0_Cytax.lha
+Skipped: Ice8_v1.0_Cytax.lha
+Skipped: McDisk1_v1.0_Coma.lha
+Skipped: McDisk2_v1.0_Coma.lha
+Skipped: McDisk3_v1.0_Coma.lha
+Skipped: PENIS1_v1.0_DMOC.lha
+Skipped: PENIS2_v1.0_DMOC.lha
+Skipped: PENIS3_v1.0_DMOC.lha
+Skipped: ROM1_v1.0_Essence.lha
+Skipped: ROM2_v1.0_Essence.lha
+Skipped: Scene1_v1.0_Mystix.lha
+Skipped: Scene2_v1.0_Abel.lha
+Skipped: Scene3_v1.0_Decay.lha
+Skipped: Scene4_v1.0_Prophecy.lha
+Skipped: SceneTalk1_v1.01_Submission.lha
+Skipped: SceneTalk2_v1.01_Submission.lha
+Skipped: SceneTalk3_v1.01_Submission.lha
+Skipped: SceneTalk4_v1.0_Submission.lha
+Skipped: SceneTalk5_v1.0_Mystic.lha
+Skipped: SceneTalk6_v1.0_Mystic.lha
+Skipped: SceneTalk7_v1.0_Mystic.lha
+Skipped: SceneTalk8_v1.0_Mystic.lha
+Skipped: StolenData07_v1.0_Anarchy&FlashProductions.lha
+Skipped: StolenData08_v1.0_Anarchy.lha
+Skipped: Upstream01_v1.0_Frogs.lha
+Skipped: VisualIntensity1_v1.0_Dual4Mat.lha
+Skipped: WorldCharts09_v1.0_Silents.lha
+Skipped: Zine01_v1.0_Brainstorm.lha
+Skipped: Zine02_v1.0_Brainstorm.lha
+Skipped: Zine03_v1.0_Brainstorm.lha
+Skipped: Zine04_v1.0_Brainstorm.lha
+Skipped: Zine05_v1.0a_Brainstorm.lha
+Skipped: Zine06_v1.0a_Brainstorm.lha
+Skipped: Zine07_v1.0a_Brainstorm.lha
+Skipped: Zine08_v1.0_Brainstorm.lha
+Skipped: Zine09_v1.0_Brainstorm.lha
+Skipped: Zine10_v1.0_Brainstorm.lha
+Skipped: BarbarianPlus_v0.lha
+Skipped: GreySlayer_v0.lha

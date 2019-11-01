@@ -1,4 +1,4 @@
-Scanned file log: 2019-10-30 at 03:00:07
+Scanned file log: 2019-11-01 at 03:00:06
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
 Skipped: 24HourEFix_v1.0_Quartz.lha
@@ -3557,6 +3557,8 @@ Skipped: Rushhour_v1.0.lha
 Skipped: RVFHonda_v1.2_1081.lha
 Skipped: Rygar_v1.0_AGA.lha
 Skipped: Rygar_v1.2_AGA.lha
+Scanned: Rygar [AGA]
+Scanned: Rygar [AGA] (Chip)
 Skipped: RaceDrivin_v0601.1.lha
 Skipped: RaceDrivin_v0601.1_NoIntro.lha
 Skipped: RackneysIsland_v1.0.lha
@@ -3795,6 +3797,7 @@ Skipped: ShadowOfTheBeast3_v1.6_NTSC_1176.lha
 Skipped: ShadowOfTheBeastDemo_v1.0.lha
 Skipped: ShadowOfTheBeast_v2.2_1357.lha
 Skipped: ShadowOfTheBeast_v2.3_1357.lha
+Scanned: Shadow Of The Beast
 Skipped: Shadoworlds_v1.0_0030.lha
 Skipped: Shadoworlds_v1.1_0030.lha
 Skipped: ShadowSorcerer_v1.0_DeFrIt.lha
@@ -4138,10 +4141,10 @@ Skipped: Swap_v1.0.lha
 Skipped: Swap_v1.0_Fr_2146.lha
 Skipped: SoccerKid_v2.0_AGA_1150.lha
 Skipped: SoccerKid_v2.0_CD32.lha
-Scanned: Soccer Kid
-Scanned: Soccer Kid 1 Mb (Chip)
-Scanned: Soccer Kid [AGA]
-Scanned: Soccer Kid [CD32]
+Skipped: SoccerKid_v2.1_1129.lha
+Skipped: SoccerKid_v2.1_1MbChip_1129.lha
+Skipped: SoccerKid_v2.1_AGA_1150.lha
+Skipped: SoccerKid_v2.1_CD32.lha
 Skipped: SoccerPinball_v1.2_2522.lha
 Skipped: SoccerSuperstars_v1.0.lha
 Skipped: SoccerSuperstars_v1.0_AGA.lha
@@ -4280,8 +4283,8 @@ Skipped: TimeSoldier_v1.3.lha
 Skipped: Time_v1.1.lha
 Skipped: Time_v1.1_De_1697.lha
 Skipped: Time_v1.1_Fr_2644.lha
-Scanned: Tintin On The Moon (Files)
-Scanned: Tintin On The Moon (Image)
+Skipped: TintinOnTheMoon_v1.3a_Files_1778.lha
+Skipped: TintinOnTheMoon_v1.3a_Image_1778.lha
 Skipped: TintinOnTheMoon_v1.3_Files_1778.lha
 Skipped: TintinOnTheMoon_v1.3_Image_1778.lha
 Skipped: TinToyAdventure_v1.0_AGA.lha

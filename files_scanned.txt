@@ -1,4 +1,4 @@
-Scanned file log: 2019-11-06 at 03:00:05
+Scanned file log: 2019-11-08 at 03:00:05
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
 Skipped: 24HourEFix_v1.0_Quartz.lha
@@ -941,8 +941,8 @@ Skipped: Agony_v1.3_0960.lha
 Skipped: Agony_v1.3_NTSC_2701.lha
 Skipped: Agony_v2.0_0960.lha
 Skipped: Agony_v2.0_NTSC_2701.lha
-Scanned: Agony
-Scanned: Agony (NTSC)
+Skipped: Agony_v2.1_0960.lha
+Skipped: Agony_v2.1_NTSC_2701.lha
 Skipped: AigleDOr_v1.1_Fr_2600.lha
 Skipped: Airball_v1.1.lha
 Skipped: AirborneRanger_v1.1_0100.lha
@@ -1311,7 +1311,7 @@ Skipped: BonanzaBros_v1.0_0859.lha
 Skipped: Booly_v1.0_0438.lha
 Skipped: Boot_v1.0_NTSC_1996.lha
 Skipped: Borobodur_v1.1_1014.lha
-Scanned: Borobodur - The Planet of Doom
+Skipped: Borobodur_v1.2_1014.lha
 Skipped: BorrowedTime_v1.0.lha
 Skipped: BostonBombClub_v1.3_1502.lha
 Skipped: BostonBombClub_v1.3_Fast_1502.lha
@@ -2253,7 +2253,9 @@ Skipped: Ganymed_v1.1.lha
 Skipped: GarfieldAWintersTail_v1.0.lha
 Skipped: GarfieldBigFatHairyDeal_v1.0_0933.lha
 Skipped: Garrison2_v1.0_0610.lha
+Scanned: Garrison II - The Legend Continues
 Skipped: Garrison_v1.0_0800.lha
+Scanned: Garrison
 Skipped: GaryLinekersHotShot_v1.0_0883.lha
 Skipped: GatewayToTheSavageFrontier_v1.0_2160.lha
 Skipped: Gauntlet2_v1.2.lha
@@ -2586,6 +2588,10 @@ Skipped: JaguarXJ220_v1.5_Files_1200.lha
 Skipped: JaguarXJ220_v1.5_Image_1200.lha
 Skipped: JaguarXJ220_v1.6_Files_1200.lha
 Skipped: JaguarXJ220_v1.6_Image_1200.lha
+Scanned: Jaguar XJ 220 (Files)
+Scanned: Jaguar XJ 220 (Files) (Chip)
+Scanned: Jaguar XJ220 (Image)
+Scanned: Jaguar XJ 220 (Image) (Chip)
 Skipped: JahangirKhansWorldChampionshipSquash_v1.0_0129.lha
 Skipped: JamesBondTheStealthAffair_v2.0_2016.lha
 Skipped: JamesBondTheStealthAffair_v2.0_NTSC_2016.lha
@@ -2594,7 +2600,17 @@ Skipped: JamesPond2_v1.1_AGA_1354.lha
 Skipped: JamesPond2_v1.3_1352.lha
 Skipped: JamesPond2_v2.0_AGA_1354.lha
 Skipped: JamesPond3_V1.02_CD32.lha
+Skipped: JungleStrike_v1.1_1MB_0188.lha
+Skipped: JungleStrike_v1.1_2MB_2581.lha
+Skipped: JungleStrike_v1.2_CD32.lha
+Skipped: JuniorTypist_v1.0.lha
+Skipped: JupiterProbe_v1.0.1.lha
+Skipped: JupitersMasterdrive_v1.1_1280.lha
+Skipped: JurassicPark_v1.5_AGA_0836.lha
+Skipped: JurassicPark_v1.6_0048.lha
 Skipped: JamesPond3_v1.0_AGA_0688.lha
+Skipped: Jet_v1.0.lha
+Skipped: JumpNRoll_v1.0.lha
 Skipped: JamesPond_v2.1.lha
 Skipped: Jaws_v1.0_0512.lha
 Skipped: Jet&HawaiianSceneryDisk_v1.0.lha
@@ -2608,16 +2624,6 @@ Skipped: JetSetWilly2_v0501.1_1115.lha
 Skipped: JetsonsTheComputerGame_v1.0_2270.lha
 Skipped: Jetstrike_v1.1.lha
 Skipped: Jetstrike_v1.1_AGA.lha
-Skipped: JungleStrike_v1.1_1MB_0188.lha
-Skipped: JungleStrike_v1.1_2MB_2581.lha
-Skipped: JungleStrike_v1.2_CD32.lha
-Skipped: JuniorTypist_v1.0.lha
-Skipped: JupiterProbe_v1.0.1.lha
-Skipped: JupitersMasterdrive_v1.1_1280.lha
-Skipped: JurassicPark_v1.5_AGA_0836.lha
-Skipped: JurassicPark_v1.6_0048.lha
-Skipped: Jet_v1.0.lha
-Skipped: JumpNRoll_v1.0.lha
 Skipped: KnightOrc_v1.0_0215.lha
 Skipped: KnightsOfTheCrystallion_v1.51_1160.lha
 Skipped: KnightsOfTheCrystallion_v1.51_De_1426.lha
@@ -3225,7 +3231,7 @@ Skipped: Obsession_v1.1_2199.lha
 Skipped: Odyssey_v2.0_0195.lha
 Skipped: Odyssey_v2.1_2854.lha
 Skipped: OffShoreWarrior_v1.0.lha
-Scanned: Off Shore Warrior
+Skipped: OffShoreWarrior_v1.1_2968.lha
 Skipped: Ogre_v1.0_1386.lha
 Skipped: Ogre_v1.0_NTSC_1386.lha
 Skipped: Og_v1.0_AGA.lha
@@ -4587,8 +4593,8 @@ Skipped: WingCommander_v1.0_CD32.lha
 Skipped: WingCommander_v1.0_De_0824.lha
 Skipped: WingsOfDeath_v1.02_3022.lha
 Skipped: WingsOfFury_v1.0.lha
-Scanned: Wings Of Fury
-Scanned: Wings Of Fury (Chip)
+Skipped: WingsOfFury_v1.1_0599.lha
+Skipped: WingsOfFury_v1.1_Chip_0599.lha
 Skipped: Wings_v1.0_0410.lha
 Skipped: WinnieThePooh_v1.0.lha
 Skipped: WinningPost_v1.0.lha

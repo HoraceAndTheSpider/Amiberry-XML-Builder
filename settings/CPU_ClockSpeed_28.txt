@@ -21,3 +21,4 @@ Ishar2AGA
 Ishar3AGA
 UFOEnemyUnknownAGA
 UFOEnemyUnknownCD32
+Nicky2

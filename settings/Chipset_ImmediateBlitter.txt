@@ -1,4 +1,6 @@
 AstroMarineCorps
+CrazyCars2
+CaptainPlanet&Planeteers
 DeconstructionAGA
 Frontier
 FrontierAGA
@@ -26,3 +28,4 @@ SuperStardustAGA
 ThunderStrike
 Unreal
 WheelsOnFire
+XP8AGA

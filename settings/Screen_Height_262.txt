@@ -10,6 +10,7 @@ AlienFishFinger
 Apidya
 Assassin
 AssassinSpecialEdition
+BodyBlowsAGA
 Bubble&Squeak
 Bubble&SqueakAGA
 CapitalPunishmentAGA
@@ -18,6 +19,7 @@ Cedric
 CedricCD32Fast
 ChaosEngine2
 ChaosEngine2AGA
+Deliverance
 DeluxePacman
 DeluxePacmanAGA
 Elfmania

@@ -254,6 +254,7 @@ Lemmings2
 Lemmings2Disk
 Lemmings21MB
 LemmingsFiles
+LemmingsImage
 Links
 Locomotion
 Logical

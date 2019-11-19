@@ -7,6 +7,7 @@ ATrain&ConstructionSet
 Aaargh
 AdvantageTennis
 AdventuresOfRobinHood
+AkiraCD32
 Amberstar
 AmberstarFast
 AnotherWorld
@@ -315,6 +316,7 @@ Neuromancer
 Neuronics
 NewZealandStory
 NickyBoom
+Nicky2
 NightHawkF117A
 NipponSafesInc
 NoSecondPrize

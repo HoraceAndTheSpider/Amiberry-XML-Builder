@@ -1,4 +1,4 @@
-Scanned file log: 2019-11-15 at 03:00:06
+Scanned file log: 2019-11-20 at 03:00:07
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
 Skipped: 24HourEFix_v1.0_Quartz.lha
@@ -1293,8 +1293,8 @@ Skipped: BluesBrothers_v1.4_3081.lha
 Skipped: BluesBrothers_v1.6_3081.lha
 Skipped: BMXSimulator_v1.0.lha
 Skipped: Bobo_v1.0b_Fr_1951.lha
-Scanned: Bobo
-Scanned: Bobo (Francais)
+Skipped: Bobo_v1.1.lha
+Skipped: Bobo_v1.1_Fr_1951.lha
 Skipped: BobsBadDay_v1.5_0637.lha
 Skipped: BobsGarden_v1.0.lha
 Skipped: BodyBlowsGalactic_v2.1_1231.lha
@@ -1427,8 +1427,8 @@ Skipped: CannonFodder_v2.0_It.lha
 Skipped: CannonSoccer_v1.0_0165.lha
 Skipped: CapitalPunishment_v1.1a_AGA_1758.lha
 Skipped: CapitalPunishment_v1.1a_AGA_CD.lha
-Scanned: Capital Punishment [AGA]
-Scanned: Capital Punishment [AGA] CD
+Skipped: CapitalPunishment_v1.2_AGA_1758.lha
+Skipped: CapitalPunishment_v1.2_AGA_CD.lha
 Skipped: Capone_v1.1.lha
 Skipped: CaptainBlood_v1.1_0443.lha
 Skipped: CaptainBlood_v1.1_NTSC.lha
@@ -2881,8 +2881,8 @@ Skipped: LionheartDemo_v1.2_1MB.lha
 Skipped: Lionheart_v2.2_0845.lha
 Skipped: LiquidKids_v1.1_Files.lha
 Skipped: LiquidKids_v1.1_Image.lha
-Scanned: Liquid Kids (Files)
-Scanned: Liquid Kids (Image)
+Skipped: LiquidKids_v1.2_Files.lha
+Skipped: LiquidKids_v1.2_Image.lha
 Skipped: LittleComputerPeople_v1.2_0913.lha
 Skipped: LittlePuffInDragonland_v1.0.lha
 Skipped: LiveAndLetDie_v1.1_2187.lha
@@ -3229,9 +3229,9 @@ Skipped: Ork_v1.2.2_NTSC_1374.lha
 Skipped: Oscar_v1.8_AGA_1095.lha
 Skipped: Oscar_v1.8_CD32.lha
 Skipped: Oscar_v1.8_CD32_NTSC.lha
-Scanned: Oscar [AGA]
-Scanned: Oscar [CD32]
-Scanned: Oscar [CD32] (NTSC)
+Skipped: Oscar_v2.0_AGA_1095.lha
+Skipped: Oscar_v2.0_CD32.lha
+Skipped: Oscar_v2.0_CD32_NTSC.lha
 Skipped: OsWALDOfTheIceFloes_v1.0.lha
 Skipped: OsWALDOfTheIceFloes_v1.0_NTSC.lha
 Skipped: OutOfThisWorld_v2.4_1556.lha
@@ -3245,7 +3245,7 @@ Skipped: Obsession_v1.1_2199.lha
 Skipped: Odyssey_v2.0_0195.lha
 Skipped: Odyssey_v2.1_2854.lha
 Skipped: OffShoreWarrior_v1.0.lha
-Scanned: Off Shore Warrior
+Skipped: OffShoreWarrior_v1.1a_2968.lha
 Skipped: OffShoreWarrior_v1.1_2968.lha
 Skipped: Ogre_v1.0_1386.lha
 Skipped: Ogre_v1.0_NTSC_1386.lha
@@ -3296,7 +3296,7 @@ Skipped: OperationStealth_v2.0_Fr_1654.lha
 Skipped: OperationStealth_v2.0_It.lha
 Skipped: OperationThunderbolt_v1.3a_0547.lha
 Skipped: OperationWolf_v1.3_1128.lha
-Scanned: Operation Wolf
+Skipped: OperationWolf_v1.4_1128.lha
 Skipped: OrbitalDestroyer_v1.1_2230.lha
 Skipped: OrientalGames_v1.1_2263.lha
 Skipped: OrkAttackTheReturn_v1.0.lha
@@ -4061,6 +4061,7 @@ Skipped: StormMaster_v1.7_Fr_2387.lha
 Skipped: StormMaster_v1.7_Fr_Fast_2387.lha
 Skipped: Stratego_v1.1.1.lha
 Skipped: StreetFighter2_v1.1_0882.lha
+Scanned: Street Fighter II - The World Warrior
 Skipped: StreetFighter_v1.0.lha
 Skipped: StreetGang_v1.0.lha
 Skipped: StreetRacer_v1.5_CD32.lha
@@ -4611,8 +4612,8 @@ Skipped: WingsOfDeath_v1.02_3022.lha
 Skipped: WingsOfFury_v1.0.lha
 Skipped: WingsOfFury_v1.1_0599.lha
 Skipped: WingsOfFury_v1.1_Chip_0599.lha
-Scanned: Wings Of Fury
-Scanned: Wings Of Fury (Fast)
+Skipped: WingsOfFury_v1.2a_0599.lha
+Skipped: WingsOfFury_v1.2a_Fast_0599.lha
 Skipped: WingsOfFury_v1.2_0599.lha
 Skipped: WingsOfFury_v1.2_Chip_0599.lha
 Skipped: Wings_v1.0_0410.lha

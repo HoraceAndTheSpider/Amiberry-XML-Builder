@@ -1,4 +1,4 @@
-Scanned file log: 2019-11-20 at 03:00:07
+Scanned file log: 2019-11-22 at 03:00:06
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
 Skipped: 24HourEFix_v1.0_Quartz.lha
@@ -2576,6 +2576,8 @@ Skipped: Jinks_v1.0_0973.lha
 Skipped: Jinxter_v1.0.lha
 Skipped: JockyWilsonsDartsChallenge_v1.1.lha
 Skipped: Joe&MacCavemanNinja_v1.0b_2179.lha
+Scanned: Joe & Mac - Caveman Ninja
+Scanned: Joe & Mac Caveman Ninja (Fast)
 Skipped: JoeBlade2_v1.0.lha
 Skipped: JoeBlade_v1.1_0514.lha
 Skipped: JohnBarnesEuropeanFootball_v1.01_1925.lha
@@ -4062,6 +4064,7 @@ Skipped: StormMaster_v1.7_Fr_Fast_2387.lha
 Skipped: Stratego_v1.1.1.lha
 Skipped: StreetFighter2_v1.1_0882.lha
 Scanned: Street Fighter II - The World Warrior
+Skipped: StreetFighter2_v1.2_0882.lha
 Skipped: StreetFighter_v1.0.lha
 Skipped: StreetGang_v1.0.lha
 Skipped: StreetRacer_v1.5_CD32.lha

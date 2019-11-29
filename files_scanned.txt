@@ -1,4 +1,4 @@
-Scanned file log: 2019-11-22 at 03:00:06
+Scanned file log: 2019-11-29 at 03:00:06
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
 Skipped: 24HourEFix_v1.0_Quartz.lha
@@ -1792,6 +1792,8 @@ Skipped: DeluxeGalaga_v1.1.lha
 Skipped: DeluxeGalaga_v1.1_AGA.lha
 Skipped: DeluxeGalaga_v1.2.lha
 Skipped: DeluxeGalaga_v1.2_AGA.lha
+Scanned: Deluxe Galaga
+Scanned: Deluxe Galaga [AGA]
 Skipped: DeluxePacMan_v1.0.lha
 Skipped: DeluxePacMan_v1.0_AGA.lha
 Skipped: DeluxeStripPoker2_v1.0.lha
@@ -2421,6 +2423,8 @@ Skipped: HighSeasTrader_v1.0_AGA_2108.lha
 Skipped: HighSteel_v1.0_1397.lha
 Skipped: HighwayHawks_v1.0_2538.lha
 Skipped: HighwayPatrol2_v1.1_2305.lha
+Scanned: Highway Patrol 2
+Scanned: Highway Patrol 2 (Fast)
 Skipped: Hillsfar_v1.0.lha
 Skipped: Hillsfar_v1.0_De.lha
 Skipped: Hilt2_v1.0.lha
@@ -2576,8 +2580,8 @@ Skipped: Jinks_v1.0_0973.lha
 Skipped: Jinxter_v1.0.lha
 Skipped: JockyWilsonsDartsChallenge_v1.1.lha
 Skipped: Joe&MacCavemanNinja_v1.0b_2179.lha
-Scanned: Joe & Mac - Caveman Ninja
-Scanned: Joe & Mac Caveman Ninja (Fast)
+Skipped: Joe&MacCavemanNinja_v1.1_2179.lha
+Skipped: Joe&MacCavemanNinja_v1.1_Fast_2179.lha
 Skipped: JoeBlade2_v1.0.lha
 Skipped: JoeBlade_v1.1_0514.lha
 Skipped: JohnBarnesEuropeanFootball_v1.01_1925.lha
@@ -3297,6 +3301,7 @@ Skipped: OperationStealth_v2.0_Es.lha
 Skipped: OperationStealth_v2.0_Fr_1654.lha
 Skipped: OperationStealth_v2.0_It.lha
 Skipped: OperationThunderbolt_v1.3a_0547.lha
+Scanned: Operation Thunderbolt
 Skipped: OperationWolf_v1.3_1128.lha
 Skipped: OperationWolf_v1.4_1128.lha
 Skipped: OrbitalDestroyer_v1.1_2230.lha
@@ -4063,7 +4068,7 @@ Skipped: StormMaster_v1.7_Fr_2387.lha
 Skipped: StormMaster_v1.7_Fr_Fast_2387.lha
 Skipped: Stratego_v1.1.1.lha
 Skipped: StreetFighter2_v1.1_0882.lha
-Scanned: Street Fighter II - The World Warrior
+Skipped: StreetFighter2_v1.2a_0882.lha
 Skipped: StreetFighter2_v1.2_0882.lha
 Skipped: StreetFighter_v1.0.lha
 Skipped: StreetGang_v1.0.lha

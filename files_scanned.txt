@@ -1,4 +1,4 @@
-Scanned file log: 2019-11-29 at 03:00:06
+Scanned file log: 2019-12-04 at 03:00:05
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
 Skipped: 24HourEFix_v1.0_Quartz.lha
@@ -1029,6 +1029,8 @@ Skipped: Aquaventura_v1.3_0427.lha
 Skipped: Aquaventura_v1.3_NTSC_2330.lha
 Skipped: ArabianNights_v1.4_1454.lha
 Skipped: ArabianNights_v1.4_CD32.lha
+Scanned: Arabian Nights
+Scanned: Arabian Nights [CD32]
 Skipped: Arachnophobia_v1.0.lha
 Skipped: ArcadeFruitMachine_v1.0.lha
 Skipped: ArcadePool_v3.0_0298.lha
@@ -1299,8 +1301,13 @@ Skipped: BobsBadDay_v1.5_0637.lha
 Skipped: BobsGarden_v1.0.lha
 Skipped: BodyBlowsGalactic_v2.1_1231.lha
 Skipped: BodyBlowsGalactic_v2.1_AGA_0440.lha
+Scanned: Body Blows Galactic
+Scanned: Body Blows Galactic [AGA]
 Skipped: BodyBlows_v1.2_1147.lha
 Skipped: BodyBlows_v1.2_AGA_1322.lha
+Scanned: Body Blows
+Scanned: Body Blows [AGA]
+Scanned: Body Blows (Fast)
 Skipped: BomberBob_v1.0_1628.lha
 Skipped: BombFusion_v1.0.lha
 Skipped: BombJackBeerEdition_v1.0-B.lha
@@ -1792,8 +1799,8 @@ Skipped: DeluxeGalaga_v1.1.lha
 Skipped: DeluxeGalaga_v1.1_AGA.lha
 Skipped: DeluxeGalaga_v1.2.lha
 Skipped: DeluxeGalaga_v1.2_AGA.lha
-Scanned: Deluxe Galaga
-Scanned: Deluxe Galaga [AGA]
+Skipped: DeluxeGalaga_v1.3.lha
+Skipped: DeluxeGalaga_v1.3_AGA.lha
 Skipped: DeluxePacMan_v1.0.lha
 Skipped: DeluxePacMan_v1.0_AGA.lha
 Skipped: DeluxeStripPoker2_v1.0.lha
@@ -2423,6 +2430,8 @@ Skipped: HighSeasTrader_v1.0_AGA_2108.lha
 Skipped: HighSteel_v1.0_1397.lha
 Skipped: HighwayHawks_v1.0_2538.lha
 Skipped: HighwayPatrol2_v1.1_2305.lha
+Skipped: HighwayPatrol2_v1.2_2305.lha
+Skipped: HighwayPatrol2_v1.2_Fast_2305.lha
 Scanned: Highway Patrol 2
 Scanned: Highway Patrol 2 (Fast)
 Skipped: Hillsfar_v1.0.lha
@@ -3302,6 +3311,7 @@ Skipped: OperationStealth_v2.0_Fr_1654.lha
 Skipped: OperationStealth_v2.0_It.lha
 Skipped: OperationThunderbolt_v1.3a_0547.lha
 Scanned: Operation Thunderbolt
+Skipped: OperationThunderbolt_v1.4_0547.lha
 Skipped: OperationWolf_v1.3_1128.lha
 Skipped: OperationWolf_v1.4_1128.lha
 Skipped: OrbitalDestroyer_v1.1_2230.lha
@@ -3561,6 +3571,9 @@ Skipped: QuicksilverPinball_v1.2.lha
 Skipped: QuikTheThunderRabbit_v1.2a.lha
 Skipped: QuikTheThunderRabbit_v1.2a_AGA.lha
 Skipped: QuikTheThunderRabbit_v1.2a_CD32.lha
+Scanned: Quik - The Thunder Rabbit
+Scanned: Quik - The Thunder Rabbit [AGA]
+Scanned: Quik - The Thunder Rabbit [CD32]
 Skipped: Qwak_v1.2_0715.lha
 Skipped: Qwak_v1.2_CD32.lha
 Skipped: Rogue_v1.0.lha

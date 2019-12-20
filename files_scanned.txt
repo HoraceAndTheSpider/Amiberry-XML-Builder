@@ -1,4 +1,4 @@
-Scanned file log: 2019-12-18 at 03:00:05
+Scanned file log: 2019-12-20 at 03:00:05
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
 Skipped: 24HourEFix_v1.0_Quartz.lha
@@ -1123,7 +1123,11 @@ Skipped: BackToTheFuturePart3_v1.3_NTSC_1171.lha
 Skipped: BadCat_v1.0_0976.lha
 Skipped: BadCompany_v1.1.lha
 Skipped: BadDudesVsDragonNinja_v1.2_0098.lha
+Scanned: Bad Dudes vs. DragonNinja
+Scanned: Bad Dudes Vs Dragon Ninja (Chip)
 Skipped: BadDudes_v1.2_NTSC_2425.lha
+Scanned: Bad Dudes (Chip) (NTSC)
+Scanned: Bad Dudes (NTSC)
 Skipped: BadlandsPete_v1.0.lha
 Skipped: Bagitman_v1.1.lha
 Skipped: Bagitman_v2.0.lha
@@ -3155,7 +3159,7 @@ Skipped: MoonBlaster_v1.1_Fr_2418.lha
 Skipped: Moonfall_v1.1.lha
 Skipped: MoonShineRacers_v1.0_1540.lha
 Skipped: MOT_v1.0.lha
-Scanned: Mot
+Skipped: Mot_v1.1.lha
 Skipped: MouseQuest_v1.0.lha
 Skipped: MouseQuest_v1.0_NTSC.lha
 Skipped: Mousetrap_v1.0_0235.lha
@@ -4084,7 +4088,7 @@ Skipped: Stratego_v1.1.1.lha
 Skipped: StreetFighter2_v1.1_0882.lha
 Skipped: StreetFighter2_v1.2a_0882.lha
 Skipped: StreetFighter2_v1.2_0882.lha
-Scanned: Street Fighter II - The World Warrior
+Skipped: StreetFighter2_v1.3_0882.lha
 Skipped: StreetFighter_v1.0.lha
 Skipped: StreetGang_v1.0.lha
 Skipped: StreetRacer_v1.5_CD32.lha

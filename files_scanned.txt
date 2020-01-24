@@ -1,4 +1,4 @@
-Scanned file log: 2020-01-22 at 03:00:05
+Scanned file log: 2020-01-24 at 03:00:06
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
 Skipped: 24HourEFix_v1.0_Quartz.lha
@@ -971,7 +971,7 @@ Skipped: AlfabetSmierci_v1.0a_AGA_Pl.lha
 Skipped: AlfredChicken_v1.01_AGA_0623.lha
 Skipped: AlfredChicken_v1.01_CD32.lha
 Skipped: AlfredChicken_v1.0_0422.lha
-Scanned: Alianator
+Skipped: Alianator_v1.0_1905.lha
 Skipped: Alien3_v2.1_0261.lha
 Skipped: Alienator_v1.0_1905.lha
 Skipped: AlienBash2_v1.2.lha
@@ -985,10 +985,10 @@ Skipped: AlienBreed3D_v1.2_AGA_0624.lha
 Skipped: AlienBreed3D_v1.2_CD32.lha
 Skipped: AlienBreed3D_v1.2_NoMusic_AGA_0624.lha
 Skipped: AlienBreed3D_v1.2_NoMusic_CD32.lha
-Scanned: Alien Breed 3D [AGA]
-Scanned: Alien Breed 3D [CD32]
-Scanned: Alien Breed 3D (No Music) [AGA]
-Scanned: Alien Breed 3D (No Music) [CD32]
+Skipped: AlienBreed3D_v1.3_AGA_0624.lha
+Skipped: AlienBreed3D_v1.3_CD32.lha
+Skipped: AlienBreed3D_v1.3_NoMusic_AGA_0624.lha
+Skipped: AlienBreed3D_v1.3_NoMusic_CD32.lha
 Skipped: AlienBreedSpecialEdition_v1.0_0615.lha
 Skipped: AlienBreedStory_v1.1_0998.lha
 Skipped: AlienBreedTowerAssault11_v1.2_2331.lha
@@ -1219,9 +1219,9 @@ Skipped: BattleValley_v1.0_1724.lha
 Skipped: BAT_v1.3b_2072.lha
 Skipped: BAT_v1.3b_De_2197.lha
 Skipped: BAT_v1.3b_Fr_2641.lha
-Scanned: B.A.T.
-Scanned: B.A.T. (Deutsch)
-Scanned: B.A.T. (Francais)
+Skipped: BAT_v1.4_2072.lha
+Skipped: BAT_v1.4_De_2197.lha
+Skipped: BAT_v1.4_Fr_2641.lha
 Skipped: BCKid_v1.4_0435.lha
 Skipped: BCKid_v1.5_0435.lha
 Skipped: BeachVolley_v1.0_1249.lha
@@ -1273,7 +1273,7 @@ Skipped: BirdsOfPrey_v1.1_0101.lha
 Skipped: Bismarck_v1.0_2563&2702.lha
 Skipped: BlackCauldron_v1.2_2057.lha
 Skipped: BlackCrypt_v2.0_0281.lha
-Scanned: Black Crypt
+Skipped: BlackCrypt_v2.1_0281.lha
 Skipped: BlackGold_v1.5_ReLINE.lha
 Skipped: BlackGold_v1.6_ReLINE.lha
 Skipped: BlackHornet_v1.0.lha
@@ -1351,7 +1351,7 @@ Skipped: Breach_v1.0_1487.lha
 Skipped: Breach_v1.0_NTSC_1487.lha
 Skipped: BreakOutRevolution_v1.0_AGA.lha
 Skipped: BreathlessDemo_v1.1.lha
-Scanned: Breathless (Demo) [AGA]
+Skipped: BreathlessDemo_v1.1_AGA.lha
 Skipped: Breathless_v1.1_AGA_0178.lha
 Skipped: Breathless_v1.1_AGA_68060_0178.lha
 Skipped: BrianLarasCricket96_v1.0.lha
@@ -1806,7 +1806,7 @@ Skipped: Deflektor_v1.11_1087.lha
 Skipped: DejaVu2LostInLasVegas_v1.0.lha
 Skipped: DejaVuANightmareComesTrue_v1.0_1832.lha
 Skipped: DejaVu_v1.0_NTSC_1832.lha
-Scanned: Deja Vu (NTSC)
+Skipped: DejaVu_v1.1_NTSC_1832.lha
 Skipped: Deliverance_v1.4_1500.lha
 Skipped: Deliverance_v1.5_1500.lha
 Skipped: DeltaCommand_v0.2_Arcadia.lha
@@ -2112,9 +2112,9 @@ Skipped: FinalCountdown_v1.0.lha
 Skipped: FinalFight_v1.6_1MB_1329.lha
 Skipped: FinalFight_v1.6_512k_1329.lha
 Skipped: Fire&Forget2_v1.1_0482.lha
-Scanned: Fire & Forget II - The Death Convoy
+Skipped: Fire&Forget2_v1.2_0482.lha
 Skipped: Fire&Forget_v1.0_0924.lha
-Scanned: Fire & Forget
+Skipped: Fire&Forget_v1.1_0924.lha
 Skipped: Fire&IceXmasDemo_v1.0.lha
 Skipped: Fire&Ice_v2.2_0502.lha
 Skipped: Fire&Ice_v2.2_CD32.lha
@@ -2310,7 +2310,7 @@ Skipped: Ghostbusters2_v1.4.1_1029.lha
 Skipped: Ghostbusters2_v1.4.1_NTSC_1208.lha
 Skipped: GhostChaser_v1.0.lha
 Skipped: GhostsNGoblins_v1.2.lha
-Scanned: Ghosts 'n Goblins
+Skipped: GhostsNGoblins_v1.4.lha
 Skipped: GhoulsNGhosts_v1.0_2252.lha
 Skipped: Giddy2HeroInAnEggShell_v1.0.lha
 Skipped: Giganoid_v1.1.lha
@@ -2491,15 +2491,15 @@ Skipped: HuckleberryHound_v1.1.lha
 Skipped: HudsonHawk_v1.5_1035.lha
 Skipped: Hugo1_v1.0_Dk.lha
 Skipped: Hugo1_v1.0_Fi.lha
-Scanned: Hugo - Pa Nye Eventyr (Danish)
-Scanned: Hugo 1 (Finnish)
+Skipped: Hugo1_v1.1_Dk.lha
+Skipped: Hugo1_v1.1_Fi.lha
 Skipped: Hugo2_v1.0_Fi.lha
-Scanned: Hugo - Pa Nye Eventyr Del 2 (Danish)
-Scanned: Hugo 2 (Finnish)
+Skipped: Hugo2_v1.1_Dk.lha
+Skipped: Hugo2_v1.1_Fi.lha
 Skipped: Hugo_v1.0_De_0685.lha
 Skipped: Hugo_v1.0_Se.lha
-Scanned: Hugo (Deutsch)
-Scanned: Hugo (Svenska)
+Skipped: Hugo_v1.1_De_0685.lha
+Skipped: Hugo_v1.1_Se.lha
 Skipped: HumanKillingMachine_v1.1.lha
 Skipped: Humans2_v1.01_1036.lha
 Skipped: Humans2_v1.01_De_0510.lha
@@ -2884,10 +2884,10 @@ Skipped: Lemmings2Demo_v1.0_0786.lha
 Skipped: Lemmings2_v1.6_1MB_0351.lha
 Skipped: Lemmings2_v1.6_1MB_NTSC_1976.lha
 Skipped: Lemmings2_v1.6_512KB_0351.lha
-Scanned: Lemmings 2 - The Tribes (1MB)
-Scanned: Lemmings 2 (NTSC) (1MB)
-Scanned: Lemmings 2512 KB
-Scanned: Lemmings 2 (NTSC) (512Kb)
+Skipped: Lemmings2_v1.7_1MB_0351.lha
+Skipped: Lemmings2_v1.7_1MB_NTSC_1976.lha
+Skipped: Lemmings2_v1.7_512KB_0351.lha
+Skipped: Lemmings2_v1.7_512KB_NTSC_1976.lha
 Skipped: LemmingsDemo_v1.0.lha
 Skipped: LemmingsHoliday1993_v1.3_0337.lha
 Skipped: LemmingsHoliday1994_v1.3_0492.lha
@@ -2914,7 +2914,7 @@ Skipped: Life&Death_v1.2_1126.lha
 Skipped: LightCorridor_v1.0_0526.lha
 Skipped: LightRacer_v1.0_De.lha
 Skipped: Limes&Napoleon_v1.0.lha
-Scanned: Limes & Napoleon
+Skipped: Limes&Napoleon_v1.1_2983.lha
 Skipped: LineOfFire_v1.1_1394.lha
 Skipped: Links&DataDisks_v1.01_2481.lha
 Skipped: Links&DataDisks_v1.01_NTSC_2010.lha
@@ -2927,8 +2927,8 @@ Skipped: LiquidKids_v1.1_Files.lha
 Skipped: LiquidKids_v1.1_Image.lha
 Skipped: LiquidKids_v1.2_Files.lha
 Skipped: LiquidKids_v1.2_Image.lha
-Scanned: Liquid Kids (Files)
-Scanned: Liquid Kids (Image)
+Skipped: LiquidKids_v1.3_Files.lha
+Skipped: LiquidKids_v1.3_Image.lha
 Skipped: LittleComputerPeople_v1.2_0913.lha
 Skipped: LittlePuffInDragonland_v1.0.lha
 Skipped: LiveAndLetDie_v1.1_2187.lha
@@ -2972,7 +2972,7 @@ Skipped: LordsOfTheRisingSun_v1.4b_NTSC_1779.lha
 Skipped: LordsOfTime_v1.0.lha
 Skipped: LordsOfWar_v1.1.lha
 Skipped: Lorna_v1.0a.lha
-Scanned: Lorna
+Skipped: Lorna_v1.1.lha
 Skipped: LostDutchmanMine_v2.0.lha
 Skipped: MultiPlayerSoccerManager_v1.0.lha
 Skipped: Munsters_v1.1_1265.lha
@@ -3881,7 +3881,7 @@ Skipped: ShadowOfTheBeastDemo_v1.0.lha
 Skipped: ShadowOfTheBeast_v2.2_1357.lha
 Skipped: ShadowOfTheBeast_v2.3_1357.lha
 Skipped: ShadowOfTheBeast_v2.4_1357.lha
-Scanned: Shadow Of The Beast
+Skipped: ShadowOfTheBeast_v2.5_1357.lha
 Skipped: Shadoworlds_v1.0_0030.lha
 Skipped: Shadoworlds_v1.1_0030.lha
 Skipped: ShadowSorcerer_v1.0_DeFrIt.lha
@@ -3947,7 +3947,7 @@ Skipped: SinkOrSwim_v1.1_512KB.lha
 Skipped: SirFredTheLegend_v1.0_1652.lha
 Skipped: Sixiang_v1.0_2757.lha
 Skipped: SkaermtroldenHugo_v1.1_Dk.lha
-Scanned: Skaermtrolden Hugo (Danish)
+Skipped: SkaermtroldenHugo_v1.2_Dk.lha
 Skipped: SkateOfTheArt_v1.0.lha
 Skipped: SkautKwatermaster_v1.0a_Pl.lha
 Skipped: SkeetShoot_v1.1_2231.lha
@@ -4120,10 +4120,10 @@ Skipped: StreetFighter2_v1.1_0882.lha
 Skipped: StreetFighter2_v1.2a_0882.lha
 Skipped: StreetFighter2_v1.2_0882.lha
 Skipped: StreetFighter2_v1.3_0882.lha
-Scanned: Street Fighter II - The World Warrior
+Skipped: StreetFighter2_v1.4_0882.lha
 Skipped: StreetFighter_v1.0.lha
 Skipped: StreetGang_v1.0.lha
-Scanned: Street Racer [AGA] CD
+Skipped: StreetRacer_v1.5_AGA_CD.lha
 Skipped: StreetRacer_v1.5_CD32.lha
 Skipped: StreetRod2_v1.1.lha
 Skipped: StreetRod_v1.01.lha
@@ -4242,7 +4242,7 @@ Skipped: SoccerSuperstars_v1.0_De.lha
 Skipped: Soldier2000_v1.2.lha
 Skipped: SoldierOfLight_v1.1_2001.lha
 Skipped: SolidGold_v1.01.lha
-Scanned: Sol Negro
+Skipped: SolNegro_v1.0.lha
 Skipped: SolomonsKey2_v1.0.lha
 Skipped: SonicBoom_v1.1_2561.lha
 Skipped: TableHockey_v0.1_Arcadia.lha
@@ -4270,7 +4270,7 @@ Skipped: TeenageMutantNinjaTurtles_v1.2_2994.lha
 Skipped: TeenageQueen_v1.1_0225.lha
 Skipped: Teller_v1.2_Fr.lha
 Skipped: TempleOfApshaiTrilogy_v1.0.lha
-Scanned: Templos Sagrados (Espanol)
+Skipped: TemplosSagrados_v1.0_Es.lha
 Skipped: TennisChamps_v1.0.lha
 Skipped: TennisCup2_v1.0_0738.lha
 Skipped: TennisCup_v1.3a_1Mb_0737.lha
@@ -4333,8 +4333,8 @@ Skipped: ThunderHawkAH73M_v2.2_0039.lha
 Skipped: ThunderHawkAH73M_v2.2_De.lha
 Skipped: ThunderHawkAH73M_v2.2_Fr.lha
 Skipped: ThunderJaws_v1.2_0293.lha
-Scanned: Thunder Jaws (Files)
-Scanned: Thunder Jaws (Image)
+Skipped: ThunderJaws_v1.4_Files_0293.lha
+Skipped: ThunderJaws_v1.4_Image_0293.lha
 Skipped: ThunderStrike_v1.1_0406.lha
 Skipped: TieBreak_v1.0.lha
 Skipped: TigerRoad_v1.3.lha

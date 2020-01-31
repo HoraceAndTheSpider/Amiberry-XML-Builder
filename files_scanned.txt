@@ -1,4 +1,4 @@
-Scanned file log: 2020-01-29 at 03:00:06
+Scanned file log: 2020-01-31 at 03:00:05
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
 Skipped: 24HourEFix_v1.0_Quartz.lha
@@ -1222,10 +1222,10 @@ Skipped: BAT_v1.3b_Fr_2641.lha
 Skipped: BAT_v1.4_2072.lha
 Skipped: BAT_v1.4_De_2197.lha
 Skipped: BAT_v1.4_Fr_2641.lha
-Scanned: B.A.T.
-Scanned: B.A.T. (Deutsch)
-Scanned: B.A.T. (Francais)
-Scanned: BA TIt
+Skipped: BAT_v1.5_2072.lha
+Skipped: BAT_v1.5_De_2197.lha
+Skipped: BAT_v1.5_Fr_2641.lha
+Skipped: BAT_v1.5_It.lha
 Skipped: BCKid_v1.4_0435.lha
 Skipped: BCKid_v1.5_0435.lha
 Skipped: BeachVolley_v1.0_1249.lha
@@ -3620,7 +3620,7 @@ Skipped: Rogue_v1.0.lha
 Skipped: Roketz_v1.1_AGA.lha
 Skipped: RollerCoasterRumbler_v1.0_0698.lha
 Skipped: RollingRonny_v1.0.lha
-Scanned: Rolling Thunder
+Skipped: RollingThunder_v1.0_2639.lha
 Skipped: RollOrDie_v1.2.lha
 Skipped: RomeAD92_v1.2_0780.lha
 Skipped: Rotor_v1.1.lha
@@ -3761,7 +3761,7 @@ Skipped: Ruff&ReddyInTheSpaceAdventure_v1.1.lha
 Skipped: Ruffian_v1.1_2411.lha
 Skipped: RuffNTumble_v2.2_0199.lha
 Skipped: RuffNTumble_v2.3_0199.lha
-Scanned: Ruff 'N' Tumble
+Skipped: RuffNTumble_v2.5_0199.lha
 Skipped: RugbyTheWorldCup_v1.2_0258.lha
 Skipped: RugbyTheWorldCup_v1.2_EarlyBuild_3730.lha
 Skipped: RunningMan_v1.0_0382.lha
@@ -4251,6 +4251,7 @@ Skipped: Soldier2000_v1.2.lha
 Skipped: SoldierOfLight_v1.1_2001.lha
 Skipped: SolidGold_v1.01.lha
 Skipped: SolNegro_v1.0.lha
+Scanned: Sol Negro
 Skipped: SolomonsKey2_v1.0.lha
 Skipped: SonicBoom_v1.1_2561.lha
 Skipped: TableHockey_v0.1_Arcadia.lha

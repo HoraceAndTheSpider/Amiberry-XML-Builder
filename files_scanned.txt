@@ -1,4 +1,4 @@
-Scanned file log: 2020-02-05 at 03:00:05
+Scanned file log: 2020-02-07 at 03:00:04
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
 Skipped: 24HourEFix_v1.0_Quartz.lha
@@ -3113,6 +3113,7 @@ Skipped: MetalMutant_v1.4.lha
 Skipped: MetalMutant_v1.4_De.lha
 Skipped: MetalMutant_v1.4_Fr.lha
 Skipped: MetalWarrior_v1.0.lha
+Scanned: Metro Cross
 Skipped: Moonwalker_v1.0.lha
 Skipped: Morph_v1.0_1148.lha
 Skipped: Morph_v1.0_AGA_1070.lha
@@ -3621,7 +3622,7 @@ Skipped: Roketz_v1.1_AGA.lha
 Skipped: RollerCoasterRumbler_v1.0_0698.lha
 Skipped: RollingRonny_v1.0.lha
 Skipped: RollingThunder_v1.0_2639.lha
-Scanned: Rolling Thunder
+Skipped: RollingThunder_v1.1_2639.lha
 Skipped: RollOrDie_v1.2.lha
 Skipped: RomeAD92_v1.2_0780.lha
 Skipped: Rotor_v1.1.lha
@@ -4096,6 +4097,7 @@ Skipped: Starians_v1.0.lha
 Skipped: Starlord_v1.1_1878.lha
 Skipped: Starlord_v1.1_De_0788.lha
 Skipped: Starlord_v1.1_Fr.lha
+Scanned: Starquake
 Skipped: StarRay_v3.0_2Disk.lha
 Skipped: StarRay_v3.1.lha
 Skipped: StarRay_v3.1_NoIntro_1721.lha
@@ -4265,7 +4267,7 @@ Skipped: Targhan_v1.4_1859.lha
 Skipped: Targhan_v1.4_Fast_1859.lha
 Skipped: Targhan_v1.4_Fr_2405.lha
 Skipped: Targhan_v1.4_Fr_Fast_2405.lha
-Scanned: Targhan (NTSC)
+Skipped: Targhan_v1.4_NTSC.lha
 Skipped: TassTimesInTonetown_v1.0_0390.lha
 Skipped: TBird_v1.0.lha
 Skipped: TeamSuzuki_v1.1_1767.lha

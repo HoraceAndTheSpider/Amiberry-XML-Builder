@@ -1,6 +1,4 @@
 ApanoSin
-ChaosEngine2
-ChaosEngine2AGA
 Damage
 DamagePreview
 DeluxeGalaga
@@ -11,12 +9,12 @@ ManchesterUnitedEurope23
 ProjectX
 ProjectXSE
 ProjectXSECD32
-SWIV
 SensibleSoccer
 SensibleWorldOfSoccer
 SensibleWorldOfSoccer11
 SensibleWorldOfSoccer9596
 SensibleWorldOfSoccer9697
 Speedball
+SWIV
 TurboRaketti2
 TurboRaketti2Fi

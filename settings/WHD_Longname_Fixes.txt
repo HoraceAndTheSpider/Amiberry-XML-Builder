@@ -1,6 +1,7 @@
  & Data Disk| (& Data Disk)
 & Mstr Trcks|(Master Tracks)
 1943|1943 - The Battle of Midway
+20000 Lieues Mers FR|20000 Lieues Mers (Francais)
 3 DConstruction Kit|3D Construction Kit
 3 DGalax|3D Galax
 3 DPool|3D Pool
@@ -522,6 +523,8 @@ Kajko IKokosz|Kajko i Kokosz
 Kalas Puff Expressen Se (1MB)|Kalas Puff Expressen (Svenska) (1MB)
 Karate Kid 2|Karate Kid Part II
 Keef The Thief|Keef the Thief - A Boy and his Lockpick
+KGBFr|KGB (Francais)
+KGBDe|KGB (Deutsch)
 Kick Off & Extra Time (1 Disk)|Kick Off (& Extra Time)
 Kick Off 2 CV|Kick Off 2 (Competition Version)
 Kick Off 2 Final Whistle|Kick Off 2 - The Final Whistle
@@ -1053,6 +1056,3 @@ Zombie Apocalypse 2 [AGA]|Zombie Apocalypse II [AGA]
 Zool|Zool - Ninja Of The 'Nth' Dimension
 Zool [AGA]|Zool - Ninja Of The 'Nth' Dimension [AGA]
 ZOut|Z-Out
-KGBFr|KGB (Francais)
-KGBDe|KGB (Deutsch)
-20000 Lieues Mers FR|20000 Lieues Mers (Francais)

@@ -6,7 +6,13 @@ F19StealthFighter
 F29Retaliator
 FA18Interceptor
 Frontier
+FrontierCD32
+FrontierCz
+FrontierDe
+FrontierFr
 Hunter
+HunterDe
+HunterFr
 ItCameFromTheDesert
 ItCameFromTheDesert2
 MiG29Fulcrum

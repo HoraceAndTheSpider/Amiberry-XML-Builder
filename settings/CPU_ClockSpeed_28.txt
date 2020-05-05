@@ -2,7 +2,6 @@
 BlackViperAGA
 BlackViperCD32
 BloodnetAGA
-BodyBlowsAGA
 BodyBlowsGalacticAGA
 CapitalPunishmentAGA
 CapitalPunishmentAGACD
@@ -11,14 +10,16 @@ ChaosEngineCD32
 ChaosEngine2AGA
 CivilizationAGA
 CivilizationAGACD
+CivilizationAGADe
 ColonizationAGA
 DreamWebAGA
+DreamWebAGADe
 DungeonMaster2AGA
 FearsAGA
 FearsCD32
 IsharAGA
 Ishar2AGA
 Ishar3AGA
+Nicky2
 UFOEnemyUnknownAGA
 UFOEnemyUnknownCD32
-Nicky2

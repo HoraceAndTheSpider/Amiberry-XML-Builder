@@ -1,10 +1,5 @@
-MonkeyIsland2
-FlightOfTheAmazonQueen
 BeneathASteelSky
-RiseOfTheRobots
-WormsDCAGA12MB
-WormsDCAGA8MB
-AkiraCD32
-DungeonMaster2AGA
-Fire&Forget2
 DungeonMaster
+FlightOfTheAmazonQueen
+MonkeyIsland2
+RiseOfTheRobots

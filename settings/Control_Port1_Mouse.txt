@@ -1,3 +1,12 @@
 ItCameFromTheDesert
 Lemmings
+LemmingsDemo
+LemmingsCDTV
+LemmingsFiles
+LemmingsAltFiles
+LemmingsFilesNTSC
+LemmingsImage
+LemmingsAltImage
+LemmingsImageNTSC
 OhNoMoreLemmings
+OhNoMoreLemmingsNTSC

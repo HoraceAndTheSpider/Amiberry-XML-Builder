@@ -1,7 +1,13 @@
 AlienBreed3DAGA
+AlienBreed3DNoMusicAGA
 AlienBreed3DCD32
 AlienBreed3D2AGA
+BreathlessAGA
+Frontier
 FrontierCD32
+FrontierCz
+FrontierDe
+FrontierFr
 GloomAGA
 GloomCD32
 GuardianCD32

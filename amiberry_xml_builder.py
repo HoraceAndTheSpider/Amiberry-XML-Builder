@@ -362,6 +362,15 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                                 HW_WIDTH = "704"
                 if check_list("Screen_Width_768.txt", sub_path) is True:
                                 HW_WIDTH = "768"
+
+                # ' screen centering (recently added)
+                HW_H_CENTER = 'SMART'
+                if check_list('Screen_NoCenter_H.txt', sub_path) is True:
+                  HW_H_CENTER = 'NONE'
+
+                HW_V_CENTER = 'SMART'
+                if check_list('Screen_NoCenter_V.txt', sub_path) is True:
+                  HW_V_CENTER = 'NONE'
                                 
                 # ' extras
                 HW_NTSC = ""
@@ -593,6 +602,11 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                 if HW_WIDTH != "":
                     hardware += ("SCREEN_WIDTH") + HW_WIDTH + chr(10)
 
+                if HW_H_CENTER != '':
+                    hardware += ('SCREEN_CENTERH=') + HW_H_CENTER + chr(10)
+
+                if HW_V_CENTER != '':
+                    hardware += ('SCREEN_CENTERV=') + HW_V_CENTER + chr(10)
 
 
                 # MEMORY OPTIONS

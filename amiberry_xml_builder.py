@@ -330,10 +330,6 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
 
                 # '======== DISPLAY SETTINGS =======
                 # ' ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-                # ' screen Y/X Offsets
-
-                screen_offset_y = value_list("Screen_OffsetY.txt", sub_path)
-             #   screen_offset_x = value_list("Screen_OffsetX.txt", sub_path)
 
                 # ' screen heights { 200, 216, 240, 256, 262, 270 };
                 HW_HEIGHT = ""
@@ -366,6 +362,15 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                                 HW_WIDTH = "704"
                 if check_list("Screen_Width_768.txt", sub_path) is True:
                                 HW_WIDTH = "768"
+
+                # ' screen centering (recently added)
+                HW_H_CENTER = 'SMART'
+                if check_list('Screen_NoCenter_H.txt', sub_path) is True:
+                  HW_H_CENTER = 'NONE'
+
+                HW_V_CENTER = 'SMART'
+                if check_list('Screen_NoCenter_V.txt', sub_path) is True:
+                  HW_V_CENTER = 'NONE'
                                 
                 # ' extras
                 HW_NTSC = ""
@@ -597,10 +602,11 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                 if HW_WIDTH != "":
                     hardware += ("SCREEN_WIDTH") + HW_WIDTH + chr(10)
 
-                if screen_offset_y != 0:
-                    hardware += ("SCREEN_Y_OFFSET=") + str(screen_offset_y) + chr(10)
+                if HW_H_CENTER != '':
+                    hardware += ('SCREEN_CENTERH=') + HW_H_CENTER + chr(10)
 
-
+                if HW_V_CENTER != '':
+                    hardware += ('SCREEN_CENTERV=') + HW_V_CENTER + chr(10)
 
 
                 # MEMORY OPTIONS

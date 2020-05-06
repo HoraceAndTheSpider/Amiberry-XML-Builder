@@ -82,7 +82,7 @@ def check_list(in_file, game_name):
 print()
 print(
     text_utils.FontColours.BOLD + text_utils.FontColours.OKBLUE + "HoraceAndTheSpider and osvaldolove" + text_utils.FontColours.ENDC + "'s " + text_utils.FontColours.BOLD +
-    "Amiberry XML Builder" + text_utils.FontColours.ENDC + text_utils.FontColours.OKGREEN + " (0.5)" + text_utils.FontColours.ENDC + " | " + "" +
+    "Amiberry XML Builder" + text_utils.FontColours.ENDC + text_utils.FontColours.OKGREEN + " (0.6)" + text_utils.FontColours.ENDC + " | " + "" +
     text_utils.FontColours.FAIL + "www.ultimateamiga.co.uk" + text_utils.FontColours.ENDC)
 print()
 
@@ -299,6 +299,11 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                         SLAVE_XML = SLAVE_XML + chr(9)+ chr(9)+ chr(9) + '</custom>'  + chr(10)
                         
                     SLAVE_XML = SLAVE_XML + chr(9)+ chr(9)+ '</slave>'  + chr(10)
+
+                    # hardcoded fix for dodgy Benefactor CD32 v1.2 slave
+                    if this_file == "Benefactor_v1.2_CD32.lha":
+                        SLAVE_XML = SLAVE_XML.replace("$z÷ÄAú¨Nª","")
+                        
                     n=n+1
                     
                     

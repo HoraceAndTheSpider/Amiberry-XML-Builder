@@ -2,7 +2,6 @@
 BlackViperAGA
 BlackViperCD32
 BloodnetAGA
-BodyBlowsGalacticAGA
 CapitalPunishmentAGA
 CapitalPunishmentAGACD
 ChaosEngineAGA
@@ -17,7 +16,6 @@ DreamWebAGADe
 DungeonMaster2AGA
 FearsAGA
 FearsCD32
-IsharAGA
 Ishar2AGA
 Ishar3AGA
 Nicky2

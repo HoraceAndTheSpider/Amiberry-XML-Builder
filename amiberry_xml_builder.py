@@ -330,10 +330,6 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
 
                 # '======== DISPLAY SETTINGS =======
                 # ' ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-                # ' screen Y/X Offsets
-
-                screen_offset_y = value_list("Screen_OffsetY.txt", sub_path)
-             #   screen_offset_x = value_list("Screen_OffsetX.txt", sub_path)
 
                 # ' screen heights { 200, 216, 240, 256, 262, 270 };
                 HW_HEIGHT = ""
@@ -596,10 +592,6 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
 
                 if HW_WIDTH != "":
                     hardware += ("SCREEN_WIDTH") + HW_WIDTH + chr(10)
-
-                if screen_offset_y != 0:
-                    hardware += ("SCREEN_Y_OFFSET=") + str(screen_offset_y) + chr(10)
-
 
 
 

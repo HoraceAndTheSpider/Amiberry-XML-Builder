@@ -123,7 +123,8 @@ else:
 #XML_OLD = text_file.read()
 #text_file.close()
 
-
+# set the name of the db file
+whdbfile = 'whdload_db.xml'
       
 # >> Setup Bool Constant for xml refresh
 FULL_REFRESH  = args.refresh
@@ -136,7 +137,7 @@ XML_HEADER = XML_HEADER + '<whdbooter timestamp="' + datetime.datetime.now().str
 XML_OLD = ""
 
 if FULL_REFRESH == False:    
-    text_file = open("whdload_db.xml", "r")
+    text_file = open(whdbfile, "r")
     XML_OLD = text_file.read()
     text_file.close()
 
@@ -301,8 +302,8 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                     SLAVE_XML = SLAVE_XML + chr(9)+ chr(9)+ '</slave>'  + chr(10)
 
                     # hardcoded fix for dodgy Benefactor CD32 v1.2 slave
-                    if this_file == "Benefactor_v1.2_CD32.lha":
-                        SLAVE_XML = SLAVE_XML.replace("$z÷ÄAú¨Nª","")
+                    #if this_file == "Benefactor_v1.2_CD32.lha":
+                    #   SLAVE_XML = SLAVE_XML.replace("$z÷ÄAú¨Nª","")
                         
                     n=n+1
                     
@@ -695,9 +696,23 @@ XML = XML_HEADER + XML_OLD + XML + XML_FOOTER
 
 #print(XML)
 print("Generating XML File")
-text_file = open("whdload_db.xml", "w+")
+text_file = open(whdbfile, "w+")
 text_file.write(XML)
 text_file.close()
+
+######
+# no more offsetX/Y related lines and remove anythig else specified like blank lines
+offtext = ['SCREEN_X_OFFSET=', 'SCREEN_Y_OFFSET=', '\t\t\n']
+
+with open(whdbfile, 'r') as nomoreoffset:
+    olines = nomoreoffset.readlines()
+
+with open(whdbfile, 'w') as nomoreoffset:
+    for line in olines:
+        if not any(offset in line for offset in offtext) and all(ord(ch) < 128 for ch in line): #also ensure only ASCII character
+            nomoreoffset.write(line)
+#
+######
 
 text_file = open("files_scanned.txt", "w+")
 text_file.write(COMPLETE_MSG)

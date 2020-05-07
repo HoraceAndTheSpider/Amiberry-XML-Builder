@@ -302,8 +302,8 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                     SLAVE_XML = SLAVE_XML + chr(9)+ chr(9)+ '</slave>'  + chr(10)
 
                     # hardcoded fix for dodgy Benefactor CD32 v1.2 slave
-                    if this_file == "Benefactor_v1.2_CD32.lha":
-                        SLAVE_XML = SLAVE_XML.replace("$z÷ÄAú¨Nª","")
+                    #if this_file == "Benefactor_v1.2_CD32.lha":
+                    #   SLAVE_XML = SLAVE_XML.replace("$z÷ÄAú¨Nª","")
                         
                     n=n+1
                     

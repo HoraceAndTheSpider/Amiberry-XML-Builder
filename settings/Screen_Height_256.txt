@@ -74,6 +74,8 @@ LethalXcess
 Locomotion
 MeanArenas
 MegaLoMania
+MegaLoManiaDe
+MegaLoManiaFr
 Mercs
 MetalLaw
 Neuronics

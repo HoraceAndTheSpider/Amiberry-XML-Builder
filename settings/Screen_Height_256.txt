@@ -73,7 +73,6 @@ LeadingLapMPVAGA
 LethalXcess
 Locomotion
 MeanArenas
-MegaLoMania
 Mercs
 MetalLaw
 Neuronics

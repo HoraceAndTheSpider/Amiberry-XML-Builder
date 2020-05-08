@@ -32,9 +32,6 @@ Kingpin
 Kingpin1Mb
 Llamatron1MB
 LostInMine
-MegaLoMania
-MegaLoManiaDe
-MegaLoManiaFr
 MiamiChase
 NaughtyOnes
 Obsession

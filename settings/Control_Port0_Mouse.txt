@@ -331,6 +331,7 @@ LordsOfTheRealmAGAFast
 LordsOfTheRisingSun
 LostDutchmanMine
 LostPatrol
+LostPatrolNTSC
 LureOfTheTemptress
 M1TankPlatoon
 MadTV

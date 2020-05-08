@@ -371,6 +371,12 @@ LordsOfTheRealm
 LordsOfTheRealmAGA
 LordsOfTheRealmAGAFast
 LostDutchmanMine
+LostPatrol
+LostVikings
+LostVikingsDe
+LostVikingsDemo
+LostVikingsDemoFr
+LostVikingsFr
 Lotus
 Lotus2
 Lotus3
@@ -387,6 +393,9 @@ MaupitiIsland
 MaupitiIslandDe
 MaupitiIslandEs
 MaupitiIslandFr
+MeanStreets
+MeanStreetsDe
+MeanStreetsFr
 MegaBall
 MegaBall1MB
 MegaBallAGA
@@ -425,6 +434,7 @@ NewZealandStory
 Nicky2
 NickyBoom
 NightHawkF117A
+NinjaRemix
 NipponSafesInc
 NoSecondPrize
 NuclearWar

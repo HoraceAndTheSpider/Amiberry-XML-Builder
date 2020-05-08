@@ -80,17 +80,8 @@ Lionheart
 Lollypop
 LordsOfTheRisingSun
 LordsOfWar
-LostPatrol
-LostVikings
-LostVikingsDe
-LostVikingsDemo
-LostVikingsDemoFr
-LostVikingsFr
 MadTV
 MarbleMadness
-MeanStreets
-MeanStreetsDe
-MeanStreetsFr
 MidnightResistance
 Millennium22
 MythSystem3

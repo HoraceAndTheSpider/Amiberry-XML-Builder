@@ -7,5 +7,6 @@ Deliverance512k
 DynaBlaster
 FlinkCD32
 JamesPond3AGA
+JimPower
 Leander
 Nicky2

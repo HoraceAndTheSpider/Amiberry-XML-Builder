@@ -383,6 +383,7 @@ NightHawkF117A
 NipponSafesInc
 NoSecondPrize
 NuclearWar
+NuclearWarNTSC
 Obitus
 Obliterator
 OhNoMoreLemmings

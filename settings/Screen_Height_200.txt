@@ -180,6 +180,12 @@ DogsOfWar
 DonaldDucksPlayground
 DoubleDragon
 DragonsBreath
+DrakkhenFiles
+DrakkhenImage
+DrakkhenFilesDe
+DrakkhenImageDe
+DrakkhenFilesFr
+DrakkhenImageFr
 DreamWeb
 DreamWebAGA
 DreamWebAGADe
@@ -349,8 +355,6 @@ Kristal
 Kult
 LaserSquad
 LastDuel
-LastNinja2
-LastNinja3
 Leander
 Leatherneck
 LegendMindscape
@@ -417,6 +421,10 @@ Might&Magic2
 MiniGolfPlus
 Moebius
 MonkeyIsland2
+MonkeyIsland2De
+MonkeyIsland2Es
+MonkeyIsland2Fr
+MonkeyIsland2It
 MoonShineRacers
 Moonstone
 Motorhead
@@ -436,7 +444,6 @@ NewZealandStoryDemo
 Nicky2
 NickyBoom
 NightHawkF117A
-NinjaRemix
 NinjaWarriors
 NipponSafesInc
 Nitro
@@ -503,6 +510,10 @@ RType2
 SabreTeam
 SabreTeamAGA
 SecretOfMonkeyIsland
+SecretOfMonkeyIslandDe
+SecretOfMonkeyIslandEs
+SecretOfMonkeyIslandFr
+SecretOfMonkeyIslandIt
 Settlers
 Shadowgate
 Shadowlands

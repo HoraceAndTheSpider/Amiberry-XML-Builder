@@ -147,6 +147,14 @@ Dragonstone
 DragonstoneCD32
 DragonTiles
 DragonTilesAGA
+DrakkhenFiles
+DrakkhenImage
+DrakkhenFilesDe
+DrakkhenImageDe
+DrakkhenFilesFr
+DrakkhenImageFr
+DrakkhenFilesNTSC
+DrakkhenImageNTSC
 DreamWeb
 DreamWebAGA
 DreamWebAGADe

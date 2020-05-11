@@ -61,6 +61,8 @@ JungleStrikeCD32
 JurassicPark
 JurassicParkAGA
 KidGloves
+LastNinja2
+LastNinja3
 LegendOfTheSword
 Lemmings21MB
 Lemmings2512KB
@@ -101,7 +103,6 @@ RickDangerous25
 RoboCop3
 Rockford
 RuffNTumble
-SecretOfMonkeyIsland
 Sleepwalker
 SmashTV
 Soldier2000
@@ -125,8 +126,6 @@ TowerOfSouls
 TowerOfSoulsAGA
 TrapsNTreasures
 Troddlers
-Turrican
-Turrican2
 TyphoonThompson
 UniversalWarrior
 UniverseCD32

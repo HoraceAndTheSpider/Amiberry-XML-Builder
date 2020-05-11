@@ -94,6 +94,8 @@ TanksFurry
 TennisChamps
 TinyTroops
 TipOff
+Turrican3
+Turrican3Demo
 Ugh
 Vyrus
 WheelsOnFire

@@ -81,7 +81,8 @@ MetalLaw
 Neuronics
 OverdriveTeam17
 PacMania
-Putty
+Premiere
+PremierManager
 SantasXmasCaper
 SensibleGolf
 SlamTilt

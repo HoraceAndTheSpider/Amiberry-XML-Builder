@@ -30,6 +30,8 @@ ChuckRock2
 CrystalHammerV2
 DeepCore
 DGeneration
+DisposableHero
+DisposableHeroFast
 DoubleDragon
 DragonsLairEscape
 DynaBlaster
@@ -37,6 +39,7 @@ EmeraldMine
 Encounter
 EscapeFromColditz
 EscapeFTPOTRobotMonsters
+ExileAGA
 FantasyWorldDizzy
 FireAndIce
 Fire&Ice
@@ -93,16 +96,14 @@ OhNoMoreLemmings
 Odyssey
 PacLand
 ParasolStars
-PPHammer
+PoolOfRadiance
 ProTennisTour
 RainbowIslands
 RedHeat
-RickDangerous
-RickDangerous2
-RickDangerous25
 RoboCop3
 Rockford
 RuffNTumble
+RuffNTumble512k
 Sleepwalker
 SmashTV
 Soldier2000

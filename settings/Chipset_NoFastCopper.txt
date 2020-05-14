@@ -16,8 +16,10 @@ Hybris
 JupitersMasterdrive
 JurassicPark
 Necronom
+OperationJupiterFr
 RType2
 RuffNTumble
+RuffNTumble512k
 ShadowFighter
 ShadowOfTheBeast
 ShadowOfTheBeast3

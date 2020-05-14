@@ -38,8 +38,6 @@ Dennis
 DennisAGA
 DesertStrike
 DGeneration
-DisposableHero
-DisposableHeroFast
 DoubleDragon3
 DragonsLair
 DragonsLair2
@@ -114,6 +112,7 @@ NewYorkWarriors512KB
 NightbreedAction
 NinjaRemix
 Oath
+OverTheNet
 P47Thunderbolt
 Pang
 Paperboy
@@ -122,14 +121,14 @@ ParasolStars
 PersonalNightmare
 Pirates
 Populous2
-PrinceOfPersia
 ProTennisTour2
 PsychoSanta
 PuttySquadAGA
 Qwak
-RickDangerous
-RickDangerous2
 RiskyWoods
+RoadkillAGA
+RoadkillCD32
+RoadkillCD32NoIntro
 RoboCop2
 RoboSport
 RodLand

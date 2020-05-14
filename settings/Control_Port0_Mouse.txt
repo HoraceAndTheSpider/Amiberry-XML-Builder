@@ -398,8 +398,13 @@ OhNoMoreLemmings
 OhNoMoreLemmingsNTSC
 OilImperium
 Ooze
+OperationJupiterFr
 OperationNeptune
 OperationStealth
+OperationStealthDe
+OperationStealthEs
+OperationStealthFr
+OperationStealthIt
 OperationThunderbolt
 OperationWolf
 OutRunUSGold
@@ -420,6 +425,7 @@ PiratesGoldCD32
 PoliceQuest
 PoliceQuest2
 PoliceQuest3
+PoolOfRadiance
 Populous
 Populous2
 Populous2&ChallengeGames
@@ -428,11 +434,14 @@ PortsOfCall
 POW
 Powermonger
 PowermongerWW1Edition
+PremierManager
 QuestForGlory
 QuestForGlory2
 QuestForTimeBirdFiles
 QuestForTimeBirdImage
 RailroadTycoon
+RailroadTycoonDe
+RailroadTycoonFr
 Rampart
 Realms
 RealmsOfArkania
@@ -441,6 +450,8 @@ RedStormRising
 Resolution101
 Reunion
 RingsOfMedusa
+RiseOfTheDragon
+RiseOfTheDragonDe
 Risk
 RoboCop3
 SabreTeam

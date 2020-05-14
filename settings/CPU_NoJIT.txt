@@ -308,6 +308,7 @@ Obsession
 Odyssey
 OgAGA
 OneStepBeyond
+OperationJupiterFr
 OperationNeptune
 OperationThunderbolt
 OperationWolf
@@ -333,10 +334,13 @@ PinballIllusionsCD32
 PipeMania
 Populous
 Populous2
+Populous2&ChallengeGames
 Populous&DataDisks
 POW
 PPHammer
+PrinceDePerseFr
 PrinceOfPersia
+PrinceOfPersiaDe
 ProjectX
 ProjectXSE
 ProjectXSECD32
@@ -355,6 +359,7 @@ RoboCop2
 RType
 RType2
 RuffNTumble
+RuffNTumble512k
 SecondSamurai
 SensibleSoccer
 SensibleWorldOfSoccer

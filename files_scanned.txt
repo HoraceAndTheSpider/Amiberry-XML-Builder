@@ -1,4 +1,4 @@
-Scanned file log: 2020-05-13 at 03:00:04
+Scanned file log: 2020-05-15 at 03:00:05
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -409,7 +409,7 @@ Skipped: Megademo2_v1.1_Budbrain.lha
 Skipped: Megademo2_v1.1_Rebels.lha
 Skipped: Megademo3_v1.01_NorthStar&Fairlight.lha
 Skipped: Megademo3_v1.02_Alcatraz.lha
-Scanned: Megademo 3 NSFLT
+Skipped: Megademo3_v1.02_NorthStar&Fairlight.lha
 Skipped: Megademo3_v1.0_NorthStar&Fairlight.lha
 Skipped: Megademo4_v1.0_Kefrens&7UpCrew.lha
 Skipped: Megademo4_v1.2_Vision.lha
@@ -1302,7 +1302,7 @@ Skipped: BeneathASteelSky_v2.1_It.lha
 Skipped: BeneathASteelSky_v2.1_Se.lha
 Skipped: Benefactor_v1.1_0636.lha
 Skipped: Benefactor_v1.1_CD32.lha
-Scanned: Benefactor [CD32]
+Skipped: Benefactor_v1.2a_CD32.lha
 Skipped: Benefactor_v1.2_0636.lha
 Skipped: Benefactor_v1.2_CD32.lha
 Skipped: Berlin1948_v1.01_2241.lha
@@ -1617,9 +1617,9 @@ Skipped: ChaosEngine2_v2.2_AGA_0173.lha
 Skipped: ChaosEngine2_v2.4_AGA_0173.lha
 Skipped: ChaosEngine2_v2.5_0172.lha
 Skipped: ChaosEngine2_v2.5_1MB_0172.lha
-Scanned: Chaos Engine 2
-Scanned: Chaos Engine 21 MB
-Scanned: Chaos Engine 2 [AGA]
+Skipped: ChaosEngine2_v2.6_0172.lha
+Skipped: ChaosEngine2_v2.6_1MB_0172.lha
+Skipped: ChaosEngine2_v2.6_AGA_0173.lha
 Skipped: ChaosEngineDemo_v1.0.lha
 Skipped: ChaosEngine_v1.2_0106.lha
 Skipped: ChaosEngine_v1.2_AGA_1324.lha
@@ -1845,7 +1845,7 @@ Skipped: Damocles_v1.3_NTSC_1192.lha
 Skipped: DanDare3_v1.0_2257.lha
 Skipped: DanDare3_v1.1_2257.lha
 Skipped: DangerFreak_v1.0_0975.lha
-Scanned: Danger Freak
+Skipped: DangerFreak_v1.1_0975.lha
 Skipped: DangerousStreets_v1.2_AGA_1020.lha
 Skipped: Darius+_v1.0.lha
 Skipped: Darius+_v1.1_2303.lha
@@ -1886,7 +1886,7 @@ Skipped: DebutPlanetSimulation_v1.1.lha
 Skipped: DecimalDungeon_v1.0.lha
 Skipped: Deconstruction_v1.0_AGA.lha
 Skipped: Deconstruction_v1.1_AGA.lha
-Scanned: Deconstruction [AGA]
+Skipped: Deconstruction_v1.2_AGA.lha
 Skipped: DeepCore_v1.1.lha
 Skipped: DeepSpace_v1.2.lha
 Skipped: Deep_v1.0.lha
@@ -1971,9 +1971,9 @@ Skipped: Disc_v1.1_1503.lha
 Skipped: DisposableHero_v1.5_1367.lha
 Skipped: DisposableHero_v1.5_CD32.lha
 Skipped: DisposableHero_v1.5_Fast_1367.lha
-Scanned: Disposable Hero
-Scanned: Disposable Hero [CD32]
-Scanned: Disposable Hero (Fast)
+Skipped: DisposableHero_v1.6_1367.lha
+Skipped: DisposableHero_v1.6_CD32.lha
+Skipped: DisposableHero_v1.6_Fast_1367.lha
 Skipped: DistantArmies_v1.0_2551.lha
 Skipped: Ditris_v1.0.lha
 Skipped: DizzyCollection_v1.2.lha
@@ -3269,8 +3269,8 @@ Skipped: MagicPockets_v2.2_0917.lha
 Skipped: MagicPockets_v2.2_NTSC.lha
 Skipped: MagicPockets_v3.0_0917.lha
 Skipped: MagicPockets_v3.0_NTSC.lha
-Scanned: Magic Pockets
-Scanned: Magic Pockets (NTSC)
+Skipped: MagicPockets_v3.1_0917.lha
+Skipped: MagicPockets_v3.1_NTSC.lha
 Skipped: Magnatron_v1.2.lha
 Skipped: MajorMotion_v1.0_1756.lha
 Skipped: ManchesterUnitedEurope20_v1.0_1104.lha
@@ -4762,7 +4762,7 @@ Skipped: TintinOnTheMoon_v1.3_Files_1778.lha
 Skipped: TintinOnTheMoon_v1.3_Image_1778.lha
 Skipped: TinToyAdventure_v1.0_AGA.lha
 Skipped: TinToyAdventure_v1.2_AGA.lha
-Scanned: Tin Toy Adventure [AGA]
+Skipped: TinToyAdventure_v1.3_AGA.lha
 Skipped: TinySkweeks_v1.0_2402.lha
 Skipped: TinyTroops_v1.2.lha
 Skipped: TinyTroops_v1.2_CD.lha

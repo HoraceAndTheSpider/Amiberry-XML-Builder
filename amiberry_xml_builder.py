@@ -158,9 +158,6 @@ ERROR_MSG    = 'Problem file log: ' + datetime.datetime.now().strftime("%Y-%m-%d
 COMPLETE_MSG = 'Scanned file log: ' + datetime.datetime.now().strftime("%Y-%m-%d at %H:%M:%S") + '' + chr(10)
 
 
-
-
-
 for file2 in Path(input_directory + "/").glob('**/*.lha'):
     archive_path = str(file2)
     this_file = os.path.basename(archive_path)
@@ -301,10 +298,6 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                         
                     SLAVE_XML = SLAVE_XML + chr(9)+ chr(9)+ '</slave>'  + chr(10)
 
-                    # hardcoded fix for dodgy Benefactor CD32 v1.2 slave
-                    #if this_file == "Benefactor_v1.2_CD32.lha":
-                    #   SLAVE_XML = SLAVE_XML.replace("$z÷ÄAú¨Nª","")
-                        
                     n=n+1
                     
                     

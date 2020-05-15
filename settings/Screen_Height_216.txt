@@ -102,7 +102,6 @@ PoolOfRadiance
 ProTennisTour
 RainbowIslands
 RedHeat
-RoboCop3
 Rockford
 RuffNTumble
 RuffNTumble512k

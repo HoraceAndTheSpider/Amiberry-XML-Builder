@@ -532,6 +532,7 @@ RiseOfTheDragonDe
 RiseOfTheRobotsAGA
 Risk
 RoboCop
+RoboCop3
 Rogue
 RType
 RType2

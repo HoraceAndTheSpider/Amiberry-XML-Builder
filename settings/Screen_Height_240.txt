@@ -113,11 +113,13 @@ NightbreedAction
 NinjaRemix
 Oath
 OverTheNet
+OverTheNetNTSC
 P47Thunderbolt
 Pang
 Paperboy
 Paperboy2
 ParasolStars
+Pegasus
 PersonalNightmare
 Pirates
 Populous2

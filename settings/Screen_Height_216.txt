@@ -53,6 +53,7 @@ Heimdall2
 Heimdall2AGA
 Heimdall2CD32
 HiredGuns1MB
+Hostages
 JaguarXJ220Files
 JaguarXJ220FilesChip
 JaguarXJ220Image
@@ -94,6 +95,7 @@ NorthAndSouthImage
 NorthAndSouthFiles
 OhNoMoreLemmings
 Odyssey
+OperationJupiterFr
 PacLand
 ParasolStars
 PoolOfRadiance

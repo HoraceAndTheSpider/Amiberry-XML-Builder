@@ -420,11 +420,11 @@ PinballFntsiesAGA
 PinballFntsiesCD32
 PinballIllusionsAGA
 PinballIllusionsCD32
-Pirates
-PiratesGoldCD32
 PoliceQuest
 PoliceQuest2
 PoliceQuest3
+PoolsOfDarkness
+PoolsOfDarknessDe
 PoolOfRadiance
 Populous
 Populous2

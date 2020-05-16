@@ -37,10 +37,10 @@ NaughtyOnes
 Obsession
 Overdrive
 PacMania
-PinballDreams
 PinballFntsies
 PinballFntsiesAGA
 PinballFntsiesCD32
+PinballFntsiesAGAChip
 PinballIllusionsAGA
 PinballIllusionsCD32
 RevengeOfMutantCamels

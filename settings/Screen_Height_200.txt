@@ -286,7 +286,6 @@ HighSeasTraderAGA
 Hillsfar
 Hilt
 Hook
-Hostages
 HudsonHawk
 Humans
 Humans2
@@ -457,7 +456,6 @@ OilImperium
 OmnicronConspiracy
 OneStepBeyond
 Ooze
-OperationJupiterFr
 OperationNeptune
 OperationStealth
 OperationStealthDe
@@ -479,17 +477,20 @@ Patrician
 Perihelion
 PersianGulfInferno
 PipeMania
-Pirates
 PiratesGoldCD32
 Plutos
 PoliceQuest
 PoliceQuest2
 PoliceQuest3
+PoolsOfDarkness
+PoolsOfDarknessDe
 Populous
 Populous&DataDisks
 Populous2&ChallengeGames
 PortsOfCall
 POW
+Powermonger
+PowermongerWW1Edition
 PPHammer
 Predator
 Predator2
@@ -499,6 +500,7 @@ PrinceOfPersia
 PrinceOfPersiaDe
 Prophecy1VikingChild
 ProTennisTour
+PushOver
 Putty
 QuestForGlory
 QuestForGlory2
@@ -530,6 +532,7 @@ RiseOfTheDragonDe
 RiseOfTheRobotsAGA
 Risk
 RoboCop
+RoboCop3
 Rogue
 RType
 RType2

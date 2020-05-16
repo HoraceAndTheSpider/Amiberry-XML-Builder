@@ -241,6 +241,8 @@ LethalWeapon
 LethalXcess
 Links
 Lionheart
+LionheartDemo
+LionheartDemo1MB
 LittleComputerPeople
 Logical
 Lollypop

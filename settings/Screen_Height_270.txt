@@ -3,6 +3,7 @@ Damage
 DamagePreview
 DeluxeGalaga
 DeluxeGalagaAGA
+Exile
 FootballGloryAGA
 ManchesterUnitedEurope
 ManchesterUnitedEurope23

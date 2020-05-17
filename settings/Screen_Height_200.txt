@@ -267,6 +267,7 @@ Gunship
 Gunship2000
 Gunship2000AGA
 Gunship2000CD32
+Hammerfist
 HardBall
 HardBall2
 HardDrivin

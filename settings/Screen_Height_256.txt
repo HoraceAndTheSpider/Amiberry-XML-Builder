@@ -47,7 +47,6 @@ DragonTiles
 DragonTilesAGA
 Embryo
 Executioner
-Exile
 Fire&Ice
 Fire&IceCD32
 FlimbosQuest

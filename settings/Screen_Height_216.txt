@@ -107,7 +107,11 @@ RedHeat
 Rockford
 RuffNTumble
 RuffNTumble512k
+ScoobyDoo&ScrappyDoo
 Sleepwalker
+SleepwalkerAGA
+SleepwalkerAGAComicRelief
+SleepwalkerComicRelief
 SmashTV
 Soldier2000
 SpindizzyWorlds
@@ -116,11 +120,10 @@ StegTheSlug
 Strider
 Strider2
 STUNRunner
-SuperOffRoad
 SuperSki
 SuperSkweek
+SuprStrtFtr2TrboAGA
 SuspiciousCargo
-Switchblade
 TennisCup1Mb
 TestDrive2
 ThemePark

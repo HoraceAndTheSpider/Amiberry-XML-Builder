@@ -3,6 +3,7 @@ Damage
 DamagePreview
 DeluxeGalaga
 DeluxeGalagaAGA
+Exile
 FootballGloryAGA
 ManchesterUnitedEurope
 ManchesterUnitedEurope23
@@ -14,8 +15,8 @@ SensibleSoccer
 SensibleWorldOfSoccer
 SensibleWorldOfSoccer11
 SensibleWorldOfSoccer9596
-SensibleWorldOfSoccer9697
-Speedball
-SWIV
+Settlers
+SettlersFr
+SuperStardustAGA
 TurboRaketti2
 TurboRaketti2Fi

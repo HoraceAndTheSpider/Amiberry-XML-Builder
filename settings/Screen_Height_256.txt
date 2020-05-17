@@ -47,7 +47,6 @@ DragonTiles
 DragonTilesAGA
 Embryo
 Executioner
-Exile
 Fire&Ice
 Fire&IceCD32
 FlimbosQuest
@@ -85,12 +84,17 @@ Premiere
 PremierManager
 SantasXmasCaper
 SensibleGolf
-SlamTilt
+SkeletonKrewAGA
+Skweek
 SlamTiltAGA
+SlamTiltDemoAGA
 SolomonsKey2
+SpaceCrusade
+SpaceCrusade&VoyageBeyond
 SuperfrogCD32
 SuprTennisChmps
 Switchblade2
+SWIV
 TanksFurry
 TennisChamps
 TinyTroops

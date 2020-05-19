@@ -22,10 +22,14 @@ RuffNTumble
 RuffNTumble512k
 ShadowFighter
 ShadowOfTheBeast
+ShadowOfTheBeastDemo
+ShadowOfTheBeast2
+ShadowOfTheBeast2Demo
 ShadowOfTheBeast3
 SuperStardustAGA
 Wolfchild
 YoJoe
+YoJoeDemo
 Zarathrusta
 Zool
 Zool2

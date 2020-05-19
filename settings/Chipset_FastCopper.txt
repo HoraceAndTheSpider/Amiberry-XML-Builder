@@ -11,3 +11,6 @@ JimPower
 Leander
 Nicky2
 RiskyWoods
+Seek&Destroy
+Seek&DestroyAGA
+ShadowFighterAGA

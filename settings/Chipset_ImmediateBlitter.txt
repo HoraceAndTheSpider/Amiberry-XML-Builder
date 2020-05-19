@@ -28,6 +28,9 @@ SensibleWorldOfSoccer
 SensibleWorldOfSoccer11
 SensibleWorldOfSoccer9596
 SensibleWorldOfSoccer9697
+Settlers
+SettlersFr
+ShadowFighterAGA
 Simulcra
 Speedball
 Sqrxz
@@ -36,8 +39,11 @@ Sqrxz3
 Sqrxz4
 StarCrusader
 StarCrusaderAGA
+SuperCars2Disk
+SuperCars1Disk
 SuperStardustAGA
 ThunderStrike
 Unreal
+UnrealNTSC
 WheelsOnFire
 XP8AGA

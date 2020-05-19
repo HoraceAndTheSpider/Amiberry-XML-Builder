@@ -2,3 +2,12 @@ BansheeAGA
 BodyBlowsAGA
 BodyBlowsGalacticAGA
 RoboCop2
+Stardust
+SuperfrogDemoAmigaAction
+SuperfrogDemoCUAmiga
+SuperfrogDemoTheOne
+Superfrog
+TestDrive
+TreasureTrap
+VenusTheFlytrap
+VenusTheFlytrapNoIntro

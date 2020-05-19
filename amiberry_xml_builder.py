@@ -158,9 +158,6 @@ ERROR_MSG    = 'Problem file log: ' + datetime.datetime.now().strftime("%Y-%m-%d
 COMPLETE_MSG = 'Scanned file log: ' + datetime.datetime.now().strftime("%Y-%m-%d at %H:%M:%S") + '' + chr(10)
 
 
-
-
-
 for file2 in Path(input_directory + "/").glob('**/*.lha'):
     archive_path = str(file2)
     this_file = os.path.basename(archive_path)
@@ -301,10 +298,6 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                         
                     SLAVE_XML = SLAVE_XML + chr(9)+ chr(9)+ '</slave>'  + chr(10)
 
-                    # hardcoded fix for dodgy Benefactor CD32 v1.2 slave
-                    #if this_file == "Benefactor_v1.2_CD32.lha":
-                    #   SLAVE_XML = SLAVE_XML.replace("$z÷ÄAú¨Nª","")
-                        
                     n=n+1
                     
                     
@@ -631,17 +624,17 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                 custom_file = "customcontrols/" + full_game_name + ".controls"
                 custom_text = ""
                                 
-                if os.path.isfile(custom_file) == True:
-
                 # remove any items which are not amiberry custom settings
+                if os.path.isfile(custom_file) == True:
                     with open(custom_file) as f:
                         content = f.readlines()
                     f.close()
                                     
                     for this_line in content:
-                        if this_line.find("amiberry_custom") > -1:
-                            custom_text += this_line
-
+                      if this_line.find('amiberry_custom') > -1 and '\n' in this_line:
+                        custom_text += chr(9) + chr(9) + this_line
+                      elif this_line.find('amiberry_custom') > -1 and not '\n' in this_line:
+                        custom_text += chr(9) + chr(9) + this_line + chr(10)
 
                 # 
                 extra_libs = "False"
@@ -666,7 +659,7 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
 
 
                 if len(custom_text)>0:
-                    XML = XML + chr(9)+ chr(9) + '<custom_controls>' + chr(10) + custom_text  + chr(10) + chr(9) + chr(9) + '</custom_controls>' + chr(10)
+                    XML = XML + chr(9)+ chr(9) + '<custom_controls>' + chr(10) + custom_text  + chr(9) + chr(9) + '</custom_controls>' + chr(10)
                 
                 XML = XML + chr(9)+ '</game>' + chr(10)
 

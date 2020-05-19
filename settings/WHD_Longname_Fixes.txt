@@ -1038,7 +1038,7 @@ XIt|X-It
 Xmas Lemmings Demo 1991|Xmas Lemmings (1991 Demo)
 Xmas Lemmings Demo 1992|Xmas Lemmings (1992 Demo)
 XOut (2 Disk)|X-Out (2 Disk)
-XOut|X-Out
+XOut (1 Disk)|X-Out (1 Disk)
 XP 8 [AGA]|XP8 [AGA]
 XP 8|XP8
 XR 35|XR35

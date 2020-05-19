@@ -36,7 +36,6 @@ MiamiChase
 NaughtyOnes
 Obsession
 Overdrive
-PacMania
 PinballFntsies
 PinballFntsiesAGA
 PinballFntsiesCD32
@@ -59,6 +58,11 @@ Superfrog
 TZer0DemoAGA
 Worms
 Worms2MB
+Worms1MB
+WormsDCAGA8MB
+WormsDCAGA12MB
+WormsDCAGA
+WormsDirectorsCutAGA
 Zarathrusta
 Zool
 Zool2

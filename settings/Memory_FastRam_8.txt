@@ -13,6 +13,11 @@ Fire&Forget2
 Settlers
 SettlersFr
 SoccerKidAGA
+UFOEnemyUnknownAGA
+UFOEnemyUnknownCD32
+Waxworks
+WaxworksDe
+WaxworksFr
 WormsDCAGA
 WormsDCAGA8MB
 WormsDCAGA12MB

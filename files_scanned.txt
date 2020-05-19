@@ -1,4 +1,4 @@
-Scanned file log: 2020-05-18 at 02:00:04
+Scanned file log: 2020-05-19 at 17:32:47
 Scanned: 1001 Stolen Ideas
 Scanned: 1001 Stolen Ideas
 Scanned: 242
@@ -119,6 +119,7 @@ Scanned: Cutcreations
 Scanned: Cuzco [AGA]
 Scanned: Cyber Sounds
 Scanned: C 64 Demos
+Scanned: Call It Wot Ya Want
 Scanned: Can IPlay With Madness
 Scanned: Capricorn One
 Scanned: Captured Dreams [AGA]
@@ -482,6 +483,7 @@ Scanned: Metamorphosis
 Scanned: Miami Vice Theme
 Scanned: Micro Concept
 Scanned: Mina Omistan [AGA]
+Scanned: Mindfield
 Scanned: Mind Riot
 Scanned: Mini Megademo Doom
 Scanned: Mini Soundbox 1
@@ -493,6 +495,7 @@ Scanned: Misery Dentro 2
 Scanned: Mixolydian
 Scanned: Mobile Destination Unknown
 Scanned: Moin Jungs
+Scanned: Monolith
 Scanned: Monoxide
 Scanned: Morbid Visions 2
 Scanned: Morbid Visions 3
@@ -738,6 +741,8 @@ Scanned: Sound Disk Zenith
 Scanned: Soundtracker Injury 3
 Scanned: Stag 1
 Scanned: Stop Fascism
+Scanned: Soundtracker Injury 4
+Scanned: Soundtracker Injury
 Scanned: Soundtrip
 Scanned: Sound Vision
 Scanned: Sozzled Somersault
@@ -837,6 +842,7 @@ Scanned: We Will Smash You
 Scanned: When We Ride [AGA]
 Scanned: White Room
 Scanned: Wibbly Wobbly
+Scanned: Wicked House
 Scanned: Wicked Sensation
 Scanned: Wild [AGA]
 Scanned: Wind It Up
@@ -1975,6 +1981,9 @@ Scanned: Disposable Hero (Fast)
 Scanned: Disposable Hero
 Scanned: Disposable Hero [CD32]
 Scanned: Disposable Hero (Fast)
+Scanned: Disposable Hero
+Scanned: Disposable Hero [CD32]
+Scanned: Disposable Hero (Fast)
 Scanned: Distant Armies - A Playing History of Chess
 Scanned: Ditris
 Scanned: Dizzy Collection
@@ -2424,6 +2433,8 @@ Scanned: Fire & Ice [CD32]
 Scanned: Fire And Brimstone
 Scanned: Fire And Ice
 Scanned: Fire And Ice [CD32]
+Scanned: Fire And Ice [CD32]
+Scanned: Fire And Ice
 Scanned: Fireblaster
 Scanned: Guardian Angel
 Scanned: Guardian [AGA]
@@ -3268,6 +3279,8 @@ Scanned: Magicland Dizzy
 Scanned: Magic Marble
 Scanned: Magic Marble
 Scanned: Magic Pockets (Demo)
+Scanned: Magic Pockets
+Scanned: Magic Pockets (NTSC)
 Scanned: Magic Pockets
 Scanned: Magic Pockets (NTSC)
 Scanned: Magic Pockets
@@ -5155,7 +5168,7 @@ Scanned: Xenon
 Scanned: Xenophobe
 Scanned: Xiphos
 Scanned: X-It
-Scanned: XOut (1 Disk)
+Scanned: X-Out (1 Disk)
 Scanned: X-Out (2 Disk)
 Scanned: XP8
 Scanned: XP8 [AGA]

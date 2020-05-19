@@ -59,8 +59,6 @@ JungleStrikeCD32
 JurassicPark
 JurassicParkAGA
 KidGloves
-LastNinja2
-LastNinja3
 LegendOfTheSword
 Lemmings21MB
 Lemmings2512KB

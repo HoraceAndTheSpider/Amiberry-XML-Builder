@@ -366,6 +366,8 @@ Kristal
 Kult
 LaserSquad
 LastDuel
+LastNinja2
+LastNinja3
 Leander
 Leatherneck
 LegendMindscape
@@ -457,6 +459,7 @@ NewZealandStoryDemo
 Nicky2
 NickyBoom
 NightHawkF117A
+NinjaRemix
 NinjaWarriors
 NipponSafesInc
 Nitro

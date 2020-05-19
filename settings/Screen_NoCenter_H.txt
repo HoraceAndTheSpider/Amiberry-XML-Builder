@@ -7,3 +7,7 @@ SuperfrogDemoAmigaAction
 SuperfrogDemoCUAmiga
 SuperfrogDemoTheOne
 Superfrog
+TestDrive
+TreasureTrap
+VenusTheFlytrap
+VenusTheFlytrapNoIntro

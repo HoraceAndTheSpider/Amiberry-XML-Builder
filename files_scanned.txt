@@ -1,4 +1,4 @@
-Scanned file log: 2020-05-20 at 03:00:06
+Scanned file log: 2020-05-22 at 03:00:04
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -608,6 +608,7 @@ Skipped: Prime90_v1.0_Mirage.lha
 Skipped: Prism_v1.0_MelonDezign.lha
 Skipped: ProjectBeat_v1.0_Crusaders.lha
 Skipped: ProjectTechno_v1.0_Quartz.lha
+Scanned: Propaganda Zero Defects
 Skipped: Propaganda_v1.0_ZeroDefects.lha
 Skipped: ProSIAK_v1.0_FlyingCowsInc.lha
 Skipped: Psychedelic_v1.0_Fairlight&VirtualDreams_AGA.lha
@@ -892,6 +893,7 @@ Skipped: AventuraEspacial_v1.0_Es.lha
 Skipped: AventuraOriginal_v1.0_Es.lha
 Skipped: AventuresDeMoktar_v2.0_Fr_1636.lha
 Skipped: AventuresDeMoktar_v2.1_Fr_1636.lha
+Scanned: Aventures De Moktar (Francais)
 Skipped: AwesomeDemo_v1.0_1450.lha
 Skipped: Awesome_v2.1_0431.lha
 Skipped: AxelsMagicHammer_v1.1_0432.lha
@@ -2322,6 +2324,7 @@ Skipped: FlightSimulator2&SceneryDisk14_v1.0_0329.lha
 Skipped: FlightSimulator2_v1.0_0329.lha
 Skipped: FlimbosQuest_v2.1a_0121.lha
 Skipped: FlimbosQuest_v2.2_0121.lha
+Scanned: Flimbo's Quest
 Skipped: Flink_v2.4_CD32.lha
 Skipped: Flintstones_v1.0_0503.lha
 Skipped: FlipFlop_v1.0.lha
@@ -2442,6 +2445,8 @@ Skipped: Guardian_v1.0_CD32.lha
 Skipped: GuildOfThieves_v1.0_0271.lha
 Skipped: GuldkornExpressen_v1.1_Dk_1MB.lha
 Skipped: GuldkornExpressen_v1.1_Dk_512KB.lha
+Scanned: Gulp
+Scanned: Gulp [CD32]
 Skipped: GunbeeF99_v1.1_AGA.lha
 Skipped: Gunboat_v1.0_2997.lha
 Skipped: Gunship2000_v3.1_0808.lha
@@ -3918,6 +3923,7 @@ Skipped: Quadralien_v1.0_0918.lha
 Skipped: Quadrel_v1.0_0380.lha
 Skipped: Quartz_v1.1_2020.lha
 Skipped: QuasarWars_v1.0_AGA.lha
+Scanned: Quasar Wars [AGA]
 Skipped: QuestForGlory2_v1.2.lha
 Skipped: QuestForGlory2_v1.3_1868.lha
 Skipped: QuestForGlory2_v1.3_MT32_1868.lha
@@ -4432,6 +4438,8 @@ Skipped: Starquake_v1.1.lha
 Skipped: StarRay_v3.0_2Disk.lha
 Skipped: StarRay_v3.1.lha
 Skipped: StarRay_v3.1_NoIntro_1721.lha
+Scanned: Star Ray
+Scanned: Star Ray No Intro
 Skipped: StarTrash_v1.1_0695.lha
 Skipped: StarTrek25thAnniversary_v1.0_AGA_1466.lha
 Skipped: StarTrek25thAnniversary_v1.0_AGA_De_1687.lha
@@ -4791,6 +4799,7 @@ Skipped: TipOff_v1.0_NTSC.lha
 Skipped: TitanicBlinky_v1.1.lha
 Skipped: TitusTheFox_v2.0_0226.lha
 Skipped: TitusTheFox_v2.1_0226.lha
+Scanned: Titus the Fox - To Marrakech and Back
 Skipped: Toki_v2.3_0040.lha
 Skipped: TomAndTheGhost_v1.0_2298.lha
 Skipped: TomLandryStrategyFootballDeluxe_v1.0_1845.lha
@@ -5035,6 +5044,7 @@ Skipped: WarZone_v1.1_Paradox_1212.lha
 Skipped: WarZone_v2.0_CoreDesign_0598.lha
 Skipped: Watchtower_v1.0_AGA_1071.lha
 Skipped: Watchtower_v1.1_AGA_1071.lha
+Scanned: Watchtower [AGA]
 Skipped: Waterloo_v1.1_1938.lha
 Skipped: Waxworks_v1.1_2274.lha
 Skipped: Waxworks_v1.1_De.lha

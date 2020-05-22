@@ -12,8 +12,6 @@ Assassin
 AssassinSpecialEdition
 Benefactor
 BodyBlowsAGA
-BubbleAndSqueak
-BubbleAndSqueakAGA
 CapitalPunishmentAGA
 CapitalPunishmentAGACD
 Cedric

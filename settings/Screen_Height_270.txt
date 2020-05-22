@@ -1,4 +1,6 @@
 ApanoSin
+BubbleAndSqueak
+BubbleAndSqueakAGA
 Damage
 DamagePreview
 DeluxeGalaga

@@ -1,5 +1,7 @@
 Cybernoid
 Cybernoid2
+GloomCD32
+Heimdall2CD32
 MidnightResistance
 NewZealandStory
 SyndicateCD32

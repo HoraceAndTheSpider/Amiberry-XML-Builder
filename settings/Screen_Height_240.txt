@@ -81,6 +81,9 @@ GloomCD32
 GreatCourts2
 GreatCourts2512KB
 GuardianAGA
+Heimdall2
+Heimdall2AGA
+Heimdall2CD32
 IndyHeat
 JamesPond3AGA
 JamesPond3CD32

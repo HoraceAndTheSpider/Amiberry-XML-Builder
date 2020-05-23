@@ -8,6 +8,7 @@ DynaBlaster
 FlinkCD32
 JamesPond3AGA
 JimPower
+KidChaos
 Leander
 Nicky2
 RiskyWoods

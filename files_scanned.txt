@@ -1,4 +1,4 @@
-Scanned file log: 2020-05-27 at 03:00:06
+Scanned file log: 2020-05-29 at 03:00:04
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -1100,14 +1100,14 @@ Skipped: Assassin_v1.2a_1214.lha
 Skipped: Assassin_v1.2_1214.lha
 Skipped: Astaroth_v1.0_1321.lha
 Skipped: Astatin_v1.0.lha
-Scanned: Asterix Chez Rahazade (Francais)
-Scanned: Asterix El Golpe Del Menhir (Espanol)
-Scanned: Asterix Im Morgenland (Deutsch)
-Scanned: Asterix Le Coup Du Menhir (Francais)
+Skipped: AsterixChezRahazade_v1.0_Fr.lha
+Skipped: AsterixElGolpeDelMenhir_v2.0_Es.lha
+Skipped: AsterixImMorgenland_v1.0_De_0631.lha
+Skipped: AsterixLeCoupDuMenhir_v2.0_Fr.lha
 Skipped: AsterixOperationGetafix_v1.3_1009.lha
-Scanned: Asterix - Operation Getafix
+Skipped: AsterixOperationGetafix_v2.0_1009.lha
 Skipped: AsterixOperationHinkelstein_v1.3_De_0630.lha
-Scanned: Asterix Op Hinkelstein (Deutsch)
+Skipped: AsterixOperationHinkelstein_v2.0_De_0630.lha
 Skipped: AstroMarineCorps_v1.2.lha
 Skipped: Atax_v1.0_0950.lha
 Skipped: Atlantyda_v1.1_Pl.lha
@@ -1850,7 +1850,7 @@ Skipped: Dune_v3.1_Fr_2393.lha
 Skipped: Dune_v3.1_It_2594.lha
 Skipped: DungeonMaster2_v1.0_AGA_0899.lha
 Skipped: DungeonMaster_v1.2_0833.lha
-Scanned: Dungeon Master
+Skipped: DungeonMaster_v1.3_0833.lha
 Skipped: DungeonQuest_v1.0_0663.lha
 Skipped: DalekAttack_v1.2_1998.lha
 Skipped: DaleyThompsonsOlympicChallenge_v1.0_1Disk_0957.lha
@@ -2455,6 +2455,7 @@ Skipped: GuldkornExpressen_v1.1_Dk_1MB.lha
 Skipped: GuldkornExpressen_v1.1_Dk_512KB.lha
 Skipped: Gulp_v1.0_2632.lha
 Skipped: Gulp_v1.0_CD32.lha
+Scanned: Gulp
 Skipped: GunbeeF99_v1.1_AGA.lha
 Skipped: Gunboat_v1.0_2997.lha
 Skipped: Gunship2000_v3.1_0808.lha
@@ -4796,7 +4797,7 @@ Skipped: TintinOnTheMoon_v1.3_Files_1778.lha
 Skipped: TintinOnTheMoon_v1.3_Image_1778.lha
 Skipped: TinToyAdventure_v1.0_AGA.lha
 Skipped: TinToyAdventure_v1.2_AGA.lha
-Scanned: Tin Toy Adventure [AGA]
+Skipped: TinToyAdventure_v1.3-B_AGA.lha
 Skipped: TinToyAdventure_v1.3_AGA.lha
 Skipped: TinySkweeks_v1.0_2402.lha
 Skipped: TinyTroops_v1.2.lha

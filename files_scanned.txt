@@ -1,4 +1,4 @@
-Scanned file log: 2020-06-03 at 03:00:05
+Scanned file log: 2020-06-05 at 03:00:07
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -340,7 +340,7 @@ Skipped: Kerygma_v1.0_Wizzcat.lha
 Skipped: KiwiCrap_v1.0_Reality.lha
 Skipped: KraftwerkMegaMix_v1.0_Spacecake.lha
 Skipped: KrestMassLeftovers_v1.0_Anarchy.lha
-Scanned: Krest Mass Leftovers
+Skipped: KrestMassLeftovers_v1.1_Anarchy.lha
 Skipped: Kuglepoelen_v1.0_StaticBytes.lha
 Skipped: LastSun_v1.0_Ackerlight.lha
 Skipped: LaternaMagica_v1.0_SurpriseProductions.lha
@@ -2456,7 +2456,7 @@ Skipped: GuldkornExpressen_v1.1_Dk_1MB.lha
 Skipped: GuldkornExpressen_v1.1_Dk_512KB.lha
 Skipped: Gulp_v1.0_2632.lha
 Skipped: Gulp_v1.0_CD32.lha
-Scanned: Gulp
+Skipped: Gulp_v1.1-C_2632.lha
 Skipped: Gulp_v1.1_2632.lha
 Skipped: GunbeeF99_v1.1_AGA.lha
 Skipped: Gunboat_v1.0_2997.lha
@@ -2548,7 +2548,7 @@ Skipped: Gobliins2_v1.4_Es.lha
 Skipped: Gobliins2_v1.4_Fr_2866.lha
 Skipped: Gobliins2_v1.4_It.lha
 Skipped: Goblins3_v2.3.lha
-Scanned: Goblins 3
+Skipped: Goblins3_v3.0.lha
 Skipped: Godfather_v1.1a_1331.lha
 Skipped: GodsDemo_v1.0.lha
 Skipped: Gods_v2.3.1_0666.lha
@@ -3830,9 +3830,9 @@ Skipped: Pool_v1.0_2177.lha
 Skipped: Popeye2_v1.1.lha
 Skipped: Populous&DataDisks_v1.1_0069&1217.lha
 Skipped: Populous2&ChallengeGames_v1.3_0079.lha
-Scanned: Populous 2 (& Challenge Games)
+Skipped: Populous2&ChallengeGames_v2.0_0079.lha
 Skipped: Populous2_v1.3_0079.lha
-Scanned: Populous 2
+Skipped: Populous2_v2.0_0079.lha
 Skipped: PopulousWorldEditor_v1.0_0711.lha
 Skipped: Populous_v1.1_0069.lha
 Skipped: Portal_v1.1.lha
@@ -4815,7 +4815,7 @@ Skipped: TitanicBlinky_v1.1.lha
 Skipped: TitusTheFox_v2.0_0226.lha
 Skipped: TitusTheFox_v2.1_0226.lha
 Skipped: TitusTheFox_v2.3_0226.lha
-Scanned: Toki
+Skipped: Toki_v2.3a_0040.lha
 Skipped: Toki_v2.3_0040.lha
 Skipped: TomAndTheGhost_v1.0_2298.lha
 Skipped: TomLandryStrategyFootballDeluxe_v1.0_1845.lha

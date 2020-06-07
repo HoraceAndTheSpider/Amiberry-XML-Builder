@@ -347,7 +347,7 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                 if check_list("Screen_Height_200.txt", sub_path) is True:
                                 HW_HEIGHT = "200"
 
-                # ' screen widths  { 320, 352, 384, 640, 704, 768 };
+                # ' screen widths  { 320, 352, 384, 640, 704, 720, 768 };
                 HW_WIDTH = ""
                 if check_list("Screen_Width_320.txt", sub_path) is True:
                                 HW_WIDTH = "320"
@@ -359,6 +359,8 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                                 HW_WIDTH = "640"
                 if check_list("Screen_Width_704.txt", sub_path) is True:
                                 HW_WIDTH = "704"
+                if check_list("Screen_Width_720.txt", sub_path) is True:
+                                HW_WIDTH = "720"
                 if check_list("Screen_Width_768.txt", sub_path) is True:
                                 HW_WIDTH = "768"
 

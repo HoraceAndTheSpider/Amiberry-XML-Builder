@@ -233,6 +233,7 @@ FA18Interceptor
 Falcon
 FateGatesOfDawn
 FIFAInternationalSoccer
+FinalBlow
 FireAndBrimstone
 Fire&Forget
 Fire&Forget2
@@ -495,6 +496,7 @@ Perihelion
 PersianGulfInferno
 PipeMania
 PiratesGoldCD32
+PitFighter
 Plutos
 PoliceQuest
 PoliceQuest2

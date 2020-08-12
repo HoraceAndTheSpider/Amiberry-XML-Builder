@@ -322,32 +322,27 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                 print("Default Slave: " + text_utils.FontColours.HEADER + default_slave + text_utils.FontColours.WARNING + def_msg + text_utils.FontColours.ENDC)
                 # get what settings we can, based on the name lookup in old Config Maker Files
 
+                # ======== DISPLAY SETTINGS =======
 
-                # ' ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-                #
-
-
-                # '======== DISPLAY SETTINGS =======
-                # ' ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-                # ' screen heights { 200, 216, 240, 256, 262, 270 };
+                # prior to Amiberry 3.2 possible screen heights { 200, 216, 224, 240, 256, 262, 270 };
+                #  since 3.2 => heights { 400, 432, 448, 480, 512, 524, 540 };
                 HW_HEIGHT = ""
-                if check_list("Screen_Height_270.txt", sub_path) is True:
-                                HW_HEIGHT = "270"
-                if check_list("Screen_Height_262.txt", sub_path) is True:
-                                HW_HEIGHT = "262"
-                if check_list("Screen_Height_256.txt", sub_path) is True:
-                                HW_HEIGHT = "256"
-                if check_list("Screen_Height_240.txt", sub_path) is True:
-                                HW_HEIGHT = "240"
-                if check_list("Screen_Height_224.txt", sub_path) is True:
-                                HW_HEIGHT = "224"
-                if check_list("Screen_Height_216.txt", sub_path) is True:
-                                HW_HEIGHT = "216"
-                if check_list("Screen_Height_200.txt", sub_path) is True:
-                                HW_HEIGHT = "200"
+                if check_list("Screen_Height_400.txt", sub_path) is True:
+                                HW_HEIGHT = "400"
+                if check_list("Screen_Height_432.txt", sub_path) is True:
+                                HW_HEIGHT = "432"
+                if check_list("Screen_Height_448.txt", sub_path) is True:
+                                HW_HEIGHT = "448"
+                if check_list("Screen_Height_480.txt", sub_path) is True:
+                                HW_HEIGHT = "480"
+                if check_list("Screen_Height_512.txt", sub_path) is True:
+                                HW_HEIGHT = "512"
+                if check_list("Screen_Height_524.txt", sub_path) is True:
+                                HW_HEIGHT = "524"
+                if check_list("Screen_Height_540.txt", sub_path) is True:
+                                HW_HEIGHT = "540"
 
-                # ' screen widths  { 320, 352, 384, 640, 704, 720, 768 };
+                # screen widths  { 320, 352, 384, 640, 704, 720, 768 };
                 HW_WIDTH = ""
                 if check_list("Screen_Width_320.txt", sub_path) is True:
                                 HW_WIDTH = "320"
@@ -364,7 +359,7 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                 if check_list("Screen_Width_768.txt", sub_path) is True:
                                 HW_WIDTH = "768"
 
-                # ' screen centering (recently added)
+                # screen centering
                 HW_H_CENTER = 'SMART'
                 if check_list('Screen_NoCenter_H.txt', sub_path) is True:
                   HW_H_CENTER = 'NONE'
@@ -373,21 +368,20 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                 if check_list('Screen_NoCenter_V.txt', sub_path) is True:
                   HW_V_CENTER = 'NONE'
                                 
-                # ' extras
+                # extras
                 HW_NTSC = ""
                 if check_list("Screen_ForceNTSC.txt", sub_path) is True:
                      HW_NTSC = "TRUE"       
                 elif this_file.find("NTSC") > -1:
                      HW_NTSC = "TRUE" 
                             
-                # '======== CONTROL SETTINGS =======
-                # ' ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-                # ' mouse / mouse 2 / CD32
+
+                # ======== CONTROL SETTINGS =======
+                #  mouse / mouse 2 / CD32
 
                 use_mouse1 = check_list("Control_Port0_Mouse.txt", sub_path)
                 use_mouse2 = check_list("Control_Port1_Mouse.txt", sub_path)
                 use_cd32_pad = check_list("Control_CD32.txt", sub_path)
-
 
                 # quick clean-up on WHDLoad memory requirements
                 whd_z3_ram = 0

@@ -576,8 +576,11 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                     hardware += ("NTSC=") + HW_NTSC + chr(10)
 
                 # SCREEN OPTIONS
-                if HW_HEIGHT != "":
-                    hardware += ("SCREEN_HEIGHT=") + HW_HEIGHT + chr(10)
+                if HW_AUTO_CENTER == 'FALSE':
+                    hardware += ('SCREEN_AUTOHEIGHT=') + HW_AUTO_CENTER + chr(10)
+                    hardware += ('SCREEN_HEIGHT=') + HW_HEIGHT + chr(10)
+                else:
+                    hardware += ('SCREEN_AUTOHEIGHT=') + HW_AUTO_CENTER + chr(10)
 
                 if HW_WIDTH != "":
                     hardware += ("SCREEN_WIDTH") + HW_WIDTH + chr(10)

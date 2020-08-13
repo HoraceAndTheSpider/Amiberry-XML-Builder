@@ -1,6 +1,5 @@
 AbandonedPlaces2
 AddamsFamily
-Agony
 AlienBreed3D2AGA
 AlienBreed3DAGA
 AlienBreed3DCD32

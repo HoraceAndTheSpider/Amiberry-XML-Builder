@@ -320,44 +320,29 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                         def_msg = " (First slave in archive search)"
                         
                 print("Default Slave: " + text_utils.FontColours.HEADER + default_slave + text_utils.FontColours.WARNING + def_msg + text_utils.FontColours.ENDC)
+
                 # get what settings we can, based on the name lookup in old Config Maker Files
 
                 # ======== DISPLAY SETTINGS =======
 
-                # prior to Amiberry 3.2 possible screen heights { 200, 216, 224, 240, 256, 262, 270 };
-                #  since 3.2 => heights { 400, 432, 448, 480, 512, 524, 540 };
-                HW_HEIGHT = ""
-                if check_list("Screen_Height_400.txt", sub_path) is True:
-                                HW_HEIGHT = "400"
-                if check_list("Screen_Height_432.txt", sub_path) is True:
-                                HW_HEIGHT = "432"
-                if check_list("Screen_Height_448.txt", sub_path) is True:
-                                HW_HEIGHT = "448"
-                if check_list("Screen_Height_480.txt", sub_path) is True:
-                                HW_HEIGHT = "480"
-                if check_list("Screen_Height_512.txt", sub_path) is True:
-                                HW_HEIGHT = "512"
-                if check_list("Screen_Height_524.txt", sub_path) is True:
-                                HW_HEIGHT = "524"
-                if check_list("Screen_Height_540.txt", sub_path) is True:
-                                HW_HEIGHT = "540"
+                # prior to Amiberry 3.2 possible heights { 200, 216, 224, 240, 256, 262, 270 };
+                # since 3.2 => heights { 400, 432, 448, 480, 512, 524, 540 };
+                listheights = ['400', '432', '448', '480', '512', '524', '540']
+                HW_HEIGHT = ''
+
+                for possibleheight in listheights:
+                    if check_list('Screen_Height_'+possibleheight+'.txt', sub_path) is True:
+                        HW_HEIGHT = possibleheight
+                        break
 
                 # screen widths  { 320, 352, 384, 640, 704, 720, 768 };
-                HW_WIDTH = ""
-                if check_list("Screen_Width_320.txt", sub_path) is True:
-                                HW_WIDTH = "320"
-                if check_list("Screen_Width_352.txt", sub_path) is True:
-                                HW_WIDTH = "352"
-                if check_list("Screen_Width_384.txt", sub_path) is True:
-                                HW_WIDTH = "384"
-                if check_list("Screen_Width_640.txt", sub_path) is True:
-                                HW_WIDTH = "640"
-                if check_list("Screen_Width_704.txt", sub_path) is True:
-                                HW_WIDTH = "704"
-                if check_list("Screen_Width_720.txt", sub_path) is True:
-                                HW_WIDTH = "720"
-                if check_list("Screen_Width_768.txt", sub_path) is True:
-                                HW_WIDTH = "768"
+                listwidths = ['320', '352', '384', '640', '704', '720', '768']
+                HW_WIDTH = ''
+
+                for possiblewidth in listwidths:
+                    if check_list('Screen_Width_'+possiblewidth+'.txt', sub_path) is True:
+                        HW_WIDTH = possiblewidth
+                        break
 
                 # screen centering
                 HW_H_CENTER = 'SMART'
@@ -368,6 +353,11 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                 if check_list('Screen_NoCenter_V.txt', sub_path) is True:
                   HW_V_CENTER = 'NONE'
                                 
+                # auto centering
+                HW_AUTO_CENTER = 'FALSE'
+                if check_list('Screen_AutoCenter.txt', sub_path) is True or HW_HEIGHT == "":
+                    HW_AUTO_CENTER = 'TRUE'
+
                 # extras
                 HW_NTSC = ""
                 if check_list("Screen_ForceNTSC.txt", sub_path) is True:

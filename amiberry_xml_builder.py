@@ -354,9 +354,9 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                   HW_V_CENTER = 'NONE'
                                 
                 # auto centering
-                HW_AUTO_CENTER = 'FALSE'
+                HW_AUTO_HEIGHT = 'FALSE'
                 if check_list('Screen_AutoHeight.txt', sub_path) is True or HW_HEIGHT == "":
-                    HW_AUTO_CENTER = 'TRUE'
+                    HW_AUTO_HEIGHT = 'TRUE'
 
                 # extras
                 HW_NTSC = ""
@@ -576,11 +576,11 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                     hardware += ("NTSC=") + HW_NTSC + chr(10)
 
                 # SCREEN OPTIONS
-                if HW_AUTO_CENTER == 'FALSE':
-                    hardware += ('SCREEN_AUTOHEIGHT=') + HW_AUTO_CENTER + chr(10)
+                if HW_AUTO_HEIGHT == 'FALSE':
+                    hardware += ('SCREEN_AUTOHEIGHT=') + HW_AUTO_HEIGHT + chr(10)
                     hardware += ('SCREEN_HEIGHT=') + HW_HEIGHT + chr(10)
                 else:
-                    hardware += ('SCREEN_AUTOHEIGHT=') + HW_AUTO_CENTER + chr(10)
+                    hardware += ('SCREEN_AUTOHEIGHT=') + HW_AUTO_HEIGHT + chr(10)
 
                 if HW_WIDTH != "":
                     hardware += ("SCREEN_WIDTH") + HW_WIDTH + chr(10)

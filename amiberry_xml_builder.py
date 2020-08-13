@@ -355,7 +355,7 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                                 
                 # auto centering
                 HW_AUTO_CENTER = 'FALSE'
-                if check_list('Screen_AutoCenter.txt', sub_path) is True or HW_HEIGHT == "":
+                if check_list('Screen_AutoHeight.txt', sub_path) is True or HW_HEIGHT == "":
                     HW_AUTO_CENTER = 'TRUE'
 
                 # extras

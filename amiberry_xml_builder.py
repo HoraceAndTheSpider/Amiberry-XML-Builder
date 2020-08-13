@@ -429,14 +429,14 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                 # ' sprite collisions
 
                 HW_SPRITES = ""
-                if check_list("Chipset_CollisionLevel_playfields.txt", sub_path) is True:
-                                HW_SPRITES = "PLAYFIELDS"
+                if check_list("Chipset_CollisionLevel_full.txt", sub_path) is True:
+                                HW_SPRITES = "FULL"
                 if check_list("Chipset_CollisionLevel_none.txt", sub_path) is True:
                                 HW_SPRITES = "NONE"
+                if check_list("Chipset_CollisionLevel_playfields.txt", sub_path) is True:
+                                HW_SPRITES = "PLAYFIELDS"
                 if check_list("Chipset_CollisionLevel_sprites.txt", sub_path) is True:
                                 HW_SPRITES = "SPRITES"
-                if check_list("HW_SPRITES.txt", sub_path) is True:
-                                HW_SPRITES = "FULL"
 
                 # ' blitter    
                 HW_BLITS = ""        

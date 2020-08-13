@@ -447,14 +447,11 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                 if  check_list("Chipset_WaitBlitter.txt", sub_path) is True:
                     HW_BLITS = "WAIT"
 
-                HW_FASTCOPPER = ""
-                if not check_list("Chipset_NoFastCopper.txt", sub_path) is False:
-                        HW_FASTCOPPER = "FALSE"
-
+                # copper
+                HW_FASTCOPPER = "FALSE"
                 if check_list("Chipset_FastCopper.txt", sub_path) is True:
                     HW_FASTCOPPER = "TRUE"
 
-                
 
                 # '======== CPU SETTINGS =======
                 # ' ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -494,20 +491,18 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                 if not check_list("CPU_No24BitAddress.txt", sub_path) is False:
                     HW_24BIT = "FALSE"
              
-                #   compatible CPU 
+                # compatible CPU 
                 HW_CPUCOMP = ""
                 if check_list("CPU_Compatible.txt", sub_path) is True:
                     HW_CPUCOMP = "TRUE"
                     
-             #   cycle_exact = check_list("CPU_CycleExact.txt", sub_path)
+                # cycle_exact = check_list("CPU_CycleExact.txt", sub_path)
 
-                #JIT Cache
-                HW_JIT = ""
+                # JIT Cache
+                HW_JIT = "FALSE"
                 if check_list("CPU_ForceJIT.txt",sub_path) == True:
                         HW_JIT = "TRUE"
                         HW_SPEED = "MAX"
-                elif check_list("CPU_NoJIT.txt", sub_path) == True:
-                        HW_JIT = "FALSE"
 
                 # CHIPSET
                 HW_CHIPSET = ""

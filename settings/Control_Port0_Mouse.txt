@@ -179,6 +179,7 @@ Dune2
 DuneDe
 DuneEs
 DuneFr
+DuneGr
 DuneIt
 DungeonMaster
 DungeonMaster2

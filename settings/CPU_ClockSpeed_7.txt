@@ -2,7 +2,8 @@ BodyBlowsAGA
 BodyBlowsGalacticAGA
 BubbleBobble
 ItCameFromTheDesert
-ItCameFromDesert2Antheads
+ItCameFromTheDesertGr
+ItCameFromTheDesert2
 NewZealandStory
 NewZealandStoryDemo
 Viz

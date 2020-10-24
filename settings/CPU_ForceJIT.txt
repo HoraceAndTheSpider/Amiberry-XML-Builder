@@ -1,3 +1,4 @@
+BreathlessAGA
 Elite
 EliteAdvanced
 F15StrikeEagle2
@@ -10,6 +11,9 @@ FrontierCD32
 FrontierCz
 FrontierDe
 FrontierFr
+GloomAGA
+Hostages
+HostageNTSC
 Hunter
 HunterDe
 HunterFr
@@ -19,4 +23,5 @@ ItCameFromTheDesert2
 MiG29Fulcrum
 MiG29MSuperFulcrum
 Mig29SovietFighter
+OperationJupiterFr
 TZer0DemoAGA

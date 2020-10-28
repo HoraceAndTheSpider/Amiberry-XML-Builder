@@ -1,7 +1,3 @@
-Problem file log: 2020-10-26 at 02:00:05
+Problem file log: 2020-10-28 at 03:00:05
 Could not read LHA archive: 100MostRememberedGamesOnThe64_v1.01_PerhkanSundell&RonBirk.lha
 Could not read LHA archive: 100MostRememberedGamesOnThe64_v1.01_Perh�kanSundell&RonBirk.lha
-Could not read LHA archive: RebelGW24-WHDL.lha
-Could not read LHA archive: RebelGW24FR-WHDL.lha
-Could not read LHA archive: RebelGW24PL-WHDL.lha
-Could not read LHA archive: SixthSenseAGA-WHDL.lha

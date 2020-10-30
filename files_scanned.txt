@@ -1,4 +1,4 @@
-Scanned file log: 2020-10-28 at 03:00:05
+Scanned file log: 2020-10-30 at 03:00:05
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -1053,8 +1053,8 @@ Skipped: AlteredDestiny_v1.1b_0237.lha
 Skipped: AmazingSpiderMan_v1.1_1006.lha
 Skipped: AmazingSpiderMan_v2.0_1006.lha
 Skipped: AmazingSpiderMan_v2.0_NTSC.lha
-Scanned: Amazing Spider-Man
-Scanned: Amazing Spider Man (NTSC)
+Skipped: AmazingSpiderMan_v2.1_1006.lha
+Skipped: AmazingSpiderMan_v2.1_NTSC.lha
 Skipped: Ambermoon_v1.0.lha
 Skipped: Ambermoon_v1.0_De.lha
 Skipped: Apidya_v2.05_Audios_2465.lha
@@ -1122,8 +1122,8 @@ Skipped: ATrain&ConstructionSet_v1.2_1010&1469.lha
 Skipped: ATrain&ConstructionSet_v1.2_512k_1010&1469.lha
 Skipped: ATrain&ConstructionSet_v1.3_1010&1469.lha
 Skipped: ATrain&ConstructionSet_v1.3_512k_1010&1469.lha
-Scanned: A-Train (& Construction Set)
-Scanned: A Train & Constr Set (512Kb)
+Skipped: ATrain&ConstructionSet_v1.4_1010&1469.lha
+Skipped: ATrain&ConstructionSet_v1.4_512k_1010&1469.lha
 Skipped: ATrain_v1.1_512k_Pl.lha
 Skipped: ATrain_v1.1_Pl.lha
 Skipped: ATrain_v1.2_1010.lha
@@ -1175,16 +1175,16 @@ Skipped: ATrain_v1.3_512k_Fr_2579.lha
 Skipped: ATrain_v1.3_Cz.lha
 Skipped: ATrain_v1.3_De_0428.lha
 Skipped: ATrain_v1.3_Fr_2579.lha
-Scanned: A-Train
-Scanned: A Train (512Kb)
-Scanned: A Train (512Kb) (Czech)
-Scanned: A Train (512Kb) (Deutsch)
-Scanned: A Train (512Kb) (Francais)
-Scanned: A Train (512Kb) (Polski)
-Scanned: A Train (Czech)
-Scanned: A Train (Deutsch)
-Scanned: A Train (Francais)
-Scanned: A Train (Polski)
+Skipped: ATrain_v1.4_1010.lha
+Skipped: ATrain_v1.4_512k_1010.lha
+Skipped: ATrain_v1.4_512k_Cz.lha
+Skipped: ATrain_v1.4_512k_De_0428.lha
+Skipped: ATrain_v1.4_512k_Fr_2579.lha
+Skipped: ATrain_v1.4_512k_Pl.lha
+Skipped: ATrain_v1.4_Cz.lha
+Skipped: ATrain_v1.4_De_0428.lha
+Skipped: ATrain_v1.4_Fr_2579.lha
+Skipped: ATrain_v1.4_Pl.lha
 Skipped: AttackOfTheGreenSmellyAliensFromPlanet27b6_v1.0.lha
 Skipped: AufschwungOst_v1.1_De.lha
 Skipped: AuntArcticAdventure_v1.0_1757.lha
@@ -2599,7 +2599,7 @@ Skipped: GnomeAlone_v1.0.lha
 Skipped: GnomeRanger_v1.0.lha
 Skipped: Goal_v1.01_1817.lha
 Skipped: Gobliiins_v1.3_0065.lha
-Scanned: Gobliiins
+Skipped: Gobliiins_v1.4_0065.lha
 Skipped: Gobliins2_v1.4_0185.lha
 Skipped: Gobliins2_v1.4_De_0332.lha
 Skipped: Gobliins2_v1.4_Es.lha
@@ -3633,7 +3633,7 @@ Skipped: NeverEndingStory2_v1.4.lha
 Skipped: NeverMind_v1.0_1507.lha
 Skipped: NewYorkWarriors_v1.4_512KB_0705.lha
 Skipped: NewZealandStoryDemo_v1.0.lha
-Scanned: New Zealand Story
+Skipped: NewZealandStory_v2.1_1180.lha
 Skipped: NewZealandStory_v2.21_1180.lha
 Skipped: NewZealandStory_v2.2_1180.lha
 Skipped: NibbyNibble_v1.0.lha
@@ -6087,7 +6087,7 @@ Skipped: JimLostTimesDemoFR-WHDL.lha
 Skipped: MoonChildAGAdemo-WHDL.lha
 Skipped: Prototype-WHDL.lha
 Skipped: SharksAGA-WHDL.lha
-Scanned: Sudden Death
+Skipped: SuddenDeath-WHDL.lha
 Skipped: DangerDoggSE-WHDL.lha
 Skipped: DangerMouse-WHDL.lha
 Skipped: DanWilderPL-WHDL.lha
@@ -6134,8 +6134,8 @@ Skipped: Dflip-WHDL.lha
 Skipped: Diabolik01-WHDL.lha
 Skipped: DiabolikSeriesIT-WHDL.lha
 Skipped: DiamondCaves-WHDL.lha
-Scanned: Diamond Caves 1
-Scanned: Diamond Caves 2
+Skipped: DiamondCaves1-WHDL.lha
+Skipped: DiamondCaves2-WHDL.lha
 Skipped: DiamondChallenge-WHDL.lha
 Skipped: DiamondFever-WHDL.lha
 Skipped: DiceFall-WHDL.lha
@@ -6607,7 +6607,7 @@ Skipped: Italy90Soccer-WHDL.lha
 Skipped: ITSCricket94-WHDL.lha
 Skipped: ITSCricket95-WHDL.lha
 Skipped: ItsThePits-WHDL.lha
-Scanned: Jab Jum Demo
+Skipped: JabJumDemo-WHDL.lha
 Skipped: Jackman-WHDL.lha
 Skipped: JackNicklaus1-WHDL.lha
 Skipped: JackNicklaus8990-WHDL.lha
@@ -6955,7 +6955,7 @@ Skipped: MrBrick-WHDL.lha
 Skipped: MrBrownstone-WHDL.lha
 Skipped: MrDig-WHDL.lha
 Skipped: MrMunkFluidland-WHDL.lha
-Scanned: Mr Poker
+Skipped: MrPoker-WHDL.lha
 Skipped: MrSharkRacingDemo-WHDL.lha
 Skipped: MrTomatoPL-WHDL.lha
 Skipped: MrUFO-WHDL.lha
@@ -7247,7 +7247,7 @@ Skipped: Knockout1-WHDL.lha
 Skipped: KnockOutSpierling-WHDL.lha
 Skipped: KnottyAGA-WHDL.lha
 Skipped: KnuckleHead-WHDL.lha
-Scanned: Koepfchen DE
+Skipped: KoepfchenDE-WHDL.lha
 Skipped: Kradwaty-WHDL.lha
 Skipped: KretaszPL-WHDL.lha
 Skipped: KrillianIncident-WHDL.lha
@@ -7397,9 +7397,9 @@ Skipped: RazorDemo-WHDL.lha
 Skipped: RealExit16-WHDL.lha
 Skipped: RealmSendai-WHDL.lha
 Skipped: RebelAGACZ-WHDL.lha
-Scanned: Rebel GW 24
-Scanned: Rebel GW 24 FR
-Scanned: Rebel GW 24 PL
+Skipped: RebelGW24-WHDL.lha
+Skipped: RebelGW24FR-WHDL.lha
+Skipped: RebelGW24PL-WHDL.lha
 Skipped: Rebellion-WHDL.lha
 Skipped: ReboundArena-WHDL.lha
 Skipped: ReboundDD-WHDL.lha
@@ -7639,760 +7639,760 @@ Skipped: SinuhedFR-WHDL.lha
 Skipped: SirAbadol-WHDL.lha
 Skipped: Sirius7-WHDL.lha
 Skipped: SirLosealotAGA-WHDL.lha
-Scanned: Sixth Sense [AGA]
-Scanned: Skan 29
-Scanned: Skarb Templariuszy PL
-Scanned: Skat
-Scanned: Skat DX 2 DE
-Scanned: Skat Royal DE
-Scanned: Skiddy Things Battle
-Scanned: Skidmarks 2 ECSAGA
-Scanned: Skidmarks 2farm ECSAGA
-Scanned: Skidmarks 2plus ECSAGA
-Scanned: Skidmarks 2silly ECSAGA
-Scanned: Skidmarks 2super ECSAGA
-Scanned: Skimmers [AGA] Demo
-Scanned: Skirmish (NTSC)
-Scanned: Ski Run
-Scanned: Sky Cabbie-NV
-Scanned: Skychase
-Scanned: Sky Fight 2 IT
-Scanned: Slabs
-Scanned: Slalom
-Scanned: Slamball
-Scanned: Slez
-Scanned: Slide It 1
-Scanned: Slide It 1 [AGA]
-Scanned: Slide It 2
-Scanned: Slider 88
-Scanned: Slider 96
-Scanned: Slidercrash DE
-Scanned: Slider Quest
-Scanned: Sliding Skill-NV-NE
-Scanned: Slime
-Scanned: Slime Line
-Scanned: Small Car Drag Race Demo
-Scanned: Smart
-Scanned: Smart Cardz
-Scanned: Smash Beast-novbrmove-noend
-Scanned: Smash TVRip Off-NV-NE
-Scanned: Smile
-Scanned: Smurf Rescue
-Scanned: Smus PL
-Scanned: Snace
-Scanned: Snail
-Scanned: Snake
-Scanned: Snakechase
-Scanned: Snake Grass
-Scanned: Snakeman
-Scanned: Snake Pit
-Scanned: Snakes NC
-Scanned: Sneer
-Scanned: Snoisnemid
-Scanned: Snowfort Demo-NV-NE
-Scanned: Snow Wars
-Scanned: Soccer Manager Plus DE
-Scanned: Soccer Match
-Scanned: Soccer Rivals
-Scanned: Soccer Supremo
-Scanned: Soeldner DE
-Scanned: Software Manager DE
-Scanned: Soko
-Scanned: Soko Ban
-Scanned: Sokomond DE-clavier-NV
-Scanned: Solar System Void Blast
-Scanned: Sole Defender
-Scanned: Solid Quad
-Scanned: Solitaire
-Scanned: Solitaire Royale
-Scanned: Solitaire Sampler
-Scanned: Solomons Key 1
-Scanned: Solo Trek 2
-Scanned: Sorry
-Scanned: Sortit
-Scanned: Sound Space Cadet
-Scanned: Space 1889
-Scanned: Spaceball 2000
-Scanned: Space BB
-Scanned: Space Blob
-Scanned: Space Bomber 1 DE
-Scanned: Spacebomber 2
-Scanned: Space Bomber 3 DE
-Scanned: Spacechase
-Scanned: Space Cleaner Too
-Scanned: Space Combat
-Scanned: Space Day
-Scanned: Spacedunk
-Scanned: Space Fight
-Scanned: Space Invasion
-Scanned: Space Invasion 1
-Scanned: Space Invasion 2
-Scanned: Space Invasion 3
-Scanned: Space Man
-Scanned: Spacepanic
-Scanned: Space Power
-Scanned: Spacer
-Scanned: Space Rescue
-Scanned: Spaceship X 325 Ldemo
-Scanned: Space Spuds
-Scanned: Space Taxi 1
-Scanned: Space Taxi 2
-Scanned: Space Taxi 3
-Scanned: Spacetrax
-Scanned: Space Tribulations FR
-Scanned: Space War
-Scanned: Spaceward Ho
-Scanned: Space Wars [CDTV]
-Scanned: Spades
-Scanned: Spatial Hyperdrive
-Scanned: Spectra
-Scanned: Speed [AGA] Demo
-Scanned: Speed Ball Dillon
-Scanned: Speed Break
-Scanned: Speed Demo
-Scanned: Speed Racer FX
-Scanned: Speed Runner
-Scanned: Speed Softgang
-Scanned: Speedtris
-Scanned: Speedway Manager 1 PL
-Scanned: Speedworm
-Scanned: Spherix
-Scanned: Spider
-Scanned: Spidertronic
-Scanned: Spin Brix-NV
-Scanned: Spinworld
-Scanned: Spitfire Assault
-Scanned: Splash-novbrmove
-Scanned: Splat 1
-Scanned: Splat 2
-Scanned: Sploggy Demo
-Scanned: Spod Blaster Demo
-Scanned: Spod Land
-Scanned: Spod Racer
-Scanned: Spoils War
-Scanned: Sport Kings
-Scanned: Spring Challenge
-Scanned: Sqrxz 2
-Scanned: Squared
-Scanned: Square Destroy
-Scanned: Squarestone
-Scanned: Squigs
-Scanned: Squirm
-Scanned: Stable Masters 1
-Scanned: Stable Masters 2
-Scanned: Stable Masters 3
-Scanned: Stag
-Scanned: Starbase
-Scanned: Starbase 13-novbrmove
-Scanned: Starboy
-Scanned: Starbuster
-Scanned: Starbyte Super Soccer DE
-Scanned: Star Defender
-Scanned: Star Plop
-Scanned: Starrwoids
-Scanned: Star Settlers-novbrmove-noend
-Scanned: Star Strike 2000
-Scanned: Star Trek
-Scanned: Star Trek Call Arms
-Scanned: Statix-novbrmove
-Scanned: Statoscuro
-Scanned: Steeldevils
-Scanned: Steinschlag
-Scanned: Stellar Conflict 1
-Scanned: Stellar Conflict 2
-Scanned: Stellar Crusade
-Scanned: Stellar Escape
-Scanned: Step 5 [AGA]
-Scanned: Stix NTrax
-Scanned: Stock Market
-Scanned: Stomper
-Scanned: Stones
-Scanned: Stones Mirko
-Scanned: Straf
-Scanned: Strangers [AGA]
-Scanned: Strategic Planetary Command
-Scanned: Strategie
-Scanned: Strateq
-Scanned: Stratoplex Demo-NV
-Scanned: Street Alleys
-Scanned: Street Hassle PL
-Scanned: Street Speed Demo
-Scanned: Stres TR
-Scanned: Strike Commander
-Scanned: Strikes NSpares
-Scanned: Strikes NSpares Pro
-Scanned: Striker Manager FR
-Scanned: Striker No 9
-Scanned: Strip Fighter
-Scanned: Strip Poker 2data 1
-Scanned: Strip Poker 2data 2
-Scanned: Strip Poker 2data 3
-Scanned: Strip Poker 2data 4
-Scanned: Strip Poker Live [CDTV]
-Scanned: Struggle
-Scanned: Sub Attack
-Scanned: Sub Rally
-Scanned: Sub Version
-Scanned: Suicide Machine
-Scanned: Suicide Mission
-Scanned: Sumera
-Scanned: Summer Challenge
-Scanned: Sun
-Scanned: Super Ballz- 2 Mo (Chip)
-Scanned: Super Battle Zone
-Scanned: Super Blobble 1
-Scanned: Super Blobble 2
-Scanned: Super Blockout
-Scanned: Super Blukid
-Scanned: Super Bob Dylan
-Scanned: Super Bubble Remix
-Scanned: Super Bumper
-Scanned: Super Caztri 1 IT
+Skipped: SixthSenseAGA-WHDL.lha
+Skipped: Skan29-WHDL.lha
+Skipped: SkarbTemplariuszyPL-WHDL.lha
+Skipped: Skat-WHDL.lha
+Skipped: SkatDX2DE-WHDL.lha
+Skipped: SkatRoyalDE-WHDL.lha
+Skipped: SkiddyThingsBattle-WHDL.lha
+Skipped: Skidmarks2ECSAGA-WHDL.lha
+Skipped: Skidmarks2FarmECSAGA-WHDL.lha
+Skipped: Skidmarks2plusECSAGA-WHDL.lha
+Skipped: Skidmarks2SillyECSAGA-WHDL.lha
+Skipped: Skidmarks2SuperECSAGA-WHDL.lha
+Skipped: SkimmersAGADemo-WHDL.lha
+Skipped: Skirmish-WHDL.lha
+Skipped: SkiRun-WHDL.lha
+Skipped: SkyCabbie-WHDL.lha
+Skipped: Skychase-WHDL.lha
+Skipped: SkyFight2IT-WHDL.lha
+Skipped: Slabs-WHDL.lha
+Skipped: Slalom-WHDL.lha
+Skipped: Slamball-WHDL.lha
+Skipped: Slez-WHDL.lha
+Skipped: SlideIt1-WHDL.lha
+Skipped: SlideIt1AGA-WHDL.lha
+Skipped: SlideIt2-WHDL.lha
+Skipped: Slider88-WHDL.lha
+Skipped: Slider96-WHDL.lha
+Skipped: SlidercrashDE-WHDL.lha
+Skipped: SliderQuest-WHDL.lha
+Skipped: SlidingSkill-WHDL.lha
+Skipped: Slime-WHDL.lha
+Skipped: SlimeLine-WHDL.lha
+Skipped: SmallCarDragRaceDemo-WHDL.lha
+Skipped: Smart-WHDL.lha
+Skipped: SmartCardz-WHDL.lha
+Skipped: SmashBeast-WHDL.lha
+Skipped: SmashTVRipOff-WHDL.lha
+Skipped: Smile-WHDL.lha
+Skipped: SmurfRescue-WHDL.lha
+Skipped: SmusPL-WHDL.lha
+Skipped: Snace-WHDL.lha
+Skipped: Snail-WHDL.lha
+Skipped: Snake-WHDL.lha
+Skipped: Snakechase-WHDL.lha
+Skipped: SnakeGrass-WHDL.lha
+Skipped: Snakeman-WHDL.lha
+Skipped: SnakePit-WHDL.lha
+Skipped: SnakesNC-WHDL.lha
+Skipped: Sneer-WHDL.lha
+Skipped: Snoisnemid-WHDL.lha
+Skipped: SnowfortDemo-WHDL.lha
+Skipped: SnowWars-WHDL.lha
+Skipped: SoccerManagerPlusDE-WHDL.lha
+Skipped: SoccerMatch-WHDL.lha
+Skipped: SoccerRivals-WHDL.lha
+Skipped: SoccerSupremo-WHDL.lha
+Skipped: SoeldnerDE-WHDL.lha
+Skipped: SoftwareManagerDE-WHDL.lha
+Skipped: Soko-WHDL.lha
+Skipped: Sokoban-WHDL.lha
+Skipped: SokomondDE-WHDL.lha
+Skipped: SolarSystemVoidBlast-WHDL.lha
+Skipped: SoleDefender-WHDL.lha
+Skipped: SolidQuad-WHDL.lha
+Skipped: Solitaire-WHDL.lha
+Skipped: SolitaireRoyale-WHDL.lha
+Skipped: SolitaireSampler-WHDL.lha
+Skipped: SolomonKey1-WHDL.lha
+Skipped: SoloTrek2-WHDL.lha
+Skipped: Sorry-WHDL.lha
+Skipped: Sortit-WHDL.lha
+Skipped: SoundSpaceCadet-WHDL.lha
+Skipped: Space1889-WHDL.lha
+Skipped: Spaceball2000-WHDL.lha
+Skipped: SpaceBB-WHDL.lha
+Skipped: SpaceBlob-WHDL.lha
+Skipped: SpaceBomber1DE-WHDL.lha
+Skipped: SpaceBomber2-WHDL.lha
+Skipped: SpaceBomber3DE-WHDL.lha
+Skipped: Spacechase-WHDL.lha
+Skipped: SpaceCleanerToo-WHDL.lha
+Skipped: SpaceCombat-WHDL.lha
+Skipped: SpaceDay-WHDL.lha
+Skipped: SpaceDunk-WHDL.lha
+Skipped: SpaceFight-WHDL.lha
+Skipped: SpaceInvasion-WHDL.lha
+Skipped: SpaceInvasion1-WHDL.lha
+Skipped: SpaceInvasion2-WHDL.lha
+Skipped: SpaceInvasion3-WHDL.lha
+Skipped: Spaceman-WHDL.lha
+Skipped: SpacePanic-WHDL.lha
+Skipped: SpacePower-WHDL.lha
+Skipped: Spacer-WHDL.lha
+Skipped: SpaceRescue-WHDL.lha
+Skipped: SpaceshipX325Ldemo-WHDL.lha
+Skipped: SpaceSpuds-WHDL.lha
+Skipped: SpaceTaxi1-WHDL.lha
+Skipped: SpaceTaxi2-WHDL.lha
+Skipped: SpaceTaxi3-WHDL.lha
+Skipped: Spacetrax-WHDL.lha
+Skipped: SpaceTribulationsFR-WHDL.lha
+Skipped: SpaceWar-WHDL.lha
+Skipped: SpacewardHo-WHDL.lha
+Skipped: SpaceWarsCDTV-WHDL.lha
+Skipped: Spades-WHDL.lha
+Skipped: SpatialHyperdrive-WHDL.lha
+Skipped: Spectra-WHDL.lha
+Skipped: SpeedAGAdemo-WHDL.lha
+Skipped: SpeedBallDillon-WHDL.lha
+Skipped: SpeedBreak-WHDL.lha
+Skipped: SpeedDemo-WHDL.lha
+Skipped: SpeedRacerFX-WHDL.lha
+Skipped: SpeedRunner-WHDL.lha
+Skipped: SpeedSoftgang-WHDL.lha
+Skipped: Speedtris-WHDL.lha
+Skipped: SpeedwayManager1PL-WHDL.lha
+Skipped: Speedworm-WHDL.lha
+Skipped: Spherix-WHDL.lha
+Skipped: Spider-WHDL.lha
+Skipped: Spidertronic-WHDL.lha
+Skipped: Spinbrix-WHDL.lha
+Skipped: Spinworld-WHDL.lha
+Skipped: SpitfireAssault-WHDL.lha
+Skipped: Splash-WHDL.lha
+Skipped: Splat1-WHDL.lha
+Skipped: Splat2-WHDL.lha
+Skipped: SploggyDemo-WHDL.lha
+Skipped: SpodBlasterDemo-WHDL.lha
+Skipped: Spodland-WHDL.lha
+Skipped: SpodRacer-WHDL.lha
+Skipped: SpoilsWar-WHDL.lha
+Skipped: SportKings-WHDL.lha
+Skipped: SpringChallenge-WHDL.lha
+Skipped: Sqrxz2-WHDL.lha
+Skipped: Squared-WHDL.lha
+Skipped: SquareDestroy-WHDL.lha
+Skipped: Squarestone-WHDL.lha
+Skipped: Squigs-WHDL.lha
+Skipped: Squirm-WHDL.lha
+Skipped: StableMasters1-WHDL.lha
+Skipped: StableMasters2-WHDL.lha
+Skipped: StableMasters3-WHDL.lha
+Skipped: Stag-WHDL.lha
+Skipped: Starbase-WHDL.lha
+Skipped: Starbase13-WHDL.lha
+Skipped: Starboy-WHDL.lha
+Skipped: StarBuster-WHDL.lha
+Skipped: StarbyteSuperSoccerDE-WHDL.lha
+Skipped: StarDefender-WHDL.lha
+Skipped: StarPlop-WHDL.lha
+Skipped: Starrwoids-WHDL.lha
+Skipped: StarSettlers-WHDL.lha
+Skipped: StarStrike2000-WHDL.lha
+Skipped: StarTrek-WHDL.lha
+Skipped: StarTrekCallArms-WHDL.lha
+Skipped: Statix-WHDL.lha
+Skipped: Statoscuro-WHDL.lha
+Skipped: Steelsdevils-WHDL.lha
+Skipped: Steinschlag-WHDL.lha
+Skipped: StellarConflict1-WHDL.lha
+Skipped: StellarConflict2-WHDL.lha
+Skipped: StellarCrusade-WHDL.lha
+Skipped: StellarEscape-WHDL.lha
+Skipped: Step5AGA-WHDL.lha
+Skipped: StixNTrax-WHDL.lha
+Skipped: StockMarket-WHDL.lha
+Skipped: Stomper-WHDL.lha
+Skipped: Stones-WHDL.lha
+Skipped: StonesMirko-WHDL.lha
+Skipped: Straf-WHDL.lha
+Skipped: StrangersAGA-WHDL.lha
+Skipped: StrategicPlanetaryCommand-WHDL.lha
+Skipped: Strategie-WHDL.lha
+Skipped: Strateq-WHDL.lha
+Skipped: StratoplexDemo-WHDL.lha
+Skipped: StreetAlleys-WHDL.lha
+Skipped: StreetHasslePL-WHDL.lha
+Skipped: StreetSpeedDemo-WHDL.lha
+Skipped: StresTR-WHDL.lha
+Skipped: StrikeCommander-WHDL.lha
+Skipped: StrikeNSpares-WHDL.lha
+Skipped: StrikeNSparesPro-WHDL.lha
+Skipped: StrikerManagerFR-M5-WHDL.lha
+Skipped: StrikerNo9-WHDL.lha
+Skipped: Stripfighter-WHDL.lha
+Skipped: StripPoker2data1-WHDL.lha
+Skipped: StripPoker2data2-WHDL.lha
+Skipped: StripPoker2data3-WHDL.lha
+Skipped: StripPoker2data4-WHDL.lha
+Skipped: StripPokerLiveCDTV-WHDL.lha
+Skipped: Struggle-WHDL.lha
+Skipped: Subattack-WHDL.lha
+Skipped: SubRally-WHDL.lha
+Skipped: SubVersion-WHDL.lha
+Skipped: SuicideMachine-WHDL.lha
+Skipped: SuicideMission-WHDL.lha
+Skipped: Sumera-WHDL.lha
+Skipped: SummerChallenge-WHDL.lha
+Skipped: Sun-WHDL.lha
+Skipped: SuperBallz-WHDL.lha
+Skipped: SuperBattlezone-WHDL.lha
+Skipped: SuperBlobble1-WHDL.lha
+Skipped: SuperBlobble2-WHDL.lha
+Skipped: SuperBlockout-WHDL.lha
+Skipped: SuperBlukid-WHDL.lha
+Skipped: SuperBobDylan-WHDL.lha
+Skipped: SuperBubbleRemix-WHDL.lha
+Skipped: SuperBumper-WHDL.lha
+Skipped: SuperCaztri1IT-WHDL.lha
 Skipped: ShootPantoon-WHDL.lha
 Skipped: SimLifeHighAGAFR-WHDL.lha
-Scanned: Skate Tribe
-Scanned: Slalom Speciale IT
-Scanned: Smash Telly Seuck
-Scanned: Soccer King DE
-Scanned: Solo Card Games
-Scanned: Space Hippies
-Scanned: Spacewalker
-Scanned: Spelltris
-Scanned: Springtime
-Scanned: Star Dust Wars 3 DC
-Scanned: Stewards Enquiry
-Scanned: Strikeball
-Scanned: Super Chicken Run
-Scanned: Combat 3
-Scanned: Superdrive
-Scanned: Super Foul Egg
-Scanned: Super Gridder Demo
-Scanned: Super Huey
-Scanned: Superit
-Scanned: Superkikstart
-Scanned: Super League Manager
-Scanned: Super Masken 98
-Scanned: Super Mega Fruits
-Scanned: Super Nibbly
-Scanned: Super Novae Demo
-Scanned: Super Nova Fruit Machine
-Scanned: Super Orange Man
-Scanned: Super Pacman 92
-Scanned: Superpoker
-Scanned: Super Pool-clavier
-Scanned: Superprix Demo
-Scanned: Super Pumpkin Bros [AGA]demo
-Scanned: Super Robin
-Scanned: Super Skiddy 3
-Scanned: Super Smashing Tetris
-Scanned: Super Spaceball [AGA]
-Scanned: Super Sport Challenge
-Scanned: Super Sprint [AGA]
-Scanned: Super Sucker 2
-Scanned: Super Taekwondo Master PL-NC
-Scanned: Superted
-Scanned: Super Trail Demo
-Scanned: Super Tron
-Scanned: Super Wormy
-Scanned: Super Zocker [AGA] DE
-Scanned: Super Zocker DE-novbrmove
-Scanned: Supreme Fighter Demo
-Scanned: Survivor
-Scanned: Swiateczna Awaria
-Scanned: Swibble Dibble
-Scanned: Swidron PL
-Scanned: Syman Xmas
-Scanned: SYS
-Scanned: System 4-novbrmove-noend
-Scanned: System Defender
-Scanned: Syzyf PL-NV
-Scanned: Syzygy
-Scanned: Szalter PL
-Scanned: Tactical Manager 1
-Scanned: Tactical Manager 2
-Scanned: Taekwondo Master [AGA] PL-NC-NV-NE
-Scanned: Tag
-Scanned: Tajemnica PL
-Scanned: Tales Gorluth 1
-Scanned: Talmino 1 [AGA]
-Scanned: Talmino 2
-Scanned: Tame Raider
-Scanned: Tank Attack
-Scanned: Tank Attack 92-NV
-Scanned: Tank Attack 95
-Scanned: Tank Battle
-Scanned: Tank Combat
-Scanned: Tanked Up
-Scanned: Tank Hunter
-Scanned: Tankkk
-Scanned: Tanks Massacre-NV
-Scanned: Tank Team
-Scanned: Tank Wars
-Scanned: Tank You
-Scanned: Tanx
-Scanned: Tanx NStuff
-Scanned: Tanx Squadron [AGA]
-Scanned: Targis
-Scanned: Targis 93-NTSC
-Scanned: Tasar
-Scanned: Task Force
-Scanned: Task Force Granseuer
-Scanned: Taxi
-Scanned: Team Manager
-Scanned: Team Tetris
-Scanned: Technoban 1
-Scanned: Techno Ninja
-Scanned: Techno Venture
-Scanned: Tecnoballz [AGA]
-Scanned: Teddy
-Scanned: Teen Agent [AGA]
-Scanned: Teen Agent Speech [AGA] PL
-Scanned: Teeny Weenys [AGA]
-Scanned: Tee Off
-Scanned: Telekommando 1 DE
-Scanned: Telekommando 2 DE
-Scanned: Telemark Warrior
-Scanned: Tempest 1200 [AGA]demo
-Scanned: Temptris-clavier
-Scanned: Tena Blaster-noend
-Scanned: Tennis Dreke
-Scanned: Teo PL
-Scanned: Terrahawks
-Scanned: Test Match Cricket
-Scanned: Tetracopy-NV
-Scanned: Tetras
-Scanned: Tetren
-Scanned: Tetrid 3
-Scanned: Tetris 2
-Scanned: Tetris Digital-NV-NE
-Scanned: Tetris Duel [AGA]-clavier
-Scanned: Tetris Fuller-clavier
-Scanned: Tetris Gaz
-Scanned: Tetrix Metallica Demo-NV
-Scanned: Tetris Pro 98-NV
-Scanned: Tetris Sex Special-clavier
-Scanned: Tetris Yildiz
-Scanned: Tetrix 2-NV
-Scanned: Tetron
-Scanned: Tetrys 95 [AGA]
-Scanned: Tettrix
-Scanned: Texas Chainsaw Massacre
-Scanned: TFX
-Scanned: Thaurus PL-code
-Scanned: Thesius XII
-Scanned: Thingamajig
-Scanned: Think
-Scanned: Think Ahead
-Scanned: Think A Mania [AGA]
-Scanned: Think Cross
-Scanned: Think Twice
-Scanned: Three Islands Demo
-Scanned: Thunder Dawn-NV-no AFA
-Scanned: Thunderhell Demo
-Scanned: Tigers Bane
-Scanned: Tile Fall [AGA]
-Scanned: Tilt
-Scanned: Time Bomb
-Scanned: Timebomb Coagulus
-Scanned: Time Bombs- 2 Mo (Chip)
-Scanned: Time Horn IT
-Scanned: Timekeepers 1
-Scanned: Timekeepers 1 FR
-Scanned: Timekeepers 2
-Scanned: Time Runner
-Scanned: Timultus FR
-Scanned: Tiny Bobble
-Scanned: Tiny Galaga
-Scanned: Tiny Invaders
-Scanned: Tip Trick D-NV-NE
-Scanned: Tittris
-Scanned: Tma
-Scanned: TNT
-Scanned: Toadies
-Scanned: Toado
-Scanned: Toads Demo
-Scanned: To Death Hyperfighting
-Scanned: Tom Jerry 1
-Scanned: Tom Jerry 2
-Scanned: Tomtespelet
-Scanned: Tony Glider
-Scanned: Toobz
-Scanned: Took
-Scanned: Top Hat Willy
-Scanned: Topsy Turvy
-Scanned: Top Tilers
-Scanned: Torque [AGA]-novbrmove
-Scanned: Total Carnage SECD32
-Scanned: Total Chaos City 2
-Scanned: Total Domination 1
-Scanned: Total Domination 2
-Scanned: Total Excess
-Scanned: Total Pattern-NV
-Scanned: Total Species [AGA]-NV
-Scanned: Total Tetris-NV
-Scanned: Total War
-Scanned: Touch NGo
-Scanned: Touring Car Challenge D 7
-Scanned: Touring Car Racer
-Scanned: Towers Hanoi
-Scanned: Toy Box
-Scanned: Tractor Beam
-Scanned: Trade Travel Fight
-Scanned: Trailblazer-NV
-Scanned: Train Driver 3
-Scanned: Trains
-Scanned: Traitor
-Scanned: Trap Em-novbrmove
-Scanned: Trapped 1 ECSAGA-NV
-Scanned: Travel Manager DE-NV
-Scanned: Trax
-Scanned: Trax Lucas
-Scanned: Treble Champions 1
-Scanned: Treble Champions 2
-Scanned: Trick Or Treat-noend
-Scanned: Trifle [AGA]
-Scanned: Trio DE
-Scanned: Tritus
-Scanned: Triz
-Scanned: Tron 5000
-Scanned: Tron 95
-Scanned: Tronic [AGA]
-Scanned: Tronic Kids
-Scanned: Tronn
-Scanned: Tron PL
-Scanned: Trooper
-Scanned: Troop Jugernort
-Scanned: Truus NL
-Scanned: Tsch
-Scanned: TTec Maze
-Scanned: Ttriz 1-clavier
-Scanned: Ttriz 2
-Scanned: Tube Madness
-Scanned: Tumbler Street
-Scanned: Turbo Duel
-Scanned: Turbo Invaders
-Scanned: Turbo Jam [AGA]
-Scanned: Turbo Lode 2 Demo FR-NV
-Scanned: Turbo Racer 3 DAGA
-Scanned: Turbo Raketti 1 FI
-Scanned: Turbo Raketti 3 FI
-Scanned: Turbo Smash
-Scanned: Turbo Thrust
-Scanned: Turbo Tomato Demo
-Scanned: Turbo Trax Micro Demo
-Scanned: Turn
-Scanned: Turn It 2
-Scanned: Turtleminator
-Scanned: Twins
-Scanned: Twin Z
-Scanned: Two To One
-Scanned: Tykkipeli
-Scanned: Tyran PL-NV
-Scanned: Ubek ECSAGA
-Scanned: Uchess ECSAGA
-Scanned: UFOEnemy Unclothed
-Scanned: UFOEnemy Unclothed Demo
-Scanned: Ultimate Basketball [CDTV]
-Scanned: Ultimate Domination-NV
-Scanned: Ultimate Fruit Machine
-Scanned: Ult Soccer Man [AGA] FR
-Scanned: Ultimate Soccer Manager FR
-Scanned: Ultimate Tour Tennis-NV
-Scanned: Super Caztri 2
-Scanned: Super Pengo Twins [AGA]
-Scanned: Super Tron 97
-Scanned: Tactical Manager 1 Italia
-Scanned: Tanks Furry
-Scanned: Technoban 2
-Scanned: Teresa [AGA]
-Scanned: Tetriz
-Scanned: Tie
-Scanned: Tischtennis DE
-Scanned: Torch 2081
-Scanned: Tracksuit Manager 90
-Scanned: Trip 2 War
-Scanned: Tuesday Demo- 2 Mo (Chip)
-Scanned: Twilight Knights
-Scanned: Ultimatum-NV
-Scanned: Vector Trap
-Scanned: Volleyball Simulator
-Scanned: War [AGA]
-Scanned: Well Trix-clavier
-Scanned: Willie Waterworks
-Scanned: Wizio 2
-Scanned: World Peril
-Scanned: Xenopew
-Scanned: Yeti
-Scanned: Ultra Ball
-Scanned: Ultra Reversi PL
-Scanned: Ultra Violent Worlds [AGA]
-Scanned: Unfriendly Fire Demo
-Scanned: Up Side Down FR
-Scanned: Uropa 2 ECSAGA RIPFR
-Scanned: Us NThem
-Scanned: USSJohn Young 2
-Scanned: Uwol Quest Money
-Scanned: Uzemi CZ
-Scanned: Vabank PL
-Scanned: Valar CZ
-Scanned: Valhalla 3
-Scanned: Vampire Curse Nighteasy
-Scanned: Vanilla
-Scanned: Vegetables DX
-Scanned: Vektor Storm
-Scanned: Velcro Grub
-Scanned: Vendetta
-Scanned: Vermone 2
-Scanned: Ve Stinu Magie CZ
-Scanned: Veteran
-Scanned: Vicky
-Scanned: Victor Loomes DE
-Scanned: Video Poker
-Scanned: Video Poker Bonny
-Scanned: Video Pokeri
-Scanned: Video Vegas
-Scanned: Vierzehn
-Scanned: Viper Demo [AGA]
-Scanned: Virus Attack Demo
-Scanned: Voyage Centre Terre FR
-Scanned: Wabes
-Scanned: Wack Man
-Scanned: Wacky Wabbits
-Scanned: Wall Defence
-Scanned: Walls
-Scanned: Walls 97
-Scanned: Wall Street FR
-Scanned: Wall Street Wizard
-Scanned: Wally World
-Scanned: Wally Worm 1
-Scanned: Wally Worm 2-NV
-Scanned: Wangle
-Scanned: Waponez 1
-Scanned: Waponez 2 Groundwars [AGA]
-Scanned: War
-Scanned: War Clouds
-Scanned: War Electro
-Scanned: Wargrounds
-Scanned: War New Era Remix
-Scanned: Warriors Releyne FR
-Scanned: Wars Nebula
-Scanned: War Wizard
-Scanned: War Zone Kaffka DE
-Scanned: Wasteddreams RIPFR
-Scanned: Wastelands-NV
-Scanned: Wave Run
-Scanned: Wb Wort FRdemo
-Scanned: Weapon Masters Demo
-Scanned: Weasel Godemo
-Scanned: Weird Wars
-Scanned: Wendetta 2175 [AGA]
-Scanned: Whales Voyage 1 [CD32]
-Scanned: Whales Voyage 2-NV
-Scanned: Wheel Chair
-Scanned: Wheelie
-Scanned: Wheelspin-CE
-Scanned: Wheelspin [AGA]-CE
-Scanned: When Two Worlds War
-Scanned: When Two Worlds War [AGA]
-Scanned: White Rabbits
-Scanned: Who Did What
-Scanned: Wilczy Szaniec Demo PL
-Scanned: Wildfire Demo
-Scanned: Wild Life FR
-Scanned: Wild West PL-NV
-Scanned: Williwacker
-Scanned: Willy Castle
-Scanned: Willy Weirdy
-Scanned: Willy Worm-NV
-Scanned: Wimp Commander
-Scanned: Wind Challengers IT
-Scanned: Windmuehle
-Scanned: Wingnuts [AGA]
-Scanned: Wipe Off
-Scanned: Wipe Out Fist
-Scanned: Wired Chaos
-Scanned: Wizard Domain
-Scanned: Wizards Odd
-Scanned: Wizard Wars Demo
-Scanned: Wizard World
-Scanned: Wizio 1
-Scanned: Wizzy Quest
-Scanned: Wolf Pac [AGA]
-Scanned: Wonderland - Dream the Dream
-Scanned: Wooden Ball
-Scanned: Wooglies
-Scanned: Workaholic
-Scanned: Workoholic-clavier
-Scanned: World Cup Cricket
-Scanned: World Cup Time Greats
-Scanned: World Cup Soccer Star-noend
-Scanned: World Cup USA 94
-Scanned: World Golf-NV
-Scanned: World Hockey League Man DE
-Scanned: World Magic 1
-Scanned: World Magic 2
-Scanned: Worldof Soccer
-Scanned: World Series Cricket
-Scanned: World Snooker
-Scanned: Worldwide Hunting Demo
-Scanned: Worm-clavier
-Scanned: Worm-NV-NE
-Scanned: Wormout 2097
-Scanned: Worm Tris
-Scanned: Worm Wars
-Scanned: Wrath Gwendor SE 97
-Scanned: Wrestling Game Demo
-Scanned: Wriggly 2-noend
-Scanned: Wuzzi
-Scanned: Xap
-Scanned: XBalls-NV-NE
-Scanned: Xenomorphs 1
-Scanned: Xenomorphs 2
-Scanned: Xenostar
-Scanned: XFI
-Scanned: Xfighter [AGA]demo
-Scanned: XInvasion
-Scanned: XIT 50
-Scanned: Xmas Disaster
-Scanned: XMas Time
-Scanned: Xmas World Tetris
-Scanned: Xpedition Demo 2 PL-NV
-Scanned: XPoker
-Scanned: XSwap
-Scanned: XSystem 2
-Scanned: Yachting
-Scanned: Yatcy
-Scanned: Yelp
-Scanned: Yerop-nosound
-Scanned: Yum Yum
-Scanned: Yuppi Revenge DE
-Scanned: Zack
-Scanned: Zakleta Wyspa PL-NV
-Scanned: Zalycon
-Scanned: Zarcan
-Scanned: Zardoz
-Scanned: Zdzislav Hero Galaxy 3 D
-Scanned: Zeppelin DE
-Scanned: Zerberk
-Scanned: Zerg
-Scanned: Zero Gravity [AGA]
-Scanned: Zeron-NV-NE
-Scanned: Zerosphere TR
-Scanned: Zeus
-Scanned: Zgred
-Scanned: Zillo
-Scanned: Zing
-Scanned: Znyk
-Scanned: Zock Out
-Scanned: Zodes
-Scanned: Zombies-noend
-Scanned: Zonal Division [AGA] Demo-test
-Scanned: Zonal War
-Scanned: Zyrad 1demo
-Scanned: Zyrad 2
-Scanned: Zzzep
+Skipped: SkateTribe-WHDL.lha
+Skipped: SlalomSpecialeIT-WHDL.lha
+Skipped: SmashTellySeuck-WHDL.lha
+Skipped: SoccerKingDE-WHDL.lha
+Skipped: SoloCardGames-WHDL.lha
+Skipped: SpaceHippies-WHDL.lha
+Skipped: SpaceWalker-WHDL.lha
+Skipped: Spelltris-WHDL.lha
+Skipped: Springtime-WHDL.lha
+Skipped: StarDustWars-WHDL.lha
+Skipped: StewardsEnquiry-WHDL.lha
+Skipped: Strikeball-WHDL.lha
+Skipped: SuperChickenRun-WHDL.lha
+Skipped: SuperCombat3-WHDL.lha
+Skipped: SuperDrive-WHDL.lha
+Skipped: SuperFoulEgg-WHDL.lha
+Skipped: SuperGridderDemo-WHDL.lha
+Skipped: SuperHuey-WHDL.lha
+Skipped: Superit-WHDL.lha
+Skipped: SuperKikStart-WHDL.lha
+Skipped: SuperLeagueManager-WHDL.lha
+Skipped: SuperMasken98-WHDL.lha
+Skipped: SuperMegaFruits-WHDL.lha
+Skipped: SuperNibbly-WHDL.lha
+Skipped: SuperNovaeDemo-WHDL.lha
+Skipped: SuperNovaFruitMachine-WHDL.lha
+Skipped: SuperOrangeMan-WHDL.lha
+Skipped: SuperPacman92-WHDL.lha
+Skipped: SuperPoker-WHDL.lha
+Skipped: SuperPool-WHDL.lha
+Skipped: SuperprixDemo-WHDL.lha
+Skipped: SuperPumpkinBrosAGAdemo-WHDL.lha
+Skipped: SuperRobin-WHDL.lha
+Skipped: SuperSkiddy3-WHDL.lha
+Skipped: SuperSmashingTetris-WHDL.lha
+Skipped: SuperSpaceballAGA-WHDL.lha
+Skipped: SuperSportChallenge-WHDL.lha
+Skipped: SuperSprintAGA-WHDL.lha
+Skipped: SuperSucker2-WHDL.lha
+Skipped: SuperTaekwondoMasterPL-WHDL.lha
+Skipped: Superted-WHDL.lha
+Skipped: SuperTrailDemo-WHDL.lha
+Skipped: SuperTron-WHDL.lha
+Skipped: SuperWormy-WHDL.lha
+Skipped: SuperZockerAGADE-WHDL.lha
+Skipped: SuperZockerDE-WHDL.lha
+Skipped: SupremeFighterDemo-WHDL.lha
+Skipped: Survivor-WHDL.lha
+Skipped: SwiatecznaAwaria-WHDL.lha
+Skipped: SwibbleDibble-WHDL.lha
+Skipped: SwidronPL-WHDL.lha
+Skipped: SymanXmas-WHDL.lha
+Skipped: Sys-WHDL.lha
+Skipped: System4-WHDL.lha
+Skipped: SystemDefender-WHDL.lha
+Skipped: SyzyfPL-WHDL.lha
+Skipped: Syzygy-WHDL.lha
+Skipped: SzalterPL-WHDL.lha
+Skipped: TacticalManager1-WHDL.lha
+Skipped: TacticalManager2-WHDL.lha
+Skipped: TaekwondoMasterAGAPL-WHDL.lha
+Skipped: Tag-WHDL.lha
+Skipped: TajemnicaPL-WHDL.lha
+Skipped: TalesGorluth1-WHDL.lha
+Skipped: Talmino1AGA-WHDL.lha
+Skipped: Talmino2-WHDL.lha
+Skipped: TameRaider-WHDL.lha
+Skipped: TankAttack-WHDL.lha
+Skipped: TankAttack92-WHDL.lha
+Skipped: TankAttack95-WHDL.lha
+Skipped: TankBattle-WHDL.lha
+Skipped: TankCombat-WHDL.lha
+Skipped: TankedUP-WHDL.lha
+Skipped: TankHunter-WHDL.lha
+Skipped: Tankkk-WHDL.lha
+Skipped: TanksMassacre-WHDL.lha
+Skipped: TankTeam-WHDL.lha
+Skipped: TankWars-WHDL.lha
+Skipped: TankYou-WHDL.lha
+Skipped: Tanx-WHDL.lha
+Skipped: TanxNStuff-WHDL.lha
+Skipped: TanxSquadronAGA-WHDL.lha
+Skipped: Targis-WHDL.lha
+Skipped: Targis93-WHDL.lha
+Skipped: Tasar-WHDL.lha
+Skipped: TaskForce-WHDL.lha
+Skipped: TaskForceGranseuer-WHDL.lha
+Skipped: Taxi-WHDL.lha
+Skipped: TeamManager-WHDL.lha
+Skipped: TeamTetris-WHDL.lha
+Skipped: Technoban1-WHDL.lha
+Skipped: TechnoNinja-WHDL.lha
+Skipped: Technoventure-WHDL.lha
+Skipped: TecnoballzAGA-WHDL.lha
+Skipped: Teddy-WHDL.lha
+Skipped: TeenAgentAGA-WHDL.lha
+Skipped: TeenAgentSpeechAGAPL-WHDL.lha
+Skipped: TeenyWeenysAGA-WHDL.lha
+Skipped: TeeOff-WHDL.lha
+Skipped: Telekommando1DE-WHDL.lha
+Skipped: Telekommando2DE-WHDL.lha
+Skipped: TelemarkWarrior-WHDL.lha
+Skipped: Tempest1200AGAdemo-WHDL.lha
+Skipped: Temptris-WHDL.lha
+Skipped: TenaBlaster-WHDL.lha
+Skipped: TennisDreke-WHDL.lha
+Skipped: TeoPL-WHDL.lha
+Skipped: Terrahawks-WHDL.lha
+Skipped: TestMatchCricket-WHDL.lha
+Skipped: Tetracopy-WHDL.lha
+Skipped: Tetras-WHDL.lha
+Skipped: Tetren-WHDL.lha
+Skipped: Tetrid3-WHDL.lha
+Skipped: Tetris2-WHDL.lha
+Skipped: TetrisDigital-WHDL.lha
+Skipped: TetrisDuelAGA-WHDL.lha
+Skipped: TetrisFuller-WHDL.lha
+Skipped: TetrisGaz-WHDL.lha
+Skipped: TetrisMetallicaDemo-WHDL.lha
+Skipped: TetrisPro98-WHDL.lha
+Skipped: TetrisSexSpecial-WHDL.lha
+Skipped: TetrisYildiz-WHDL.lha
+Skipped: Tetrix2-WHDL.lha
+Skipped: Tetron-WHDL.lha
+Skipped: Tetrys95AGA-WHDL.lha
+Skipped: Tettrix-WHDL.lha
+Skipped: TexasChainsawMassacre-WHDL.lha
+Skipped: TFX-WHDL.lha
+Skipped: ThaurusPL-code-WHDL.lha
+Skipped: ThesiusXII-WHDL.lha
+Skipped: Thingamajig-WHDL.lha
+Skipped: Think-WHDL.lha
+Skipped: ThinkAhead-WHDL.lha
+Skipped: ThinkAManiaAGA-WHDL.lha
+Skipped: ThinkCross-WHDL.lha
+Skipped: ThinkTwice-WHDL.lha
+Skipped: ThreeIslandsDemo-WHDL.lha
+Skipped: ThunderDawn-WHDL.lha
+Skipped: ThunderhellDemo-WHDL.lha
+Skipped: TigersBane-WHDL.lha
+Skipped: TileFallAGA-WHDL.lha
+Skipped: Tilt-WHDL.lha
+Skipped: TimeBomb-WHDL.lha
+Skipped: TimebombCoagulus-WHDL.lha
+Skipped: TimeBombs-WHDL.lha
+Skipped: TimeHornIT-WHDL.lha
+Skipped: Timekeepers1-WHDL.lha
+Skipped: TimeKeepers1FR-WHDL.lha
+Skipped: TimeKeepers2-WHDL.lha
+Skipped: TimeRunner-WHDL.lha
+Skipped: TimultusFR-WHDL.lha
+Skipped: TinyBobble-WHDL.lha
+Skipped: TinyGalaga-WHDL.lha
+Skipped: TinyInvaders-WHDL.lha
+Skipped: TipTrick-WHDL.lha
+Skipped: Tittris-WHDL.lha
+Skipped: Tma-WHDL.lha
+Skipped: TNT-WHDL.lha
+Skipped: Toadies-WHDL.lha
+Skipped: Toado-WHDL.lha
+Skipped: ToadsDemo-WHDL.lha
+Skipped: ToDeathHyperfighting-WHDL.lha
+Skipped: TomJerry1-WHDL.lha
+Skipped: TomJerry2-WHDL.lha
+Skipped: Tomtespelet-WHDL.lha
+Skipped: TonyGlider-WHDL.lha
+Skipped: Toobz-WHDL.lha
+Skipped: Took-WHDL.lha
+Skipped: TopHatWilly-WHDL.lha
+Skipped: TopsyTurvy-WHDL.lha
+Skipped: TopTilers-WHDL.lha
+Skipped: TorqueAGA-WHDL.lha
+Skipped: TotalCarnageSECD32-WHDL.lha
+Skipped: TotalChaosCity2-WHDL.lha
+Skipped: TotalDomination1-WHDL.lha
+Skipped: TotalDomination2-WHDL.lha
+Skipped: TotalExcess-WHDL.lha
+Skipped: TotalPattern-WHDL.lha
+Skipped: TotalSpeciesAGA-WHDL.lha
+Skipped: TotalTetris-WHDL.lha
+Skipped: TotalWar-WHDL.lha
+Skipped: TouchNGo-WHDL.lha
+Skipped: TouringCarChallenge-WHDL.lha
+Skipped: TouringCarRacer-WHDL.lha
+Skipped: TowersHanoi-WHDL.lha
+Skipped: ToyBox-WHDL.lha
+Skipped: TractorBeam-WHDL.lha
+Skipped: TradeTravelFight-WHDL.lha
+Skipped: Trailblazer-WHDL.lha
+Skipped: TrainDriver3-WHDL.lha
+Skipped: Trains-WHDL.lha
+Skipped: Traitor-WHDL.lha
+Skipped: TrapEm-WHDL.lha
+Skipped: Trapped1ECSAGA-WHDL.lha
+Skipped: TravelManagerDE-WHDL.lha
+Skipped: Trax-WHDL.lha
+Skipped: TraxLucas-WHDL.lha
+Skipped: TrebleChampions1-WHDL.lha
+Skipped: TrebleChampions2-WHDL.lha
+Skipped: TrickOrTreat-WHDL.lha
+Skipped: TrifleAGA-WHDL.lha
+Skipped: TrioDE-WHDL.lha
+Skipped: Tritus-WHDL.lha
+Skipped: Triz-WHDL.lha
+Skipped: Tron5000-WHDL.lha
+Skipped: Tron95-WHDL.lha
+Skipped: TronicAGA-WHDL.lha
+Skipped: TronicKids-WHDL.lha
+Skipped: Tronn-WHDL.lha
+Skipped: TronPL-WHDL.lha
+Skipped: Trooper-WHDL.lha
+Skipped: TroopJugernort-WHDL.lha
+Skipped: TruusNL-WHDL.lha
+Skipped: Tsch-WHDL.lha
+Skipped: TTECMaze-WHDL.lha
+Skipped: Ttriz1-WHDL.lha
+Skipped: Ttriz2-WHDL.lha
+Skipped: TubeMadness-WHDL.lha
+Skipped: TumblerStreet-WHDL.lha
+Skipped: TurboDuel-WHDL.lha
+Skipped: TurboInvaders-WHDL.lha
+Skipped: TurboJamAGA-WHDL.lha
+Skipped: TurboLode2DemoFR-WHDL.lha
+Skipped: TurboRacer3DAGA-WHDL.lha
+Skipped: TurboRaketti1FI-WHDL.lha
+Skipped: TurboRaketti3FI-WHDL.lha
+Skipped: TurboSmash-WHDL.lha
+Skipped: TurboThrust-WHDL.lha
+Skipped: TurboTomatoDemo-WHDL.lha
+Skipped: TurboTraxMicroDemo-WHDL.lha
+Skipped: Turn-WHDL.lha
+Skipped: TurnIt2-WHDL.lha
+Skipped: Turtleminator-WHDL.lha
+Skipped: Twins-WHDL.lha
+Skipped: TwinZ-WHDL.lha
+Skipped: TwoToOne-WHDL.lha
+Skipped: Tykkipeli-WHDL.lha
+Skipped: TyranPL-WHDL.lha
+Skipped: UbekECSAGA-WHDL.lha
+Skipped: UchessECSAGA-WHDL.lha
+Skipped: UFOEnemyUnclothed-WHDL.lha
+Skipped: UFOEnemyUnclothedDemo-WHDL.lha
+Skipped: UltimateBasketballCDTV-WHDL.lha
+Skipped: UltimateDomination-WHDL.lha
+Skipped: UltimateFruitMachine-WHDL.lha
+Skipped: UltimateSoccerManagerAGAFR-WHDL.lha
+Skipped: UltimateSoccerManagerFR-WHDL.lha
+Skipped: UltimateTourTennis-WHDL.lha
+Skipped: SuperCaztri2-WHDL.lha
+Skipped: SuperPengoTwinsAGA-WHDL.lha
+Skipped: SuperTron97-WHDL.lha
+Skipped: TacticalManager1Italia-WHDL.lha
+Skipped: TanksFurry-WHDL.lha
+Skipped: Technoban2-WHDL.lha
+Skipped: TeresaAGA-WHDL.lha
+Skipped: Tetriz-WHDL.lha
+Skipped: Tie-WHDL.lha
+Skipped: TischtennisDE-WHDL.lha
+Skipped: Torch2081-WHDL.lha
+Skipped: TracksuitManager1-WHDL.lha
+Skipped: Trip2War-WHDL.lha
+Skipped: TuesdayDemo-WHDL.lha
+Skipped: TwilightKnights-WHDL.lha
+Skipped: Ultimatum-WHDL.lha
+Skipped: VectorTrap-WHDL.lha
+Skipped: VolleyballSimulator-WHDL.lha
+Skipped: WarAGA-WHDL.lha
+Skipped: Welltrix-WHDL.lha
+Skipped: WillieWaterworks-WHDL.lha
+Skipped: Wizio2-WHDL.lha
+Skipped: WorldPeril-WHDL.lha
+Skipped: Xenopew-WHDL.lha
+Skipped: Yeti-WHDL.lha
+Skipped: UltraBall-WHDL.lha
+Skipped: UltraReversiPL-WHDL.lha
+Skipped: UltraViolentWorldsAGA-WHDL.lha
+Skipped: UnfriendlyFireDemo-WHDL.lha
+Skipped: UpSideDownFR-WHDL.lha
+Skipped: Uropa2ECSAGARIPFR-M10-WHDL.lha
+Skipped: UsNThem-WHDL.lha
+Skipped: USSJohnYoung2-WHDL.lha
+Skipped: UwolQuestMoney-WHDL.lha
+Skipped: UzemiCZ-WHDL.lha
+Skipped: VabankPL-WHDL.lha
+Skipped: ValarCZ-WHDL.lha
+Skipped: Valhalla3-WHDL.lha
+Skipped: VampireCurseNight-WHDL.lha
+Skipped: VanillaTetris-WHDL.lha
+Skipped: VegetablesDX-WHDL.lha
+Skipped: VektorStorm-WHDL.lha
+Skipped: VelcroGrub-WHDL.lha
+Skipped: Vendetta-WHDL.lha
+Skipped: Vermone2-WHDL.lha
+Skipped: VeStinuMagieCZ-WHDL.lha
+Skipped: Veteran-WHDL.lha
+Skipped: Vicky-WHDL.lha
+Skipped: VictorLoomesDE-WHDL.lha
+Skipped: VideoPoker-WHDL.lha
+Skipped: VideoPokerBonny-WHDL.lha
+Skipped: VideoPokeri-WHDL.lha
+Skipped: VideoVegas-WHDL.lha
+Skipped: Vierzehn-WHDL.lha
+Skipped: ViperDemoAGA-WHDL.lha
+Skipped: VirusAttackDemo-WHDL.lha
+Skipped: VoyageCentreTerreFR-WHDL.lha
+Skipped: Wabes-WHDL.lha
+Skipped: WackMan-WHDL.lha
+Skipped: WackyWabbits-WHDL.lha
+Skipped: WallDefence-WHDL.lha
+Skipped: Walls-WHDL.lha
+Skipped: Walls97-WHDL.lha
+Skipped: WallStreetFR-WHDL.lha
+Skipped: WallStreetWizard-WHDL.lha
+Skipped: WallyWorld-WHDL.lha
+Skipped: WallyWorm1-WHDL.lha
+Skipped: WallyWorm2-WHDL.lha
+Skipped: Wangle-WHDL.lha
+Skipped: Waponez1-WHDL.lha
+Skipped: Waponez2AGA-WHDL.lha
+Skipped: War-WHDL.lha
+Skipped: WarClouds-WHDL.lha
+Skipped: WarElectro-WHDL.lha
+Skipped: Wargrounds-WHDL.lha
+Skipped: WarNewEraRemix-WHDL.lha
+Skipped: WarriorReleyneFR-M5-WHDL.lha
+Skipped: WarsNebula-WHDL.lha
+Skipped: WarWizard-WHDL.lha
+Skipped: WarZoneKaffkaDE-WHDL.lha
+Skipped: WastedDreamsRIPFR-WHDL.lha
+Skipped: Wastelands-WHDL.lha
+Skipped: WaveRun-WHDL.lha
+Skipped: WbWortFRdemo-WHDL.lha
+Skipped: WeaponMastersDemo-WHDL.lha
+Skipped: WeaselGoDemo-WHDL.lha
+Skipped: WeirdWars-WHDL.lha
+Skipped: Wendetta2175AGA-WHDL.lha
+Skipped: WhalesVoyage1CD32-WHDL.lha
+Skipped: WhalesVoyage2-WHDL.lha
+Skipped: Wheelchair-WHDL.lha
+Skipped: Wheelie-WHDL.lha
+Skipped: Wheelspin-WHDL.lha
+Skipped: WheelspinAGA-WHDL.lha
+Skipped: WhenTwoWorldsWar-WHDL.lha
+Skipped: WhenTwoWorldsWarAGA-WHDL.lha
+Skipped: WhiteRabbits-WHDL.lha
+Skipped: WhoDidWhat-WHDL.lha
+Skipped: WilczySzaniecDemoPL-WHDL.lha
+Skipped: WildfireDemo-WHDL.lha
+Skipped: WildLifeFR-WHDL.lha
+Skipped: WildWestPL-WHDL.lha
+Skipped: WilliWacker-WHDL.lha
+Skipped: WillyCastle-WHDL.lha
+Skipped: WillyWeirdy-WHDL.lha
+Skipped: WillyWorm-WHDL.lha
+Skipped: WimpCommander-WHDL.lha
+Skipped: WindChallengersIT-WHDL.lha
+Skipped: Windmuehle-WHDL.lha
+Skipped: WingnutsAGA-WHDL.lha
+Skipped: WipeOff-WHDL.lha
+Skipped: WipeOutFist-WHDL.lha
+Skipped: WiredChaos-WHDL.lha
+Skipped: WizardDomain-WHDL.lha
+Skipped: WizardsOdd-WHDL.lha
+Skipped: WizardWarsDemo-WHDL.lha
+Skipped: WizardWorld-WHDL.lha
+Skipped: Wizio1-WHDL.lha
+Skipped: WizzyQuest-WHDL.lha
+Skipped: WolfPacAGA-WHDL.lha
+Skipped: Wonderland-WHDL.lha
+Skipped: WoodenBall-WHDL.lha
+Skipped: Wooglies-WHDL.lha
+Skipped: Workaholic-WHDL.lha
+Skipped: Workoholic-WHDL.lha
+Skipped: WorldCupCricket-WHDL.lha
+Skipped: WorldCupGreats-WHDL.lha
+Skipped: WorldCupSoccerStar-WHDL.lha
+Skipped: WorldCupUSA94-WHDL.lha
+Skipped: WorldGolf-WHDL.lha
+Skipped: WorldHockeyLeagueManagerDE-WHDL.lha
+Skipped: WorldMagic1-WHDL.lha
+Skipped: WorldMagic2-WHDL.lha
+Skipped: WorldofSoccer-WHDL.lha
+Skipped: WorldSeriesCricket-WHDL.lha
+Skipped: WorldSnooker-WHDL.lha
+Skipped: WorldwideHuntingDemo-WHDL.lha
+Skipped: Worm-WHDL.lha
+Skipped: WormAD-WHDL.lha
+Skipped: Wormout2097-WHDL.lha
+Skipped: WormTris-WHDL.lha
+Skipped: WormWars-WHDL.lha
+Skipped: WrathGwendorSE97-WHDL.lha
+Skipped: WrestlingGameDemo-WHDL.lha
+Skipped: Wriggly2-WHDL.lha
+Skipped: Wuzzi-WHDL.lha
+Skipped: Xap-WHDL.lha
+Skipped: XBalls-WHDL.lha
+Skipped: Xenomorphs1-WHDL.lha
+Skipped: Xenomorphs2-WHDL.lha
+Skipped: Xenostar-WHDL.lha
+Skipped: XFI-WHDL.lha
+Skipped: XFighterAGAdemo-WHDL.lha
+Skipped: Xinvasion-WHDL.lha
+Skipped: XIT50-WHDL.lha
+Skipped: XmasDisaster-WHDL.lha
+Skipped: XMasTime-WHDL.lha
+Skipped: XmasWorldTetris-WHDL.lha
+Skipped: XpeditionDemoPL-WHDL.lha
+Skipped: XPoker-WHDL.lha
+Skipped: XSwap-WHDL.lha
+Skipped: XSystem2-WHDL.lha
+Skipped: Yachting-WHDL.lha
+Skipped: Yatcy-WHDL.lha
+Skipped: Yelp-WHDL.lha
+Skipped: Yerop-WHDL.lha
+Skipped: YumYum-WHDL.lha
+Skipped: YuppiRevengeDE-WHDL.lha
+Skipped: Zack-WHDL.lha
+Skipped: ZakletaWyspaPL-WHDL.lha
+Skipped: Zalycon-WHDL.lha
+Skipped: Zarcan-WHDL.lha
+Skipped: Zardoz-WHDL.lha
+Skipped: ZdislavHeroGalaxy3D-WHDL.lha
+Skipped: ZeppelinDE-WHDL.lha
+Skipped: Zerberk-WHDL.lha
+Skipped: Zerg-WHDL.lha
+Skipped: ZeroGravityAGA-WHDL.lha
+Skipped: Zeron-WHDL.lha
+Skipped: Zerosphere-WHDL.lha
+Skipped: Zeus-WHDL.lha
+Skipped: Zgred-WHDL.lha
+Skipped: Zillo-WHDL.lha
+Skipped: Zing-WHDL.lha
+Skipped: ZNYK-WHDL.lha
+Skipped: ZockOut-WHDL.lha
+Skipped: Zodes-WHDL.lha
+Skipped: Zombies-WHDL.lha
+Skipped: ZonalDivisionAGAdemo-WHDL.lha
+Skipped: ZonalWar-WHDL.lha
+Skipped: Zyrad1demo-WHDL.lha
+Skipped: Zyrad2-WHDL.lha
+Skipped: Zzzep-WHDL.lha
 Skipped: AlarcityAGAdemo-WHDL.lha
-Scanned: Alarcity Dungeon [AGA] Demo
-Scanned: Ami Blood Demo
-Scanned: Amigo Demo
-Scanned: Aminer
-Scanned: A MRVoxel Demo 2 Early
-Scanned: A MRWolfdemo 2 [AGA]
-Scanned: Aonic Demo
-Scanned: Astro Blox Rev Demo
-Scanned: Atarenium Falcon Demo
-Scanned: Aztec Challenge [CD32]demo
-Scanned: Backbone Micro Fighters Demo
-Scanned: Backbone Monkey Demo
-Scanned: Backbone Reality Demo
-Scanned: Backbone Tutorial Demo
-Scanned: Beats Fire FFAGA 18 GDemo
-Scanned: Beats Fire FFECSDemo
-Scanned: Big End [CD32] Demo
-Scanned: Black Dawn Rebirth Demo
-Scanned: Blask Demo
+Skipped: AlarcityDungeonAGADemo-WHDL.lha
+Skipped: AmiBloodDemo-WHDL.lha
+Skipped: AmigoDemo-WHDL.lha
+Skipped: AminerDemo-WHDL.lha
+Skipped: AMRVoxelDemoEarly-WHDL.lha
+Skipped: AMRWolfdemoAGA-WHDL.lha
+Skipped: AonicDemo-WHDL.lha
+Skipped: AstroBloxRevDemo-WHDL.lha
+Skipped: AtareniumFalconDemo-WHDL.lha
+Skipped: AztecChallengeCD32demo-WHDL.lha
+Skipped: BackboneMicrofighters-WHDL.lha
+Skipped: BackboneMonkeyDemo-WHDL.lha
+Skipped: BackboneRealityDemo-WHDL.lha
+Skipped: BackboneTutorialDemo-WHDL.lha
+Skipped: BeatsFireFFAGA-WHDL.lha
+Skipped: BeatsFireFFECS-WHDL.lha
+Skipped: BigEndCD32Demo-WHDL.lha
+Skipped: BlackDawnRebirthDemo-WHDL.lha
+Skipped: BlaskDemo-WHDL.lha
 Skipped: BlazingGunsDemo-WHDL.lha
-Scanned: Block Off Demo
-Scanned: Blue Thunder Demo
-Scanned: Bomb Jack Other Demo-NE
-Scanned: Chaos Guns 2016 Demo 040
-Scanned: Chips Remake Demo
-Scanned: Choc Tris Demo
-Scanned: Climby Skies Demo
-Scanned: Coco Banana Demo
-Scanned: Coco Banana Xmas
-Scanned: Deep Silence Demo
-Scanned: Ego Wings Demo
-Scanned: Enforcer Demo
-Scanned: Ftype Demo
-Scanned: Furtum Sacrum Dark Demo
-Scanned: Furtum Sacrum Demo
-Scanned: Germz Demo
-Scanned: Gilbert Demo
-Scanned: Golf Excellence [AGA]demo
-Scanned: Golf Excellence ECSdemo
-Scanned: Green Thang Demo
-Scanned: Hansel Gretel Demo
-Scanned: Heroes Gorluth 30 Demo
-Scanned: Highway Sprint Demo
-Scanned: Hyboria [AGA] Demo Early
-Scanned: Inviyya Demo
-Scanned: KCMdemo
-Scanned: Kung Fu Master Demo
-Scanned: Legacy Demo
-Scanned: Legacy High Demo
-Scanned: Magazyn Demo
-Scanned: Make Fight Demo
-Scanned: Megaman Xdemo Early
-Scanned: Mini 1942 Demo
-Scanned: Mini Swat Demo
-Scanned: Mink Gold 2demo
-Scanned: Monkey Lad Demo
-Scanned: Pong 4k Demo [CD32]
-Scanned: Project Horizon Demo
-Scanned: Quasaurus XDemo
-Scanned: Battlecraft Demo
-Scanned: Cyberwolf Demo
-Scanned: Icarus Demo
-Scanned: Redpill Astro Demo
-Scanned: Rotator 1996
-Scanned: Redpill Basic Platf Demo
-Scanned: Redpill Basic Shoot Demo
-Scanned: Redpill Ex Platf Demo
-Scanned: Redpill Galaga Demo
-Scanned: Redpill Gravity Demo
-Scanned: Redpill Mario Demo
-Scanned: Redpill Minibelle Demo
-Scanned: Redpill Pac Man Demo
-Scanned: Redpill Pang Demo
-Scanned: Redpill Pillman Demo
-Scanned: Redpill Pong Demo
-Scanned: Redpill Wave Demo
-Scanned: Reshoot RAGA Demo
-Scanned: Robbo 2demo-NV-NE
-Scanned: Rygar Demo
-Scanned: Scorpion Alex Kidd Demo
-Scanned: Scorpion Phoenix Wright Demo
-Scanned: Scorpion Zelda Demo
-Scanned: Shadows Sergoth Demo
-Scanned: Slip Stream [AGA] 2x 2 Demo
-Scanned: Sonic Hedgehog Demo
-Scanned: Streets Rage Demo
-Scanned: Streets Rage Demo-test
-Scanned: Super Mario Rebel Demo
-Scanned: Super Mario Retro Demo
-Scanned: SVLCVSSDemo
-Scanned: SVLCVSSRace [AGA] Demo
-Scanned: Szalter Holiday Demo
-Scanned: Tales Gorluth 3demo
-Scanned: Tapper Demo-NE
-Scanned: Theme Park Xmas
-Scanned: Things Demo
-Scanned: Tiny Little Slug Demo
-Scanned: Under Cover Demo
-Scanned: Warpgate Demo
-Scanned: Wonder Boy Demo
-Scanned: Wonder Girl Demo
+Skipped: BlockOffDemo-WHDL.lha
+Skipped: BlueThunderDemo-WHDL.lha
+Skipped: BombJackOtherDemo-WHDL.lha
+Skipped: ChaosGuns2016Demo-WHDL.lha
+Skipped: ChipsRemakeDemo-WHDL.lha
+Skipped: ChocTrisDemo-WHDL.lha
+Skipped: ClimbySkiesDemo-WHDL.lha
+Skipped: CocoBananaDemo-WHDL.lha
+Skipped: CocoBananaXmasDemo-WHDL.lha
+Skipped: DeepSilenceDemo-WHDL.lha
+Skipped: EgoWingsDemo-WHDL.lha
+Skipped: EnforcerDemo-WHDL.lha
+Skipped: FtypeDemo-WHDL.lha
+Skipped: FurtumSacrumDarkDemo-WHDL.lha
+Skipped: FurtumSacrumDemo-WHDL.lha
+Skipped: GermzDemo-WHDL.lha
+Skipped: GilbertDemo-WHDL.lha
+Skipped: GolfExcellenceAGAdemo-WHDL.lha
+Skipped: GolfExcellenceECSdemo-WHDL.lha
+Skipped: GreenThangDemo-WHDL.lha
+Skipped: HanselGretelDemo-WHDL.lha
+Skipped: HeroesGorluthDemo-WHDL.lha
+Skipped: HighwaySprintDemo-WHDL.lha
+Skipped: HyboriaAGADemoEarly-WHDL.lha
+Skipped: InviyyaDemo-WHDL.lha
+Skipped: KCMdemo-WHDL.lha
+Skipped: KungFuMasterDemo-WHDL.lha
+Skipped: LegacyDemo-WHDL.lha
+Skipped: LegacyHighDemo-WHDL.lha
+Skipped: MagazynDemo-WHDL.lha
+Skipped: MakeFightDemo-WHDL.lha
+Skipped: MegamanXDemoEarly-WHDL.lha
+Skipped: Mini1942Demo-WHDL.lha
+Skipped: MiniSwatdemo-WHDL.lha
+Skipped: MinkGold2demo-WHDL.lha
+Skipped: MonkeyLadDemo-WHDL.lha
+Skipped: Pong4kDemoCD32-WHDL.lha
+Skipped: ProjectHorizonDemo-WHDL.lha
+Skipped: QuasaurusXDemo-WHDL.lha
+Skipped: BattlecraftDemo-WHDL.lha
+Skipped: CyberwolfDemo-WHDL.lha
+Skipped: IcarusDemo-WHDL.lha
+Skipped: RedpillAstroDemo-WHDL.lha
+Skipped: Rotator2020demo-WHDL.lha
+Skipped: RedpillBasicPlatfDemo-WHDL.lha
+Skipped: RedpillBasicShootDemo-WHDL.lha
+Skipped: RedpillExPlatfDemo-WHDL.lha
+Skipped: RedpillGalagaDemo-WHDL.lha
+Skipped: RedpillGravityDemo-WHDL.lha
+Skipped: RedpillMarioDemo-WHDL.lha
+Skipped: RedpillMinibelleDemo-WHDL.lha
+Skipped: RedpillPacManDemo-WHDL.lha
+Skipped: RedpillPangDemo-WHDL.lha
+Skipped: RedpillPillmanDemo-WHDL.lha
+Skipped: RedpillPongDemo-WHDL.lha
+Skipped: RedpillWaveDemo-WHDL.lha
+Skipped: ReshootRAGADemo-WHDL.lha
+Skipped: Robbo2demo-WHDL.lha
+Skipped: RygarDemo-WHDL.lha
+Skipped: ScorpionAlexKiddDemo-WHDL.lha
+Skipped: ScorpionPhoenixWrightDemo-WHDL.lha
+Skipped: ScorpionZeldaDemo-WHDL.lha
+Skipped: ShadowsSergothDemo-WHDL.lha
+Skipped: SlipStreamAGAdemo-WHDL.lha
+Skipped: SonicHedgehogDemo-WHDL.lha
+Skipped: StreetsRageDemo-WHDL.lha
+Skipped: StreetsRageDemoEarly-WHDL.lha
+Skipped: SuperMarioRebelDemo-WHDL.lha
+Skipped: SuperMarioRetroDemo-WHDL.lha
+Skipped: SVLCVSSdemo-WHDL.lha
+Skipped: SVLCVSSRaceAGADemo-WHDL.lha
+Skipped: SzalterHolidayDemo-WHDL.lha
+Skipped: TalesGorluth3demo-WHDL.lha
+Skipped: TapperDemo-WHDL.lha
+Skipped: ThemeParkXmas-WHDL.lha
+Skipped: ThingsDemo-WHDL.lha
+Skipped: TinyLittleSlugDemo-WHDL.lha
+Skipped: UnderCoverDemo-WHDL.lha
+Skipped: WarpgateDemo-WHDL.lha
+Skipped: WonderboyDemo-WHDL.lha
+Skipped: WonderGirlDemo-WHDL.lha
 Skipped: 42Issue1_v1.0_Talent.lha
 Skipped: 42Issue1_v1.0_Talent_AGA.lha
 Skipped: 42Issue2_v1.0_Talent.lha

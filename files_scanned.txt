@@ -1,4 +1,4 @@
-Scanned file log: 2020-11-04 at 03:00:05
+Scanned file log: 2020-11-06 at 03:00:04
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -3229,8 +3229,8 @@ Skipped: LeisureSuitLarry3_v2.0_0690.lha
 Skipped: LeisureSuitLarry3_v2.0_De.lha
 Skipped: LeisureSuitLarry3_v2.1_0690.lha
 Skipped: LeisureSuitLarry3_v2.1_De.lha
-Scanned: Leisure Suit Larry 3 - Passionate Patti In Pursuit Of The Pulsating Pectorals
-Scanned: Leisure Suit Larry 3 (Deutsch)
+Skipped: LeisureSuitLarry3_v2.3_0690.lha
+Skipped: LeisureSuitLarry3_v2.3_De.lha
 Skipped: LeisureSuitLarry5_v1.3_2244.lha
 Skipped: LeisureSuitLarry5_v1.3_De.lha
 Skipped: LeisureSuitLarry5_v1.5_2244.lha
@@ -5406,6 +5406,7 @@ Skipped: ProjectXv2_v1.4_0289_BETA.lha
 Skipped: ProjectX_v1.4_0886_BETA.lha
 Skipped: RealmOfTheTrolls_v0.8.lha
 Skipped: ShadowWarriors_v1.2_BETA_0830.lha
+Scanned: Smash
 Skipped: StoriaAncestrale_v0.9g.lha
 Skipped: StuntCarRacerTNT_v1.4_BETA.lha
 Skipped: StuntCarRacer_v1.4_BETA_0222.lha

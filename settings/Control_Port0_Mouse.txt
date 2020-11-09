@@ -34,7 +34,17 @@ ArmourGeddonNTSC
 ArmourGeddon2
 AshesOfEmpire
 ATrain
+ATrain512k
+ATrain512kCz
+ATrain512kDe
+ATrain512kFr
+ATrain512kPl
+ATrainCz
+ATrainDe
+ATrainFr
+ATrainPl
 ATrain&ConstructionSet
+ATrain&ConstrSet512k
 B17FlyingFortress
 BalanceOfPower
 BalanceOfPower1990Ed

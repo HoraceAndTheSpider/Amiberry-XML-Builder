@@ -1,4 +1,4 @@
-Scanned file log: 2020-11-11 at 03:00:06
+Scanned file log: 2020-11-13 at 03:00:04
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -1645,7 +1645,7 @@ Skipped: CastleWarrior_v1.1_2289.lha
 Skipped: CatchEm_v1.0.lha
 Skipped: Cattivik_v1.0_2752.lha
 Skipped: CaveMania_v1.2_2220.lha
-Scanned: Cave Runner
+Skipped: CaveRunner_v1.0.lha
 Skipped: Cavitas_v1.1_2251.lha
 Skipped: Cedric_v1.1.lha
 Skipped: Cedric_v1.1_CD32.lha
@@ -2631,7 +2631,7 @@ Skipped: Goldrunner2_v1.0.lha
 Skipped: Goldrunner_v1.2.lha
 Skipped: GoldRush_v1.0.lha
 Skipped: GoofysRailwayExpress_v1.0_2473.lha
-Scanned: Gordian Tomb
+Skipped: GordianTomb_v1.0.lha
 Skipped: Gotcha_v1.0_Prestige.lha
 Skipped: GraemeSounessSoccerManager_v1.0.lha
 Skipped: GraemeSounessVectorSoccer_v1.1_1700.lha
@@ -3470,7 +3470,7 @@ Skipped: MegaTraveller1_v1.0.lha
 Skipped: MegaTwins_v1.4.1.lha
 Skipped: MegaTyphoon_v1.1.lha
 Skipped: MegaTyphoon_v1.2.lha
-Scanned: Mega Typhoon
+Skipped: MegaTyphoon_v1.3.lha
 Skipped: Menace_v1.2_0823.lha
 Skipped: MentalImage1_v1.0.lha
 Skipped: MentalImage2_v1.2.1.lha
@@ -3880,6 +3880,13 @@ Skipped: PinballFantasies_v2.7_AGA_Chip_0047.lha
 Skipped: PinballFantasies_v2.7_AGA_NTSC_2025.lha
 Skipped: PinballFantasies_v2.7_AGA_NTSC_Chip_2025.lha
 Skipped: PinballFantasies_v2.7_CD32.lha
+Scanned: Pinball Fantasies
+Scanned: Pinball Fantasies [AGA]
+Scanned: Pinball Fantasies [AGA]
+Scanned: Pinball Fntsies [AGA] (NTSC)
+Scanned: Pinball Fntsies [AGA] (NTSC)Chip
+Scanned: Pinball Fantasies [CD32]
+Scanned: Pinball Fantasies [CD32] (Chip)
 Skipped: PinballHazard_v1.1.lha
 Skipped: PinballIllusionsDemo_v1.0_AGA.lha
 Skipped: PinballIllusions_v2.2_AGA_0710.lha
@@ -4637,6 +4644,7 @@ Skipped: SummerGames_v1.0.lha
 Skipped: SummerOlympiad_v1.1.lha
 Skipped: Supaplex_v1.2_1902.lha
 Skipped: SuperCars2_v1.0_0224.lha
+Skipped: SuperCars2_v1.1_0224.lha
 Scanned: Super Cars II
 Skipped: SuperCars_v1.3_1Disk_1528.lha
 Skipped: SuperCars_v1.3_2Disk_1527.lha
@@ -5530,8 +5538,8 @@ Skipped: AnatomicMan-WHDL.lha
 Skipped: AncientGames-WHDL.lha
 Skipped: AndromedaPL-code-WHDL.lha
 Skipped: Angst-WHDL.lha
-Scanned: Annals Rome
-Scanned: Annals Rome PL
+Skipped: AnnalsRome-WHDL.lha
+Skipped: AnnalsRomePL-WHDL.lha
 Skipped: AnnihilationAGAdemo-WHDL.lha
 Skipped: Anoid-WHDL.lha
 Skipped: AnotherWorld2-WHDL.lha
@@ -5757,7 +5765,7 @@ Skipped: BlueMoon-WHDL.lha
 Skipped: BnoidAGA-WHDL.lha
 Skipped: BoatRaceIT-WHDL.lha
 Skipped: BobblePuzzleAGA-WHDL.lha
-Scanned: Bobo Kloc PL
+Skipped: BoboKlocPL-WHDL.lha
 Skipped: BodeRunnerDemo-WHDL.lha
 Skipped: BogratsAGA-WHDL.lha
 Skipped: Boing-WHDL.lha
@@ -5783,7 +5791,7 @@ Skipped: BoneCruncher-WHDL.lha
 Skipped: BoomerangMan-WHDL.lha
 Skipped: BoominEckDemo-WHDL.lha
 Skipped: BoondarAGA-WHDL.lha
-Scanned: Boo PL
+Skipped: BooPL-WHDL.lha
 Skipped: BoozeOMeter-WHDL.lha
 Skipped: Boppin-WHDL.lha
 Skipped: BorisBall-WHDL.lha
@@ -5964,7 +5972,7 @@ Skipped: CocoBanana-WHDL.lha
 Skipped: CocoBananaAGA-WHDL.lha
 Skipped: CodenameHellsquadRIP-WHDL.lha
 Skipped: CodeNameNano-WHDL.lha
-Scanned: Co Do Grosza PLD 7
+Skipped: CoDoGroszaPL-WHDL.lha
 Skipped: Cognition-WHDL.lha
 Skipped: Cohort1FR-M6-WHDL.lha
 Skipped: Cohort2FR-M4-WHDL.lha
@@ -6180,7 +6188,7 @@ Skipped: Dreadnoughts-WHDL.lha
 Skipped: DreamCars-WHDL.lha
 Skipped: DreamRowanDemo-WHDL.lha
 Skipped: DreamStream-WHDL.lha
-Scanned: Dreenshar PLD 7
+Skipped: DreensharPL-WHDL.lha
 Skipped: Drelbs-WHDL.lha
 Skipped: DRez-WHDL.lha
 Skipped: DribblingCalcio-WHDL.lha
@@ -6223,11 +6231,11 @@ Skipped: Elevation1-WHDL.lha
 Skipped: Elevation2-WHDL.lha
 Skipped: ElfieUnicorn-WHDL.lha
 Skipped: ElfieUnicornEasy-WHDL.lha
-Scanned: Elite 2 Frontier PL
+Skipped: Elite2FrontierPL-WHDL.lha
 Skipped: ElseWeGetMad-WHDL.lha
 Skipped: ElvesDreamland-WHDL.lha
-Scanned: Elvira 2 PL
-Scanned: Elvira 3 Waxworks PL
+Skipped: Elvira2PL-WHDL.lha
+Skipped: Elvira3WaxworksPL-WHDL.lha
 Skipped: EmeraldMine4-WHDL.lha
 Skipped: EmeraudeEmpireFR-WHDL.lha
 Skipped: EmotionalConflict-WHDL.lha
@@ -6366,7 +6374,7 @@ Skipped: GeenieDemo-WHDL.lha
 Skipped: GemsDx-WHDL.lha
 Skipped: GemZ-WHDL.lha
 Skipped: GenghisKhan-WHDL.lha
-Scanned: Genghis Khan PL
+Skipped: GenghisKhanPL-WHDL.lha
 Skipped: Genius-WHDL.lha
 Skipped: GeoQuest1-WHDL.lha
 Skipped: GeoQuest2-WHDL.lha
@@ -6392,7 +6400,7 @@ Skipped: ForestDumb1PL-WHDL.lha
 Skipped: FredFrog-WHDL.lha
 Skipped: FutureMinerDemo-WHDL.lha
 Skipped: GameboyTetris-WHDL.lha
-Scanned: Heliosfera PL
+Skipped: HeliosferaPL-WHDL.lha
 Skipped: HelloTaxi-WHDL.lha
 Skipped: HellShot-WHDL.lha
 Skipped: HellzoneDemo-WHDL.lha
@@ -6709,7 +6717,7 @@ Skipped: KillingWarCZ-WHDL.lha
 Skipped: KillLittleDudes-WHDL.lha
 Skipped: KingBarbarians-WHDL.lha
 Skipped: Kingdoms2England-WHDL.lha
-Scanned: Kingdoms 2 England PL
+Skipped: Kingdoms2EnglandPL-WHDL.lha
 Skipped: Kingdoms3GermanyDE-WHDL.lha
 Skipped: KingdomsSteam-WHDL.lha
 Skipped: KingKongLCD-WHDL.lha
@@ -6749,8 +6757,8 @@ Skipped: LemmingsMore2016-WHDL.lha
 Skipped: Lepani-WHDL.lha
 Skipped: LethalFormula-WHDL.lha
 Skipped: Liberator-WHDL.lha
-Scanned: Liga Polska 96 PLD 7
-Scanned: Liga Polska PLD 7
+Skipped: LigaPolska96PL-WHDL.lha
+Skipped: LigaPolskaPL-WHDL.lha
 Skipped: Lightcycles1-WHDL.lha
 Skipped: LightCycles2-WHDL.lha
 Skipped: LimboDemo-WHDL.lha
@@ -6823,7 +6831,7 @@ Skipped: MahJonggAGA-WHDL.lha
 Skipped: MaledictionAGAFR-WHDL.lha
 Skipped: MambaMove-WHDL.lha
 Skipped: ManagerFR-code-WHDL.lha
-Scanned: Manager PL
+Skipped: ManagerPL-WHDL.lha
 Skipped: MangaHotNumbers-WHDL.lha
 Skipped: MangledFenders-WHDL.lha
 Skipped: ManiacBall-WHDL.lha
@@ -6845,7 +6853,7 @@ Skipped: Mash-WHDL.lha
 Skipped: Mashieniblick-WHDL.lha
 Skipped: MasqueradeAGA-WHDL.lha
 Skipped: MasterMage-WHDL.lha
-Scanned: Master Mind
+Skipped: MasterMind-WHDL.lha
 Skipped: MasterNinja-WHDL.lha
 Skipped: MasterTown-WHDL.lha
 Skipped: Match-WHDL.lha
@@ -6916,12 +6924,12 @@ Skipped: MissionConBat-WHDL.lha
 Skipped: MissionSeuck-WHDL.lha
 Skipped: MissionUnderground-WHDL.lha
 Skipped: MisterMissis-WHDL.lha
-Scanned: Mistrz Polski 96 PL-NV-no A Ki
+Skipped: MistrzPolski96PL-WHDL.lha
 Skipped: MixedUpMother-WHDL.lha
 Skipped: MKidAGAdemo-WHDL.lha
 Skipped: MKidDemo-WHDL.lha
 Skipped: MKSoftSolitaire-WHDL.lha
-Scanned: Mnemotron PL
+Skipped: MnemotronPL-WHDL.lha
 Skipped: MobileWarfare-WHDL.lha
 Skipped: MobstersCity-WHDL.lha
 Skipped: ModSurfer-WHDL.lha
@@ -7028,7 +7036,7 @@ Skipped: NinjawsCafeFR-WHDL.lha
 Skipped: NinjaZombieKillerAGA-WHDL.lha
 Skipped: NishiranFR-WHDL.lha
 Skipped: NobunagaAmbition-WHDL.lha
-Scanned: Nobunaga Ambition PL
+Skipped: NobunagaAmbitionPL-WHDL.lha
 Skipped: NoddyBigAdv-WHDL.lha
 Skipped: NoddyPlaytime-WHDL.lha
 Skipped: NoEscape-WHDL.lha
@@ -7055,13 +7063,14 @@ Skipped: Obstickle-WHDL.lha
 Skipped: OCB-WHDL.lha
 Skipped: OddsFavourite-WHDL.lha
 Skipped: Odkrywka-WHDL.lha
+Scanned: Odkrywka PL
 Skipped: Offence-WHDL.lha
 Skipped: OffendersDemo-WHDL.lha
 Skipped: Ohm-WHDL.lha
 Skipped: Oids-WHDL.lha
 Skipped: OilBarons-WHDL.lha
 Skipped: Okey-WHDL.lha
-Scanned: Okrety PLD 7
+Skipped: OkretyPL-WHDL.lha
 Skipped: OlafLonghairDemo-WHDL.lha
 Skipped: OldtimerDE-WHDL.lha
 Skipped: OldtomerAGADE-WHDL.lha
@@ -7123,7 +7132,7 @@ Skipped: PairUp-WHDL.lha
 Skipped: Pallukat-WHDL.lha
 Skipped: PanVlkuCZ-WHDL.lha
 Skipped: ParachuteJoust-WHDL.lha
-Scanned: Patrician PL
+Skipped: PatricianPL-WHDL.lha
 Skipped: PatrolCobryPL-test.lha
 Skipped: PawsClaws-WHDL.lha
 Skipped: PaybackAGAFR-M13-WHDL.lha
@@ -7184,7 +7193,7 @@ Skipped: ProPoker-WHDL.lha
 Skipped: ProtectorParadox-WHDL.lha
 Skipped: Polataa5AGA-WHDL.lha
 Skipped: PoleWalki-WHDL.lha
-Scanned: Pole Walki PL-NV-CE-no Akit
+Skipped: PoleWalkiPL-WHDL.lha
 Skipped: Pollymorf-WHDL.lha
 Skipped: PoltergeistPL-WHDL.lha
 Skipped: PomPomGunner-WHDL.lha
@@ -7272,10 +7281,11 @@ Skipped: KnottyAGA-WHDL.lha
 Skipped: KnuckleHead-WHDL.lha
 Skipped: KoepfchenDE-WHDL.lha
 Skipped: Kradwaty-WHDL.lha
+Scanned: Kradwaty PL
 Skipped: KretaszPL-WHDL.lha
 Skipped: KrillianIncident-WHDL.lha
 Skipped: KungFuCharliesDemo-WHDL.lha
-Scanned: Kupiec PL
+Skipped: KupiecPL-WHDL.lha
 Skipped: Laberinto-WHDL.lha
 Skipped: LaberintoS2N-WHDL.lha
 Skipped: LabiryntPL-WHDL.lha
@@ -7312,7 +7322,7 @@ Skipped: Megaball1-WHDL.lha
 Skipped: Megaball2-WHDL.lha
 Skipped: Megaball3ECSAGA-WHDL.lha
 Skipped: Megaball4ECSAGA-WHDL.lha
-Scanned: Mega Blast PL
+Skipped: MegablastPL-WHDL.lha
 Skipped: Megablock1-WHDL.lha
 Skipped: Megablock2-WHDL.lha
 Skipped: MonopolyDX-WHDL.lha
@@ -7365,7 +7375,7 @@ Skipped: PubDarts-WHDL.lha
 Skipped: PucManWorlds-WHDL.lha
 Skipped: Puggles-WHDL.lha
 Skipped: Pulsar-WHDL.lha
-Scanned: Pulsar PL
+Skipped: PulsarPL-WHDL.lha
 Skipped: PunicaSpielDE-WHDL.lha
 Skipped: Punisher-WHDL.lha
 Skipped: Punter-WHDL.lha
@@ -7409,7 +7419,7 @@ Skipped: Raid2-WHDL.lha
 Skipped: Raid3-WHDL.lha
 Skipped: RaidenAGAdemo-WHDL.lha
 Skipped: RaidOverMoscow-WHDL.lha
-Scanned: Railroad Tycoon PL
+Skipped: RailroadTycoonPL-WHDL.lha
 Skipped: RajdPrzezPL-WHDL.lha
 Skipped: Ramify-WHDL.lha
 Skipped: Ramses-WHDL.lha
@@ -7581,7 +7591,7 @@ Skipped: Sensitive-WHDL.lha
 Skipped: Senso-WHDL.lha
 Skipped: Serie-WHDL.lha
 Skipped: Settlers17FR-WHDL.lha
-Scanned: Settlers PL
+Skipped: SettlersPL-WHDL.lha
 Skipped: SEUSeasonsDemo-WHDL.lha
 Skipped: SevenRealms-WHDL.lha
 Skipped: Sexanoids1-WHDL.lha
@@ -7669,8 +7679,8 @@ Skipped: Sirius7-WHDL.lha
 Skipped: SirLosealotAGA-WHDL.lha
 Skipped: SixthSenseAGA-WHDL.lha
 Skipped: Skan29-WHDL.lha
-Scanned: Skarabeusz PL
-Scanned: Skarbnik PLD 7
+Skipped: SkarabeuszPL-WHDL.lha
+Skipped: SkarbnikPL-WHDL.lha
 Skipped: SkarbTemplariuszyPL-WHDL.lha
 Skipped: Skat-WHDL.lha
 Skipped: SkatDX2DE-WHDL.lha
@@ -7835,7 +7845,7 @@ Skipped: StellarEscape-WHDL.lha
 Skipped: Step5AGA-WHDL.lha
 Skipped: StixNTrax-WHDL.lha
 Skipped: StockMarket-WHDL.lha
-Scanned: Stock Market PL
+Skipped: StockMarketPL-WHDL.lha
 Skipped: Stomper-WHDL.lha
 Skipped: Stones-WHDL.lha
 Skipped: StonesMirko-WHDL.lha
@@ -7933,13 +7943,13 @@ Skipped: SwiatecznaAwaria-WHDL.lha
 Skipped: SwibbleDibble-WHDL.lha
 Skipped: SwidronPL-WHDL.lha
 Skipped: SymanXmas-WHDL.lha
-Scanned: Syndicate PL
+Skipped: SyndicatePL-WHDL.lha
 Skipped: Sys-WHDL.lha
 Skipped: System4-WHDL.lha
 Skipped: SystemDefender-WHDL.lha
 Skipped: SyzyfPL-WHDL.lha
 Skipped: Syzygy-WHDL.lha
-Scanned: Szachista PLD 7
+Skipped: SzachistaPL-WHDL.lha
 Skipped: SzalterPL-WHDL.lha
 Skipped: TacticalManager1-WHDL.lha
 Skipped: TacticalManager2-WHDL.lha
@@ -8117,13 +8127,13 @@ Skipped: Turn-WHDL.lha
 Skipped: TurnIt2-WHDL.lha
 Skipped: Turtleminator-WHDL.lha
 Skipped: TwilightKnights-WHDL.lha
-Scanned: Twilight Knights PL
+Skipped: TwilightKnightsPL-WHDL.lha
 Skipped: TwinZ-WHDL.lha
 Skipped: TwoToOne-WHDL.lha
 Skipped: Tykkipeli-WHDL.lha
 Skipped: TyranPL-WHDL.lha
 Skipped: UbekECSAGA-WHDL.lha
-Scanned: Ubek ECSAGA PL
+Skipped: UbekECSAGAPL-WHDL.lha
 Skipped: UchessECSAGA-WHDL.lha
 Skipped: UFOEnemyUnclothed-WHDL.lha
 Skipped: UFOEnemyUnclothedDemo-WHDL.lha
@@ -8189,7 +8199,7 @@ Skipped: VideoVegas-WHDL.lha
 Skipped: Vierzehn-WHDL.lha
 Skipped: ViperDemoAGA-WHDL.lha
 Skipped: VirusAttackDemo-WHDL.lha
-Scanned: Vicky PL
+Skipped: VivkyPL-WHDL.lha
 Skipped: VoyageCentreTerreFR-WHDL.lha
 Skipped: Wabes-WHDL.lha
 Skipped: WackMan-WHDL.lha
@@ -8308,7 +8318,7 @@ Skipped: Zalycon-WHDL.lha
 Skipped: Zarcan-WHDL.lha
 Skipped: Zardoz-WHDL.lha
 Skipped: ZdislavHeroGalaxy3D-WHDL.lha
-Scanned: Zenek Saper PL-code
+Skipped: ZenekSaperPL-WHDL.lha
 Skipped: ZeppelinDE-WHDL.lha
 Skipped: Zerberk-WHDL.lha
 Skipped: Zerg-WHDL.lha
@@ -8336,7 +8346,7 @@ Skipped: ChillyChavez-WHDL.lha
 Skipped: ChinaChallenge1-WHDL.lha
 Skipped: ChinaChallenge2-WHDL.lha
 Skipped: ChinaChallenge3-WHDL.lha
-Scanned: Chinczyk PL
+Skipped: ChinczykPL-WHDL.lha
 Skipped: ChineseChess-WHDL.lha
 Skipped: Chips-WHDL.lha
 Skipped: Chopper2-WHDL.lha
@@ -8344,7 +8354,7 @@ Skipped: ChopperAttack-WHDL.lha
 Skipped: CiemnaStronaPL-WHDL.lha
 Skipped: Circus-WHDL.lha
 Skipped: City-WHDL.lha
-Scanned: Civilization PL
+Skipped: CivilizationPL-WHDL.lha
 Skipped: AlarcityAGAdemo-WHDL.lha
 Skipped: AlarcityDungeonAGADemo-WHDL.lha
 Skipped: AmiBloodDemo-WHDL.lha

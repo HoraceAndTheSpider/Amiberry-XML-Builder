@@ -1,4 +1,4 @@
-Scanned file log: 2020-11-18 at 03:00:04
+Scanned file log: 2020-11-20 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -6510,7 +6510,7 @@ Skipped: GridStart2SuperSeriesGP-WHDL.lha
 Skipped: GridStart3-WHDL.lha
 Skipped: Gringos-WHDL.lha
 Skipped: GroseKasejagdDE-WHDL.lha
-Scanned: Grotto Mine 2
+Skipped: GrottoMine2-WHDL.lha
 Skipped: GroWorm-WHDL.lha
 Skipped: Growth-WHDL.lha
 Skipped: GTW-WHDL.lha
@@ -7291,7 +7291,7 @@ Skipped: KnottyAGA-WHDL.lha
 Skipped: KnuckleHead-WHDL.lha
 Skipped: KoepfchenDE-WHDL.lha
 Skipped: KonstruktorPL-WHDL.lha
-Scanned: Kosci PL
+Skipped: KosciPL-WHDL.lha
 Skipped: Kradwaty-WHDL.lha
 Skipped: KradwatyPL-WHDL.lha
 Skipped: KretaszPL-WHDL.lha
@@ -7411,7 +7411,7 @@ Skipped: Quadranoid-WHDL.lha
 Skipped: QuadrixSparks-WHDL.lha
 Skipped: Quakers-WHDL.lha
 Skipped: Quantum-WHDL.lha
-Scanned: Quaptos PL-NV-NE
+Skipped: QuaptosPL-WHDL.lha
 Skipped: Quasarius-WHDL.lha
 Skipped: Quasi-WHDL.lha
 Skipped: QuatroProSoccer-WHDL.lha
@@ -8015,7 +8015,7 @@ Skipped: TenaBlaster-WHDL.lha
 Skipped: TennisDreke-WHDL.lha
 Skipped: TeoPL-WHDL.lha
 Skipped: TeresaAGA-WHDL.lha
-Scanned: Testament 2 [AGA]
+Skipped: Testament2AGA-WHDL.lha
 Skipped: TestMatchCricket-WHDL.lha
 Skipped: Tetracopy-WHDL.lha
 Skipped: Tetras-WHDL.lha
@@ -8494,11 +8494,11 @@ Skipped: NobunagaAmbitionPL-WHDL.lha
 Skipped: PatricianPL-WHDL.lha
 Skipped: PioneersPL-WHDL.lha
 Skipped: RailroadTycoonPL-WHDL.lha
-Scanned: Ramses PL
+Skipped: RamsesPL-WHDL.lha
 Skipped: SettlersPL-WHDL.lha
 Skipped: StockMarketPL-WHDL.lha
 Skipped: SyndicatePL-WHDL.lha
-Scanned: Vermeer PL
+Skipped: VermeerPL-WHDL.lha
 Skipped: 42Issue1_v1.0_Talent.lha
 Skipped: 42Issue1_v1.0_Talent_AGA.lha
 Skipped: 42Issue2_v1.0_Talent.lha

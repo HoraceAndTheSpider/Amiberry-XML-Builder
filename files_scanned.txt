@@ -1,4 +1,4 @@
-Scanned file log: 2020-11-25 at 03:00:04
+Scanned file log: 2020-11-27 at 03:00:04
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -1366,8 +1366,8 @@ Skipped: BigNoseTheCaveman_v1.0.lha
 Skipped: BigRun_v1.1_0301.lha
 Skipped: Biing_v1.0_AGA_De_0442.lha
 Skipped: BillsTomatoGame_v2.0_1748.lha
-Scanned: Bill's Tomato Game
-Scanned: Bills Tomato Game (NTSC)
+Skipped: BillsTomatoGame_v2.1_1748.lha
+Skipped: BillsTomatoGame_v2.1_NTSC.lha
 Skipped: BioChallenge_v1.1a_1733.lha
 Skipped: BioChallenge_v1.2_1733.lha
 Skipped: BionicCommando_v1.1_1072.lha
@@ -1837,17 +1837,17 @@ Skipped: CrimeWave_v1.1.lha
 Skipped: Croak2_v1.0.lha
 Skipped: Croak_v1.0.lha
 Skipped: CroisierePourUnCadavre_v2.1-B_Fr_1827.lha
-Scanned: Croisiere Pour Un Cadavre (Francais)
+Skipped: CroisierePourUnCadavre_v2.2_Fr_1827.lha
 Skipped: CrossCheck_v1.0.lha
 Skipped: CruiseForACorpse_v2.1-B_0108.lha
 Skipped: CruiseForACorpse_v2.1-B_De_0676.lha
 Skipped: CruiseForACorpse_v2.1-B_Es.lha
 Skipped: CruiseForACorpse_v2.1-B_It.lha
-Scanned: Cruise For A Corpse
-Scanned: Cruise For A Corpse (Deutsch)
-Scanned: Cruise For A Corpse (Espanol)
-Scanned: Cruise For A Corpse (Italiano)
-Scanned: Cruise For A Corpse (NTSC)
+Skipped: CruiseForACorpse_v2.2_0108.lha
+Skipped: CruiseForACorpse_v2.2_De_0676.lha
+Skipped: CruiseForACorpse_v2.2_Es.lha
+Skipped: CruiseForACorpse_v2.2_It.lha
+Skipped: CruiseForACorpse_v2.2_NTSC.lha
 Skipped: CruncherFactory_v1.1.lha
 Skipped: CrystalDragon_v1.3_1830.lha
 Skipped: CrystalDragon_v1.3_De.lha
@@ -4693,13 +4693,13 @@ Skipped: SuperOsWALD_v1.0_Dk.lha
 Skipped: SuperPutty_v1.2a_CD32.lha
 Skipped: SuperScrambleSimulator_v1.1.lha
 Skipped: SuperSeymourSavesThePlanet_v1.2.lha
-Scanned: Super Silly Skid Marks CD
-Scanned: Super Silly Skid Marks LMCD
+Skipped: SuperSillySkidMarks_v2.1_CD.lha
+Skipped: SuperSillySkidMarks_v2.1_LowMem_CD.lha
 Skipped: SuperSki2_v0501.1.lha
-Scanned: Super Skid Marks + CD
-Scanned: Super Skid Marks + LMCD
-Scanned: Super Skid Marks FYEd CD
-Scanned: Super Skid Marks FYEd LMCD
+Skipped: SuperSkidMarks+_v2.1_CD.lha
+Skipped: SuperSkidMarks+_v2.1_LowMem_CD.lha
+Skipped: SuperSkidMarksFarmYardEdition_v2.1_CD.lha
+Skipped: SuperSkidMarksFarmYardEdition_v2.1_LowMem_CD.lha
 Skipped: SuperSkidmarks_v1.0_CD32.lha
 Skipped: Scorpio_v1.0.lha
 Skipped: SecretOfMonkeyIsland_v3.4_1625.lha
@@ -4718,12 +4718,12 @@ Skipped: SoccerKid_v2.0_1129.lha
 Skipped: SuperSkidmarks_v1.1_LowMem_CD32.lha
 Skipped: SuperSkidMarks_v2.0_1797.lha
 Skipped: SuperSkidMarks_v2.0_CD32.lha
-Scanned: Super Skid Marks
-Scanned: Super Skid Marks CD
-Scanned: Super Skid Marks [CD32]
-Scanned: Super Skid Marks Low Mem
-Scanned: Super Skid Marks LMCD
-Scanned: Super Skid Marks Low Mem [CD32]
+Skipped: SuperSkidMarks_v2.1_1797.lha
+Skipped: SuperSkidMarks_v2.1_CD.lha
+Skipped: SuperSkidMarks_v2.1_CD32.lha
+Skipped: SuperSkidMarks_v2.1_LowMem_1797.lha
+Skipped: SuperSkidMarks_v2.1_LowMem_CD.lha
+Skipped: SuperSkidMarks_v2.1_LowMem_CD32.lha
 Skipped: SuperSki_v1.2_2492.lha
 Skipped: SuperSki_v1.2_Fr.lha
 Skipped: SuperSkweek_v1.1_1MB_1935&2403.lha
@@ -6315,6 +6315,8 @@ Skipped: ExileAGA-WHDL.lha
 Skipped: ExileDiscoveryAGAFR-WHDL.lha
 Skipped: Exit13-WHDL.lha
 Skipped: Experiment-WHDL.lha
+Scanned: Experiment 1-NV-no Akit
+Scanned: Experiment 2 Entity
 Skipped: ExplorerPL-WHDL.lha
 Skipped: ExplosiveChaos-WHDL.lha
 Skipped: FutureSpace-WHDL.lha
@@ -6971,7 +6973,7 @@ Skipped: MKidDemo-WHDL.lha
 Skipped: MKSoftSolitaire-WHDL.lha
 Skipped: MnemotronPL-WHDL.lha
 Skipped: MobileWarfare-WHDL.lha
-Scanned: Mobile Warfare FR
+Skipped: MobileWarfareFR-WHDL.lha
 Skipped: MobstersCity-WHDL.lha
 Skipped: ModSurfer-WHDL.lha
 Skipped: MoebiusGoatlizard-WHDL.lha
@@ -7113,7 +7115,7 @@ Skipped: OilBarons-WHDL.lha
 Skipped: Okey-WHDL.lha
 Skipped: OkretyPL-WHDL.lha
 Skipped: OlafLonghairDemo-WHDL.lha
-Scanned: Olaf Longhair Demo FR
+Skipped: OlafLonghairDemoFR-WHDL.lha
 Skipped: OldtimerDE-WHDL.lha
 Skipped: OldtomerAGADE-WHDL.lha
 Skipped: Olempiad-WHDL.lha
@@ -7509,8 +7511,8 @@ Skipped: Rescue1-WHDL.lha
 Skipped: Rescue2-WHDL.lha
 Skipped: RetroAGA-WHDL.lha
 Skipped: RetroWars-WHDL.lha
+Skipped: RetroWarsFR-WHDL.lha
 Skipped: RetroWarsSP-WHDL.lha
-Skipped: ReturnEarth-WHDL.lha
 Skipped: ReturnValkyr-WHDL.lha
 Skipped: Reverse-WHDL.lha
 Skipped: ReverseDE-WHDL.lha
@@ -7672,7 +7674,7 @@ Skipped: Quatro-WHDL.lha
 Skipped: Raid4-WHDL.lha
 Skipped: Reaxion-WHDL.lha
 Skipped: Reederei-WHDL.lha
-Skipped: RetroWarsFR-WHDL.lha
+Skipped: ReturnEarth-WHDL.lha
 Skipped: RiseRabbits2AGA-WHDL.lha
 Skipped: RoboticsLife-WHDL.lha
 Skipped: Rome-WHDL.lha
@@ -7692,6 +7694,7 @@ Skipped: SilverBars-WHDL.lha
 Skipped: Silverblade-WHDL.lha
 Skipped: SilverEagle-WHDL.lha
 Skipped: Silverman-WHDL.lha
+Scanned: Silverman SP
 Skipped: SimBlind-WHDL.lha
 Skipped: SimCity13-WHDL.lha
 Skipped: SimCity2000AGA-WHDL.lha
@@ -7869,6 +7872,8 @@ Skipped: StableMasters3-WHDL.lha
 Skipped: Stag-WHDL.lha
 Skipped: Starbase-WHDL.lha
 Skipped: Starbase13-WHDL.lha
+Scanned: Starbase 131-NV-no Akit
+Scanned: Starbase 132 Eps 9-NV-no Akit
 Skipped: Starboy-WHDL.lha
 Skipped: StarBuster-WHDL.lha
 Skipped: StarbyteSuperSoccerDE-WHDL.lha

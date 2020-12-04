@@ -1,4 +1,4 @@
-Scanned file log: 2020-12-02 at 03:00:07
+Scanned file log: 2020-12-04 at 03:00:05
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -1376,7 +1376,7 @@ Skipped: BiplaneDuel_v1.0.lha
 Skipped: BirdsOfPrey_v1.0_0101.lha
 Skipped: BirdsOfPrey_v1.1_0101.lha
 Skipped: Bismarck_v1.0_2563&2702.lha
-Scanned: Bivouac (Francais)
+Skipped: Bivouac_v1.1_Fr.lha
 Skipped: BlackCauldron_v1.2_2057.lha
 Skipped: BlackCrypt_v2.0_0281.lha
 Skipped: BlackCrypt_v2.1_0281.lha
@@ -2339,8 +2339,8 @@ Skipped: FightinSpirit_v1.2.lha
 Skipped: FightinSpirit_v1.2_AGA.lha
 Skipped: FightinSpirit_v1.2_CD32.lha
 Skipped: FinalAssault_v1.0.lha
-Scanned: Final Assault
-Scanned: Final Assault (NTSC)
+Skipped: FinalAssault_v1.1.lha
+Skipped: FinalAssault_v1.1_NTSC_1429.lha
 Skipped: FinalBattle_v1.1.lha
 Skipped: FinalBattle_v1.1_De.lha
 Skipped: FinalBattle_v1.2_0259.lha
@@ -4310,11 +4310,11 @@ Skipped: SecretOfMonkeyIsland_v3.5_De_0359.lha
 Skipped: SecretOfMonkeyIsland_v3.5_Es.lha
 Skipped: SecretOfMonkeyIsland_v3.5_Fr_1750.lha
 Skipped: SecretOfMonkeyIsland_v3.5_It.lha
-Scanned: Secret Of Monkey Island
-Scanned: Secret Of Monkey Island (Deutsch)
-Scanned: Secret Of Monkey Island (Espanol)
-Scanned: Secret Of Monkey Island (Francais)
-Scanned: Secret Of Monkey Island (Italiano)
+Skipped: SecretOfMonkeyIsland_v3.6_1625.lha
+Skipped: SecretOfMonkeyIsland_v3.6_De_0359.lha
+Skipped: SecretOfMonkeyIsland_v3.6_Es.lha
+Skipped: SecretOfMonkeyIsland_v3.6_Fr_1750.lha
+Skipped: SecretOfMonkeyIsland_v3.6_It.lha
 Skipped: SecretOfTheSilverBlades_v1.0.lha
 Skipped: Seek&Destroy_v1.1_0252.lha
 Skipped: Seek&Destroy_v1.1_AGA_0252.lha
@@ -4449,8 +4449,8 @@ Skipped: SkeletonKrew_v3.0_AGA_0725.lha
 Skipped: SkeletonKrew_v3.0_CD32.lha
 Skipped: Skidmarks_v1.0_0204.lha
 Skipped: Skidmarks_v1.0_AGA_0204.lha
-Scanned: Skidmarks
-Scanned: Skidmarks [AGA]
+Skipped: Skidmarks_v1.2_0204.lha
+Skipped: Skidmarks_v1.2_AGA_0204.lha
 Skipped: Skidz_v1.0.lha
 Skipped: SkiOrDie_v1.0_1258.lha
 Skipped: Skrull_v1.0_1709.lha
@@ -4706,17 +4706,17 @@ Skipped: SuperScrambleSimulator_v1.1.lha
 Skipped: SuperSeymourSavesThePlanet_v1.2.lha
 Skipped: SuperSillySkidMarks_v2.1_CD.lha
 Skipped: SuperSillySkidMarks_v2.1_LowMem_CD.lha
-Scanned: Super Silly Skidmarks CD
-Scanned: Super Silly Skidmarks LMCD
+Skipped: SuperSillySkidmarks_v2.2_CD.lha
+Skipped: SuperSillySkidmarks_v2.2_LowMem_CD.lha
 Skipped: SuperSki2_v0501.1.lha
 Skipped: SuperSkidMarks+_v2.1_CD.lha
 Skipped: SuperSkidMarks+_v2.1_LowMem_CD.lha
-Scanned: Super Skidmarks + CD
-Scanned: Super Skidmarks + LMCD
+Skipped: SuperSkidmarks+_v2.2_CD.lha
+Skipped: SuperSkidmarks+_v2.2_LowMem_CD.lha
 Skipped: SuperSkidMarksFarmYardEdition_v2.1_CD.lha
 Skipped: SuperSkidMarksFarmYardEdition_v2.1_LowMem_CD.lha
-Scanned: Super Skidmarks FYEd CD
-Scanned: Super Skidmarks FYEd LMCD
+Skipped: SuperSkidmarksFarmYardEdition_v2.2_CD.lha
+Skipped: SuperSkidmarksFarmYardEdition_v2.2_LowMem_CD.lha
 Skipped: SuperSkidmarks_v1.0_CD32.lha
 Skipped: Scorpio_v1.0.lha
 Skipped: SecretOfMonkeyIsland_v3.4_1625.lha
@@ -4741,12 +4741,12 @@ Skipped: SuperSkidMarks_v2.1_CD32.lha
 Skipped: SuperSkidMarks_v2.1_LowMem_1797.lha
 Skipped: SuperSkidMarks_v2.1_LowMem_CD.lha
 Skipped: SuperSkidMarks_v2.1_LowMem_CD32.lha
-Scanned: Super Skidmarks
-Scanned: Super Skidmarks CD
-Scanned: Super Skidmarks [CD32]
-Scanned: Super Skidmarks Low Mem
-Scanned: Super Skidmarks LMCD
-Scanned: Super Skidmarks Low Mem [CD32]
+Skipped: SuperSkidmarks_v2.2_1797.lha
+Skipped: SuperSkidmarks_v2.2_CD.lha
+Skipped: SuperSkidmarks_v2.2_CD32.lha
+Skipped: SuperSkidmarks_v2.2_LowMem_1797.lha
+Skipped: SuperSkidmarks_v2.2_LowMem_CD.lha
+Skipped: SuperSkidmarks_v2.2_LowMem_CD32.lha
 Skipped: SuperSki_v1.2_2492.lha
 Skipped: SuperSki_v1.2_Fr.lha
 Skipped: SuperSkweek_v1.1_1MB_1935&2403.lha
@@ -8535,6 +8535,30 @@ Skipped: UnderCoverDemo-WHDL.lha
 Skipped: WarpgateDemo-WHDL.lha
 Skipped: WonderboyDemo-WHDL.lha
 Skipped: WonderGirlDemo-WHDL.lha
+Scanned: Across USA
+Scanned: Barney Bear Camping
+Scanned: Barney Bear Farm
+Scanned: Barney Bear Santa Claus
+Scanned: Bosse Maths 3eme
+Scanned: Bosse Maths 4eme
+Scanned: Bosse Maths 5eme
+Scanned: Bosse Maths 6eme
+Scanned: Denver Decouvre Formes FR
+Scanned: Droledecole 0507 FR
+Scanned: Intri Renaissance FR-code
+Scanned: Jungle Book FR
+Scanned: Kids Only
+Scanned: Kid Stop
+Scanned: Lecture Balade Big Ben FR
+Scanned: Lecture Don Quichotte FR
+Scanned: Lecture Enigme Oxford FR
+Scanned: Mickey Mots Croises FR-code
+Scanned: Mickey Runaway Zoo FR
+Skipped: NoddyBigAdv-WHDL.lha
+Skipped: NoddyPlaytime-WHDL.lha
+Scanned: Noddy Wordblast
+Skipped: Thingamajig-WHDL.lha
+Scanned: Visa Hyde Park FR
 Skipped: 1869PL-WHDL.lha
 Skipped: AnnalsRomePL-WHDL.lha
 Skipped: ATrainPL-WHDL.lha

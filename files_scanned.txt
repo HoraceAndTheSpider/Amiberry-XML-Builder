@@ -1,4 +1,4 @@
-Scanned file log: 2020-12-09 at 03:00:05
+Scanned file log: 2020-12-11 at 03:00:05
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -1377,7 +1377,7 @@ Skipped: BirdsOfPrey_v1.0_0101.lha
 Skipped: BirdsOfPrey_v1.1_0101.lha
 Skipped: Bismarck_v1.0_2563&2702.lha
 Skipped: Bivouac_v1.1_Fr.lha
-Scanned: Bivouac (Francais)
+Skipped: Bivouac_v1.2_Fr.lha
 Skipped: BlackCauldron_v1.2_2057.lha
 Skipped: BlackCrypt_v2.0_0281.lha
 Skipped: BlackCrypt_v2.1_0281.lha
@@ -1667,7 +1667,7 @@ Skipped: ChamberOfTheSciMutantPriestess_v1.1b.lha
 Skipped: ChamberOfTheSciMutantPriestess_v1.1b_NTSC_3037.lha
 Skipped: ChamberOfTheSciMutantPriestess_v1.2_NTSC_3037.lha
 Skipped: ChambersOfShaolin_v1.2_3049.lha
-Scanned: Chamonix Challenge
+Skipped: ChamonixChallenge_v1.2_2281.lha
 Skipped: ChampionDriver_v1.0_1292.lha
 Skipped: ChampionshipGolf_v1.0.lha
 Skipped: ChampionshipRun_v1.0_0825.lha
@@ -2170,7 +2170,7 @@ Skipped: Eliminator_v1.1_0770.lha
 Skipped: Eliminator_v1.3_0770.lha
 Skipped: EliteAdvanced_v1.2.lha
 Skipped: Elite_v2.0_1572.lha
-Scanned: Elite
+Skipped: Elite_v2.1_1572.lha
 Skipped: Elvira2_v1.4_De.lha
 Skipped: Elvira2_v1.4_Es.lha
 Skipped: Elvira2_v1.4_Fr_2663.lha
@@ -2344,8 +2344,8 @@ Skipped: FightinSpirit_v1.2_CD32.lha
 Skipped: FinalAssault_v1.0.lha
 Skipped: FinalAssault_v1.1.lha
 Skipped: FinalAssault_v1.1_NTSC_1429.lha
-Scanned: Final Assault
-Scanned: Final Assault (NTSC)
+Skipped: FinalAssault_v1.2.lha
+Skipped: FinalAssault_v1.2_NTSC_1429.lha
 Skipped: FinalBattle_v1.1.lha
 Skipped: FinalBattle_v1.1_De.lha
 Skipped: FinalBattle_v1.2_0259.lha
@@ -2609,8 +2609,8 @@ Skipped: GlobalTrek_v1.0.lha
 Skipped: GlobalTrek_v1.1.lha
 Skipped: Globdule_v1.1b_0183.lha
 Skipped: Globdule_v1.1b_NTSC.lha
-Scanned: Globdule
-Scanned: Globdule (NTSC)
+Skipped: Globdule_v1.2_0183.lha
+Skipped: Globdule_v1.2_NTSC.lha
 Skipped: Globulus_v1.1.lha
 Skipped: GloomDemo_v1.0_AGA.lha
 Skipped: GloomDemo_v1.1_AGA.lha
@@ -3914,7 +3914,14 @@ Skipped: PinballFantasies_v3.0_AGA_NTSC_2025.lha
 Skipped: PinballFantasies_v3.0_AGA_NTSC_Chip_2025.lha
 Skipped: PinballFantasies_v3.0_CD32.lha
 Skipped: PinballFantasies_v3.0_CD32_Chip.lha
+Skipped: PinballFantasies_v3.1_0025.lha
+Skipped: PinballFantasies_v3.1_AGA_Chip_0047.lha
+Skipped: PinballFantasies_v3.1_AGA_NTSC_2025.lha
+Skipped: PinballFantasies_v3.1_AGA_NTSC_Chip_2025.lha
+Skipped: PinballFantasies_v3.1_CD32.lha
+Skipped: PinballFantasies_v3.1_CD32_Chip.lha
 Scanned: Pinball Fantasies
+Scanned: Pinball Fantasies [AGA]
 Scanned: Pinball Fantasies [AGA]
 Scanned: Pinball Fntsies [AGA] (NTSC)
 Scanned: Pinball Fntsies [AGA] (NTSC)Chip
@@ -5048,8 +5055,8 @@ Skipped: TrapsNTreasures_v1.0.lha
 Skipped: TrapsNTreasures_v1.0_De.lha
 Skipped: TreasureIslandDizzy_v1.2_0594.lha
 Skipped: TreasureIslandDizzy_v1.2_CD32.lha
-Scanned: Treasure Island Dizzy
-Scanned: Treasure Island Dizzy [CD32]
+Skipped: TreasureIslandDizzy_v1.3_0594.lha
+Skipped: TreasureIslandDizzy_v1.3_CD32.lha
 Skipped: TreasuresOfTheSavageFrontier_v1.0_NTSC_0992.lha
 Skipped: TreasureTrap_v1.01_1731.lha
 Skipped: TrexWarrior_v1.0.lha
@@ -7376,6 +7383,7 @@ Skipped: LaberintoS2N-WHDL.lha
 Skipped: LabiryntPL-WHDL.lha
 Skipped: Labyrinth-WHDL.lha
 Skipped: Labyrinth2-WHDL.lha
+Scanned: Labyrinth 64
 Skipped: LactoseIntolerance-WHDL.lha
 Skipped: LameST-WHDL.lha
 Skipped: Lancaster-WHDL.lha
@@ -7509,6 +7517,7 @@ Skipped: RailroadTycoonPL-WHDL.lha
 Skipped: RajdPrzezPL-WHDL.lha
 Skipped: Ramify-WHDL.lha
 Skipped: Ramses-WHDL.lha
+Scanned: Ramses FR
 Skipped: RanTrainerDE-WHDL.lha
 Skipped: RashPanic-WHDL.lha
 Skipped: RasterBike-WHDL.lha
@@ -8507,6 +8516,7 @@ Skipped: MinkGold2demo-WHDL.lha
 Skipped: MonkeyLadDemo-WHDL.lha
 Skipped: Pong4kDemoCD32-WHDL.lha
 Skipped: ProjectHorizonDemo-WHDL.lha
+Scanned: Putter Demo
 Skipped: QuasaurusXDemo-WHDL.lha
 Skipped: BattlecraftDemo-WHDL.lha
 Skipped: CyberwolfDemo-WHDL.lha
@@ -8552,7 +8562,8 @@ Skipped: WonderboyDemo-WHDL.lha
 Skipped: WonderGirlDemo-WHDL.lha
 Skipped: FunSchool3for5to7-WHDL.lha
 Skipped: AcrossUSAFR-WHDL.lha
-Scanned: A DIJunior-code
+Skipped: ADIJunior-WHDL.lha
+Scanned: A DIJunior FR-code
 Skipped: BarneyBearCamping-WHDL.lha
 Skipped: BarneyBearFarm-WHDL.lha
 Skipped: BarneyBearSantaClaus-WHDL.lha
@@ -8589,7 +8600,7 @@ Skipped: MickeyRunawayZooFR-WHDL.lha
 Skipped: NoddyBigAdv-WHDL.lha
 Skipped: NoddyPlaytime-WHDL.lha
 Skipped: NoddyWordblast-WHDL.lha
-Scanned: Ortho CMFR
+Skipped: OrthoCMFR-WHDL.lha
 Skipped: Thingamajig-WHDL.lha
 Skipped: VisaHydeParkFR-WHDL.lha
 Skipped: 1869PL-WHDL.lha

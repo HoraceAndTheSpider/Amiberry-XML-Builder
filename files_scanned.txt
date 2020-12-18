@@ -1,4 +1,4 @@
-Scanned file log: 2020-12-16 at 03:00:05
+Scanned file log: 2020-12-18 at 03:00:05
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -1521,7 +1521,7 @@ Skipped: BumpNBurn_v1.2_2920.lha
 Skipped: BumpNBurn_v1.2_CD32.lha
 Skipped: BumpysArcadeFantasy_v1.0_1604.lha
 Skipped: BundesligaManagerHattrick_v0.9_De_AGA_0791.lha
-Scanned: Bundesliga Mngr Hatt [AGA] (Deutsch)
+Skipped: BundesligaManagerHattrick_v1.0_AGA_De.lha
 Skipped: CurseOfRa_v1.2_CDTV.lha
 Skipped: CurseOfRa_v1.3b_1277.lha
 Skipped: CurseOfRa_v1.3b_CDTV.lha
@@ -1967,7 +1967,7 @@ Skipped: DeepSpace_v1.2.lha
 Skipped: Deep_v1.0.lha
 Skipped: Defender2_v1.0.lha
 Skipped: DefenderOfTheCrown2_v1.1_CD32.lha
-Scanned: Defender Of The Crown 2 [CD32]
+Skipped: DefenderOfTheCrown2_v1.2_CD32.lha
 Skipped: DefenderOfTheCrown_v3.1_0317.lha
 Skipped: DefenderOfTheCrown_v3.1_CDTV.lha
 Skipped: DarkCastle_v1.01_NTSC_1459.lha
@@ -1987,9 +1987,9 @@ Skipped: DungeonsOfAvalon2_v1.0_1957.lha
 Skipped: DefendersOfTheEarth_v1.2_0456.lha
 Skipped: Defender_v1.0_Ratsoft.lha
 Skipped: DefenseurDeLaCouronne2_v1.1_CD32_Fr.lha
-Scanned: Defenseur Couronne 2 [CD32] (Francais)
+Skipped: DefenseurDeLaCouronne2_v1.2_CD32_Fr.lha
 Skipped: DefensorDeLaCorona2_v1.1_CD32_Es.lha
-Scanned: Defensor De La Corona 2 [CD32]Es
+Skipped: DefensorDeLaCorona2_v1.2_CD32_Es.lha
 Skipped: Deflektor_v1.11_1087.lha
 Skipped: DejaVu2LostInLasVegas_v1.0.lha
 Skipped: DejaVuANightmareComesTrue_v1.0_1832.lha
@@ -2036,7 +2036,7 @@ Skipped: DickTracyAdventure_v1.0_2385.lha
 Skipped: DickTracy_v1.0.lha
 Skipped: DieHard2_v1.1_0113.lha
 Skipped: DifensoreDellaCorona2_v1.1_CD32_It.lha
-Scanned: Difensore Corona 2 [CD32] (Italiano)
+Skipped: DifensoreDellaCorona2_v1.2_CD32_It.lha
 Skipped: Diggers_v1.0_AGA_1172.lha
 Skipped: Diggers_v1.0_CD32.lha
 Skipped: DimosQuest_v1.1a_1216.lha
@@ -2866,11 +2866,11 @@ Skipped: IndianaJones&TheFateOfAtlantisAdventure_v2.2_De_0342.lha
 Skipped: IndianaJones&TheFateOfAtlantisAdventure_v2.2_Es.lha
 Skipped: IndianaJones&TheFateOfAtlantisAdventure_v2.2_Fr_1639.lha
 Skipped: IndianaJones&TheFateOfAtlantisAdventure_v2.2_It.lha
-Scanned: Indiana Jones and the Fate of Atlantis (Adventure Game)
-Scanned: Indiana Jones Atlantis Adv (Deutsch)
-Scanned: Indiana Jones Atlantis Adv (Espanol)
-Scanned: Indiana Jones Atlantis Adv (Francais)
-Scanned: Indiana Jones Atlantis Adv (Italiano)
+Skipped: IndianaJones&TheFateOfAtlantisAdventure_v2.3_0851.lha
+Skipped: IndianaJones&TheFateOfAtlantisAdventure_v2.3_De_0342.lha
+Skipped: IndianaJones&TheFateOfAtlantisAdventure_v2.3_Es.lha
+Skipped: IndianaJones&TheFateOfAtlantisAdventure_v2.3_Fr_1639.lha
+Skipped: IndianaJones&TheFateOfAtlantisAdventure_v2.3_It.lha
 Skipped: IndianaJones&TheLastCrusadeAction_v1.2_1619.lha
 Skipped: IndianaJones&TheLastCrusadeAdventure_v1.4_De_0343.lha
 Skipped: IndianaJones&TheLastCrusadeAdventure_v1.4_Es.lha
@@ -5191,11 +5191,11 @@ Skipped: VenomWing_v1.1.lha
 Skipped: VenusTheFlytrap_v1.2.lha
 Skipped: VenusTheFlytrap_v1.2_NoIntro_1985.lha
 Skipped: VerteidigerDerKrone2_v1.1_CD32_De.lha
-Scanned: Verteidiger Krone 2 [CD32] (Deutsch)
+Skipped: VerteidigerDerKrone2_v1.2_CD32_De.lha
 Skipped: ViajeAlCentroDeLaTierra_v1.2_Es.lha
 Skipped: VictoryRoad_v1.1.lha
 Skipped: VideoKid_v1.0_2555.lha
-Scanned: Video Kid
+Skipped: VideoKid_v2.0_2555.lha
 Skipped: Vigilante_v1.1_1188.lha
 Skipped: Vindex_v1.0_2806.lha
 Skipped: Vindicators_v1.1_0158.lha

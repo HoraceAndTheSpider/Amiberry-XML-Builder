@@ -1,4 +1,4 @@
-Scanned file log: 2020-12-23 at 03:00:06
+Scanned file log: 2020-12-25 at 03:00:05
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -3669,6 +3669,7 @@ Skipped: Necronom_v1.1_0542.lha
 Skipped: Neighbours_v1.0_1978.lha
 Skipped: Netherworld_v1.5_2033.lha
 Skipped: Neuromancer_v2.0_2604.lha
+Scanned: Neuromancer
 Skipped: Neuronics_v1.0.lha
 Skipped: NeverEndingStory2_v1.4.lha
 Skipped: NeverMind_v1.0_1507.lha
@@ -3759,7 +3760,7 @@ Skipped: OneOnOne_v1.0.lha
 Skipped: OneOnOne_v1.1.lha
 Skipped: OneOnOne_v1.1_NTSC_0907.lha
 Skipped: OneStepBeyond_v1.1_2580.lha
-Scanned: One Step Beyond
+Skipped: OneStepBeyond_v1.2_2580.lha
 Skipped: OneToOneMatch_v1.0.lha
 Skipped: Onslaught_v1.21_0869.lha
 Skipped: OnTheBallLeagueEdition_v2.0_1067.lha
@@ -5679,6 +5680,7 @@ Skipped: Austerlitz-WHDL.lha
 Skipped: AusterlitzBattle-WHDL.lha
 Skipped: Automobiles-WHDL.lha
 Skipped: AvalancheItaly-WHDL.lha
+Scanned: Axel Tetris
 Skipped: AztecWarrior-WHDL.lha
 Skipped: Babeanoid-WHDL.lha
 Skipped: Babeanoid2-WHDL.lha
@@ -7664,9 +7666,10 @@ Skipped: SantaChaos-WHDL.lha
 Skipped: SantaEscape-WHDL.lha
 Skipped: SantaMonica-WHDL.lha
 Skipped: SantaParavia-WHDL.lha
-Scanned: Santa Rocks
+Skipped: SantaRocks-WHDL.lha
 Skipped: SantaRudolph-WHDL.lha
-Scanned: Santa Run-NE
+Skipped: SantaRun-WHDL.lha
+Scanned: Santa Run [AGA]-NE
 Skipped: SaperPL-WHDL.lha
 Skipped: Sardonic-WHDL.lha
 Skipped: SauceryAGA-WHDL.lha

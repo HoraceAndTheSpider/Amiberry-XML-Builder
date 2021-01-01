@@ -1,4 +1,4 @@
-Scanned file log: 2020-12-30 at 03:00:05
+Scanned file log: 2021-01-01 at 03:00:04
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -35,6 +35,7 @@ Skipped: AbsoluteInebriation_v1.1_Fairlight&VirtualDreams.lha
 Skipped: AbsoluteSwedish_v1.01_PhewProductions.lha
 Skipped: AcidInTheHouse_v1.0_NorthStar&Silents.lha
 Skipped: Acme1991Slideshow_v1.0_Acme.lha
+Scanned: Acoustic Silence
 Skipped: AFewTunes_v1.0_Crusaders.lha
 Skipped: Alchemy_v1.0_Rage.lha
 Skipped: AlfredTheMusicDisk_v1.01_Relay.lha
@@ -288,7 +289,7 @@ Skipped: Hammer_v1.0_Amaze.lha
 Skipped: Hardcore_v1.1_Anarchy.lha
 Skipped: Hardwired_v1.1_Crionics&Silents.lha
 Skipped: Harmagedon_v1.0_Infect_AGA.lha
-Scanned: Heliopolis
+Skipped: Heliopolis_v1.0_EMTDesign.lha
 Skipped: HereWeAre_v1.0_Awake.lha
 Skipped: HexadecimalPerfection_v1.01_ActionDirect.lha
 Skipped: Highway1930_v1.0_Fraxion.lha
@@ -310,6 +311,7 @@ Skipped: HymnsFromTheBible3_v1.0_Arcane.lha
 Skipped: Ice_v1.0_Silents.lha
 Skipped: Ilex_v1.0_Mystic_AGA.lha
 Skipped: Ilyad_v1.0_Alcatraz_AGA.lha
+Scanned: Imperial Tunes
 Skipped: Impulse2_v1.1_Tilt.lha
 Skipped: InfiniteDreams_v1.0_Lunatics.lha
 Skipped: InFullAffect_v1.0_Wildfire.lha
@@ -394,7 +396,7 @@ Skipped: MagnumIcetro_v1.0_Depth.lha
 Skipped: Makaveli_v1.1_Essence_AGA.lha
 Skipped: ManicRaves2_v1.01_LogicSystems.lha
 Skipped: Marchewki_v1.0_Alchemy.lha
-Scanned: Masterpieces
+Skipped: Masterpieces_v1.0_Kefrens.lha
 Skipped: Masterpieces_v1.2_Kefrens.lha
 Skipped: Materialized_v1.0_Cryptoburners.lha
 Skipped: MaximumOverdrive2_v1.2_Rage.lha
@@ -815,6 +817,7 @@ Skipped: TopKaraoke1_v1.0_Saturne.lha
 Skipped: TopKaraoke2_v1.0_Saturne_AGA.lha
 Skipped: TopKaraoke3_v1.0_Saturne_AGA.lha
 Skipped: TotalKaos_v1.01_LSD.lha
+Scanned: Toxic Waste
 Skipped: ToxicZiemniak_v1.0_Alchemy.lha
 Skipped: TragicMagic_v1.0_Rebels.lha
 Skipped: Trashcan_v1.0_Wizzcat.lha
@@ -3451,7 +3454,7 @@ Skipped: ManiacMansion_v1.6_1571.lha
 Skipped: ManiacMansion_v1.6_De_0355.lha
 Skipped: ManiacMansion_v1.6_Es.lha
 Skipped: ManiacMansion_v1.6_Fr_2376.lha
-Scanned: Maniac Mansion (Italiano)
+Skipped: ManiacMansion_v1.6_It.lha
 Skipped: Maniax_v2.0.lha
 Skipped: ManicMiner_v0501.2_1116.lha
 Skipped: Manix_v1.1_2533.lha
@@ -3822,7 +3825,7 @@ Skipped: PsychoSanta_v1.0.lha
 Skipped: PubTriviaSimulator_v1.0_0775.lha
 Skipped: PuffysSaga_v1.1_1651.lha
 Skipped: Puggsy_v1.0_1113.lha
-Scanned: Puggsy
+Skipped: Puggsy_v2.0_1113.lha
 Skipped: PulsatorDemo_v1.1_AGA.lha
 Skipped: PurpleSaturnDay_v1.1_0562.lha
 Skipped: PushOver_v1.23_1267.lha
@@ -4009,7 +4012,7 @@ Skipped: Powerstyx_v1.1.lha
 Skipped: POW_v1.1.lha
 Skipped: PPHammer_v2.1_2036.lha
 Skipped: PrawoKrwi_v1.0_AGA_Pl.lha
-Scanned: Prawo Krwi [AGA] (Polski)
+Skipped: PrawoKrwi_v2.0_AGA_Pl.lha
 Skipped: Predator2_v1.1.lha
 Skipped: Predator_v1.0.lha
 Skipped: PrehistoricTale_v1.1.lha
@@ -4864,7 +4867,7 @@ Skipped: Tex11_v1.0_It.lha
 Skipped: Tex12_v1.0_It.lha
 Skipped: TexPiomboCaldoPart1_v1.0_It.lha
 Skipped: TexPiomboCaldoPart2_v1.0_It.lha
-Scanned: TFXAGA
+Skipped: TFX_v1.0_AGA.lha
 Skipped: TheatreOfDeath_v1.1_0254.lha
 Skipped: TheirFinestHour&Missions_v1.1_0037&1369.lha
 Skipped: TheirFinestHour_v1.1_0037.lha
@@ -5317,7 +5320,7 @@ Skipped: Whizz_v1.2_AGA_0803.lha
 Skipped: WhoFramedRogerRabbit_v1.0.lha
 Skipped: WibbleWorldGiddy_v1.0.lha
 Skipped: Wicked_v1.1_0295.lha
-Scanned: Wicked
+Skipped: Wicked_v1.2_0295.lha
 Skipped: WildCupSoccer_v1.0_0229.lha
 Skipped: WildStreets_v1.0_1678.lha
 Skipped: WarlockTheAvenger_v1.0_1413.lha

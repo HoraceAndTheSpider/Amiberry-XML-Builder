@@ -1,4 +1,4 @@
-Scanned file log: 2021-01-06 at 03:00:05
+Scanned file log: 2021-01-08 at 03:00:05
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -2072,7 +2072,7 @@ Skipped: DisposableHero_v1.7_Fast_1367.lha
 Skipped: DistantArmies_v1.0_2551.lha
 Skipped: Ditris_v1.0.lha
 Skipped: DizzyCollection_v1.2.lha
-Scanned: Dizzy Collection
+Skipped: DizzyCollection_v2.0_1348.lha
 Skipped: DizzyDice_v1.0.lha
 Skipped: DizzyPanic_v1.1.lha
 Skipped: DizzyPrinceOfTheYolkfolk_v1.4_1146.lha
@@ -3314,7 +3314,7 @@ Skipped: Lemmings_v1.5_Image_AltLevels_2238.lha
 Skipped: Lemmings_v1.5_Image_NTSC_0901.lha
 Skipped: Leonardo_v1.1_HighDensity.lha
 Skipped: LesManleyInSearchForTheKing_v1.2.lha
-Scanned: Les Manley In - Search For The King
+Skipped: LesManleyInSearchForTheKing_v1.3_2671.lha
 Skipped: LethalWeapon_v1.3_0814.lha
 Skipped: LethalXcess_v1.3_0814.lha
 Skipped: LethalZone_v1.2_2321.lha
@@ -5329,8 +5329,8 @@ Skipped: WhiteDeath_v1.0_2461.lha
 Skipped: Whizz_v1.2_0409.lha
 Skipped: Whizz_v1.2_AGA_0803.lha
 Skipped: WhoFramedRogerRabbit_v1.0.lha
-Scanned: Who Framed Roger Rabbit
-Scanned: Who Framed Roger Rabbit PR
+Skipped: WhoFramedRogerRabbit_v2.0_0160.lha
+Skipped: WhoFramedRogerRabbit_v2.0_PreRelease.lha
 Skipped: WibbleWorldGiddy_v1.0.lha
 Skipped: Wicked_v1.1_0295.lha
 Skipped: Wicked_v1.2_0295.lha
@@ -5524,6 +5524,8 @@ Skipped: NibbyNibble_v1.0.lha
 Skipped: NightWalk_v1.0_BETA.lha
 Skipped: NinjaGaiden2_v0.1_BETA.lha
 Skipped: Outlands&DizzyDice_v0.8_BETA.lha
+Scanned: Outlands & Dizzy Dice
+Scanned: Outlands
 Skipped: Populous&DataDisks_v1.2_BETA_0069&1217.lha
 Skipped: Populous_v1.2_0069_BETA.lha
 Skipped: ProjectXSE2017_v1.5_Hack_by_Earok.lha
@@ -5532,6 +5534,7 @@ Skipped: ProjectX_v1.4_0886_BETA.lha
 Skipped: RealmOfTheTrolls_v0.8.lha
 Skipped: ShadowWarriors_v1.2_BETA_0830.lha
 Skipped: Smash_v1.0.lha
+Scanned: Snakes
 Skipped: StoriaAncestrale_v0.9g.lha
 Skipped: StuntCarRacerTNT_v1.4_BETA.lha
 Skipped: StuntCarRacer_v1.4_BETA_0222.lha
@@ -8164,6 +8167,7 @@ Skipped: Tetrys95AGA-WHDL.lha
 Skipped: Tettrix-WHDL.lha
 Skipped: TexasChainsawMassacre-WHDL.lha
 Skipped: TFX-WHDL.lha
+Scanned: Thalimar Demo [AGA]
 Skipped: ThaurusPL-code-WHDL.lha
 Skipped: ThesiusXII-WHDL.lha
 Skipped: Thingamajig-WHDL.lha

@@ -1,4 +1,4 @@
-Scanned file log: 2021-01-13 at 03:00:05
+Scanned file log: 2021-01-15 at 03:00:06
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -957,7 +957,7 @@ Skipped: AddamsFamily_v1.3_0419.lha
 Skipped: Adrenalynn_v1.1a.lha
 Skipped: AdvancedDestroyerSimulator_v1.0_2151.lha
 Skipped: AdvancedSkiSimulator_v1.1_0094.lha
-Scanned: Advanced Ski Simulator
+Skipped: AdvancedSkiSimulator_v2.1_0094.lha
 Skipped: AdvantageTennis_v1.0.lha
 Skipped: AdvantageTennis_v2.0_2261.lha
 Skipped: AdvantageTennis_v2.1_2261.lha
@@ -1076,7 +1076,7 @@ Skipped: Apidya_v2.05_Kaiko_0764.lha
 Skipped: Apocalypse_v1.0_1813.lha
 Skipped: AppleHunt_v1.0.lha
 Skipped: Apprentice_v1.3_2288.lha
-Scanned: Apprentice
+Skipped: Apprentice_v2.0_2288.lha
 Skipped: Aquablast_v1.1.lha
 Skipped: Aquablast_v1.1_NTSC.lha
 Skipped: Aquanaut_v1.3.1_F1Licenceware.lha
@@ -3059,6 +3059,9 @@ Skipped: KnightsOfTheSky_v1.4_0522.lha
 Skipped: Kristal_v1.2_0024.lha
 Skipped: Kristal_v1.2_De.lha
 Skipped: Kristal_v1.2_NTSC_1194.lha
+Scanned: Kristal
+Scanned: Kristal (Deutsch)
+Scanned: Kristal (NTSC)
 Skipped: KrustysSuperFunHouse_v1.2_1599.lha
 Skipped: KryptonEgg_v1.0_1578.lha
 Skipped: Kult_v1.1b_0661.lha
@@ -3635,7 +3638,7 @@ Skipped: MrDoRunRun_v1.0_Image_2178.lha
 Skipped: MrHeli_v1.1.lha
 Skipped: MrNutz_v1.4a_0540.lha
 Skipped: MasterAxe_v1.1.lha
-Scanned: Master Axe
+Skipped: MasterAxe_v2.0.lha
 Skipped: MasterBlaster_v1.0.lha
 Skipped: Masterblazer_v1.2_0699.lha
 Skipped: MatchOfTheDay_v1.2_0248.lha
@@ -3692,6 +3695,7 @@ Skipped: Neighbours_v1.0_1978.lha
 Skipped: Netherworld_v1.5_2033.lha
 Skipped: Neuromancer_v2.0_2604.lha
 Skipped: Neuromancer_v3.0_2604.lha
+Scanned: Neuromancer
 Skipped: Neuronics_v1.0.lha
 Skipped: NeverEndingStory2_v1.4.lha
 Skipped: NeverMind_v1.0_1507.lha
@@ -3748,8 +3752,8 @@ Skipped: OsWALDOfTheIceFloes_v1.0.lha
 Skipped: OsWALDOfTheIceFloes_v1.0_NTSC.lha
 Skipped: Oswald_v1.1_Dk.lha
 Skipped: Oswald_v1.1_NTSC.lha
-Scanned: Outlands & Dizzy Dice
-Scanned: Outlands
+Skipped: Outlands&DizzyDice_v1.0.lha
+Skipped: Outlands_v1.0.lha
 Skipped: OutOfThisWorld_v2.4_1556.lha
 Skipped: OutOfThisWorld_v2.4_NTSC_1556.lha
 Skipped: OutRunEuropa_v1.1.lha
@@ -3851,6 +3855,7 @@ Skipped: PuttySquadDemo_v1.0_AGA.lha
 Skipped: PuttySquad_v1.0_AGA.lha
 Skipped: PuttySquad_v1.1_AGA.lha
 Skipped: PuttySquad_v1.2_AGA.lha
+Scanned: Putty Squad [AGA]
 Skipped: Putty_v1.2a_0197.lha
 Skipped: Puzznic_v1.3_0041.lha
 Skipped: Pyramax_v1.0_0563.lha
@@ -4031,6 +4036,7 @@ Skipped: POW_v1.1.lha
 Skipped: PPHammer_v2.1_2036.lha
 Skipped: PrawoKrwi_v1.0_AGA_Pl.lha
 Skipped: PrawoKrwi_v2.0_AGA_Pl.lha
+Scanned: Prawo Krwi [AGA] (Polski)
 Skipped: Predator2_v1.1.lha
 Skipped: Predator_v1.0.lha
 Skipped: PrehistoricTale_v1.1.lha
@@ -5225,7 +5231,7 @@ Skipped: ViajeAlCentroDeLaTierra_v1.2_Es.lha
 Skipped: VictoryRoad_v1.1.lha
 Skipped: VideoKid_v1.0_2555.lha
 Skipped: VideoKid_v2.0_2555.lha
-Scanned: Video Kid
+Skipped: VideoKid_v2.1_2555.lha
 Skipped: Vigilante_v1.1_1188.lha
 Skipped: Vindex_v1.0_2806.lha
 Skipped: Vindicators_v1.1_0158.lha

@@ -1,4 +1,4 @@
-Scanned file log: 2021-01-27 at 03:00:06
+Scanned file log: 2021-01-29 at 03:00:05
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -1077,7 +1077,7 @@ Skipped: Apocalypse_v1.0_1813.lha
 Skipped: AppleHunt_v1.0.lha
 Skipped: Apprentice_v1.3_2288.lha
 Skipped: Apprentice_v2.0_2288.lha
-Scanned: Apprentice
+Skipped: Apprentice_v2.1_2288.lha
 Skipped: Aquablast_v1.1.lha
 Skipped: Aquablast_v1.1_NTSC.lha
 Skipped: Aquanaut_v1.3.1_F1Licenceware.lha
@@ -1503,8 +1503,8 @@ Skipped: BrutalPawsOfFury_v1.0_0181.lha
 Skipped: BrutalPawsOfFury_v1.0_CD32.lha
 Skipped: BubbaNStix_v3.0_1323.lha
 Skipped: BubbaNStix_v3.0_CD32.lha
-Scanned: Bubba'N'Stix
-Scanned: Bubba'N'Stix [CD32]
+Skipped: BubbaNStix_v3.1_1323.lha
+Skipped: BubbaNStix_v3.1_CD32.lha
 Skipped: Bubble+_v1.0.lha
 Skipped: BubbleAndSqueak_v1.2_2398.lha
 Skipped: BubbleAndSqueak_v1.2_AGA_0210.lha
@@ -3287,8 +3287,8 @@ Skipped: LeisureSuitLarry3_v2.1_0690.lha
 Skipped: LeisureSuitLarry3_v2.1_De.lha
 Skipped: LeisureSuitLarry3_v2.3_0690.lha
 Skipped: LeisureSuitLarry3_v2.3_De.lha
-Scanned: Leisure Suit Larry 3 - Passionate Patti In Pursuit Of The Pulsating Pectorals
-Scanned: Leisure Suit Larry 3 (Deutsch)
+Skipped: LeisureSuitLarry3_v2.4_0690.lha
+Skipped: LeisureSuitLarry3_v2.4_De.lha
 Skipped: LeisureSuitLarry5_v1.3_2244.lha
 Skipped: LeisureSuitLarry5_v1.3_De.lha
 Skipped: LeisureSuitLarry5_v1.5_2244.lha
@@ -3644,7 +3644,7 @@ Skipped: MrHeli_v1.1.lha
 Skipped: MrNutz_v1.4a_0540.lha
 Skipped: MasterAxe_v1.1.lha
 Skipped: MasterAxe_v2.0.lha
-Scanned: Master Axe
+Skipped: MasterAxe_v2.2.lha
 Skipped: MasterBlaster_v1.0.lha
 Skipped: Masterblazer_v1.2_0699.lha
 Skipped: MatchOfTheDay_v1.2_0248.lha
@@ -4595,8 +4595,8 @@ Skipped: SpaceQuest3_v1.2b_De_MT32_0579.lha
 Skipped: SpaceQuest3_v2.0_0292.lha
 Skipped: SpaceQuest3_v2.0_De_0579.lha
 Skipped: SpaceQuest3_v2.0_De_MT32_0579.lha
-Scanned: Space Quest III - The Pirates of Pestulon
-Scanned: Space Quest 3 (Deutsch)
+Skipped: SpaceQuest3_v2.1_0292.lha
+Skipped: SpaceQuest3_v2.1_De_0579.lha
 Skipped: SpaceQuest4_v1.1_1177.lha
 Skipped: SpaceQuest4_v1.1_De_2369.lha
 Skipped: SpaceQuest4_v1.1_De_MT32_2369.lha
@@ -7931,6 +7931,8 @@ Skipped: SpaceCombat-WHDL.lha
 Skipped: SpaceDay-WHDL.lha
 Skipped: SpaceDunk-WHDL.lha
 Skipped: SpaceFight-WHDL.lha
+Scanned: Space Invaders 2020
+Scanned: Space Invaders 2021
 Skipped: SpaceInvadersHavie-WHDL.lha
 Skipped: SpaceInvasion-WHDL.lha
 Skipped: SpaceInvasion1-WHDL.lha
@@ -7938,6 +7940,7 @@ Skipped: SpaceInvasion2-WHDL.lha
 Skipped: SpaceInvasion3-WHDL.lha
 Skipped: Spaceman-WHDL.lha
 Skipped: SpacePanic-WHDL.lha
+Scanned: Space Pilot Death
 Skipped: SpacePower-WHDL.lha
 Skipped: Spacer-WHDL.lha
 Skipped: SpaceRescue-WHDL.lha
@@ -7951,6 +7954,7 @@ Skipped: SpaceTribulationsFR-WHDL.lha
 Skipped: SpaceWar-WHDL.lha
 Skipped: SpacewardHo-WHDL.lha
 Skipped: SpaceWarsCDTV-WHDL.lha
+Scanned: Spade Invaders
 Skipped: Spades-WHDL.lha
 Skipped: SpatialHyperdrive-WHDL.lha
 Skipped: Spectra-WHDL.lha

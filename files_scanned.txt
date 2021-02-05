@@ -1,4 +1,4 @@
-Scanned file log: 2021-02-03 at 03:00:05
+Scanned file log: 2021-02-05 at 03:00:06
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -2708,8 +2708,8 @@ Skipped: Gods_v3.2_0666.lha
 Skipped: Gods_v3.2_NTSC.lha
 Skipped: GoldenAxe_v1.5_0017.lha
 Skipped: GoldenAxe_v1.5_NTSC.lha
-Scanned: Golden Axe
-Scanned: Golden Axe (NTSC)
+Skipped: GoldenAxe_v1.6_0017.lha
+Skipped: GoldenAxe_v1.6_NTSC.lha
 Skipped: GoldenEagle_v1.1.lha
 Skipped: GoldenEagle_v1.2.lha
 Skipped: GoldenEagle_v1.2_512k.lha
@@ -3282,7 +3282,7 @@ Skipped: LosTemplosSagrados_v1.0_Es.lha
 Skipped: LegionsOfDawn_v1.0.lha
 Skipped: Legion_v1.0_Pl.lha
 Skipped: LeisureSuitLarry2_v1.2_0193.lha
-Scanned: Leisure Suit Larry 2 - Goes Looking For Love (In Several Wrong Places)
+Skipped: LeisureSuitLarry2_v1.3_0193.lha
 Skipped: LeisureSuitLarry3_v1.4_0690.lha
 Skipped: LeisureSuitLarry3_v2.0_0690.lha
 Skipped: LeisureSuitLarry3_v2.0_De.lha
@@ -4015,15 +4015,15 @@ Skipped: PoolsOfDarkness_v1.1_De.lha
 Skipped: Pool_v1.0_2177.lha
 Skipped: Popeye2_v1.1.lha
 Skipped: Populous&DataDisks_v1.1_0069&1217.lha
-Scanned: Populous (& Data Disks)
+Skipped: Populous&DataDisks_v1.2_0069&1217.lha
 Skipped: Populous2&ChallengeGames_v1.3_0079.lha
 Skipped: Populous2&ChallengeGames_v2.0_0079.lha
 Skipped: Populous2_v1.3_0079.lha
 Skipped: Populous2_v2.0_0079.lha
 Skipped: PopulousWorldEditor_v1.0_0711.lha
 Skipped: Populous_v1.1_0069.lha
-Scanned: Populous
-Scanned: Populous (NTSC)
+Skipped: Populous_v1.2_0069.lha
+Skipped: Populous_v1.2_NTSC_0070.lha
 Skipped: Portal_v1.1.lha
 Skipped: PortesDuTemps_v1.2_Fr.lha
 Skipped: PortsOfCall_v1.1_2489.lha
@@ -4341,16 +4341,16 @@ Skipped: SwordsOfTwilight_v1.0_0972.lha
 Skipped: Sword_v1.0.lha
 Skipped: SyndicateAmericanRevolt_v2.2.lha
 Skipped: SyndicateAmericanRevolt_v2.3.lha
-Scanned: Syndicate American Revolt
+Skipped: SyndicateAmericanRevolt_v2.6.lha
 Skipped: Syndicate_v2.2_0739.lha
 Skipped: Syndicate_v2.2_CD32.lha
 Skipped: Syndicate_v2.2_De_0405.lha
 Skipped: Syndicate_v2.3_0739.lha
 Skipped: Syndicate_v2.3_De_0405.lha
 Skipped: Syndicate_v2.4_CD32.lha
-Scanned: Syndicate
-Scanned: Syndicate [CD32]
-Scanned: Syndicate (Deutsch)
+Skipped: Syndicate_v2.6_0739.lha
+Skipped: Syndicate_v2.6_CD32.lha
+Skipped: Syndicate_v2.6_De_0405.lha
 Skipped: SabreTeam_v1.2.lha
 Skipped: SabreTeam_v1.2_AGA_1158.lha
 Skipped: SabreTeam_v1.2_CD32.lha
@@ -8604,7 +8604,7 @@ Skipped: Mini1942Demo-WHDL.lha
 Skipped: MiniSwatdemo-WHDL.lha
 Skipped: MinkGold2demo-WHDL.lha
 Skipped: MonkeyLadDemo-WHDL.lha
-Scanned: Platform Demo
+Skipped: PlatformDemo-WHDL.lha
 Skipped: Pong4kDemoCD32-WHDL.lha
 Skipped: ProjectHorizonDemo-WHDL.lha
 Skipped: PutterDemo-WHDL.lha

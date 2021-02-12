@@ -1,4 +1,4 @@
-Scanned file log: 2021-02-10 at 03:00:05
+Scanned file log: 2021-02-12 at 03:00:05
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -1212,7 +1212,7 @@ Skipped: BurgerMan_v1.0.lha
 Skipped: BurningRubber_v1.3_2MB_2181.lha
 Skipped: BurningRubber_v1.3_AGA_2181.lha
 Skipped: BurningRubber_v1.4.lha
-Scanned: Burning Rubber [AGA]
+Skipped: BurningRubber_v1.4_AGA_2181.lha
 Skipped: Burnout_v1.0_AGA.lha
 Skipped: Burntime_v1.2_2266.lha
 Skipped: Burntime_v1.2_AGA_2213.lha
@@ -1679,8 +1679,8 @@ Skipped: Cedric_v1.2.lha
 Skipped: Cedric_v1.2_CD32.lha
 Skipped: Cedric_v2.1.lha
 Skipped: Cedric_v2.1_CD32.lha
-Scanned: Cedric
-Scanned: Cedric [CD32]
+Skipped: Cedric_v2.2.lha
+Skipped: Cedric_v2.2_CD32.lha
 Skipped: CelticLegends_v1.4_1281.lha
 Skipped: CentrefoldSquares_v1.0_0467.lha
 Skipped: Centurion_v1.0_NTSC_1945.lha
@@ -3716,7 +3716,7 @@ Skipped: NewZealandStoryDemo_v1.0.lha
 Skipped: NewZealandStory_v2.1_1180.lha
 Skipped: NewZealandStory_v2.21_1180.lha
 Skipped: NewZealandStory_v2.2_1180.lha
-Scanned: New Zealand Story
+Skipped: NewZealandStory_v2.4_1180.lha
 Skipped: NibbyNibble_v1.0.lha
 Skipped: NickFaldosChampionshipGolf_v2.1b_1164.lha
 Skipped: NickFaldosChampionshipGolf_v2.1b_CD32.lha
@@ -7519,7 +7519,7 @@ Skipped: MoonBase-WHDL.lha
 Skipped: MoonbaseLunarColony-WHDL.lha
 Skipped: MoonbasesAGA-WHDL.lha
 Skipped: MoonbasesAGAFR-WHDL.lha
-Scanned: Pitfall 2
+Skipped: Pitfall2-WHDL.lha
 Skipped: PixieKingdom-WHDL.lha
 Skipped: PizzaConnectionTeng-WHDL.lha
 Skipped: Plaft-WHDL.lha
@@ -8241,7 +8241,7 @@ Skipped: TimultusFR-WHDL.lha
 Skipped: TinyBobble-WHDL.lha
 Skipped: TinyGalaga-WHDL.lha
 Skipped: TinyInvaders-WHDL.lha
-Scanned: Tinyus
+Skipped: Tinyus-WHDL.lha
 Skipped: TipTrick-WHDL.lha
 Skipped: Tittris-WHDL.lha
 Skipped: Tma-WHDL.lha
@@ -8611,6 +8611,8 @@ Skipped: MiniSwatdemo-WHDL.lha
 Skipped: MinkGold2demo-WHDL.lha
 Skipped: MonkeyLadDemo-WHDL.lha
 Skipped: PlatformDemo-WHDL.lha
+Scanned: Platform Neeso Demo
+Scanned: Platform Nobody Demo
 Skipped: Pong4kDemoCD32-WHDL.lha
 Skipped: ProjectHorizonDemo-WHDL.lha
 Skipped: PutterDemo-WHDL.lha
@@ -8653,7 +8655,7 @@ Skipped: TapperDemo-WHDL.lha
 Skipped: ThemeParkXmas-WHDL.lha
 Skipped: ThingsDemo-WHDL.lha
 Skipped: TinyLittleSlugDemo-WHDL.lha
-Scanned: Turbo Sprint [AGA]demo
+Skipped: TurboSprintAGAdemo-WHDL.lha
 Skipped: UnderCoverDemo-WHDL.lha
 Skipped: WarpgateDemo-WHDL.lha
 Skipped: WolfShackDemo-WHDL.lha

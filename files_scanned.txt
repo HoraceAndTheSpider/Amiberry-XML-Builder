@@ -1,4 +1,4 @@
-Scanned file log: 2021-02-17 at 03:00:05
+Scanned file log: 2021-02-19 at 03:00:06
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -33,7 +33,7 @@ Skipped: AutumnNights_v1.01_Palace.lha
 Skipped: A1200Demo_v1.0_Complex_AGA.lha
 Skipped: AbsenceOfLight_v1.0_Animators.lha
 Skipped: AbsoluteInebriation_v1.1_Fairlight&VirtualDreams.lha
-Scanned: Absolute Inebriation
+Skipped: AbsoluteInebriation_v1.2_Fairlight&VirtualDreams.lha
 Skipped: AbsoluteSwedish_v1.01_PhewProductions.lha
 Skipped: AcidInTheHouse_v1.0_NorthStar&Silents.lha
 Skipped: Acme1991Slideshow_v1.0_Acme.lha
@@ -3517,7 +3517,9 @@ Skipped: Maya_v1.4_Fast_1742.lha
 Skipped: Maya_v1.4_Fr.lha
 Skipped: Maya_v1.4_Fr_Fast.lha
 Skipped: MaydaySquadHeroes_v1.0_2219.lha
+Scanned: Mc Donald Land V 2
 Skipped: McDonaldLand_v1.4.1_0970.lha
+Scanned: McDonald Land
 Skipped: MeanArenas_v1.0b.lha
 Skipped: MeanArenas_v1.0b_CD32.lha
 Skipped: MeanMachine_v1.3.lha
@@ -3683,7 +3685,7 @@ Skipped: NorthAndSouth_v2.1_Image_0194.lha
 Skipped: NorthAndSouth_v2.1_Image_NTSC_1780.lha
 Skipped: NorthSeaInferno_v1.1.lha
 Skipped: NoSecondPrize_v1.0.lha
-Scanned: No Second Prize
+Skipped: NoSecondPrize_v1.2_3059.lha
 Skipped: NotVeryFestiveFodder_v1.0.lha
 Skipped: Nova9_v1.0.lha
 Skipped: NuclearWar_v1.0_2014.lha
@@ -4705,7 +4707,7 @@ Skipped: Stellar7_v1.0_De_0732.lha
 Skipped: Stellar7_v1.0_NTSC_2026.lha
 Skipped: StirCrazyFeaturingBobo_v1.0.lha
 Skipped: StoneAge_v1.1.lha
-Scanned: Storia Ancestrale
+Skipped: StoriaAncestrale_v1.0.lha
 Skipped: Stormball_v1.1_0404.lha
 Skipped: Stormlord_v1.2_0874.lha
 Skipped: Stormlord_v1.2_NTSC.lha
@@ -5071,8 +5073,8 @@ Skipped: TinToyAdventure_v1.2_AGA.lha
 Skipped: TinToyAdventure_v1.3-B_AGA.lha
 Skipped: TinToyAdventure_v1.3_AGA.lha
 Skipped: TinyBobble_v1.0.lha
-Scanned: Tiny Galaga
-Scanned: Tiny Invaders
+Skipped: TinyGalaga_v1.0.lha
+Skipped: TinyInvaders_v1.1.lha
 Skipped: TinySkweeks_v1.0_2402.lha
 Skipped: TinyTroops_v1.2.lha
 Skipped: TinyTroops_v1.2_CD.lha
@@ -5550,7 +5552,7 @@ Skipped: EyeOfTheBeholder_v0.2_AGA.lha
 Skipped: FirstSamurai_v1.6_A1200Version_NONAGA.lha
 Skipped: FlyingSharkSpecialEdition_v1.0_Hack_by_Earok.lha
 Skipped: FormulaOne3D_v1.0.lha
-Scanned: Ghost Battle
+Skipped: GhostBattle_v1.3.lha
 Skipped: Giana2_v1.02_HardNHeavyHack.lha
 Skipped: GianaSistersSE_v1.2.lha
 Skipped: HeroQuest_v1.2_German_fix_by_Viddi.lha
@@ -5763,6 +5765,7 @@ Skipped: BabyBug-WHDL.lha
 Skipped: BackgammonKingSize-WHDL.lha
 Skipped: BackgammonMagicSoft-WHDL.lha
 Skipped: BackgammonRoyal-WHDL.lha
+Scanned: Back Golden Age
 Skipped: BackGoldenAgeFR-WHDL.lha
 Skipped: BackstageDE-WHDL.lha
 Skipped: BacmanAGAdemo-WHDL.lha

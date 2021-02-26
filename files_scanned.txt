@@ -1,4 +1,4 @@
-Scanned file log: 2021-02-24 at 03:00:06
+Scanned file log: 2021-02-26 at 03:00:05
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -1949,7 +1949,7 @@ Skipped: DarkFusion_v1.0_2163.lha
 Skipped: Darkman_v1.0_1564.lha
 Skipped: Darkman_v1.1_1564.lha
 Skipped: Darkmere_v1.2_0453.lha
-Scanned: Darkmere - The Nightmare's Begun
+Skipped: Darkmere_v2.0_0453.lha
 Skipped: DarkQueenOfKrynn_v1.0.lha
 Skipped: DarkSeed_v1.03_CD32.lha
 Skipped: DarkSeed_v1.4_2141.lha
@@ -3176,7 +3176,7 @@ Skipped: KingsQuest6_v1.1_De.lha
 Skipped: KingsQuest6_v1.1_Fr_2390.lha
 Skipped: KingsQuestEnhanced_v1.1b_1436.lha
 Skipped: KingsQuestEnhanced_v1.1b_MT32_1436.lha
-Scanned: King's Quest I - Quest for the Crown (Enhanced)
+Skipped: KingsQuestEnhanced_v1.2_1436.lha
 Skipped: KingsQuest_v1.1_1333.lha
 Skipped: KingsQuest_v2.0_1333.lha
 Skipped: KirosQuest_v1.3.lha
@@ -4347,7 +4347,7 @@ Skipped: RoboSport_v1.0_2592.lha
 Skipped: Roboter_v1.0_De.lha
 Skipped: Robotnic_v1.0_2161.lha
 Skipped: Switchblade2_v1.3_1725.lha
-Scanned: Switchblade II
+Skipped: Switchblade2_v1.4_1725.lha
 Skipped: Switchblade_v1.3_1101.lha
 Skipped: SWIV_v1.7_0038.lha
 Skipped: Swooper_v1.0.lha
@@ -4490,6 +4490,7 @@ Skipped: ShadowSorcerer_v1.0_DeFrIt.lha
 Skipped: ShadowSorcerer_v1.1_0275.lha
 Skipped: ShadowSorcerer_v1.1_DeFrIt.lha
 Skipped: ShadowWarriors_v1.1_0830.lha
+Scanned: Shadow Warriors
 Skipped: Shanghai_v1.2_1388.lha
 Skipped: Shanghai_v1.2_Fr.lha
 Skipped: Shanghai_v1.2_NTSC_1387.lha
@@ -5084,6 +5085,7 @@ Skipped: TinToyAdventure_v1.2_AGA.lha
 Skipped: TinToyAdventure_v1.3-B_AGA.lha
 Skipped: TinToyAdventure_v1.3_AGA.lha
 Skipped: TinyBobble_v1.0.lha
+Scanned: Tiny Bobble
 Skipped: TinyGalaga_v1.0.lha
 Skipped: TinyInvaders_v1.1.lha
 Skipped: TinySkweeks_v1.0_2402.lha
@@ -6987,6 +6989,7 @@ Skipped: MadNewsDE-WHDL.lha
 Skipped: Maelstrom-WHDL.lha
 Skipped: MaelstromDE-WHDL.lha
 Skipped: MagAGADE-WHDL.lha
+Scanned: Magazyn
 Skipped: MagDE-WHDL.lha
 Skipped: Magica-WHDL.lha
 Skipped: MagicBall-WHDL.lha
@@ -8519,6 +8522,7 @@ Skipped: XPoker-WHDL.lha
 Skipped: XSwap-WHDL.lha
 Skipped: XSystem2-WHDL.lha
 Skipped: Yachting-WHDL.lha
+Scanned: Yagg 127 Demo
 Skipped: Yatcy-WHDL.lha
 Skipped: Yelp-WHDL.lha
 Skipped: Yerop-WHDL.lha
@@ -8641,6 +8645,7 @@ Skipped: Mini1942Demo-WHDL.lha
 Skipped: MiniSwatdemo-WHDL.lha
 Skipped: MinkGold2demo-WHDL.lha
 Skipped: MonkeyLadDemo-WHDL.lha
+Scanned: Mr Mochi Demo
 Skipped: PlatformDemo-WHDL.lha
 Skipped: PlatformNeesoDemo-WHDL.lha
 Skipped: PlatformNobodyDemo-WHDL.lha

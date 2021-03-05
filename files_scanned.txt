@@ -1,4 +1,4 @@
-Scanned file log: 2021-03-03 at 03:00:05
+Scanned file log: 2021-03-05 at 03:00:04
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -1799,7 +1799,7 @@ Skipped: Colorado_v1.5_Fr.lha
 Skipped: Coloris_v1.1.lha
 Skipped: ColossusChessX_v1.2_1510.lha
 Skipped: CombatAirPatrol_v1.2_0674.lha
-Scanned: Combat Air Patrol
+Skipped: CombatAirPatrol_v1.3_0674.lha
 Skipped: ComboRacer_v1.0.lha
 Skipped: Commando_v1.2_0002.lha
 Skipped: Commando_v1.3_0002.lha
@@ -4784,7 +4784,7 @@ Skipped: Supaplex_v1.2_1902.lha
 Skipped: SuperCars2_v1.0_0224.lha
 Skipped: SuperCars2_v1.1_0224.lha
 Skipped: SuperCars2_v1.2_0224.lha
-Scanned: Super Cars II
+Skipped: SuperCars2_v1.3_0224.lha
 Skipped: SuperCars_v1.3_1Disk_1528.lha
 Skipped: SuperCars_v1.3_2Disk_1527.lha
 Skipped: SuperCauldron_v1.1.lha
@@ -5609,7 +5609,7 @@ Skipped: StuntCarRacer_v1.4_BETA_0222.lha
 Skipped: SuperGemZ_v1.0.lha
 Skipped: SuperHangOn_v1.5_Hack_by_Earok.lha
 Skipped: SuperMonacoGP_v1.2_BETA.lha
-Scanned: Tinyus
+Skipped: Tinyus_v1.0_BETA.lha
 Skipped: Tony&FriendsInKelloggsLand_v1.0_Hack_by_Earok.lha
 Skipped: Ultima6_v1.2_0294.lha
 Skipped: Ultima6_v1.2_NTSC.lha
@@ -6051,6 +6051,7 @@ Skipped: BuggyCommandoDemo-WHDL.lha
 Skipped: BuildIt-WHDL.lha
 Skipped: BulldozerBob-WHDL.lha
 Skipped: Bullitproof-WHDL.lha
+Scanned: Bullrun
 Skipped: Bullrun-WHDL.lha
 Skipped: BullysSportingDarts-WHDL.lha
 Skipped: BundesligaManagerDE-WHDL.lha
@@ -6407,6 +6408,7 @@ Skipped: EatTheWhistle1RIP-WHDL.lha
 Skipped: EatTheWhistle2-WHDL.lha
 Skipped: EggBlasters-WHDL.lha
 Skipped: EgorToylandDemo-WHDL.lha
+Scanned: Eire Adv Seamus
 Skipped: ElDoradoCD32IT-WHDL.lha
 Skipped: Eldritch-WHDL.lha
 Skipped: Electrek-WHDL.lha
@@ -6515,6 +6517,7 @@ Skipped: Flappybird-WHDL.lha
 Skipped: FlatMates-WHDL.lha
 Skipped: FlatmatesAGA-WHDL.lha
 Skipped: FlatmatesFRAGA-WHDL.lha
+Scanned: Fleet-NV-no Akit
 Skipped: Floaty-WHDL.lha
 Skipped: Flob-WHDL.lha
 Skipped: FloppyBird-WHDL.lha
@@ -6911,6 +6914,7 @@ Skipped: Kingdoms2England-WHDL.lha
 Skipped: Kingdoms2EnglandPL-WHDL.lha
 Skipped: Kingdoms3GermanyDE-WHDL.lha
 Skipped: KingdomsSteam-WHDL.lha
+Scanned: Kingdom War
 Skipped: KingKongLCD-WHDL.lha
 Skipped: KingsKornerSolitaire-WHDL.lha
 Skipped: KingsValley-WHDL.lha
@@ -6936,6 +6940,7 @@ Skipped: LasVegas-WHDL.lha
 Skipped: LazarusPL-WHDL.lha
 Skipped: LeedingsDemo-WHDL.lha
 Skipped: LeedsUnitedChampions-WHDL.lha
+Scanned: Legend Elves
 Skipped: LegendExplosing-WHDL.lha
 Skipped: LegendRomeFR-WHDL.lha
 Skipped: LegendTriten-WHDL.lha
@@ -7196,6 +7201,7 @@ Skipped: MutantPenguin-WHDL.lha
 Skipped: Muzzy-WHDL.lha
 Skipped: MysiSteskaCZ-WHDL.lha
 Skipped: MysteryFish-WHDL.lha
+Scanned: Naixalag Demo
 Skipped: NanoFly-WHDL.lha
 Skipped: Paragon-WHDL.lha
 Skipped: ParallelWorlds-WHDL.lha
@@ -8560,7 +8566,7 @@ Skipped: Zeus-WHDL.lha
 Skipped: Zgred-WHDL.lha
 Skipped: Zillo-WHDL.lha
 Skipped: Zing-WHDL.lha
-Scanned: Zloty Medalion
+Skipped: ZlotyMedalion-WHDL.lha
 Skipped: ZNYK-WHDL.lha
 Skipped: ZockOut-WHDL.lha
 Skipped: Zodes-WHDL.lha

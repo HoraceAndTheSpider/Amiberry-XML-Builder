@@ -1,4 +1,4 @@
-Scanned file log: 2021-03-10 at 03:00:05
+Scanned file log: 2021-03-12 at 03:00:05
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -1621,7 +1621,7 @@ Skipped: Cardiaxx_v1.0a_ElectronicZoo_1601.lha
 Skipped: Cardiaxx_v1.0a_Team17_2362.lha
 Skipped: CarlLewisChallenge_v1.1_0639.lha
 Skipped: Carlos_v1.0_2299.lha
-Scanned: Carlos
+Skipped: Carlos_v1.1_2299.lha
 Skipped: Carnage_v1.0.lha
 Skipped: CarrierCommand_v1.3_0813.lha
 Skipped: CarrierCommand_v1.3_NoMusic.lha
@@ -1951,7 +1951,7 @@ Skipped: DarkCentury_v1.0_0244.lha
 Skipped: DarkFusion_v1.0_2163.lha
 Skipped: Darkman_v1.0_1564.lha
 Skipped: Darkman_v1.1_1564.lha
-Scanned: Darkman
+Skipped: Darkman_v1.2_1564.lha
 Skipped: Darkmere_v1.2_0453.lha
 Skipped: Darkmere_v2.0_0453.lha
 Skipped: DarkQueenOfKrynn_v1.0.lha
@@ -2108,7 +2108,7 @@ Skipped: DonkeyKong_v1.0.lha
 Skipped: DonkTheSamuraiDuck_v1.2_0647.lha
 Skipped: DonkTheSamuraiDuck_v1.2_AGA_0647.lha
 Skipped: Doodlebug_v1.2.lha
-Scanned: Doodlebug - Bug Bash 2
+Skipped: Doodlebug_v1.3_1862.lha
 Skipped: Doofus_v1.1_0648.lha
 Skipped: DoubleAgent_v1.0.lha
 Skipped: DoubleDragon2_v1.5_0768.lha
@@ -2600,6 +2600,7 @@ Skipped: Galaga92_v1.0.lha
 Skipped: Galaxy89_v1.0.lha
 Skipped: GalaxyBlast_v1.1.lha
 Skipped: GalaxyForce2_v1.2_0485.lha
+Scanned: Galaxy Force II
 Skipped: GaldregonsDomain_v1.1.lha
 Skipped: GameOfHarmony_v1.0.lha
 Skipped: GameOfHarmony_v1.0_NTSC.lha
@@ -3154,6 +3155,7 @@ Skipped: KickOff2PlusWorldCup90_v1.08_De_0689.lha
 Skipped: KickOff2_v1.08_Fr.lha
 Skipped: KillingCloud_v1.0.lha
 Skipped: KingmakerQuestForTheCrown_v1.1_1616.lha
+Skipped: KingsQuest5_v1.3_It.lha
 Skipped: Knightmare_v1.1_0966.lha
 Skipped: KillingCloud_v1.0_3031.lha
 Skipped: KillingCloud_v1.0_NTSC_3019.lha
@@ -3171,24 +3173,10 @@ Skipped: KingsBounty_v1.01_NTSC.lha
 Skipped: KingsQuest2_v2.0_2126.lha
 Skipped: KingsQuest3_v1.1_0521.lha
 Skipped: KingsQuest4_v1.1_0822.lha
+Scanned: King's Quest IV - The Perils of Rosella
 Skipped: KingsQuest5_v1.3.lha
 Skipped: KingsQuest5_v1.3_De.lha
 Skipped: KingsQuest5_v1.3_De_MT32.lha
-Skipped: KingsQuest5_v1.3_It.lha
-Skipped: KingsQuest5_v1.3_It_MT32.lha
-Skipped: KingsQuest5_v1.3_MT32.lha
-Skipped: KingsQuest6_v1.1.lha
-Skipped: KingsQuest6_v1.1_De.lha
-Skipped: KingsQuest6_v1.1_Fr_2390.lha
-Skipped: KingsQuestEnhanced_v1.1b_1436.lha
-Skipped: KingsQuestEnhanced_v1.1b_MT32_1436.lha
-Skipped: KingsQuestEnhanced_v1.2_1436.lha
-Skipped: KingsQuest_v1.1_1333.lha
-Skipped: KingsQuest_v2.0_1333.lha
-Skipped: KirosQuest_v1.3.lha
-Skipped: Klax_v1.3_0878.lha
-Skipped: KnightForce_v1.2_1574.lha
-Scanned: Knight Force
 Skipped: KickOff2_v1.08_It_2574.lha
 Skipped: KickOff2_v1.09a_2191.lha
 Skipped: KickOff2_v1.09a_De_1245.lha
@@ -3209,6 +3197,21 @@ Skipped: KidGloves_v1.2_1372.lha
 Skipped: Kikstart2_v1.1.lha
 Skipped: Kikugi_v1.0.lha
 Skipped: Killerball_v1.1_2565.lha
+Skipped: KingsQuest5_v1.3_It_MT32.lha
+Skipped: KingsQuest5_v1.3_MT32.lha
+Skipped: KingsQuest6_v1.1.lha
+Skipped: KingsQuest6_v1.1_De.lha
+Skipped: KingsQuest6_v1.1_Fr_2390.lha
+Skipped: KingsQuestEnhanced_v1.1b_1436.lha
+Skipped: KingsQuestEnhanced_v1.1b_MT32_1436.lha
+Skipped: KingsQuestEnhanced_v1.2_1436.lha
+Skipped: KingsQuest_v1.1_1333.lha
+Skipped: KingsQuest_v2.0_1333.lha
+Skipped: KirosQuest_v1.3.lha
+Skipped: Klax_v1.3_0878.lha
+Skipped: KnightForce_v1.2_1574.lha
+Skipped: KnightForce_v2.0_1574.lha
+Scanned: Knight Force
 Skipped: LostInMine_v1.1_Pl.lha
 Skipped: LostPatrol_v1.3_0773.lha
 Skipped: LostPatrol_v1.3_NTSC_0498.lha
@@ -4207,6 +4210,7 @@ Skipped: Ruesselsheim_v1.0_AGA_De_2215.lha
 Skipped: RaceDrivin_v0601.1.lha
 Skipped: RaceDrivin_v0601.1_NoIntro.lha
 Skipped: RackneysIsland_v1.0.lha
+Scanned: Rackney's Island
 Skipped: Racter_v1.0.lha
 Skipped: Raffles_v1.0_0021.lha
 Skipped: Raffles_v1.0_CDTV.lha
@@ -4361,7 +4365,7 @@ Skipped: Swooper_v1.0.lha
 Skipped: Sword&TheRose_v1.2.lha
 Skipped: SwordOfAragon_v1.0_2277.lha
 Skipped: SwordOfHonour_v1.0_0149.lha
-Scanned: Sword Of Honour
+Skipped: SwordOfHonour_v1.1_0149.lha
 Skipped: SwordOfSodan_v1.0_1103.lha
 Skipped: Swords&Galleons_v1.0.lha
 Skipped: SwordsOfTwilight_v1.0_0972.lha
@@ -4646,8 +4650,8 @@ Skipped: SpaceQuestEnhanced_v1.3_MT32_2222.lha
 Skipped: SpaceQuest_v1.2_NTSC_1484.lha
 Skipped: SpaceRacer_v1.0_0580.lha
 Skipped: SpaceRacer_v1.0_Fr_2408.lha
-Scanned: Space Racer
-Scanned: Space Racer (Francais)
+Skipped: SpaceRacer_v1.1_0580.lha
+Skipped: SpaceRacer_v1.1_Fr_2408.lha
 Skipped: SpaceRanger_v0.1_Arcadia.lha
 Skipped: SpaceRogue_v1.1_2069.lha
 Skipped: SpaceStation_v1.0_1615.lha
@@ -5049,6 +5053,7 @@ Skipped: TimeAndMagik_v1.0.lha
 Skipped: TimeBandit_v1.0.lha
 Skipped: TimeLock_v1.1.lha
 Skipped: TimeMachine_v1.1_0974.lha
+Scanned: Time Machine
 Skipped: TimeRace_v1.0_2420.lha
 Skipped: TimeRunners01_v1.0a_2593.lha
 Skipped: TimeRunners03_v1.0a_2714.lha
@@ -5098,6 +5103,7 @@ Skipped: TinToyAdventure_v1.3-B_AGA.lha
 Skipped: TinToyAdventure_v1.3_AGA.lha
 Skipped: TinyBobble_v1.0.lha
 Skipped: TinyBobble_v1.1.lha
+Scanned: Tiny Bobble
 Skipped: TinyGalaga_v1.0.lha
 Skipped: TinyInvaders_v1.1.lha
 Skipped: TinySkweeks_v1.0_2402.lha
@@ -7283,7 +7289,7 @@ Skipped: Ohm-WHDL.lha
 Skipped: Oids-WHDL.lha
 Skipped: OilBarons-WHDL.lha
 Skipped: Okey-WHDL.lha
-Scanned: Okoban Demo
+Skipped: OkobanDemo-WHDL.lha
 Skipped: OkretyPL-WHDL.lha
 Skipped: OlafLonghairDemo-WHDL.lha
 Skipped: OlafLonghairDemoFR-WHDL.lha
@@ -7971,7 +7977,7 @@ Skipped: Sokoban-WHDL.lha
 Skipped: SokomondDE-WHDL.lha
 Skipped: SolarSystemVoidBlast-WHDL.lha
 Skipped: SoleDefender-WHDL.lha
-Scanned: Solid Gold 12-NE
+Skipped: SolidGold12-WHDL.lha
 Skipped: SolidQuad-WHDL.lha
 Skipped: Solitaire-WHDL.lha
 Skipped: SolitaireRoyale-WHDL.lha

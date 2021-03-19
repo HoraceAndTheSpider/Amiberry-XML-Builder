@@ -1,4 +1,4 @@
-Scanned file log: 2021-03-17 at 03:00:05
+Scanned file log: 2021-03-19 at 03:00:05
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -1259,9 +1259,10 @@ Skipped: Banshee_v3.3_CD32.lha
 Skipped: Banzai_v1.0.lha
 Skipped: Barbarian2_v1.1_Psygnosis_0611.lha
 Skipped: Barbarian2_v1.2_Palace_2264.lha
+Scanned: Barbarian 2 (Psygnosis)
 Skipped: Barbarian_v1.1b_Psygnosis_1011.lha
 Skipped: Barbarian_v1.1_Palace_1784.lha
-Scanned: Barbarian (Psygnosis)
+Skipped: Barbarian_v2.0_Psygnosis_1011.lha
 Skipped: BardsTale2_v1.0_0046.lha
 Skipped: BardsTale3_v1.01_0300.lha
 Skipped: BardsTale_v1.2_0010.lha
@@ -1872,7 +1873,7 @@ Skipped: Croak_v1.0.lha
 Skipped: CroisierePourUnCadavre_v2.1-B_Fr_1827.lha
 Skipped: CroisierePourUnCadavre_v2.2_Fr_1827.lha
 Skipped: CrossCheck_v1.0.lha
-Scanned: Crown
+Skipped: Crown_v1.0_1090.lha
 Skipped: CruiseForACorpse_v2.1-B_0108.lha
 Skipped: CruiseForACorpse_v2.1-B_De_0676.lha
 Skipped: CruiseForACorpse_v2.1-B_Es.lha
@@ -2401,7 +2402,7 @@ Skipped: FinalBattle_v1.2_0259.lha
 Skipped: FinalBattle_v1.2_De.lha
 Skipped: FinalBattle_v1.2_Fr.lha
 Skipped: FinalBlow_v1.0.lha
-Scanned: Final Blow
+Skipped: FinalBlow_v1.1_2457.lha
 Skipped: FinalCommand_v1.0_1964.lha
 Skipped: FinalCommand_v1.0_Fr_2668.lha
 Skipped: FireForce_v1.2_CD32.lha
@@ -2609,7 +2610,7 @@ Skipped: Galaxy89_v1.0.lha
 Skipped: GalaxyBlast_v1.1.lha
 Skipped: GalaxyForce2_v1.2_0485.lha
 Skipped: GalaxyForce2_v1.3_0485.lha
-Scanned: Galaxy Force II
+Skipped: GalaxyForce2_v1.4_0485.lha
 Skipped: GaldregonsDomain_v1.1.lha
 Skipped: GameOfHarmony_v1.0.lha
 Skipped: GearWorks_v1.0.lha
@@ -3214,7 +3215,7 @@ Skipped: KingsQuest6_v1.1_Fr_2390.lha
 Skipped: KingsQuestEnhanced_v1.1b_1436.lha
 Skipped: KingsQuestEnhanced_v1.1b_MT32_1436.lha
 Skipped: KingsQuestEnhanced_v1.2_1436.lha
-Scanned: King's Quest I - Quest for the Crown (Enhanced)
+Skipped: KingsQuestEnhanced_v1.3_1436.lha
 Skipped: KingsQuest_v1.1_1333.lha
 Skipped: KingsQuest_v2.0_1333.lha
 Skipped: KirosQuest_v1.3.lha
@@ -3480,7 +3481,7 @@ Skipped: MagicJohnsonsFastBreak_v0.1_Arcadia.lha
 Skipped: MagiclandDizzy_v1.5_1145.lha
 Skipped: MagicMarble_v1.0.lha
 Skipped: MagicMarble_v1.1_2188.lha
-Scanned: Magic Marble
+Skipped: MagicMarble_v1.2_2188.lha
 Skipped: MagicPocketsDemo_v1.0.lha
 Skipped: MagicPockets_v2.2_0917.lha
 Skipped: MagicPockets_v2.2_NTSC.lha
@@ -3928,6 +3929,7 @@ Skipped: Paradroid90_v0401.1_1MB_0692.lha
 Skipped: Paradroid90_v0401.1_512KB_0692.lha
 Skipped: ParaglidingSimulation_v1.0_2002.lha
 Skipped: Paramax_v1.1.lha
+Skipped: Paramax_v2.0_2184.lha
 Scanned: Paramax
 Skipped: ParanoiaComplex_v1.0_3038.lha
 Skipped: ParanoiaComplex_v1.0_De_2162.lha
@@ -5195,8 +5197,8 @@ Skipped: TrivialPursuit_v1.2.lha
 Skipped: TrivialPursuit_v1.2_De_0595.lha
 Skipped: TrivialPursuit_v1.2_Fr_2147.lha
 Skipped: Troddlers_v1.1_0696.lha
-Scanned: Troddlers (Files)
-Scanned: Troddlers (Image)
+Skipped: Troddlers_v1.2_Files_0696.lha
+Skipped: Troddlers_v1.2_Image_0696.lha
 Skipped: Trog_v1.0.lha
 Skipped: Trolls_v1.2_AGA_0996.lha
 Skipped: Trolls_v1.3_CD32.lha
@@ -5432,7 +5434,7 @@ Skipped: Wicked_v1.1_0295.lha
 Skipped: Wicked_v1.2_0295.lha
 Skipped: WildCupSoccer_v1.0_0229.lha
 Skipped: WildStreets_v1.0_1678.lha
-Scanned: Wild Streets
+Skipped: WildStreets_v1.2_1678.lha
 Skipped: WarlockTheAvenger_v1.0_1413.lha
 Skipped: WayOfTheLittleDragon_v1.1_2096.lha
 Skipped: WestPhaser_v1.1.lha
@@ -6531,9 +6533,9 @@ Skipped: Filou-WHDL.lha
 Skipped: FinalChapter-WHDL.lha
 Skipped: FinalConflict-WHDL.lha
 Skipped: FinalMission-WHDL.lha
-Scanned: Final Odyssey Bonus
+Skipped: FinalOdysseyBonus-WHDL.lha
 Skipped: FinalOdysseyECSAGA-WHDL.lha
-Scanned: Final Odyssey ECSAGA FR
+Skipped: FinalOdysseyECSAGAFR-WHDL.lha
 Skipped: FinalSplat-WHDL.lha
 Skipped: FinalSplatt-WHDL.lha
 Skipped: FinalTrip-WHDL.lha
@@ -8133,7 +8135,7 @@ Skipped: StripPoker2data3-WHDL.lha
 Skipped: StripPoker2data4-WHDL.lha
 Skipped: StripPokerLiveCDTV-WHDL.lha
 Skipped: Struggle-WHDL.lha
-Scanned: St Thomas DE
+Skipped: StThomasDE-WHDL.lha
 Skipped: Subattack-WHDL.lha
 Skipped: SubRally-WHDL.lha
 Skipped: SubVersion-WHDL.lha

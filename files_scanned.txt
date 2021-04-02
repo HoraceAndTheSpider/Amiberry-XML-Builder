@@ -1,4 +1,4 @@
-Scanned file log: 2021-03-31 at 03:00:05
+Scanned file log: 2021-04-02 at 03:00:05
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -1213,7 +1213,7 @@ Skipped: AttackOfTheGreenSmellyAliensFromPlanet27b6_v1.0.lha
 Skipped: AufschwungOst_v1.1_De.lha
 Skipped: AuntArcticAdventure_v1.0_1757.lha
 Skipped: AustraloPiticusMechanicus_v1.0a_0809.lha
-Scanned: Australo Piticus Mechanicus
+Skipped: AustraloPiticusMechanicus_v2.0_0809.lha
 Skipped: AutoDuel_v1.0_0916.lha
 Skipped: BunnyBricks_v1.2_0211.lha
 Skipped: BunnyBricks_v1.2_Fast_0211.lha
@@ -1431,7 +1431,7 @@ Skipped: BlackViper_v1.1_AGA.lha
 Skipped: BlackViper_v1.1_CD32.lha
 Skipped: BladesOfSteel_v1.0.lha
 Skipped: BladeWarrior_v1.3_2201.lha
-Scanned: Blade Warrior
+Skipped: BladeWarrior_v2.0_2201.lha
 Skipped: BlastaBall_v0.1_Arcadia.lha
 Skipped: Blastar_v2.1.lha
 Skipped: Blasteroids_v1.3_0239.lha
@@ -1448,7 +1448,7 @@ Skipped: BloodNet_v2.1_AGA_1667.lha
 Skipped: BloodNet_v2.2_2345.lha
 Skipped: Bloodwych&ExtendedLevels_v2.51_0439&0043.lha
 Skipped: Bloodwych_v2.51_0439.lha
-Scanned: Blork
+Skipped: Blork_v1.0.lha
 Skipped: BlueAngel69_v1.01_1303.lha
 Skipped: BlueAngels_v1.0_1467.lha
 Skipped: BlueAngels_v1.0_NTSC_1467.lha
@@ -1842,7 +1842,7 @@ Skipped: CoolCrocTwins_v1.0_0920.lha
 Skipped: CoolSpot_v2.1_1345.lha
 Skipped: CoolWorld_v1.0_1826.lha
 Skipped: CoolWorld_v2.0_1826.lha
-Scanned: Cool World
+Skipped: CoolWorld_v2.1_1826.lha
 Skipped: Corporation&Missions_v1.4_3Disk_0107&0266.lha
 Skipped: Corporation_v1.4_1Disk_0107.lha
 Skipped: Corporation_v1.4_2Disk_0107.lha
@@ -2105,7 +2105,7 @@ Skipped: DiosaDeCozumel_v1.0_Es.lha
 Skipped: Discovery_v1.0_2175.lha
 Skipped: Discovery_v1.0_MicroIllusions.lha
 Skipped: Disc_v1.1_1503.lha
-Scanned: Disc
+Skipped: Disc_v2.0_1503.lha
 Skipped: DisposableHero_v1.5_1367.lha
 Skipped: DisposableHero_v1.5_CD32.lha
 Skipped: DisposableHero_v1.5_Fast_1367.lha
@@ -2167,7 +2167,7 @@ Skipped: Drakkhen_v1.3_Fr_Image_2558.lha
 Skipped: Drakkhen_v1.3_Image_0769.lha
 Skipped: Drakkhen_v1.3_NTSC_Files_1843.lha
 Skipped: Drakkhen_v1.3_NTSC_Image_1843.lha
-Scanned: Dr Cubes Magic Lands
+Skipped: DrCubesMagicLands_v1.1.lha
 Skipped: DrDoomsRevenge_v1.1_NTSC_2Disk_1496.lha
 Skipped: DreamWeb_v1.1_1660.lha
 Skipped: DreamWeb_v1.1_AGA_1815.lha
@@ -2764,6 +2764,7 @@ Skipped: Garrison_v1.1_0800.lha
 Skipped: GaryLinekersHotShot_v1.0_0883.lha
 Skipped: GatewayToTheSavageFrontier_v1.0_2160.lha
 Skipped: Gauntlet2_v1.2.lha
+Scanned: Gauntlet II
 Skipped: Gauntlet3_v1.1_1550.lha
 Skipped: Gazza2_v1.0.lha
 Skipped: Hunter_v1.23_De.lha
@@ -2889,7 +2890,7 @@ Skipped: HotRubber_v1.0.lha
 Skipped: Hotshot_v1.0_2083.lha
 Skipped: HoundOfShadow_v1.0_0338.lha
 Skipped: HoyleVolume3_v1.0_2085.lha
-Scanned: Hoyle Volume 3
+Skipped: HoyleVolume3_v1.1_2085.lha
 Skipped: HuckleberryHound_v1.1.lha
 Skipped: HudsonHawk_v1.5_1035.lha
 Skipped: Hugo1_v1.0_Dk.lha
@@ -3329,10 +3330,10 @@ Skipped: LegendOfKyrandia_v1.1_1575.lha
 Skipped: LegendOfKyrandia_v1.1_De_0372.lha
 Skipped: LegendOfKyrandia_v1.1_Fr.lha
 Skipped: LegendOfKyrandia_v1.1_It.lha
-Scanned: Legend Of Kyrandia
-Scanned: Legend Of Kyrandia (Deutsch)
-Scanned: Legend Of Kyrandia (Francais)
-Scanned: Legend Of Kyrandia (Italiano)
+Skipped: LegendOfKyrandia_v2.0_1575.lha
+Skipped: LegendOfKyrandia_v2.0_De_0372.lha
+Skipped: LegendOfKyrandia_v2.0_Fr.lha
+Skipped: LegendOfKyrandia_v2.0_It.lha
 Skipped: LegendOfRagnarok_v1.0.lha
 Skipped: LegendOfTheLost_v1.0_2971.lha
 Skipped: LegendOfTheSword_v1.0_0797.lha
@@ -3805,6 +3806,8 @@ Skipped: NigelMansellsWorldChampionship_v1.3_CD32.lha
 Skipped: NightbreedAction_v1.0.lha
 Skipped: NightbreedMovie_v1.0_0363.lha
 Skipped: Nightdawn_v1.1_1301.lha
+Scanned: Nightdawn
+Scanned: Nightdawn (NTSC)
 Skipped: NightHawkF117A_v1.01_1209.lha
 Skipped: NightHunter_v1.1a.lha
 Skipped: NightShift_v1.0_1508.lha
@@ -4257,8 +4260,10 @@ Skipped: Rotor_v1.1.lha
 Skipped: Rotox_v1.0_2496.lha
 Skipped: RoundTheBend_v1.0.lha
 Skipped: RType2_v1.1_2065.lha
+Skipped: RType2_v2.0_2065.lha
 Scanned: R-Type II
 Skipped: RType_v1.4.1_0940.lha
+Skipped: RType_v1.5_0940.lha
 Scanned: R-Type
 Skipped: Rubicon_v1.1_0573.lha
 Skipped: Rubicon_v2.0_0573.lha
@@ -4460,7 +4465,7 @@ Skipped: Savage_v1.0_0028.lha
 Skipped: Scapeghost_v1.0.lha
 Skipped: SchmutzigeErbe_v1.0_De.lha
 Skipped: SchwarzeAuge_v1.2_De_0806.lha
-Scanned: Sci (Finnish)
+Skipped: SciFi_v1.0_2464.lha
 Skipped: ScoobyDoo&ScrappyDoo_v2.01_0062.lha
 Skipped: Scorpion_v1.2.lha
 Skipped: Scorpion_v1.3_2615.lha
@@ -5182,9 +5187,9 @@ Skipped: TitusTheFox_v2.1_0226.lha
 Skipped: TitusTheFox_v2.3_0226.lha
 Skipped: Toki_v2.3a_0040.lha
 Skipped: Toki_v2.3_0040.lha
-Scanned: Tom & Jerry 2
-Scanned: Tom & Jerry HHA L
-Scanned: Tom & Jerry
+Skipped: Tom&Jerry2_v1.1_2229.lha
+Skipped: Tom&JerryHuntingHighAndLow_v1.1_1305.lha
+Skipped: Tom&Jerry_v1.1_1306.lha
 Skipped: TomAndJerry2_v1.0_2229.lha
 Skipped: TomAndJerryHuntingHighAndLow_v1.0_1305.lha
 Skipped: TomAndJerry_v1.0_1306.lha
@@ -7007,7 +7012,7 @@ Skipped: KingdomWar-WHDL.lha
 Skipped: KingKongLCD-WHDL.lha
 Skipped: KingsKornerSolitaire-WHDL.lha
 Skipped: KingsValley-WHDL.lha
-Scanned: Kings Valley 2021
+Skipped: KingsValley2021-WHDL.lha
 Skipped: KingsValleySP-WHDL.lha
 Skipped: KingZeitRitterDE-WHDL.lha
 Skipped: KissCanvasDemo-WHDL.lha
@@ -8795,7 +8800,7 @@ Skipped: SlipStreamAGAdemo-WHDL.lha
 Skipped: SonicHedgehogDemo-WHDL.lha
 Skipped: StreetsRageDemo-WHDL.lha
 Skipped: StreetsRageDemoEarly-WHDL.lha
-Scanned: Super Delivery Boy Demo
+Skipped: SuperDeliveryBoyDemo.lha
 Skipped: SuperMarioRebelDemo-WHDL.lha
 Skipped: SuperMarioRetroDemo-WHDL.lha
 Skipped: SVLCVSSdemo-WHDL.lha

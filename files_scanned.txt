@@ -1,4 +1,4 @@
-Scanned file log: 2021-04-14 at 03:00:06
+Scanned file log: 2021-04-16 at 03:00:05
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -611,7 +611,7 @@ Skipped: Origin_v1.1_Complex_AGA.lha
 Skipped: Ottifanten2_v1.0_Thrust.lha
 Skipped: Ottifanten_v1.0_Thrust.lha
 Skipped: OurDefinitionOfABoombasticDemoStyle_v1.02_Rebels.lha
-Scanned: Our Def Of Boombastic
+Skipped: OurDefinitionOfABoombasticDemoStyle_v1.03_Rebels.lha
 Skipped: Overdose_v1.0_Delight.lha
 Skipped: Overload2_v1.01_Jetset.lha
 Skipped: Overload_v1.0_Jetset.lha
@@ -1080,6 +1080,7 @@ Skipped: AmazingSpiderMan_v2.1_1006.lha
 Skipped: AmazingSpiderMan_v2.1_NTSC.lha
 Skipped: Ambermoon_v1.0.lha
 Skipped: Ambermoon_v1.0_De.lha
+Scanned: A PB
 Skipped: Apidya_v2.05_Audios_2465.lha
 Skipped: Apidya_v2.05_Kaiko_0764.lha
 Skipped: Apocalypse_v1.0_1813.lha
@@ -1333,8 +1334,8 @@ Skipped: BattleIsle_v1.9_1991.lha
 Skipped: BattleMaster_v1.0_0635.lha
 Skipped: Battleships_v1.0.lha
 Skipped: Battleships_v2.0_3003.lha
-Scanned: Battleships
-Scanned: Battleship (NTSC)
+Skipped: Battleships_v2.1_3003.lha
+Skipped: Battleship_v2.1_NTSC.lha
 Skipped: BattleSquadronDemo_v1.0.lha
 Skipped: BattleSquadron_v1.6.1_0941.lha
 Skipped: BattleSquadron_v1.6.1_NTSC_0942.lha
@@ -1414,7 +1415,7 @@ Skipped: BlastaBall_v0.1_Arcadia.lha
 Skipped: Blastar_v2.1.lha
 Skipped: Blasteroids_v1.3_0239.lha
 Skipped: BlazingThunder_v1.1_2082.lha
-Scanned: Blazing Thunder
+Skipped: BlazingThunder_v1.2_2082.lha
 Skipped: BlinkysScarySchool_v1.1_0437.lha
 Skipped: Blobz_v1.0_AGA.lha
 Skipped: BlockOut_v1.2_0208.lha
@@ -1941,6 +1942,7 @@ Skipped: ChaosStrikesBack&GermanUtilityDisk_v1.2.lha
 Skipped: ChaosStrikesBack&GermanUtilityDisk_v1.21.lha
 Skipped: CharlieJCool_v1.2.lha
 Skipped: CharlieJCool_v1.2_AGA.lha
+Scanned: Charon 5
 Skipped: ChaseHQ2_v1.4_1246.lha
 Skipped: ChaseHQ_v1.0_0212.lha
 Skipped: Chessmaster2000_v1.0_2055.lha
@@ -1970,6 +1972,7 @@ Skipped: DungeonQuest_v1.0_0663.lha
 Skipped: DalekAttack_v1.2_1998.lha
 Skipped: DaleyThompsonsOlympicChallenge_v1.0_1Disk_0957.lha
 Skipped: DaleyThompsonsOlympicChallenge_v1.0_2Disk_0313.lha
+Scanned: Dal XFr
 Skipped: DamagePreview_v1.0.lha
 Skipped: Damage_v1.2.lha
 Skipped: Damocles_v1.3_0643.lha
@@ -2141,7 +2144,7 @@ Skipped: DoubleDragon3_v1.3_0321.lha
 Skipped: DoubleDragon_v1.0_2438.lha
 Skipped: DoubleDribble_v1.01.lha
 Skipped: DownAtTheTrolls_v1.0_3009.lha
-Scanned: Down At The Trolls
+Skipped: DownAtTheTrolls_v1.2_3009.lha
 Skipped: DownhillChallenge_v1.2_NTSC.lha
 Skipped: DrachenVonLaas_v1.01_De.lha
 Skipped: DragonBreed_v1.1_0441.lha
@@ -3522,6 +3525,7 @@ Skipped: Lorna_v1.1.lha
 Skipped: LostDutchmanMine_v2.0.lha
 Skipped: MultiPlayerSoccerManager_v1.0.lha
 Skipped: Munsters_v1.1_1265.lha
+Scanned: Munsters
 Skipped: MurdersInSpace_v1.1_Files_2344.lha
 Skipped: MurdersInSpace_v1.1_Image_2344.lha
 Skipped: MurdersInSpace_v1.3_Files_2344.lha
@@ -3530,7 +3534,7 @@ Skipped: Murder_v1.4_0136.lha
 Skipped: MysteriousWorlds_v1.05_1588.lha
 Skipped: MysteryOfTheMummy_v1.0.lha
 Skipped: Mystical_v1.2_0541.lha
-Scanned: Mystical
+Skipped: Mystical_v2.0_0541.lha
 Skipped: Myth_v1.0_MagneticScrolls.lha
 Skipped: Myth_v1.3a_System3_0700.lha
 Skipped: Myth_v1.3a_System3_CD32.lha
@@ -3538,7 +3542,7 @@ Skipped: M1TankPlatoon_v1.0_0531.lha
 Skipped: Mach3_v1.0_2638.lha
 Skipped: Mach3_v1.1_2638.lha
 Skipped: MadProfessorMariarti_v1.2_0662.lha
-Scanned: Mad Professor Mariarti
+Skipped: MadProfessorMariarti_v1.3_0662.lha
 Skipped: MadShow_v1.1.lha
 Skipped: MadShow_v1.1_Fr_2860.lha
 Skipped: MadTV_v1.1.lha
@@ -3724,6 +3728,7 @@ Skipped: MindWalker_v0.9.lha
 Skipped: MindWalker_v0.9_NTSC_0951.lha
 Skipped: MiniGolfPlus_v1.0.lha
 Skipped: MiniGolf_v1.0.lha
+Scanned: Minos
 Skipped: Minskies_v2.1.lha
 Skipped: Minskies_v2.1_AGA.lha
 Skipped: MisjaHarolda_v1.2_Pl.lha
@@ -3751,6 +3756,7 @@ Skipped: MonsterBusiness_v1.4_3032.lha
 Skipped: MontyPythonsFlyingCircus_v1.3_0273.lha
 Skipped: MontyPythonsFlyingCircus_v1.3_NTSC_1174.lha
 Skipped: Moochies_v1.0.lha
+Scanned: Moochies
 Skipped: MoonBlaster_v1.1_Fr_2418.lha
 Skipped: Moonfall_v1.1.lha
 Skipped: MoonShineRacers_v1.0_1540.lha
@@ -4058,8 +4064,8 @@ Skipped: PinballDreams_v1.5_0377.lha
 Skipped: PinballDreams_v1.5_NTSC.lha
 Skipped: PinballDreams_v1.7_0377.lha
 Skipped: PinballDreams_v1.7_NTSC.lha
-Scanned: Pinball Dreams
-Scanned: Pinball Dreams (NTSC)
+Skipped: PinballDreams_v1.8_0377.lha
+Skipped: PinballDreams_v1.8_NTSC.lha
 Skipped: ParadiseLost_v1.0.lha
 Skipped: PeterBeardsleysInternationalFootball_v1.2.lha
 Skipped: PinballBrainDamage_v1.0_AGA.lha
@@ -4349,8 +4355,8 @@ Skipped: RBI2Baseball_v1.2_2116.lha
 Skipped: Read&Rhyme_v1.0.lha
 Skipped: RealGhostbusters_v1.0_0198.lha
 Skipped: RealmOfTheTrolls_v1.0_3010.lha
-Scanned: Realm Of The Trolls (1 Disk)
-Scanned: Realm Of The Trolls (2 Disk)
+Skipped: RealmOfTheTrolls_v1.2_1Disk_3010.lha
+Skipped: RealmOfTheTrolls_v1.2_2Disk.lha
 Skipped: RealmsOfArkania_v1.2_0616.lha
 Skipped: Realms_v1.3_1497.lha
 Skipped: Rebellion_v1.0.lha
@@ -4685,10 +4691,10 @@ Skipped: SkiOrDie_v1.0_1258.lha
 Skipped: Skrull_v1.0_1709.lha
 Skipped: Skull&Crossbones_v1.3_0285.lha
 Skipped: Skweek_v1.2_2401.lha
-Scanned: Skyblaster
+Skipped: Skyblaster_v1.0_2047.lha
 Skipped: SkyChase_v1.2_2610.lha
 Skipped: SkyChase_v1.2_Fast_2610.lha
-Scanned: Sky Fighter
+Skipped: SkyFighter_v1.0_2117.lha
 Skipped: Skyfox2_v1.0.lha
 Skipped: Skyfox_v1.0_NTSC_0903.lha
 Skipped: SkyHighStuntman_v1.1.lha
@@ -4795,6 +4801,7 @@ Skipped: Spherical_v1.1_0977.lha
 Skipped: Spiderman2_v1.0.lha
 Skipped: Spiderman3_v1.0.lha
 Skipped: Spiderman_v1.0.lha
+Scanned: Spidertronic
 Skipped: SpikeInTransylvania_v1.0.lha
 Skipped: SpindizzyWorlds_v1.1_1179.lha
 Skipped: Spirilon_v1.0_AGA.lha
@@ -5107,6 +5114,7 @@ Skipped: TemplosSagrados_v1.0_Es.lha
 Skipped: TennisChamps_v1.0.lha
 Skipped: TennisCup2_v1.0_0738.lha
 Skipped: TennisCup2_v1.1_0738.lha
+Scanned: Tennis Cup II
 Skipped: TennisCup_v1.3a_1Mb_0737.lha
 Skipped: TennisCup_v1.3a_512Kb_0737.lha
 Skipped: TennisCup_v1.3a_Fr_1Mb_1638.lha
@@ -7090,7 +7098,7 @@ Skipped: KlondikeSolitaire-WHDL.lha
 Skipped: KlondikeWiseman-WHDL.lha
 Skipped: KnightLoreDemo-WHDL.lha
 Skipped: KnightQuest-WHDL.lha
-Scanned: Knight Rider 77
+Skipped: KnightRider77-WHDL.lha
 Skipped: LaserStrixxCD32-WHDL.lha
 Skipped: LastLap-WHDL.lha
 Skipped: LastRefuge-WHDL.lha
@@ -8688,7 +8696,7 @@ Skipped: WrathGwendor2Return-WHDL.lha
 Skipped: WrathGwendorSE97-WHDL.lha
 Skipped: WrestlingGameDemo-WHDL.lha
 Skipped: Wriggly2-WHDL.lha
-Scanned: Wrong Way Driver
+Skipped: WrongWayDriver-WHDL.lha
 Skipped: Wuzzi-WHDL.lha
 Skipped: Xap-WHDL.lha
 Skipped: XBalls-WHDL.lha
@@ -8867,7 +8875,7 @@ Skipped: SlipStreamAGAdemo-WHDL.lha
 Skipped: SonicHedgehogDemo-WHDL.lha
 Skipped: StreetsRageDemo-WHDL.lha
 Skipped: StreetsRageDemoEarly-WHDL.lha
-Scanned: Super Delivery Boy Demo
+Skipped: SuperDeliveryBoyDemo-WHDL.lha
 Skipped: SuperDeliveryBoyDemo.lha
 Skipped: SuperMarioRebelDemo-WHDL.lha
 Skipped: SuperMarioRetroDemo-WHDL.lha

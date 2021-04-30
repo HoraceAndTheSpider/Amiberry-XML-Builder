@@ -1,4 +1,4 @@
-Scanned file log: 2021-04-28 at 03:00:06
+Scanned file log: 2021-04-30 at 03:00:05
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -1577,7 +1577,7 @@ Skipped: BombJack_v1.1_2797.lha
 Skipped: BombPacCD32_v1.0_AGA.lha
 Skipped: BombPacCD32_v1.0_AGA_Aminet.lha
 Skipped: Bombuzal_v1.23_1739.lha
-Scanned: Bomb XNew Levels
+Skipped: BombXNewLevels_v1.1.lha
 Skipped: BombX_v1.1.lha
 Skipped: CurseOfRa_v1.2_CDTV.lha
 Skipped: CurseOfRa_v1.3b_1277.lha
@@ -2337,7 +2337,7 @@ Skipped: ETsRugbyLeague_v1.0.lha
 Skipped: EuropeanChampionship1992_v1.01_0478.lha
 Skipped: EuropeanChampions_v1.2_Ocean_2569.lha
 Skipped: EuropeanFootballChamp_v1.0_1672.lha
-Scanned: European Space Simulator
+Skipped: EuropeanSpaceSimulator_v1.0_1375.lha
 Skipped: EuroSoccer_v1.01_2905.lha
 Skipped: EvilDawn_v1.0.lha
 Skipped: EvilDawn_v1.1.lha
@@ -2892,7 +2892,7 @@ Skipped: HelterSkelter_v1.3_2071.lha
 Skipped: HeroesOfTheLance_v1.01_0778.lha
 Skipped: HeroQuest&ReturnOfTheWitchLord_v1.3_0127&0508.lha
 Skipped: HeroQuest2_v1.0_1455.lha
-Scanned: HeroQuest II - Legacy of Sorasil
+Skipped: HeroQuest2_v1.1_1455.lha
 Skipped: HeroQuest_v1.3_0127.lha
 Skipped: HerosQuest_v1.4b_0795.lha
 Skipped: Hexuma_v1.0_De_0684.lha
@@ -3143,7 +3143,7 @@ Skipped: JamesPond2_v1.1_AGA_1354.lha
 Skipped: JamesPond2_v1.3_1352.lha
 Skipped: JamesPond2_v2.0_AGA_1354.lha
 Skipped: JamesPond3_V1.02_CD32.lha
-Scanned: Jungle Book
+Skipped: JungleBook_v1.0_0516.lha
 Skipped: JungleStrike_v1.1_0188.lha
 Skipped: JungleStrike_v1.1_1MB_0188.lha
 Skipped: JungleStrike_v1.1_2MB_2581.lha
@@ -4074,8 +4074,8 @@ Skipped: Perihelion_v1.4_0799.lha
 Skipped: PersianGulfInferno_v1.0.lha
 Skipped: PersonalNightmare_v1.0_2650.lha
 Skipped: PeterBeardsleysInternationalFootball_v1.2_NTSC_0952.lha
-Scanned: Peter Pan (Deutsch)
-Scanned: Peter Pan (Francais)
+Skipped: PeterPan_v1.0_De_0078.lha
+Skipped: PeterPan_v1.0_Fr.lha
 Skipped: PeterSchmeichelSoccer_v1.0.lha
 Skipped: PGAEuropeanTour_v1.1_0550.lha
 Skipped: PGAEuropeanTour_v1.1_AGA_2435.lha
@@ -5099,7 +5099,7 @@ Skipped: SpaceQuest4_v1.1_NTSC_MT32_1177.lha
 Skipped: SpaceQuestEnhanced_v1.2_2222.lha
 Skipped: SpaceQuestEnhanced_v1.3_2222.lha
 Skipped: SpaceQuestEnhanced_v1.3_MT32_2222.lha
-Scanned: Space Quest I - Roger Wilco in the Sarien Encounter (Enhanced)
+Skipped: SpaceQuestEnhanced_v2.0_2222.lha
 Skipped: TetrisPro_v1.0.1.lha
 Skipped: Tetris_v1.1_Infogrames.lha
 Skipped: Tetris_v1.1_Mirrorsoft.lha
@@ -5416,7 +5416,7 @@ Skipped: TinyBobble_v1.1.lha
 Skipped: TinyBobble_v1.2.lha
 Skipped: TinyGalaga_v1.0.lha
 Skipped: TinyGalaga_v1.1.lha
-Scanned: Tiny Galaga
+Skipped: TinyGalaga_v1.2.lha
 Skipped: TinyInvaders_v1.1.lha
 Skipped: TinySkweeks_v1.0_2402.lha
 Skipped: TinyTroops_v1.2.lha
@@ -6140,7 +6140,7 @@ Skipped: BlockBuster2-WHDL.lha
 Skipped: BlockHead1-WHDL.lha
 Skipped: BlockHead2-WHDL.lha
 Skipped: BlockIt-WHDL.lha
-Scanned: Block Off
+Skipped: BlockOff-WHDL.lha
 Skipped: Blocks-WHDL.lha
 Skipped: BlocksXL-WHDL.lha
 Skipped: BlockySkies-WHDL.lha
@@ -8593,6 +8593,7 @@ Skipped: TwinZ-WHDL.lha
 Skipped: TwoToOne-WHDL.lha
 Skipped: Tykkipeli-WHDL.lha
 Skipped: TyranPL-WHDL.lha
+Scanned: T-zero RIPAGA
 Skipped: UbekECSAGA-WHDL.lha
 Skipped: UbekECSAGAPL-WHDL.lha
 Skipped: UchessECSAGA-WHDL.lha
@@ -8946,7 +8947,7 @@ Skipped: ThemeParkXmas-WHDL.lha
 Skipped: ThingsDemo-WHDL.lha
 Skipped: TinyLittleSlugDemo-WHDL.lha
 Skipped: TurboSprintAGAdemo-WHDL.lha
-Scanned: Turrican 2 [AGA]demo
+Skipped: Turrican2AGAdemo-WHDL.lha
 Skipped: UnderCoverDemo-WHDL.lha
 Skipped: WarpgateDemo-WHDL.lha
 Skipped: WolfShackDemo-WHDL.lha

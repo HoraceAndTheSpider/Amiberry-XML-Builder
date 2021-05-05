@@ -1,4 +1,4 @@
-Scanned file log: 2021-04-30 at 03:00:05
+Scanned file log: 2021-05-05 at 03:00:06
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -1262,6 +1262,8 @@ Skipped: BadDudes_v1.3_NTSC_2425.lha
 Skipped: BadlandsPete_v1.0.lha
 Skipped: Bagitman_v1.1.lha
 Skipped: Bagitman_v2.0.lha
+Scanned: Balade Au Pays De Big Ben (Francais)
+Scanned: Balade Au Pays De Big Ben (Francais)
 Skipped: BalanceOfPower1990Edition_v1.0_1818.lha
 Skipped: BalanceOfPower_v1.0_2374.lha
 Skipped: BalanceOfPower_v1.0_NTSC_2374.lha
@@ -1420,6 +1422,7 @@ Skipped: BladeWarrior_v1.3_2201.lha
 Skipped: BladeWarrior_v2.0_2201.lha
 Skipped: BlastaBall_v0.1_Arcadia.lha
 Skipped: Blastar_v2.1.lha
+Scanned: Blastar
 Skipped: Blasteroids_v1.3_0239.lha
 Skipped: BlazingThunder_v1.1_2082.lha
 Skipped: BlazingThunder_v1.2_2082.lha
@@ -1464,6 +1467,10 @@ Skipped: Boot_v1.0_NTSC_1996.lha
 Skipped: Borobodur_v1.1_1014.lha
 Skipped: Borobodur_v1.2_1014.lha
 Skipped: BorrowedTime_v1.0.lha
+Scanned: Bosse Des Maths 3eme (Francais)
+Scanned: Bosse Des Maths 4eme (Francais)
+Scanned: Bosse Des Maths 5eme (Francais)
+Scanned: Bosse Des Maths 6eme (Francais)
 Skipped: BostonBombClub_v1.3_1502.lha
 Skipped: BostonBombClub_v1.3_Fast_1502.lha
 Skipped: Botics_v1.1.lha
@@ -1486,6 +1493,8 @@ Skipped: BrianLarasCricket96_v1.0.lha
 Skipped: BrianLarasCricket_v1.0_1225.lha
 Skipped: BrianTheLion_v1.4_0240.lha
 Skipped: BrianTheLion_v1.4_AGA_0843.lha
+Scanned: Brian The Lion
+Scanned: Brian The Lion [AGA]
 Skipped: BridesOfDracula_v1.1_0303.lha
 Skipped: BrutalFootball_v1.21_0209.lha
 Skipped: BrutalFootball_v1.21_AGA_1837.lha
@@ -1563,6 +1572,7 @@ Skipped: BlackGold_v1.6_ReLINE.lha
 Skipped: BlackHornet_v1.0.lha
 Skipped: BlackLamp_v1.0_0826.lha
 Skipped: BlackLamp_v1.1_0826.lha
+Scanned: Black Lamp
 Skipped: BodyBlows_v1.2_AGA_1322.lha
 Skipped: BodyBlows_v1.3_1147.lha
 Skipped: BodyBlows_v1.3_AGA_1322.lha
@@ -1652,6 +1662,7 @@ Skipped: Carlos_v1.2_2229.lha
 Skipped: Carnage_v1.0.lha
 Skipped: CarrierCommand_v1.3_0813.lha
 Skipped: CarrierCommand_v1.3_NoMusic.lha
+Scanned: Carrier Command
 Skipped: Carthage_v1.1_2328.lha
 Skipped: Carthage_v1.1_NTSC.lha
 Skipped: Carthage_v1.1_NTSC_2329.lha
@@ -1697,6 +1708,7 @@ Skipped: Castles_v1.4_De_0305.lha
 Skipped: CastleVania_v1.1.lha
 Skipped: CastleWarrior_v1.0b.lha
 Skipped: CastleWarrior_v1.1_2289.lha
+Scanned: Castors Juniors (Francais)
 Skipped: CatchEm_v1.0.lha
 Skipped: Cattivik_v1.0_2752.lha
 Skipped: CaveMania_v1.2_2220.lha
@@ -1852,6 +1864,7 @@ Skipped: CoolSpot_v2.1_1345.lha
 Skipped: CoolWorld_v1.0_1826.lha
 Skipped: CoolWorld_v2.0_1826.lha
 Skipped: CoolWorld_v2.1_1826.lha
+Scanned: Cool World
 Skipped: Corporation&Missions_v1.4_3Disk_0107&0266.lha
 Skipped: Corporation_v1.4_1Disk_0107.lha
 Skipped: Corporation_v1.4_2Disk_0107.lha
@@ -2221,6 +2234,7 @@ Skipped: DynaBlaster_v1.4_0664.lha
 Skipped: DynaBlaster_v1.5_0664.lha
 Skipped: DynaBlaster_v1.6_0664.lha
 Skipped: DynamiteDux_v1.0_1183.lha
+Scanned: Dynamite Dux
 Skipped: Dynamo_v1.3_0995.lha
 Skipped: DynastyWars_v1.1_0862.lha
 Skipped: Dyter07_v1.2.lha
@@ -2321,6 +2335,8 @@ Skipped: EnemyTempestOfViolence_v1.2_EasyPlay.lha
 Skipped: EnemyTempestOfViolence_v1.2_EasyPlay_De.lha
 Skipped: Enforcer_v1.1.lha
 Skipped: EnglandChampionshipSpecial_v1.1_1671.lha
+Scanned: Enigme A Oxford
+Scanned: Enigme A Oxford
 Skipped: Enlightenment_v1.0_1948.lha
 Skipped: Entity_v1.2_1735.lha
 Skipped: Entity_v1.2_NoIntro_1735.lha
@@ -2333,6 +2349,8 @@ Skipped: EscapeFromThePlanetOfTheRobotMonsters_v1.5_0477.lha
 Skipped: Eskadra_v1.1_Pl.lha
 Skipped: EskimoGames_v1.0_0232.lha
 Skipped: EspanaTheGames92_v1.2_1327.lha
+Scanned: ESWA TFiles
+Scanned: ESWA TImage
 Skipped: ETsRugbyLeague_v1.0.lha
 Skipped: EuropeanChampionship1992_v1.01_0478.lha
 Skipped: EuropeanChampions_v1.2_Ocean_2569.lha
@@ -2617,6 +2635,7 @@ Skipped: FastFood_v1.0_DizzyCollection.lha
 Skipped: FastLane_v1.0.lha
 Skipped: FatalHeritage_v1.0_De_0052.lha
 Skipped: FatalMission_v1.0.lha
+Scanned: Final Countdown
 Skipped: FinalFight_v1.6_1MB_1329.lha
 Skipped: FinalFight_v1.6_512k_1329.lha
 Skipped: FinalFight_v1.7_1329.lha
@@ -3052,6 +3071,7 @@ Skipped: InternationalTruckRacing_v1.2.lha
 Skipped: Interphase_v1.9_0067.lha
 Skipped: Interphase_v1.9_AmigaFormat.lha
 Skipped: IntoTheEaglesNest_v1.1.lha
+Scanned: Intrigue A La Renaissance (Francais)
 Skipped: Invasion_v1.0.lha
 Skipped: Invest_v1.2_De_1Disk.lha
 Skipped: Invest_v1.2_De_2Disk.lha
@@ -3071,6 +3091,7 @@ Skipped: IndianaJones&TheTempleOfDoom_v1.0_0660.lha
 Skipped: IndianaJones&TheTempleOfDoom_v1.1-B_0660.lha
 Skipped: Indianapolis500_v2.0_0686.lha
 Skipped: Indianapolis500_v2.1_0686.lha
+Scanned: Indian Mission (Francais)
 Skipped: Indigo_v1.1_Files.lha
 Skipped: Indigo_v1.1_Image.lha
 Skipped: IndoorSports_v1.1.lha
@@ -3108,23 +3129,10 @@ Skipped: JimPower_v3.0-B_0068.lha
 Skipped: JimPower_v3.0_0068.lha
 Skipped: Jinks_v1.0_0973.lha
 Skipped: Jinxter_v1.0.lha
+Scanned: Joakim Von Anka (Svenska)
 Skipped: JockyWilsonsDartsChallenge_v1.1.lha
 Skipped: Joe&MacCavemanNinja_v1.0b_2179.lha
 Skipped: Joe&MacCavemanNinja_v1.1_2179.lha
-Skipped: Joe&MacCavemanNinja_v1.1_Fast_2179.lha
-Skipped: JoeBlade2_v1.0.lha
-Skipped: JoeBlade_v1.1_0514.lha
-Skipped: JohnBarnesEuropeanFootball_v1.01_1925.lha
-Skipped: JohnLowesUltimateDarts_v1.0_2778.lha
-Skipped: JohnMaddenFootball_v1.3_0071.lha
-Skipped: JohnMaddenFootball_v1.4_0071.lha
-Skipped: Jonathan_v1.1_De_0515.lha
-Skipped: JourneyTheQuestBegins_v1.1_0499.lha
-Skipped: Jouster3_v1.0.lha
-Skipped: JudgeDredd_v1.1.lha
-Skipped: Jug_v1.0.lha
-Skipped: JumpingJackSon_v1.41_1040.lha
-Skipped: JumpingJackSon_v2.0_1040.lha
 Skipped: Jabato_v1.0_Es.lha
 Skipped: JaguarXJ220_v1.5_Files_1200.lha
 Skipped: JaguarXJ220_v1.5_Image_1200.lha
@@ -3156,6 +3164,7 @@ Skipped: JurassicPark_v1.5_AGA_0836.lha
 Skipped: JurassicPark_v1.6_0048.lha
 Skipped: JamesPond3_v1.0_AGA_0688.lha
 Skipped: Jet_v1.0.lha
+Skipped: Joe&MacCavemanNinja_v1.1_Fast_2179.lha
 Skipped: JumpNRoll_v1.0.lha
 Skipped: JamesPond3_v2.1_AGA_0688.lha
 Skipped: JamesPond3_v2.1_CD32.lha
@@ -3174,6 +3183,20 @@ Skipped: JetSetWilly2_v0501.1_1115.lha
 Skipped: JetsonsTheComputerGame_v1.0_2270.lha
 Skipped: Jetstrike_v1.1.lha
 Skipped: Jetstrike_v1.1_AGA.lha
+Skipped: JoeBlade2_v1.0.lha
+Skipped: JoeBlade_v1.1_0514.lha
+Skipped: JohnBarnesEuropeanFootball_v1.01_1925.lha
+Skipped: JohnLowesUltimateDarts_v1.0_2778.lha
+Skipped: JohnMaddenFootball_v1.3_0071.lha
+Skipped: JohnMaddenFootball_v1.4_0071.lha
+Skipped: Jonathan_v1.1_De_0515.lha
+Skipped: JourneyTheQuestBegins_v1.1_0499.lha
+Scanned: Journey Center Of The Earth
+Skipped: Jouster3_v1.0.lha
+Skipped: JudgeDredd_v1.1.lha
+Skipped: Jug_v1.0.lha
+Skipped: JumpingJackSon_v1.41_1040.lha
+Skipped: JumpingJackSon_v2.0_1040.lha
 Skipped: KnightOrc_v1.0_0215.lha
 Skipped: KnightsOfTheCrystallion_v1.51_1160.lha
 Skipped: KnightsOfTheCrystallion_v1.51_De_1426.lha
@@ -3318,6 +3341,8 @@ Skipped: KnightForce_v2.2_1574.lha
 Skipped: LostInMine_v1.1_Pl.lha
 Skipped: LostPatrol_v1.3_0773.lha
 Skipped: LostPatrol_v1.3_NTSC_0498.lha
+Scanned: Lost Patrol
+Scanned: Lost Patrol (NTSC)
 Skipped: LostVikingsDemo_v2.0.lha
 Skipped: LostVikingsDemo_v2.0_Fr.lha
 Skipped: LostVikings_v2.0_2235.lha
@@ -3496,6 +3521,7 @@ Skipped: LiquidKids_v1.3_Files.lha
 Skipped: LiquidKids_v1.3_Image.lha
 Skipped: LittleComputerPeople_v1.2_0913.lha
 Skipped: LittlePuffInDragonland_v1.0.lha
+Scanned: Little Red Riding Hood
 Skipped: LiveAndLetDie_v1.1_2187.lha
 Skipped: Liverpool_v1.0_0528.lha
 Skipped: Livingstone2_v1.0.lha
@@ -3700,6 +3726,8 @@ Skipped: MetalMutant_v1.4_Fr.lha
 Skipped: MetalWarrior_v1.0.lha
 Skipped: MetroCross_v1.0.lha
 Skipped: MetroCross_v1.1.lha
+Scanned: Mewilo (Deutsch)
+Scanned: Mewilo (Francais)
 Skipped: Moonwalker_v1.0.lha
 Skipped: Morph_v1.0_1148.lha
 Skipped: Morph_v1.0_AGA_1070.lha
@@ -4092,6 +4120,8 @@ Skipped: PharaohsMatch_v0.1_Arcadia.lha
 Skipped: Phobia_v1.0_2225.lha
 Skipped: PhotonStorm_v1.0_1427.lha
 Skipped: PickNPile_v1.0.lha
+Scanned: Picsou Chasseur De Tresor (Francais)
+Scanned: Picsou Chasseur De Tresor (Francais)
 Skipped: PierreLeChefIsOutToLunch_v2.3_AGA_0548.lha
 Skipped: PierreLeChefIsOutToLunch_v2.3_CD32.lha
 Skipped: PinballDreams_v1.3_0377.lha
@@ -4407,6 +4437,9 @@ Skipped: RedLightning_v1.0_NTSC_1781.lha
 Skipped: RedStormRising_v1.0_1603.lha
 Skipped: RedZone_v2.0.lha
 Skipped: Reflexity_v1.0.lha
+Scanned: Reise Ins Land Dese Big Ben (Deutsch)
+Scanned: Reise Ins Land Des Big Ben (Deutsch)
+Scanned: Reise Mittelpunkt Der Erde (Deutsch)
 Skipped: Renaissance_v1.01_2415.lha
 Skipped: Renegade3_v1.0b.lha
 Skipped: Renegades_v1.0.lha
@@ -5349,6 +5382,7 @@ Skipped: Troddlers_v1.1_0696.lha
 Skipped: Troddlers_v1.2_Files_0696.lha
 Skipped: Troddlers_v1.2_Image_0696.lha
 Skipped: Trog_v1.0.lha
+Scanned: Trois Petits Cochons (Francais)
 Skipped: Trolls_v1.2_AGA_0996.lha
 Skipped: Trolls_v1.3_CD32.lha
 Skipped: TubeWarriors_v1.0_AGA.lha
@@ -5523,6 +5557,7 @@ Skipped: Viz_v1.0.lha
 Skipped: Volfied_v1.2_1418.lha
 Skipped: VoodooNightmare_v1.1_2556.lha
 Skipped: Vortex_v1.0_NTSC_1412.lha
+Scanned: Voyage Au Centre De La Terre (Francais)
 Skipped: Voyager_v1.0_0228.lha
 Skipped: VoyagesOfDiscovery_v1.1.lha
 Skipped: VoyageursDuTemps_v4.0_Fr_2384.lha
@@ -5630,6 +5665,7 @@ Skipped: WonderDog_v1.1_1201.lha
 Skipped: WorldGames_v1.0_0604.lha
 Skipped: WildWestWorld_v1.4_De_0601.lha
 Skipped: WildWheels_v1.1_2654.lha
+Scanned: Wind In The Willows
 Skipped: WindowWizard_v1.0_Files_2649.lha
 Skipped: WindowWizard_v1.0_Image_2649.lha
 Skipped: WindSurfWilly_v1.3_2879.lha
@@ -7819,6 +7855,7 @@ Skipped: PushIt2-WHDL.lha
 Skipped: PushNShove-WHDL.lha
 Skipped: PushPull-WHDL.lha
 Skipped: PushPush-WHDL.lha
+Scanned: Putter [AGA]
 Skipped: PuzlexDemo-WHDL.lha
 Skipped: PuzzleAGA-WHDL.lha
 Skipped: Puzzlepits2-WHDL.lha
@@ -8593,7 +8630,7 @@ Skipped: TwinZ-WHDL.lha
 Skipped: TwoToOne-WHDL.lha
 Skipped: Tykkipeli-WHDL.lha
 Skipped: TyranPL-WHDL.lha
-Scanned: T-zero RIPAGA
+Skipped: TzeroRIPAGA-WHDL.lha
 Skipped: UbekECSAGA-WHDL.lha
 Skipped: UbekECSAGAPL-WHDL.lha
 Skipped: UchessECSAGA-WHDL.lha
@@ -8930,6 +8967,7 @@ Skipped: ScorpionAlexKiddDemo-WHDL.lha
 Skipped: ScorpionPhoenixWrightDemo-WHDL.lha
 Skipped: ScorpionZeldaDemo-WHDL.lha
 Skipped: ShadowsSergothDemo-WHDL.lha
+Scanned: Silverman Demo
 Skipped: SlipStreamAGAdemo-WHDL.lha
 Skipped: SonicHedgehogDemo-WHDL.lha
 Skipped: StreetsRageDemo-WHDL.lha

@@ -1,4 +1,4 @@
-Scanned file log: 2021-05-12 at 03:00:07
+Scanned file log: 2021-05-14 at 03:00:06
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -1562,6 +1562,7 @@ Skipped: BlackHornet_v1.0.lha
 Skipped: BlackLamp_v1.0_0826.lha
 Skipped: BlackLamp_v1.1_0826.lha
 Skipped: BlackLamp_v1.2_0826.lha
+Scanned: Black Lamp
 Skipped: BodyBlows_v1.2_AGA_1322.lha
 Skipped: BodyBlows_v1.3_1147.lha
 Skipped: BodyBlows_v1.3_AGA_1322.lha
@@ -1576,14 +1577,15 @@ Skipped: BombJack_v1.1_2797.lha
 Skipped: BombPacCD32_v1.0_AGA.lha
 Skipped: BombPacCD32_v1.0_AGA_Aminet.lha
 Skipped: Bombuzal_v1.23_1739.lha
+Scanned: Bombuzal
 Skipped: BombXNewLevels_v1.1.lha
 Skipped: BombX_v1.1.lha
 Skipped: BeneathASteelSky_v2.1_De_0461.lha
 Skipped: BeneathASteelSky_v2.1_Fr_2340.lha
 Skipped: BeneathASteelSky_v2.1_It.lha
 Skipped: BeneathASteelSky_v2.1_Se.lha
-Scanned: Beneath A Steel Sky [CD32]
-Scanned: Beneath A Steel Sky [CD32] (No Voice)
+Skipped: BeneathASteelSky_v2.2_CD32.lha
+Skipped: BeneathASteelSky_v2.2_CD32_NoVoice.lha
 Skipped: Benefactor_v1.1_0636.lha
 Skipped: Benefactor_v1.1_CD32.lha
 Skipped: Benefactor_v1.2a_CD32.lha
@@ -1653,11 +1655,11 @@ Skipped: CaptainFizz_v1.0_1777.lha
 Skipped: CaptainFizz_v1.1_1777.lha
 Skipped: CaptainPlanet&ThePlaneteers_v1.0_1448.lha
 Skipped: CaptainPlanet_v2.0.lha
-Scanned: Captain Planet
-Scanned: Captain Planet A 600 Pack
+Skipped: CaptainPlanet_v2.0a.lha
+Skipped: CaptainPlanet_v2.0a_A600Pack_1448.lha
 Skipped: CaptainPlanet_v2.0_A600Pack_1448.lha
 Skipped: Captive_v1.0_2164.lha
-Scanned: Captive
+Skipped: Captive_v2.0_2164.lha
 Skipped: Carcharodon_v1.0_2389.lha
 Skipped: Carcharodon_v1.1a_2389.lha
 Skipped: Carcharodon_v1.1_2389.lha
@@ -2644,8 +2646,8 @@ Skipped: FastLane_v1.0.lha
 Skipped: FatalHeritage_v1.0_De_0052.lha
 Skipped: FatalMission_v1.0.lha
 Skipped: FinalCountdown_v1.2_2691.lha
-Scanned: Final Countdown
-Scanned: Final Countdown (Fast)
+Skipped: FinalCountdown_v1.3_2691.lha
+Skipped: FinalCountdown_v1.3_Fast_2691.lha
 Skipped: FinalFight_v1.6_1MB_1329.lha
 Skipped: FinalFight_v1.6_512k_1329.lha
 Skipped: FinalFight_v1.7_1329.lha
@@ -3207,7 +3209,7 @@ Skipped: JudgeDredd_v1.1.lha
 Skipped: Jug_v1.0.lha
 Skipped: JumpingJackSon_v1.41_1040.lha
 Skipped: JumpingJackSon_v2.0_1040.lha
-Scanned: Knightmare
+Skipped: Knightmare_v2.0_0966.lha
 Skipped: KnightOrc_v1.0_0215.lha
 Skipped: KnightsOfTheCrystallion_v1.51_1160.lha
 Skipped: KnightsOfTheCrystallion_v1.51_De_1426.lha
@@ -4572,6 +4574,7 @@ Skipped: SwordOfAragon_v1.0_2277.lha
 Skipped: SwordOfHonour_v1.0_0149.lha
 Skipped: SwordOfHonour_v1.1_0149.lha
 Skipped: SwordOfSodan_v1.0_1103.lha
+Scanned: Sword Of Sodan
 Skipped: SwordOfSodan_v2.0_1103.lha
 Skipped: Swords&Galleons_v1.0.lha
 Skipped: SwordsOfTwilight_v1.0_0972.lha
@@ -4858,8 +4861,8 @@ Skipped: SpellBound_v1.0_0783.lha
 Skipped: SpellfireTheSorcerer_v1.1_0231.lha
 Skipped: SperisLegacy_v1.1_AGA_1337.lha
 Skipped: SperisLegacy_v1.1_CD32.lha
-Scanned: Speris Legacy [AGA]
-Scanned: Speris Legacy [CD32]
+Skipped: SperisLegacy_v2.0_AGA_1337.lha
+Skipped: SperisLegacy_v2.0_CD32.lha
 Skipped: SphericalWorlds_v1.0.1_2928.lha
 Skipped: SphericalWorlds_v1.0.1_CD.lha
 Skipped: Spherical_v1.1_0977.lha
@@ -5139,39 +5142,39 @@ Skipped: SpaceQuestEnhanced_v1.2_2222.lha
 Skipped: SpaceQuestEnhanced_v1.3_2222.lha
 Skipped: SpaceQuestEnhanced_v1.3_MT32_2222.lha
 Skipped: SpaceQuestEnhanced_v2.0_2222.lha
-Scanned: Space Quest I - Roger Wilco in the Sarien Encounter (Enhanced)
-Scanned: Space Quest Enhanced (512Kb)
+Skipped: SpaceQuestEnhanced_v2.1_2222.lha
+Skipped: SpaceQuestEnhanced_v2.1_512k_2222.lha
 Skipped: SensibleWorldOfMoonSoccerDemo_v1.0.lha
 Skipped: SensibleWorldOfSoccer11_v1.7_0201.lha
 Skipped: SensibleWorldOfSoccer11_v2.0_0201.lha
 Skipped: SensibleWorldOfSoccer1617_v1.7.lha
 Skipped: SensibleWorldOfSoccer1617_v2.0.lha
-Scanned: SWOS 1617
+Skipped: SensibleWorldOfSoccer1617_v2.1.lha
 Skipped: SensibleWorldOfSoccer2020_v1.7.lha
 Skipped: SensibleWorldOfSoccer2020_v2.0.lha
-Scanned: SWOS 2020
+Skipped: SensibleWorldOfSoccer2020_v2.1.lha
 Skipped: SensibleWorldOfSoccer2021_v1.7.lha
 Skipped: SensibleWorldOfSoccer2021_v2.0.lha
-Scanned: SWOS 2021
-Scanned: SWOS 9596 ECE
+Skipped: SensibleWorldOfSoccer2021_v2.1.lha
+Skipped: SensibleWorldOfSoccer9596EuropeanChampionsEdition_v2.1_1825.lha
 Skipped: SensibleWorldOfSoccer9596EuropeanChampions_v2.0_1825.lha
 Skipped: SensibleWorldOfSoccer9596_v1.7_1755.lha
 Skipped: SensibleWorldOfSoccer9596_v2.0_1755.lha
-Scanned: SWOS 9596
+Skipped: SensibleWorldOfSoccer9596_v2.1_1755.lha
 Skipped: SensibleWorldOfSoccer9697_v1.7_0842.lha
 Skipped: SensibleWorldOfSoccer9697_v2.0_0842.lha
-Scanned: SWOS 9697
+Skipped: SensibleWorldOfSoccer9697_v2.1_0842.lha
 Skipped: SensibleWorldOfSoccer9798_v1.7.lha
 Skipped: SensibleWorldOfSoccer9798_v2.0.lha
-Scanned: SWOS 9798
-Scanned: SWOS 98
-Scanned: SWOSv 11
+Skipped: SensibleWorldOfSoccer9798_v2.1.lha
+Skipped: SensibleWorldOfSoccer98_v2.1.lha
+Skipped: SensibleWorldOfSoccerv11_v2.1_0201.lha
 Skipped: SensibleWorldOfSoccerWorldCup98_v1.7.lha
 Skipped: SensibleWorldOfSoccerWorldCup98_v2.0.lha
 Skipped: SensibleWorldOfSoccer_v1.7_0840.lha
 Skipped: SensibleWorldOfSoccer_v2.0_0840.lha
-Scanned: SWOS
-Scanned: SWOSDe
+Skipped: SensibleWorldOfSoccer_v2.1_0840.lha
+Skipped: SensibleWorldOfSoccer_v2.1_De.lha
 Skipped: TetrisPro_v1.0.1.lha
 Skipped: Tetris_v1.1_Infogrames.lha
 Skipped: Tetris_v1.1_Mirrorsoft.lha
@@ -5901,7 +5904,7 @@ Skipped: StuntCarRacer_v1.4_BETA_0222.lha
 Skipped: SuperGemZ_v1.0.lha
 Skipped: SuperHangOn_v1.5_Hack_by_Earok.lha
 Skipped: SuperMonacoGP_v1.2_BETA.lha
-Scanned: TFXAGA
+Skipped: TFX_v1.1_AGA_BETA.lha
 Skipped: Tinyus_v1.0_BETA.lha
 Skipped: Tony&FriendsInKelloggsLand_v1.0_Hack_by_Earok.lha
 Skipped: Ultima6_v1.2_0294.lha

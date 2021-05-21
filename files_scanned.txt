@@ -1,4 +1,4 @@
-Scanned file log: 2021-05-19 at 03:00:06
+Scanned file log: 2021-05-21 at 03:00:05
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -1056,7 +1056,7 @@ Skipped: AlienBreedTowerAssault_v1.3_CD32.lha
 Skipped: AlienBreed_v2.3a_0998.lha
 Skipped: AlienDrugLords_v1.0_1004.lha
 Skipped: AlienFishFinger_v1.0.lha
-Scanned: Alien Fish Finger
+Skipped: AlienFishFinger_v1.1.lha
 Skipped: AlienLegion_v1.0.lha
 Skipped: AlienStorm_v1.4_0096.lha
 Skipped: AlienSyndrome_v1.2_2353.lha
@@ -1362,6 +1362,8 @@ Skipped: Battletech_v1.0_1402.lha
 Skipped: Battletech_v1.0_NTSC_1402.lha
 Skipped: Battletoads_v1.2_1816.lha
 Skipped: Battletoads_v1.2_CD32.lha
+Scanned: Battletoads
+Scanned: Battletoads [CD32]
 Skipped: BattleValley_v1.0_1724.lha
 Skipped: BAT_v1.3b_2072.lha
 Skipped: BAT_v1.3b_De_2197.lha
@@ -1417,6 +1419,7 @@ Skipped: Blasteroids_v1.3_0239.lha
 Skipped: BlazingThunder_v1.1_2082.lha
 Skipped: BlazingThunder_v1.2_2082.lha
 Skipped: BlinkysScarySchool_v1.1_0437.lha
+Scanned: Blinky's Scary School
 Skipped: Blobz_v1.0_AGA.lha
 Skipped: BlockOut_v1.2_0208.lha
 Skipped: BlockOut_v1.4_0208.lha
@@ -1557,6 +1560,7 @@ Skipped: BlackCrypt_v2.0_0281.lha
 Skipped: BlackCrypt_v2.1_0281.lha
 Skipped: BlackDawn2_v1.0.lha
 Skipped: BlackDawn6_v1.0.lha
+Skipped: BlackDawnRebirth_v1.0.lha
 Scanned: Black Dawn Rebirth
 Skipped: BlackDawn_v1.0.lha
 Skipped: BlackGold_v1.5_ReLINE.lha
@@ -1570,9 +1574,9 @@ Skipped: BodyBlows_v1.2_AGA_1322.lha
 Skipped: BodyBlows_v1.3_1147.lha
 Skipped: BodyBlows_v1.3_AGA_1322.lha
 Skipped: BodyBlows_v1.3_Fast_1147.lha
-Scanned: Body Blows
-Scanned: Body Blows [AGA]
-Scanned: Body Blows (Fast)
+Skipped: BodyBlows_v2.0_1147.lha
+Skipped: BodyBlows_v2.0_AGA_1322.lha
+Skipped: BodyBlows_v2.0_Fast_1147.lha
 Skipped: BomberBob_v1.0_1628.lha
 Skipped: BomberBob_v1.1_1628.lha
 Skipped: BombFusion_v1.0.lha
@@ -1679,7 +1683,7 @@ Skipped: Carnage_v1.0.lha
 Skipped: CarrierCommand_v1.3_0813.lha
 Skipped: CarrierCommand_v1.3_NoMusic.lha
 Skipped: CarrierCommand_v1.4_0813.lha
-Scanned: Carrier Command
+Skipped: CarrierCommand_v1.5_0813.lha
 Skipped: Carthage_v1.1_2328.lha
 Skipped: Carthage_v1.1_NTSC.lha
 Skipped: Carthage_v1.1_NTSC_2329.lha
@@ -2733,6 +2737,7 @@ Skipped: GemX_v1.5_1181.lha
 Skipped: GemX_v1.6_1181.lha
 Skipped: Genesia_v1.4_1808.lha
 Skipped: Genesia_v1.4_Fr.lha
+Scanned: Germ Crazy (Deutsch)
 Skipped: Gettysburg_v1.0_1937.lha
 Skipped: GhostBattle_v1.2.lha
 Skipped: Ghostbusters2_v1.4.1_1029.lha
@@ -3096,7 +3101,7 @@ Skipped: Invasion_v1.0.lha
 Skipped: Invest_v1.2_De_1Disk.lha
 Skipped: Invest_v1.2_De_2Disk.lha
 Skipped: InviyyaDemo_v1.0.lha
-Scanned: Inviyya Demo
+Skipped: InviyyaDemo_v1.1.lha
 Skipped: IPlay3DSoccer_v1.01_2104.lha
 Skipped: IronLord_v1.11_1650.lha
 Skipped: IronLord_v1.11_De_1530.lha
@@ -3219,6 +3224,7 @@ Skipped: Jug_v1.0.lha
 Skipped: JumpingJackSon_v1.41_1040.lha
 Skipped: JumpingJackSon_v2.0_1040.lha
 Skipped: Knightmare_v2.0_0966.lha
+Scanned: Knightmare
 Skipped: KnightOrc_v1.0_0215.lha
 Skipped: KnightsOfTheCrystallion_v1.51_1160.lha
 Skipped: KnightsOfTheCrystallion_v1.51_De_1426.lha
@@ -3365,6 +3371,8 @@ Skipped: LostPatrol_v1.3_0773.lha
 Skipped: LostPatrol_v1.3_NTSC_0498.lha
 Skipped: LostPatrol_v2.0_0773.lha
 Skipped: LostPatrol_v2.0_NTSC_0498.lha
+Scanned: Lost Patrol
+Scanned: Lost Patrol (NTSC)
 Skipped: LostVikingsDemo_v2.0.lha
 Skipped: LostVikingsDemo_v2.0_Fr.lha
 Skipped: LostVikings_v2.0_2235.lha
@@ -3374,20 +3382,6 @@ Skipped: LostVikings_v2.0_Fr_2236.lha
 Skipped: LotharMatthaeusSuperSoccer_v1.0_De_1728.lha
 Skipped: LotharMatthausDieInteraktiveFussballsimulation_v1.1.lha
 Skipped: Lotus2_v1.11_0497.lha
-Skipped: Lotus3_v1.6_0217.lha
-Skipped: Lotus_v1.1_0774.lha
-Skipped: Lotus_v1.1_CD32.lha
-Skipped: LunarC_v1.0b_CD32.lha
-Skipped: LupoAlberto_v1.01.lha
-Skipped: LureOfTheTemptress_v1.4.lha
-Skipped: LureOfTheTemptress_v1.4_De.lha
-Skipped: LureOfTheTemptress_v1.4_Fr_2040.lha
-Skipped: LureOfTheTemptress_v1.4_It_2028.lha
-Skipped: LureOfTheTemptress_v2.0_2030.lha
-Skipped: LureOfTheTemptress_v2.0_De.lha
-Skipped: LureOfTheTemptress_v2.0_Fr_2040.lha
-Skipped: LureOfTheTemptress_v2.0_It_2028.lha
-Skipped: Luxor_v1.0.lha
 Skipped: LabyrintheAuxMilleCalculs_v1.0_Fr.lha
 Skipped: LabyrintheDAnglomania1_v1.0_Fr.lha
 Skipped: LabyrintheDAnglomania2_v1.0_Fr_2584.lha
@@ -3465,6 +3459,7 @@ Skipped: LittleComputerPeople_v1.2_NTSC_0912.lha
 Skipped: LombardRACRally_v1.1_2Disk_1098.lha
 Skipped: Loom_v2.0_Fr.lha
 Skipped: LosTemplosSagrados_v1.0_Es.lha
+Skipped: Lotus3_v1.6_0217.lha
 Skipped: LegionsOfDawn_v1.0.lha
 Skipped: Legion_v1.0_Pl.lha
 Skipped: LeisureSuitLarry2_v1.2_0193.lha
@@ -3582,10 +3577,10 @@ Skipped: LordsOfWar_v1.1.lha
 Skipped: Lorna_v1.0a.lha
 Skipped: Lorna_v1.1.lha
 Skipped: LostDutchmanMine_v2.0.lha
-Scanned: Lombard RA CRally (1 Disk)
-Scanned: Lombard RA CRally (1 Disk) (Deutsch)
-Scanned: Lombard RAC Rally (2 Disk)
-Scanned: Lombard RA CRally (2 Disk) (Deutsch)
+Skipped: LombardRACRally_v2.0_1Disk_1144.lha
+Skipped: LombardRACRally_v2.0_1Disk_De_1928.lha
+Skipped: LombardRACRally_v2.0_2Disk_1098.lha
+Skipped: LombardRACRally_v2.0_2Disk_De.lha
 Skipped: Loom_v2.0-B_0618.lha
 Skipped: Loom_v2.0-B_De_0075.lha
 Skipped: Loom_v2.0-B_Es.lha
@@ -3600,6 +3595,19 @@ Skipped: Loom_v2.0-C_It.lha
 Skipped: Loom_v2.0_0618.lha
 Skipped: Loom_v2.0_De_0075.lha
 Skipped: Loom_v2.0_Es.lha
+Skipped: Lotus_v1.1_0774.lha
+Skipped: Lotus_v1.1_CD32.lha
+Skipped: LunarC_v1.0b_CD32.lha
+Skipped: LupoAlberto_v1.01.lha
+Skipped: LureOfTheTemptress_v1.4.lha
+Skipped: LureOfTheTemptress_v1.4_De.lha
+Skipped: LureOfTheTemptress_v1.4_Fr_2040.lha
+Skipped: LureOfTheTemptress_v1.4_It_2028.lha
+Skipped: LureOfTheTemptress_v2.0_2030.lha
+Skipped: LureOfTheTemptress_v2.0_De.lha
+Skipped: LureOfTheTemptress_v2.0_Fr_2040.lha
+Skipped: LureOfTheTemptress_v2.0_It_2028.lha
+Skipped: Luxor_v1.0.lha
 Skipped: MultiPlayerSoccerManager_v1.0.lha
 Skipped: Munsters_v1.1_1265.lha
 Skipped: Munsters_v1.2a_1265.lha
@@ -4080,6 +4088,8 @@ Skipped: Puggsy_v1.0_1113.lha
 Skipped: Puggsy_v2.0_1113.lha
 Skipped: PulsatorDemo_v1.1_AGA.lha
 Skipped: PurpleSaturnDay_v1.1_0562.lha
+Scanned: Purple Saturn Day
+Scanned: Purple Saturn Day (NTSC)
 Skipped: PushOver_v1.23_1267.lha
 Skipped: PuttySquadDemo_v1.0_AGA.lha
 Skipped: PuttySquad_v1.0_AGA.lha
@@ -4275,7 +4285,7 @@ Skipped: Powerplay_v1.1_Fr.lha
 Skipped: Powerplay_v1.1_Gr.lha
 Skipped: Powerstyx_v1.1.lha
 Skipped: POW_v1.1.lha
-Scanned: P.O.W
+Skipped: POW_v1.2_0080.lha
 Skipped: PPHammer_v2.1_2036.lha
 Skipped: PrawoKrwi_v1.0_AGA_Pl.lha
 Skipped: PrawoKrwi_v2.0_AGA_Pl.lha
@@ -4316,10 +4326,10 @@ Skipped: Prince_v1.01_1729.lha
 Skipped: Prince_v1.0_1729.lha
 Skipped: Prison_v1.0_0416.lha
 Skipped: Prison_v1.0_NTSC.lha
-Scanned: Prison
-Scanned: Prison (NTSC)
+Skipped: Prison_v2.0_0416.lha
+Skipped: Prison_v2.0_NTSC.lha
 Skipped: ProBoxingSimulator_v1.1_1663.lha
-Scanned: Pro Boxing Simulator
+Skipped: ProBoxingSimulator_v1.2_1663.lha
 Skipped: Profezia_v1.0_It_2375.lha
 Skipped: ProjectXBonusLevel_v1.0.lha
 Skipped: ProjectXSE_v1.5_0927.lha
@@ -4425,7 +4435,7 @@ Skipped: Rubicon_v2.1_0573.lha
 Skipped: Ruesselsheim_v1.0_AGA_De_2215.lha
 Skipped: RaceDrivin_v0601.1.lha
 Skipped: RaceDrivin_v0601.1_NoIntro.lha
-Scanned: Race Drivin'
+Skipped: RaceDrivin_v2.01.lha
 Skipped: RackneysIsland_v1.0.lha
 Skipped: RackneysIsland_v1.1.lha
 Skipped: Racter_v1.0.lha
@@ -4479,7 +4489,7 @@ Skipped: Renegade3_v1.0b.lha
 Skipped: Renegades_v1.0.lha
 Skipped: Renegade_v1.2.lha
 Skipped: Resolution101_v1.0.lha
-Scanned: Star Wars - Return Of The Jedi
+Skipped: ReturnOfTheJedi_v2.0_2152.lha
 Skipped: ReturnToAtlantis_v1.0_0717.lha
 Skipped: ReturnToGenesis_v1.0.lha
 Skipped: Reunion_v1.2.lha
@@ -4585,7 +4595,7 @@ Skipped: Roboter_v1.0_De.lha
 Skipped: Robotnic_v1.0_2161.lha
 Skipped: Switchblade2_v1.3_1725.lha
 Skipped: Switchblade2_v1.4_1725.lha
-Scanned: Switchblade II
+Skipped: Switchblade2_v1.5_1725.lha
 Skipped: Switchblade_v1.3_1101.lha
 Skipped: SWIV_v1.7_0038.lha
 Skipped: Swooper_v1.0.lha
@@ -5246,7 +5256,7 @@ Skipped: TeenageQueen_v1.1_0225.lha
 Skipped: Teller_v1.2_Fr.lha
 Skipped: TempleOfApshaiTrilogy_v1.0.lha
 Skipped: TempleOfEnlightenedSouls_v1.0.lha
-Scanned: Temple Of Enlightened Souls
+Skipped: TempleOfTheEnlightenedSouls_v1.1.lha
 Skipped: TemplosSagrados_v1.0_Es.lha
 Skipped: TennisChamps_v1.0.lha
 Skipped: TennisCup2_v1.0_0738.lha
@@ -5620,7 +5630,7 @@ Skipped: Vixen_v1.3_0993.lha
 Skipped: Viz_v1.0.lha
 Skipped: Volfied_v1.2_1418.lha
 Skipped: VoodooNightmare_v1.1_2556.lha
-Scanned: Voodoo Nightmare
+Skipped: VoodooNightmare_v2.0_2556.lha
 Skipped: Vortex_v1.0_NTSC_1412.lha
 Skipped: VoyageAuCentreDeLaTerre_v1.0_Fr.lha
 Skipped: Voyager_v1.0_0228.lha

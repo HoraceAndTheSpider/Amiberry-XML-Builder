@@ -1,4 +1,4 @@
-Scanned file log: 2021-05-26 at 03:00:06
+Scanned file log: 2021-05-28 at 03:00:05
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -1143,7 +1143,7 @@ Skipped: AstroMarineCorps_v1.2.lha
 Skipped: Atax_v1.0_0950.lha
 Skipped: Atlantyda_v1.1_Pl.lha
 Skipped: AtomicRoboKid_v1.4_2243.lha
-Scanned: Atomic Robo-Kid
+Skipped: AtomicRoboKid_v1.5_2243.lha
 Skipped: Atomino_v1.11_0632.lha
 Skipped: Atomino_v1.11_De.lha
 Skipped: Atomino_v1.11_NTSC_1972.lha
@@ -1366,6 +1366,8 @@ Skipped: Battletoads_v1.2_1816.lha
 Skipped: Battletoads_v1.2_CD32.lha
 Skipped: Battletoads_v1.3_1816.lha
 Skipped: Battletoads_v1.3_CD32.lha
+Scanned: Battletoads
+Scanned: Battletoads [CD32]
 Skipped: BattleValley_v1.0_1724.lha
 Skipped: BAT_v1.3b_2072.lha
 Skipped: BAT_v1.3b_De_2197.lha
@@ -2159,6 +2161,7 @@ Skipped: DifensoreDellaCorona2_v1.2_CD32_It.lha
 Skipped: Diggers_v1.0_AGA_1172.lha
 Skipped: Diggers_v1.0_CD32.lha
 Skipped: DimosQuest_v1.1a_1216.lha
+Scanned: Dimo's Quest
 Skipped: DinosaurDetectiveAgency_v1.0_2617.lha
 Skipped: DinoWars_v1.1.lha
 Skipped: DinoWars_v1.1_De.lha
@@ -2835,6 +2838,7 @@ Skipped: GamesWinterEdition_v1.0.lha
 Skipped: Ganymed_v1.1.lha
 Skipped: GarfieldAWintersTail_v1.0.lha
 Skipped: GarfieldBigFatHairyDeal_v1.0_0933.lha
+Scanned: Garfield - Big, Fat, Hairy Deal
 Skipped: Garrison2_v1.0_0610.lha
 Skipped: Garrison2_v1.1_0610.lha
 Skipped: Garrison_v1.0_0800.lha
@@ -2936,9 +2940,11 @@ Skipped: HellRaisers_v1.0.lha
 Skipped: HellrunMachine_v1.0.lha
 Skipped: HelterSkelter_v1.3_2071.lha
 Skipped: HeroesOfTheLance_v1.01_0778.lha
+Scanned: HeroQuest (& Return Of The Witch Lord)
 Skipped: HeroQuest&ReturnOfTheWitchLord_v1.3_0127&0508.lha
 Skipped: HeroQuest2_v1.0_1455.lha
 Skipped: HeroQuest2_v1.1_1455.lha
+Scanned: HeroQuest
 Skipped: HeroQuest_v1.3_0127.lha
 Skipped: HerosQuest_v1.4b_0795.lha
 Skipped: Hexuma_v1.0_De_0684.lha
@@ -3074,7 +3080,7 @@ Skipped: InnocentUntilCaught_v1.02_It.lha
 Skipped: InsanityFight_v1.2.lha
 Skipped: InsectorHectiInTheInterChange_v1.0.lha
 Skipped: InsectsInSpace_v1.1.lha
-Scanned: Insects In Space
+Skipped: InsectsInSpace_v1.2_0829.lha
 Skipped: Intact_v1.0_15MB.lha
 Skipped: Intact_v1.0_1MB.lha
 Skipped: Intact_v1.0_512KB.lha
@@ -5863,6 +5869,7 @@ Skipped: Zoom_v1.0a_1910.lha
 Skipped: ZOut_v3.4_0609.lha
 Skipped: ZOut_v3.5_0609.lha
 Skipped: Zyconix_v1.0.lha
+Scanned: Zyconix
 Skipped: Zynaps_v1.0_0879.lha
 Skipped: ZakMcKracken_v1.2_0965.lha
 Skipped: ZakMcKracken_v1.2_De_0413.lha
@@ -5915,7 +5922,7 @@ Skipped: Liberation_v1.0_CD32.lha
 Skipped: LostTreasuresOfInfocom_v1.0.lha
 Skipped: MagicPockets_v3.0_NTSC.lha
 Skipped: MegaBlock2_v1.0.lha
-Scanned: Metal Gear
+Skipped: MetalGear_v1.0.lha
 Skipped: MoebiusGoatlizard_v0.1.lha
 Skipped: MonkeyBusiness_v1.0.lha
 Skipped: MrMenOlympics_v1.1.lha

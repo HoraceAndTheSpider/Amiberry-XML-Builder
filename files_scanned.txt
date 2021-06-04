@@ -1,4 +1,4 @@
-Scanned file log: 2021-06-02 at 03:00:06
+Scanned file log: 2021-06-04 at 03:00:06
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -1927,7 +1927,7 @@ Skipped: CrazySueGoesOn_v1.1.lha
 Skipped: CrazySue_v1.1.lha
 Skipped: Creatures_v1.1.lha
 Skipped: Creature_v1.1_0846.lha
-Scanned: Creature
+Skipped: Creature_v1.2_0846.lha
 Skipped: CrimeCity_v1.01.lha
 Skipped: CrimeCity_v1.01_De.lha
 Skipped: CrimeDoesNotPay_v1.0_0364.lha
@@ -4009,7 +4009,7 @@ Skipped: OutRunEuropa_v1.3.lha
 Skipped: Oath_v1.1.lha
 Skipped: Obitus_v1.2.lha
 Skipped: Obitus_v1.3.lha
-Scanned: Obitus
+Skipped: Obitus_v1.4.lha
 Skipped: Obliterator_v1.2_0706.lha
 Skipped: Obliterator_v1.3_0706.lha
 Skipped: Oblivion_v1.0.lha
@@ -4760,7 +4760,7 @@ Skipped: ShufflepuckCafe_v1.1_Fr_2416.lha
 Skipped: Shuttle_v0.9_1906.lha
 Skipped: SideArms_v1.01_1073.lha
 Skipped: SideShow_v1.1_0779.lha
-Scanned: Sideshow
+Skipped: SideShow_v1.2_0779.lha
 Skipped: SideWinder2_v1.0_1561.lha
 Skipped: SideWinder_v0.1_Arcadia.lha
 Skipped: SideWinder_v1.2.lha
@@ -6456,6 +6456,7 @@ Skipped: CavernsPalle-WHDL.lha
 Skipped: CaveRunner2-WHDL.lha
 Skipped: Centerbase-WHDL.lha
 Skipped: CenterCourt1-WHDL.lha
+Scanned: Center Court 197
 Skipped: CenterCourt2-WHDL.lha
 Skipped: CenterCourt2AGA-WHDL.lha
 Skipped: CenterCourt97-WHDL.lha

@@ -1,4 +1,4 @@
-Scanned file log: 2021-06-09 at 03:00:06
+Scanned file log: 2021-06-11 at 03:00:07
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -6220,7 +6220,7 @@ Skipped: Bill-WHDL.lha
 Skipped: BillardABC-WHDL.lha
 Skipped: BilliardsSimulator1FR-WHDL.lha
 Skipped: BilliardsSimulator2-WHDL.lha
-Scanned: Billy Kid FR-NV
+Skipped: BillyKidFR-WHDL.lha
 Skipped: Biojet-WHDL.lha
 Skipped: BirdieDemo-WHDL.lha
 Skipped: BlackDawn2-WHDL.lha
@@ -6638,6 +6638,7 @@ Skipped: SuddenDeath-WHDL.lha
 Skipped: DangerDoggSE-WHDL.lha
 Skipped: DangerMouse-WHDL.lha
 Skipped: DanWilderPL-WHDL.lha
+Scanned: Dark Angel
 Skipped: DarkAngelDemo-WHDL.lha
 Skipped: DarkCitadel-WHDL.lha
 Skipped: DarkConquest-WHDL.lha

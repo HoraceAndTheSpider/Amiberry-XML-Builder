@@ -21,6 +21,7 @@ RiseOftheRobots
 Settlers
 SettlersFr
 SoccerKidAGA
+Speedball2CD32
 SuperSkidmarksCD32
 SuperSkidmarksLowMemCD32
 UFOEnemyUnknownAGA

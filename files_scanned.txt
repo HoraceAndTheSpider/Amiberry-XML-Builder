@@ -1,4 +1,4 @@
-Scanned file log: 2021-06-16 at 03:00:05
+Scanned file log: 2021-06-18 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -6875,6 +6875,7 @@ Skipped: FlatMates-WHDL.lha
 Skipped: FlatmatesAGA-WHDL.lha
 Skipped: FlatmatesFRAGA-WHDL.lha
 Skipped: Fleet-WHDL.lha
+Scanned: Flighty Fox
 Skipped: Floaty-WHDL.lha
 Skipped: Flob-WHDL.lha
 Skipped: FloppyBird-WHDL.lha
@@ -8691,7 +8692,7 @@ Skipped: TrickOrTreat-WHDL.lha
 Skipped: TrifleAGA-WHDL.lha
 Skipped: TrioDE-WHDL.lha
 Skipped: Tritus-WHDL.lha
-Scanned: Trivial Pursuit Language
+Skipped: TrivialPursuitLanguage-WHDL.lha
 Skipped: Triz-WHDL.lha
 Skipped: Tron5000-WHDL.lha
 Skipped: Tron95-WHDL.lha

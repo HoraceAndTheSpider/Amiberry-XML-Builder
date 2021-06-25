@@ -1,4 +1,4 @@
-Scanned file log: 2021-06-23 at 03:00:04
+Scanned file log: 2021-06-25 at 03:00:05
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -6956,7 +6956,7 @@ Skipped: HelterSkelter1-WHDL.lha
 Skipped: Hemroids-WHDL.lha
 Skipped: Henry5Towers-WHDL.lha
 Skipped: HenryHouse-WHDL.lha
-Scanned: Henry House 8bit-NV
+Skipped: HenryHouse8bit-WHDL.lha
 Skipped: HenryIsland-WHDL.lha
 Skipped: HenryPanic-WHDL.lha
 Skipped: Herman-WHDL.lha

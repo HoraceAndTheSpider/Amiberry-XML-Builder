@@ -1,4 +1,4 @@
-Scanned file log: 2021-06-30 at 03:00:05
+Scanned file log: 2021-07-02 at 03:00:04
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -9010,7 +9010,7 @@ Skipped: ClimbySkiesDemo-WHDL.lha
 Skipped: CocoBananaDemo-WHDL.lha
 Skipped: CocoBananaXmasDemo-WHDL.lha
 Skipped: CrazyColumnsDemo-WHDL.lha
-Scanned: Creeping Out Demo
+Skipped: CreepingOut-WHDL.lha
 Skipped: DeepSilenceDemo-WHDL.lha
 Skipped: EgoWingsDemo-WHDL.lha
 Skipped: EnforcerDemo-WHDL.lha

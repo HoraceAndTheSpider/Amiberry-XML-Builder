@@ -1,4 +1,4 @@
-Scanned file log: 2021-07-07 at 03:00:05
+Scanned file log: 2021-07-09 at 03:00:04
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -2277,7 +2277,7 @@ Skipped: DizzyCollection_v2.0_1348.lha
 Skipped: DizzyDice_v1.0.lha
 Skipped: DizzyPanic_v1.1.lha
 Skipped: DizzyPrinceOfTheYolkfolk_v1.4_1146.lha
-Scanned: Dizzy - Prince Of The Yolkfolk
+Skipped: DizzyPrinceOfTheYolkfolk_v2.0_1146.lha
 Skipped: DizzysExcellentAdventures_v1.0_2502.lha
 Skipped: Dogfight_v1.02_1293.lha
 Skipped: DogsOfWar_v1.3_3008.lha
@@ -3023,6 +3023,7 @@ Skipped: Humans_v1.5_CD32.lha
 Skipped: Humans_v1.6-B_1888.lha
 Skipped: Humans_v1.6-B_De_0509.lha
 Skipped: Humans_v1.6-B_Fr_2666.lha
+Scanned: ISS - Incredible Shrinking Sphere
 Skipped: Italia1990_v1.0_2314.lha
 Skipped: Italy1990WinnersEdition_v1.2_1610.lha
 Skipped: Italy1990_v1.2_1260.lha
@@ -4738,8 +4739,8 @@ Skipped: ShadowOfTheBeast2_v1.3a_NTSC.lha
 Skipped: ShadowOfTheBeast2_v1.4_1359.lha
 Skipped: ShadowOfTheBeast2_v1.4_NTSC.lha
 Skipped: ShadowOfTheBeast3_v1.6_NTSC_1176.lha
-Scanned: Shadow Of The Beast III
-Scanned: Shadow Of The Beast 3 (NTSC)
+Skipped: ShadowOfTheBeast3_v1.7_0016.lha
+Skipped: ShadowOfTheBeast3_v1.7_NTSC_1176.lha
 Skipped: ShadowOfTheBeastDemo_v1.0.lha
 Skipped: ShadowOfTheBeast_v2.2_1357.lha
 Skipped: ShadowOfTheBeast_v2.3_1357.lha
@@ -5085,6 +5086,7 @@ Skipped: Shuffle_v1.0_0724.lha
 Skipped: SilentService2_v2.1b_0949.lha
 Skipped: SimAnt_v1.01a_HiRes_De_0084.lha
 Skipped: SimEarth_v1.0_LoRes_Fr_2645.lha
+Scanned: Simon The Sorcerer (Deutsch)
 Skipped: Sinbad_v1.3_0083.lha
 Skipped: SkautKwatermaster_v1.0_Pl.lha
 Skipped: Skyfox_v1.0_0903.lha
@@ -5142,18 +5144,11 @@ Skipped: SimonTheSorcerer_v1.3_AGA_De_0726.lha
 Skipped: SimonTheSorcerer_v1.3_AGA_Fr_2692.lha
 Skipped: SimonTheSorcerer_v1.3_De_1434.lha
 Skipped: SimonTheSorcerer_v1.3_Fr_2370.lha
-Skipped: Simulcra_v1.1.1.lha
-Skipped: Simulman01_v1.0_It.lha
-Skipped: Simulman02_v1.0_It.lha
-Skipped: Simulman03_v1.0_It.lha
-Skipped: Simulman04_v1.0_It.lha
-Skipped: Simulman05_v1.0_It.lha
-Skipped: Simulman06_v1.0_It.lha
-Skipped: Simulman07_v1.0_It.lha
-Skipped: Simulman08_v1.0_It.lha
-Skipped: Simulman09_v1.0_It.lha
-Skipped: Simulman10_v1.0_It.lha
-Skipped: Simulman11_v1.0_It.lha
+Scanned: Simon The Sorcerer
+Scanned: Simon The Sorcerer [AGA]
+Scanned: Simon The Sorcerer [AGA] (Deutsch)
+Scanned: Simon The Sorcerer [AGA] (Francais)
+Scanned: Simon The Sorcerer [AGA] (Italiano)
 Skipped: SuperStreetFighter2Turbo_v1.1_AGA_0735.lha
 Skipped: SuperStreetFighter2Turbo_v1.1_CD32.lha
 Skipped: SuperStreetFighter2_v1.1_0147.lha
@@ -5226,6 +5221,20 @@ Skipped: ShockWave_v1.0_0723.lha
 Skipped: Shortgrey_v1.1a_Fr_2669.lha
 Skipped: ShufflepuckCafe_v1.1_1143.lha
 Skipped: ShufflepuckCafe_v1.1_Fr_2416.lha
+Scanned: Simon The Sorcerer (Francais)
+Scanned: Simon The Sorcerer (Italiano)
+Skipped: Simulcra_v1.1.1.lha
+Skipped: Simulman01_v1.0_It.lha
+Skipped: Simulman02_v1.0_It.lha
+Skipped: Simulman03_v1.0_It.lha
+Skipped: Simulman04_v1.0_It.lha
+Skipped: Simulman05_v1.0_It.lha
+Skipped: Simulman06_v1.0_It.lha
+Skipped: Simulman07_v1.0_It.lha
+Skipped: Simulman08_v1.0_It.lha
+Skipped: Simulman09_v1.0_It.lha
+Skipped: Simulman10_v1.0_It.lha
+Skipped: Simulman11_v1.0_It.lha
 Skipped: TetrisPro_v1.0.1.lha
 Skipped: Tetris_v1.1_Infogrames.lha
 Skipped: Tetris_v1.1_Mirrorsoft.lha
@@ -6999,6 +7008,7 @@ Skipped: HighNoon-WHDL.lha
 Skipped: HighOctane-WHDL.lha
 Skipped: HighReflection-WHDL.lha
 Skipped: HillClimb-WHDL.lha
+Scanned: Hill Climb FR
 Skipped: HilseaLido-WHDL.lha
 Skipped: HirnissMuller-WHDL.lha
 Skipped: Hirnris-WHDL.lha
@@ -8023,6 +8033,7 @@ Skipped: ReboundDD-WHDL.lha
 Skipped: ReboundScorpius-WHDL.lha
 Skipped: Recoil-WHDL.lha
 Skipped: Rectum-WHDL.lha
+Scanned: Red Mars
 Skipped: Redmars-WHDL.lha
 Skipped: RedMarsFR-WHDL.lha
 Skipped: RedpillPuzzleAGA-WHDL.lha
@@ -8159,6 +8170,7 @@ Skipped: Scrabble2-WHDL.lha
 Skipped: Scramble-WHDL.lha
 Skipped: ScreechAGAdemo-WHDL.lha
 Skipped: ScubaDiverAGA-WHDL.lha
+Scanned: Scuba Diver FRAGA-JIT-NE
 Skipped: ScudBuster-WHDL.lha
 Skipped: Seahaven2000-WHDL.lha
 Skipped: SeaHavenTowers-WHDL.lha
@@ -9050,7 +9062,7 @@ Skipped: PlatformNeesoDemo-WHDL.lha
 Skipped: PlatformNobodyDemo-WHDL.lha
 Skipped: Pong4kDemoCD32-WHDL.lha
 Skipped: ProjectHorizonDemo-WHDL.lha
-Scanned: Project Quest Demo
+Skipped: ProjectQuestDemo-WHDL.lha
 Skipped: PutterDemo-WHDL.lha
 Skipped: QuasaurusXDemo-WHDL.lha
 Skipped: BattlecraftDemo-WHDL.lha

@@ -1,4 +1,4 @@
-Scanned file log: 2021-07-14 at 03:00:04
+Scanned file log: 2021-07-16 at 03:00:04
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -4382,7 +4382,7 @@ Skipped: PlayerManager_v1.03_0171.lha
 Skipped: PlayerManager_v1.03_De_2772.lha
 Skipped: PlayerManager_v1.03_Fr.lha
 Skipped: PlayerManager_v1.03_It_2572.lha
-Scanned: Playhouse Strip Poker
+Skipped: PlayhouseStripPoker_v1.0.lha
 Skipped: Playroom_v1.0_Fr.lha
 Skipped: Plotting_v1.3_1844.lha
 Skipped: Plutos_v1.1_0994.lha
@@ -4616,6 +4616,7 @@ Skipped: Robotnic_v1.0_2161.lha
 Skipped: Switchblade2_v1.3_1725.lha
 Skipped: Switchblade2_v1.4_1725.lha
 Skipped: Switchblade2_v1.5_1725.lha
+Scanned: Switchblade II
 Skipped: Switchblade_v1.3_1101.lha
 Skipped: SWIV_v1.7_0038.lha
 Skipped: Swooper_v1.0.lha
@@ -5974,6 +5975,7 @@ Skipped: Snakes_v0.9.lha
 Skipped: StoriaAncestrale_v0.9g.lha
 Skipped: StuntCarRacerTNT_v1.4_BETA.lha
 Skipped: StuntCarRacer_v1.4_BETA_0222.lha
+Scanned: Super Cars 2 [AGA]
 Skipped: SuperGemZ_v1.0.lha
 Skipped: SuperHangOn_v1.5_Hack_by_Earok.lha
 Skipped: SuperMonacoGP_v1.2_BETA.lha

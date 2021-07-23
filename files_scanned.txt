@@ -1,4 +1,4 @@
-Scanned file log: 2021-07-21 at 03:00:05
+Scanned file log: 2021-07-23 at 03:00:05
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -2520,8 +2520,8 @@ Skipped: FirstContact_v1.1_0923.lha
 Skipped: FirstSamurai_v1.6_1182.lha
 Skipped: FirstSamurai_v2.0_1182.lha
 Skipped: FirstSamurai_v2.0_A1200Version_NONAGA.lha
-Scanned: First Samurai
-Scanned: First Samurai A 1200 Version
+Skipped: FirstSamurai_v2.1_1182.lha
+Skipped: FirstSamurai_v2.1_A1200Version_NONAGA.lha
 Skipped: Fish_v1.0_0271.lha
 Skipped: FistFighter_v1.0.lha
 Skipped: FiveASideSoccer_v1.2.lha
@@ -4672,7 +4672,7 @@ Skipped: Scorpion_v1.3_2615.lha
 Skipped: Scrabble_v1.0.lha
 Skipped: ScrambleSpirits_v1.0_1955.lha
 Skipped: ScrollingWalls_v1.0.lha
-Scanned: Scuba Diver [AGA]
+Skipped: ScubaDiver_v1.0_AGA.lha
 Skipped: SDI_v1.0_Cinemaware_1266.lha
 Skipped: SDI_v1.0_Cinemaware_NTSC_1266.lha
 Skipped: SecondSamurai_v1.1_0721.lha
@@ -6627,6 +6627,7 @@ Skipped: CyberBlast2-WHDL.lha
 Skipped: CyberdroidECSAGA-WHDL.lha
 Skipped: CyberKickPL-WHDL.lha
 Skipped: CyberMan-WHDL.lha
+Scanned: Cyber Man Spruijt
 Skipped: Cybernauts-WHDL.lha
 Skipped: CyberRaceDemo-WHDL.lha
 Skipped: Cybersphere-WHDL.lha
@@ -7251,6 +7252,7 @@ Skipped: Joust-WHDL.lha
 Skipped: JPSpider-WHDL.lha
 Skipped: JU52FlightSim-WHDL.lha
 Skipped: JumpBesiJump-WHDL.lha
+Scanned: Jump Block Jump
 Skipped: JumpEm-WHDL.lha
 Skipped: GloomDICFTDECSAGA-WHDL.lha
 Skipped: GoPlayerFR-M3-WHDL.lha
@@ -8086,6 +8088,7 @@ Skipped: Revolver-WHDL.lha
 Skipped: RickyDangerous-WHDL.lha
 Skipped: Ricochet2-WHDL.lha
 Skipped: RightWay-WHDL.lha
+Scanned: Rings Zon 3
 Skipped: RingWorm-WHDL.lha
 Skipped: RiseOfTheRobotsSECD32-WHDL.lha
 Skipped: RiseRabbits1AGA-WHDL.lha
@@ -8358,6 +8361,7 @@ Skipped: SoeldnerDE-WHDL.lha
 Skipped: SoftwareManagerDE-WHDL.lha
 Skipped: Soko-WHDL.lha
 Skipped: Sokoban-WHDL.lha
+Scanned: Sokoban 84
 Skipped: SokomondDE-WHDL.lha
 Skipped: SolarSystemVoidBlast-WHDL.lha
 Skipped: SoleDefender-WHDL.lha
@@ -8455,6 +8459,7 @@ Skipped: Starbase132Epsilon9-WHDL.lha
 Skipped: Starboy-WHDL.lha
 Skipped: StarBuster-WHDL.lha
 Skipped: StarbyteSuperSoccerDE-WHDL.lha
+Scanned: Star Chess DE
 Skipped: StarDefender-WHDL.lha
 Skipped: StarPlop-WHDL.lha
 Skipped: Starrwoids-WHDL.lha
@@ -8632,7 +8637,7 @@ Skipped: TenaBlaster-WHDL.lha
 Skipped: TennisDreke-WHDL.lha
 Skipped: TeoPL-WHDL.lha
 Skipped: TeresaAGA-WHDL.lha
-Scanned: Teserae-clavier
+Skipped: Teserae-WHDL.lha
 Skipped: Testament2AGA-WHDL.lha
 Skipped: TestMatchCricket-WHDL.lha
 Skipped: Tetracopy-WHDL.lha
@@ -9048,7 +9053,7 @@ Skipped: CocoBananaDemo-WHDL.lha
 Skipped: CocoBananaXmasDemo-WHDL.lha
 Skipped: CrazyColumnsDemo-WHDL.lha
 Skipped: CreepingOut-WHDL.lha
-Scanned: Creeping Out Demo
+Skipped: CreepingOutDemo-WHDL.lha
 Skipped: DeepSilenceDemo-WHDL.lha
 Skipped: EgoWingsDemo-WHDL.lha
 Skipped: EnforcerDemo-WHDL.lha

@@ -1,4 +1,4 @@
-Scanned file log: 2021-08-04 at 03:00:03
+Scanned file log: 2021-08-06 at 03:00:04
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -1419,8 +1419,8 @@ Skipped: BlackViper_v1.1_CD32.lha
 Skipped: BladesOfSteel_v1.0.lha
 Skipped: BladeWarrior_v1.3_2201.lha
 Skipped: BladeWarrior_v2.0_2201.lha
-Scanned: Blade
-Scanned: Blade [AGA]
+Skipped: Blade_v1.0_1801.lha
+Skipped: Blade_v1.0_AGA_1801.lha
 Skipped: BlastaBall_v0.1_Arcadia.lha
 Skipped: Blastar_v2.1.lha
 Skipped: Blastar_v3.0_2814.lha
@@ -2001,9 +2001,9 @@ Skipped: Cedric_v2.2.lha
 Skipped: Cedric_v2.2_CD32.lha
 Skipped: CelticLegends_v1.4_1281.lha
 Skipped: CenterCourt2_v1.0_AGA.lha
-Scanned: Center Court 2 [AGA]
-Scanned: Center Court
-Scanned: Center Court [AGA]
+Skipped: CenterCourt2_v1.1_AGA.lha
+Skipped: CenterCourt_v1.0_2765.lha
+Skipped: CenterCourt_v1.0_AGA_2765.lha
 Skipped: CentrefoldSquares_v1.0_0467.lha
 Skipped: Driller_v1.0_2256.lha
 Skipped: Drip_v1.0.lha
@@ -3278,7 +3278,7 @@ Skipped: KalasPuffsExpressen_v1.1_Se_1MB.lha
 Skipped: KalasPuffsExpressen_v1.1_Se_512KB.lha
 Skipped: Kamikaze_v1.0_1573.lha
 Skipped: KarateKid2_v1.1.lha
-Scanned: Karate Kid Part II
+Skipped: KarateKid2_v1.2.lha
 Skipped: KarateKing&CityDefence_v1.1.lha
 Skipped: KartingGrandPrix_v1.0_0517.lha
 Skipped: Katakis_v1.2_1Disk_1273.lha
@@ -3645,7 +3645,7 @@ Skipped: MurdersInSpace_v1.3a_Image_2344.lha
 Skipped: MurdersInSpace_v1.3_Files_2344.lha
 Skipped: MurdersInSpace_v1.3_Image_2344.lha
 Skipped: Murder_v1.4_0136.lha
-Scanned: Mutant League Hockey [AGA]
+Skipped: MutantLeagueHockey_v1.0_AGA.lha
 Skipped: MysteriousWorlds_v1.05_1588.lha
 Skipped: MysteryOfTheMummy_v1.0.lha
 Skipped: Mystical_v1.2_0541.lha
@@ -3778,7 +3778,7 @@ Skipped: Mercenary3_v1.2_0356.lha
 Skipped: Mercenary_v1.2_0955.lha
 Skipped: Mercs_v1.1_1668.lha
 Skipped: MervTheMerciless_v1.0.lha
-Scanned: Metal Gear
+Skipped: MetalGear_v1.1.lha
 Skipped: MetalLaw_v1.0.lha
 Skipped: MetalLaw_v2.0.lha
 Skipped: MetalMasters_v1.0_0534.lha
@@ -7812,8 +7812,8 @@ Skipped: Pollymorf-WHDL.lha
 Skipped: PoltergeistPL-WHDL.lha
 Skipped: PomPomGunner-WHDL.lha
 Skipped: Pong4-WHDL.lha
-Scanned: Pong 4a
-Scanned: Pong 4b
+Skipped: Pong4a-WHDL.lha
+Skipped: Pong4b-WHDL.lha
 Skipped: Pong4KAGA-WHDL.lha
 Skipped: Pong4KCD32-WHDL.lha
 Skipped: Pong91-WHDL.lha

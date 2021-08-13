@@ -1,4 +1,4 @@
-Scanned file log: 2021-08-11 at 03:00:04
+Scanned file log: 2021-08-13 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -2130,7 +2130,7 @@ Skipped: Deliverance_v1.5_1500.lha
 Skipped: Deliverance_v2.0_1500.lha
 Skipped: Deliverance_v2.0_512k_1500.lha
 Skipped: DeltaCommand_v0.2_Arcadia.lha
-Scanned: Delta Command (Arcadia)
+Skipped: DeltaCommand_v1.0_Arcadia.lha
 Skipped: DeluxeGalaga_v1.1.lha
 Skipped: DeluxeGalaga_v1.1_AGA.lha
 Skipped: DeluxeGalaga_v1.2.lha
@@ -3960,8 +3960,8 @@ Skipped: Neuronics_v1.0.lha
 Skipped: NeverEndingStory2_v1.4.lha
 Skipped: NeverMind_v1.0_1507.lha
 Skipped: NewYorkWarriors_v1.4_512KB_0705.lha
-Scanned: New York Warriors (1MB)
-Scanned: New York Warriors (512Kb)
+Skipped: NewYorkWarriors_v1.5_1MB.lha
+Skipped: NewYorkWarriors_v1.5_512k_0705.lha
 Skipped: NewZealandStoryDemo_v1.0.lha
 Skipped: NewZealandStory_v2.1_1180.lha
 Skipped: NewZealandStory_v2.21_1180.lha
@@ -6283,8 +6283,8 @@ Skipped: BlackKnight-WHDL.lha
 Skipped: BlackMagic-WHDL.lha
 Skipped: Blade-WHDL.lha
 Skipped: BladeAGA-WHDL.lha
-Scanned: Blade [AGA] FR
-Scanned: Blade FR
+Skipped: BladeAGAFR-WHDL.lha
+Skipped: BladeFR-WHDL.lha
 Skipped: BlainHome-WHDL.lha
 Skipped: BlakeStoneAliens-WHDL.lha
 Skipped: Blasted-WHDL.lha
@@ -7726,7 +7726,7 @@ Skipped: Oubliette-WHDL.lha
 Skipped: Ouch-WHDL.lha
 Skipped: OuterimDemo-WHDL.lha
 Skipped: Outfall-WHDL.lha
-Scanned: Outliner [AGA]
+Skipped: OutlinerAGA-WHDL.lha
 Skipped: OutpostFinalBattle-WHDL.lha
 Skipped: OutpostSoloAssault-WHDL.lha
 Skipped: Overdose-WHDL.lha
@@ -8153,7 +8153,7 @@ Skipped: Rooster2PL-WHDL.lha
 Skipped: Roper-WHDL.lha
 Skipped: Rotator-WHDL.lha
 Skipped: Rothello-WHDL.lha
-Scanned: Roton
+Skipped: Roton-WHDL.lha
 Skipped: Rotoplex-WHDL.lha
 Skipped: Roulette98-WHDL.lha
 Skipped: RouletteCalibra-WHDL.lha
@@ -8292,11 +8292,11 @@ Skipped: SilverEagle-WHDL.lha
 Skipped: Silverman-WHDL.lha
 Skipped: SilvermanSP-WHDL.lha
 Skipped: SimBlind-WHDL.lha
-Scanned: Sim City 122
+Skipped: SimCity122-WHDL.lha
 Skipped: SimCity13-WHDL.lha
 Skipped: SimCity2000AGA-WHDL.lha
 Skipped: SimCity2000AGADE-WHDL.lha
-Scanned: Sim City [CDTV]FR
+Skipped: SimCityCDTVFR-WHDL.lha
 Skipped: SimLifeFR-WHDL.lha
 Skipped: DieOdysseeDE-WHDL.lha
 Skipped: Digit-WHDL.lha
@@ -8441,7 +8441,7 @@ Skipped: SpadeInvaders-WHDL.lha
 Skipped: Spades-WHDL.lha
 Skipped: SpatialHyperdrive-WHDL.lha
 Skipped: Spectra-WHDL.lha
-Scanned: Spectrum Scorpius
+Skipped: SpectrumScorpius-WHDL.lha
 Skipped: SpeedAGAdemo-WHDL.lha
 Skipped: SpeedBallDillon-WHDL.lha
 Skipped: SpeedBreak-WHDL.lha

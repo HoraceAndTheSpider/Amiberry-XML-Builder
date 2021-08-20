@@ -1,4 +1,4 @@
-Scanned file log: 2021-08-18 at 03:00:05
+Scanned file log: 2021-08-20 at 03:00:05
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -8932,7 +8932,7 @@ Skipped: WizardWarsDemo-WHDL.lha
 Skipped: WizardWorld-WHDL.lha
 Skipped: Wizio1-WHDL.lha
 Skipped: WizzyQuest-WHDL.lha
-Scanned: Wobbler
+Skipped: Wobbler-WHDL.lha
 Skipped: WolfPacAGA-WHDL.lha
 Skipped: Wonderland-WHDL.lha
 Skipped: WoodenBall-WHDL.lha

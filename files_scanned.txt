@@ -1,4 +1,4 @@
-Scanned file log: 2021-08-25 at 03:00:04
+Scanned file log: 2021-08-27 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -6604,7 +6604,7 @@ Skipped: Crave-WHDL.lha
 Skipped: Crazy8AGA-WHDL.lha
 Skipped: CrazyBallsDE-WHDL.lha
 Skipped: CrazyChallenge-WHDL.lha
-Scanned: Crazy Columns-NV-NC
+Skipped: CrazyColumns-WHDL.lha
 Skipped: CrazyCones-WHDL.lha
 Skipped: CrazyPipe-WHDL.lha
 Skipped: CrazyPriest-WHDL.lha
@@ -8643,7 +8643,7 @@ Skipped: Targis-WHDL.lha
 Skipped: Targis93-WHDL.lha
 Skipped: Tasar-WHDL.lha
 Skipped: TaskForce-WHDL.lha
-Scanned: Task Force FR
+Skipped: TaskForceFR-WHDL.lha
 Skipped: TaskForceGranseuer-WHDL.lha
 Skipped: Taxi-WHDL.lha
 Skipped: TeamManager-WHDL.lha

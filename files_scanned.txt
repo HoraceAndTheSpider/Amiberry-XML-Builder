@@ -1,4 +1,4 @@
-Scanned file log: 2021-09-01 at 03:00:04
+Scanned file log: 2021-09-03 at 03:00:04
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -8533,6 +8533,7 @@ Skipped: StripPoker2data4-WHDL.lha
 Skipped: StripPokerLiveCDTV-WHDL.lha
 Skipped: Struggle-WHDL.lha
 Skipped: StThomasDE-WHDL.lha
+Scanned: St Thomas FR
 Skipped: Subattack-WHDL.lha
 Skipped: SubRally-WHDL.lha
 Skipped: SubVersion-WHDL.lha
@@ -9101,7 +9102,7 @@ Skipped: HeroesGorluthDemo-WHDL.lha
 Skipped: HighwaySprintDemo-WHDL.lha
 Skipped: HyboriaAGADemoEarly-WHDL.lha
 Skipped: InviyyaDemo-WHDL.lha
-Scanned: Jackal Demo
+Skipped: JackalDemo-WHDL.lha
 Skipped: KCMdemo-WHDL.lha
 Skipped: KungFuMasterDemo-WHDL.lha
 Skipped: LegacyDemo-WHDL.lha

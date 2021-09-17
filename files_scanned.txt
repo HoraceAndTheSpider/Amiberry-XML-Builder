@@ -1,4 +1,4 @@
-Scanned file log: 2021-09-15 at 03:00:04
+Scanned file log: 2021-09-17 at 03:00:04
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -5982,7 +5982,7 @@ Skipped: NinjaGaiden2_v0.1_BETA.lha
 Skipped: Outlands&DizzyDice_v0.8_BETA.lha
 Skipped: Outlands&DizzyDice_v1.0_BETA.lha
 Skipped: Outlands_v1.0_BETA.lha
-Scanned: Pac Man
+Skipped: PacMan_v1.0.lha
 Skipped: Populous&DataDisks_v1.2_BETA_0069&1217.lha
 Skipped: Populous_v1.2_0069_BETA.lha
 Skipped: ProjectXSE2017_v1.5_Hack_by_Earok.lha
@@ -6349,6 +6349,7 @@ Skipped: BlueMoon-WHDL.lha
 Skipped: BnoidAGA-WHDL.lha
 Skipped: BoatRaceIT-WHDL.lha
 Skipped: BobblePuzzleAGA-WHDL.lha
+Scanned: Bob Lemon
 Skipped: BoboKlocPL-WHDL.lha
 Skipped: BodeRunnerDemo-WHDL.lha
 Skipped: BogratsAGA-WHDL.lha
@@ -6549,6 +6550,8 @@ Skipped: Clue-WHDL.lha
 Skipped: CoarseAngler-WHDL.lha
 Skipped: CocoBanana-WHDL.lha
 Skipped: CocoBananaAGA-WHDL.lha
+Scanned: Coco Banana ECS
+Scanned: Coco Banana OCS
 Skipped: CodenameHellsquadRIP-WHDL.lha
 Skipped: CodeNameNano-WHDL.lha
 Skipped: CoDoGroszaPL-WHDL.lha
@@ -7661,6 +7664,7 @@ Skipped: NoddyBigAdv-WHDL.lha
 Skipped: NoddyPlaytime-WHDL.lha
 Skipped: NoEscape-WHDL.lha
 Skipped: NoMansLand-WHDL.lha
+Scanned: Nomansland Unv
 Skipped: NoMercy-WHDL.lha
 Skipped: NordSudFR-M3-WHDL.lha
 Skipped: Norris-WHDL.lha
@@ -8067,6 +8071,7 @@ Skipped: RavanelliSoccer-WHDL.lha
 Skipped: RazorDemo-WHDL.lha
 Skipped: RealExit16-WHDL.lha
 Skipped: RealmSendai-WHDL.lha
+Scanned: Real Pac Man
 Skipped: RebelAGACZ-WHDL.lha
 Skipped: RebelGW24-WHDL.lha
 Skipped: RebelGW24FR-WHDL.lha
@@ -8301,7 +8306,7 @@ Skipped: SimCity2000AGA-WHDL.lha
 Skipped: SimCity2000AGADE-WHDL.lha
 Skipped: SimCityCDTVFR-WHDL.lha
 Skipped: SimCityDX-WHDL.lha
-Scanned: Sim City DXFR
+Skipped: SimCityDXFR-WHDL.lha
 Skipped: SimLifeFR-WHDL.lha
 Skipped: DieOdysseeDE-WHDL.lha
 Skipped: Digit-WHDL.lha
@@ -9055,7 +9060,7 @@ Skipped: BrutalHomicide2-WHDL.lha
 Skipped: BrutalTeniaIT-WHDL.lha
 Skipped: BrydzPL-WHDL.lha
 Skipped: BubbleGhost-WHDL.lha
-Scanned: Agonman 2021 [AGA] Demo
+Skipped: Agonman2021AGAdemo-WHDL.lha
 Skipped: AlarcityAGAdemo-WHDL.lha
 Skipped: AlarcityDungeonAGADemo-WHDL.lha
 Skipped: AmiBloodDemo-WHDL.lha

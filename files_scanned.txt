@@ -1,4 +1,4 @@
-Scanned file log: 2021-09-22 at 03:00:05
+Scanned file log: 2021-09-24 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -1684,7 +1684,7 @@ Skipped: Carcharodon_v1.1a_2389.lha
 Skipped: Carcharodon_v1.1_2389.lha
 Skipped: Cardiaxx_v1.0a_ElectronicZoo_1601.lha
 Skipped: Cardiaxx_v1.0a_Team17_2362.lha
-Skipped: CarlLewisChallenge_v1.1_0639.lha
+Skipped: CardinalOfTheKremlin_v1.0.lha
 Skipped: Carlos_v1.0_2299.lha
 Skipped: Carlos_v1.1_2299.lha
 Skipped: Carlos_v1.2_2229.lha
@@ -1711,7 +1711,7 @@ Skipped: CastleMaster_v1.20.1.lha
 Skipped: Calephar_v1.1_Image_2661.lha
 Skipped: CannonFodder_v1.3_0860.lha
 Skipped: CapNCarnage_v1.0_2227.lha
-Skipped: CardinalOfTheKremlin_v1.0.lha
+Skipped: CarlLewisChallenge_v1.1_0639.lha
 Skipped: CastleOfDrBrain_v1.1_1287.lha
 Skipped: CaveRunner_v1.0.lha
 Skipped: Centurion_v1.0_1945.lha
@@ -6486,6 +6486,7 @@ Skipped: CardSharp-WHDL.lha
 Skipped: Cardsorama-WHDL.lha
 Skipped: Cardz-WHDL.lha
 Skipped: CaribbeanDisasterDE-WHDL.lha
+Scanned: Caribbean Disaster FR
 Skipped: CarmenSandiegoTime-WHDL.lha
 Skipped: CarmenSandiegoWorldFR-WHDL.lha
 Skipped: CarnageECSAGA-WHDL.lha

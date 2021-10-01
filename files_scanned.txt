@@ -1,4 +1,4 @@
-Scanned file log: 2021-09-29 at 03:00:04
+Scanned file log: 2021-10-01 at 03:00:04
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -6017,8 +6017,8 @@ Skipped: Abduction-WHDL.lha
 Skipped: ABreakingDuoNextAGA-WHDL.lha
 Skipped: AbusimbelProfanation-WHDL.lha
 Skipped: AbusimbelProfanationSP-WHDL.lha
-Scanned: Abu Simbel TFA
-Scanned: Abu Simbel TFA Ext
+Skipped: AbuSimbelTFA-WHDL.lha
+Skipped: AbuSimbelTFAExt-WHDL.lha
 Skipped: Accordion-WHDL.lha
 Skipped: AceSpaceCase-WHDL.lha
 Skipped: Acorralado-WHDL.lha
@@ -6459,21 +6459,6 @@ Skipped: BullysSportingDarts-WHDL.lha
 Skipped: BundesligaManagerDE-WHDL.lha
 Skipped: BundesligaManagerHattAGADE-WHDL.lha
 Skipped: BundesligaManagerHattDE-WHDL.lha
-Skipped: Bunny-WHDL.lha
-Skipped: BurnoutAGA-WHDL.lha
-Skipped: BurstMarble-WHDL.lha
-Skipped: BurtonBird-WHDL.lha
-Skipped: BuscaParejasSP-WHDL.lha
-Skipped: BushBuck-WHDL.lha
-Skipped: Buzzy-WHDL.lha
-Skipped: ByteMan-WHDL.lha
-Skipped: C5sim-WHDL.lha
-Skipped: CadaverLast-WHDL.lha
-Skipped: CaesarDX-WHDL.lha
-Skipped: Caffeine1-WHDL.lha
-Skipped: Caffeine2-WHDL.lha
-Skipped: Calculation-WHDL.lha
-Skipped: CampoFuocoIT-WHDL.lha
 Skipped: Cane-WHDL.lha
 Skipped: Capacitator-WHDL.lha
 Skipped: CaptainBonus-WHDL.lha
@@ -6670,6 +6655,7 @@ Skipped: BounceBlast-WHDL.lha
 Skipped: BrainChallenge-WHDL.lha
 Skipped: BridgePlayerGalactica-WHDL.lha
 Skipped: BubbleHeroesAGA-WHDL.lha
+Skipped: Bunny-WHDL.lha
 Skipped: CandyPuzzleCD32-WHDL.lha
 Skipped: CartonRougeAGAFR-WHDL.lha
 Skipped: CaveRunner1-WHDL.lha
@@ -9063,6 +9049,22 @@ Skipped: BrutalHomicide2-WHDL.lha
 Skipped: BrutalTeniaIT-WHDL.lha
 Skipped: BrydzPL-WHDL.lha
 Skipped: BubbleGhost-WHDL.lha
+Skipped: BurnoutAGA-WHDL.lha
+Skipped: BurstMarble-WHDL.lha
+Skipped: BurtonBird-WHDL.lha
+Skipped: BuscaParejasSP-WHDL.lha
+Skipped: BushBuck-WHDL.lha
+Skipped: Buzzy-WHDL.lha
+Skipped: ByteMan-WHDL.lha
+Skipped: C5sim-WHDL.lha
+Skipped: CadaverLast-WHDL.lha
+Skipped: CaesarDX-WHDL.lha
+Scanned: Caesar DXCohort 2 FR
+Scanned: Caesar DXFR
+Skipped: Caffeine1-WHDL.lha
+Skipped: Caffeine2-WHDL.lha
+Skipped: Calculation-WHDL.lha
+Skipped: CampoFuocoIT-WHDL.lha
 Skipped: AdamIsMe-WHDL.lha
 Skipped: Agonman2021AGAdemo-WHDL.lha
 Skipped: AlarcityAGAdemo-WHDL.lha

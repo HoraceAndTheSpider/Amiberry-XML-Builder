@@ -1,4 +1,4 @@
-Scanned file log: 2021-10-06 at 03:00:04
+Scanned file log: 2021-10-08 at 03:00:04
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -7829,7 +7829,7 @@ Skipped: Pooyan-WHDL.lha
 Skipped: Popcorn-WHDL.lha
 Skipped: PopeyeLCDdemo-WHDL.lha
 Skipped: PopeyeWrestle-WHDL.lha
-Scanned: Populous 2 Challenge FR
+Skipped: Populous2ChallengeFR-WHDL.lha
 Skipped: PopUpSly-WHDL.lha
 Skipped: PorkAPork-WHDL.lha
 Skipped: Posiden-WHDL.lha

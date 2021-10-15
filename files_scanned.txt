@@ -1,4 +1,4 @@
-Scanned file log: 2021-10-13 at 03:00:04
+Scanned file log: 2021-10-15 at 03:00:05
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -5998,7 +5998,7 @@ Skipped: StoriaAncestrale_v0.9g.lha
 Skipped: StuntCarRacerTNT_v1.4_BETA.lha
 Skipped: StuntCarRacer_v1.4_BETA_0222.lha
 Skipped: SuperCars2_v0.85_AGA.lha
-Scanned: Super Cars 2 [AGA]
+Skipped: SuperCars2_v0.86_AGA.lha
 Skipped: SuperGemZ_v1.0.lha
 Skipped: SuperHangOn_v1.5_Hack_by_Earok.lha
 Skipped: SuperMonacoGP_v1.2_BETA.lha

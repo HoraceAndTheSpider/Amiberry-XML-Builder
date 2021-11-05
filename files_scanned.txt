@@ -1,4 +1,4 @@
-Scanned file log: 2021-11-03 at 03:00:04
+Scanned file log: 2021-11-05 at 03:00:04
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -8089,7 +8089,7 @@ Skipped: ReederAGA-WHDL.lha
 Skipped: ReederAGADE-WHDL.lha
 Skipped: ReederAGAFR-WHDL.lha
 Skipped: ReederDE-WHDL.lha
-Scanned: Reeder FR
+Skipped: ReederFR-WHDL.lha
 Skipped: ReelFish-WHDL.lha
 Skipped: Reels-WHDL.lha
 Skipped: ReelSkill-WHDL.lha
@@ -9216,6 +9216,7 @@ Skipped: BosseMaths6emeFR-WHDL.lha
 Skipped: DenverDecouvreFormeFR-WHDL.lha
 Skipped: Droledecole0507FR-WHDL.lha
 Skipped: DroledEcole5a7FR-WHDL.lha
+Scanned: Emmas Paint Book
 Skipped: FunSchool2for6to8-WHDL.lha
 Skipped: FunSchool2over8-WHDL.lha
 Skipped: FunSchool2under6-WHDL.lha

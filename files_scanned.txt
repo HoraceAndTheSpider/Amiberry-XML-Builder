@@ -1,4 +1,4 @@
-Scanned file log: 2021-11-24 at 03:00:03
+Scanned file log: 2021-11-26 at 03:00:04
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -9196,7 +9196,7 @@ Skipped: ThingsDemo-WHDL.lha
 Skipped: TinyLittleSlugDemo-WHDL.lha
 Skipped: TurboSprintAGAdemo-WHDL.lha
 Skipped: Turrican2AGAdemo-WHDL.lha
-Scanned: Turrican 2 [AGA]demo W 3
+Skipped: Turrican2AGAdemoW3-WHDL.lha
 Skipped: UnderCoverDemo-WHDL.lha
 Skipped: WarpgateDemo-WHDL.lha
 Skipped: WolfShackDemo-WHDL.lha

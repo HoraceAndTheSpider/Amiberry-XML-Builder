@@ -1,4 +1,4 @@
-Scanned file log: 2021-12-01 at 03:00:04
+Scanned file log: 2021-12-03 at 03:00:04
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -6086,6 +6086,7 @@ Skipped: DynatechAGADE-WHDL.lha
 Skipped: AmiBeeDemoAGA-WHDL.lha
 Skipped: AmiBird-WHDL.lha
 Skipped: Amibox-WHDL.lha
+Scanned: Amicube
 Skipped: AmiDonkeyLCDdemo-WHDL.lha
 Skipped: Amiga4096-WHDL.lha
 Skipped: AmigaboyTetrisDemo-WHDL.lha
@@ -6727,6 +6728,7 @@ Skipped: DesertWolfPL-WHDL.lha
 Skipped: DesolateWorldDemo-WHDL.lha
 Skipped: Desperation-WHDL.lha
 Skipped: DestinationMoonbase-WHDL.lha
+Scanned: Deutsche Imperium DE
 Skipped: Dflip-WHDL.lha
 Skipped: Diabolik01-WHDL.lha
 Skipped: DiabolikSeriesIT-WHDL.lha
@@ -6769,7 +6771,7 @@ Skipped: DragDrop-WHDL.lha
 Skipped: DraggyCroco-WHDL.lha
 Skipped: DragonballJumpsSP-WHDL.lha
 Skipped: DragonForce-WHDL.lha
-Scanned: Dragons Flame-NC-NV-NE
+Skipped: DragonsFlame-WHDL.lha
 Skipped: DragonSim2-WHDL.lha
 Skipped: DragonsPyramids-WHDL.lha
 Skipped: Dreadnoughts-WHDL.lha
@@ -7186,7 +7188,7 @@ Skipped: ImperiumTerranum2STAGADE-WHDL.lha
 Skipped: ImperoIT-WHDL.lha
 Skipped: Impsbru-WHDL.lha
 Skipped: InADream-WHDL.lha
-Scanned: Incaman
+Skipped: IncaMan-WHDL.lha
 Skipped: IncineratorDemo-WHDL.lha
 Skipped: IncydentDemoPL-WHDL.lha
 Skipped: IndianJoe1DE-WHDL.lha
@@ -7901,6 +7903,7 @@ Skipped: Alphaflight-WHDL.lha
 Skipped: AlterEgo-WHDL.lha
 Skipped: Amazed-WHDL.lha
 Skipped: Ambassador-WHDL.lha
+Scanned: Amber
 Skipped: AmbermoonArcade-WHDL.lha
 Skipped: AmbermoonFR-WHDL.lha
 Skipped: AmegaRace-WHDL.lha

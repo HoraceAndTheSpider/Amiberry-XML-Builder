@@ -1,4 +1,4 @@
-Scanned file log: 2021-12-08 at 03:00:03
+Scanned file log: 2021-12-10 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -6501,6 +6501,7 @@ Skipped: Cat2-WHDL.lha
 Skipped: Catapults-WHDL.lha
 Skipped: CavernsPalle-WHDL.lha
 Skipped: CaveRunner2-WHDL.lha
+Scanned: Caves Cargo
 Skipped: Centerbase-WHDL.lha
 Skipped: CenterCourt1-WHDL.lha
 Skipped: CenterCourt197-WHDL.lha
@@ -7623,6 +7624,8 @@ Skipped: MysiSteskaCZ-WHDL.lha
 Skipped: MysteryFish-WHDL.lha
 Skipped: NaixalagDemo-WHDL.lha
 Skipped: NanoFly-WHDL.lha
+Scanned: Paradroid 2
+Scanned: Paradroid 90 Ship-NV-NE
 Skipped: Paragon-WHDL.lha
 Skipped: ParallelWorlds-WHDL.lha
 Skipped: ParanoidDE-WHDL.lha
@@ -8583,7 +8586,7 @@ Skipped: StewardsEnquiry-WHDL.lha
 Skipped: Strikeball-WHDL.lha
 Skipped: SuperChickenRun-WHDL.lha
 Skipped: SuperCombat3-WHDL.lha
-Scanned: Super Delivery Boy Holiday
+Skipped: SuperDeliveryBoyHoliday-WHDL.lha
 Skipped: SuperDrive-WHDL.lha
 Skipped: SuperFoulEgg-WHDL.lha
 Skipped: SuperGoDownHole-WHDL.lha
@@ -8807,7 +8810,7 @@ Skipped: TurboLode2DemoFR-WHDL.lha
 Skipped: TurboRacer3DAGA-WHDL.lha
 Skipped: TurboRaketti1FI-WHDL.lha
 Skipped: TurboRaketti3FI-WHDL.lha
-Scanned: Turbo Santa
+Skipped: TurboSanta-WHDL.lha
 Skipped: TurboSmash-WHDL.lha
 Skipped: TurboThrust-WHDL.lha
 Skipped: TurboTomatoDemo-WHDL.lha
@@ -9047,7 +9050,7 @@ Skipped: ChinaChallenge3-WHDL.lha
 Skipped: ChinczykPL-WHDL.lha
 Skipped: ChineseChess-WHDL.lha
 Skipped: Chips-WHDL.lha
-Scanned: Choc Tris
+Skipped: ChocTris-WHDL.lha
 Skipped: Chopper2-WHDL.lha
 Skipped: ChopperAttack-WHDL.lha
 Skipped: CiemnaStronaPL-WHDL.lha

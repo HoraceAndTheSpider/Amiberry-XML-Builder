@@ -1,4 +1,4 @@
-Scanned file log: 2021-12-22 at 03:00:03
+Scanned file log: 2021-12-24 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -2123,11 +2123,11 @@ Skipped: DefensorDeLaCorona2_v1.1_CD32_Es.lha
 Skipped: DefensorDeLaCorona2_v1.2_CD32_Es.lha
 Skipped: Deflektor_v1.11_1087.lha
 Skipped: DejaVu2LostInLasVegas_v1.0.lha
-Scanned: Deja Vu II - Lost In Las Vegas
+Skipped: DejaVu2LostInLasVegas_v1.1.lha
 Skipped: DejaVuANightmareComesTrue_v1.0_1832.lha
 Skipped: DejaVu_v1.0_NTSC_1832.lha
 Skipped: DejaVu_v1.1_NTSC_1832.lha
-Scanned: Deja Vu (NTSC)
+Skipped: DejaVu_v1.2_NTSC_1832.lha
 Skipped: Deliverance_v1.4_1500.lha
 Skipped: Deliverance_v1.5_1500.lha
 Skipped: Deliverance_v2.0_1500.lha
@@ -2164,7 +2164,7 @@ Skipped: Detroit_v1.0_1861.lha
 Skipped: Detroit_v1.0_AGA.lha
 Skipped: Detroit_v1.0_AGA_Fr.lha
 Skipped: Deuteros_v1.10_0958.lha
-Scanned: Devils Temple Demo
+Skipped: DevilsTempleDemo_v1.0.lha
 Skipped: DeviousDesigns_v1.3_0256.lha
 Skipped: DGeneration_v2.2_0677.lha
 Skipped: DGeneration_v2.3_AGA_0457.lha
@@ -4760,7 +4760,7 @@ Skipped: ShadowFighter_v1.0_1630.lha
 Skipped: ShadowFighter_v1.0_AGA_0203.lha
 Skipped: ShadowFighter_v1.0_CD32.lha
 Skipped: Shadowgate_v1.0_0290.lha
-Scanned: Shadowgate
+Skipped: Shadowgate_v1.1_0290.lha
 Skipped: Shadowlands_v1.6_0574.lha
 Skipped: ShadowOfTheBeast2Demo_v1.0.lha
 Skipped: ShadowOfTheBeast2_v1.3a_1359.lha
@@ -5601,7 +5601,7 @@ Skipped: UltimateXTremeRacing_v1.1_AGA_CD.lha
 Skipped: UMS2NationsAtWar_v1.0_2137.lha
 Skipped: UnderPressure_v1.0.lha
 Skipped: Uninvited_v1.0.lha
-Scanned: Uninvited
+Skipped: Uninvited_v1.1.lha
 Skipped: UniversalMilitarySimulator_v1.0_0753.lha
 Skipped: UniversalMonsters_v1.0.lha
 Skipped: UniversalWarrior_v1.01_0597.lha
@@ -8884,7 +8884,7 @@ Skipped: VabankPL-WHDL.lha
 Skipped: ValarCZ-WHDL.lha
 Skipped: Valhalla3-WHDL.lha
 Skipped: VampireCurseNight-WHDL.lha
-Scanned: Vampire Curse Nighteasy
+Skipped: VampireCurseNightEasy-WHDL.lha
 Skipped: VanillaTetris-WHDL.lha
 Skipped: VegetablesDX-WHDL.lha
 Skipped: VektorStorm-WHDL.lha
@@ -9135,7 +9135,7 @@ Skipped: CrazyColumnsDemo-WHDL.lha
 Skipped: CreepingOut-WHDL.lha
 Skipped: CreepingOutDemo-WHDL.lha
 Skipped: DeepSilenceDemo-WHDL.lha
-Scanned: Devils Temple Demo
+Skipped: DevilsTempleDemo-WHDL.lha
 Skipped: EgoWingsDemo-WHDL.lha
 Skipped: EnforcerDemo-WHDL.lha
 Skipped: FtypeDemo-WHDL.lha
@@ -9196,7 +9196,7 @@ Skipped: RedpillPillmanDemo-WHDL.lha
 Skipped: RedpillPongDemo-WHDL.lha
 Skipped: RedpillShotemupDemo-WHDL.lha
 Skipped: RedpillWaveDemo-WHDL.lha
-Scanned: Reshoot [AGA] Demo
+Skipped: ReshootAGAdemo-WHDL.lha
 Skipped: ReshootRAGADemo-WHDL.lha
 Skipped: Robbo2demo-WHDL.lha
 Skipped: RygarDemo-WHDL.lha

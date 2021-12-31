@@ -1,4 +1,4 @@
-Scanned file log: 2021-12-29 at 03:00:04
+Scanned file log: 2021-12-31 at 03:00:04
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -1183,8 +1183,8 @@ Skipped: ArcherMacLeansPool_v1.2_1096.lha
 Skipped: Archipelagos_v1.2_0627.lha
 Skipped: Archipelagos_v1.2_NTSC_0628.lha
 Skipped: AncientArtOfWar_v1.1.lha
-Scanned: Andromeda Mission
-Scanned: Andromeda Mission (Deutsch)
+Skipped: AndromedaMission_v1.0.lha
+Skipped: AndromedaMission_v1.0_De.lha
 Skipped: AnotherWorld_v2.4_0425.lha
 Skipped: AnotherWorld_v2.4_Fr_2377.lha
 Skipped: AnotherWorld_v2.4_It.lha

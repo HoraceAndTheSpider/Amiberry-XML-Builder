@@ -1,4 +1,4 @@
-Scanned file log: 2022-01-05 at 03:00:04
+Scanned file log: 2022-01-07 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -5585,6 +5585,7 @@ Skipped: TinToyAdventure_v1.3_AGA.lha
 Skipped: TinyBobble_v1.0.lha
 Skipped: TinyBobble_v1.1.lha
 Skipped: TinyBobble_v1.2.lha
+Scanned: Tiny Bobble
 Skipped: TinyGalaga_v1.0.lha
 Skipped: TinyGalaga_v1.1.lha
 Skipped: TinyGalaga_v1.2.lha
@@ -6031,7 +6032,7 @@ Skipped: AbusimbelProfanation-WHDL.lha
 Skipped: AbusimbelProfanationSP-WHDL.lha
 Skipped: AbuSimbelTFA-WHDL.lha
 Skipped: AbuSimbelTFAExt-WHDL.lha
-Scanned: Abyss
+Skipped: Abyss-WHDL.lha
 Skipped: Accordion-WHDL.lha
 Skipped: AceSpaceCase-WHDL.lha
 Skipped: Acorralado-WHDL.lha
@@ -6620,7 +6621,7 @@ Skipped: CrazyPipe-WHDL.lha
 Skipped: CrazyPriest-WHDL.lha
 Skipped: CrazyPriestMulti-WHDL.lha
 Skipped: CrazySpeedway-WHDL.lha
-Scanned: Creepy Crawlies-NE
+Skipped: CreepyCrawlies-WHDL.lha
 Skipped: CreepyCrawliesDemo-WHDL.lha
 Skipped: Cribbage-WHDL.lha
 Skipped: CribbageBasic-WHDL.lha
@@ -7312,6 +7313,7 @@ Skipped: JumpMachine-WHDL.lha
 Skipped: Jumpman-WHDL.lha
 Skipped: JumpmanDXdemo-WHDL.lha
 Skipped: JumpmanJunior-WHDL.lha
+Scanned: Jumpman Lives
 Skipped: Jumpy-WHDL.lha
 Skipped: JungleJim-WHDL.lha
 Skipped: JurajskiSenPL-WHDL.lha
@@ -7922,10 +7924,10 @@ Skipped: AlterEgo-WHDL.lha
 Skipped: Amazed-WHDL.lha
 Skipped: Ambassador-WHDL.lha
 Skipped: Amber-WHDL.lha
-Scanned: Amberstar 2 Ambermoon Adv
+Skipped: AmbermoonAdv-WHDL.lha
 Skipped: AmbermoonArcade-WHDL.lha
 Skipped: AmbermoonFR-WHDL.lha
-Scanned: Amberstar 2 Ambermoon Upd
+Skipped: AmbermoonUpd-WHDL.lha
 Skipped: AmegaRace-WHDL.lha
 Skipped: AmericanChainikRU-WHDL.lha
 Skipped: KnightTimeDemoAGA-WHDL.lha

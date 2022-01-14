@@ -1,4 +1,4 @@
-Scanned file log: 2022-01-12 at 03:00:04
+Scanned file log: 2022-01-14 at 03:00:04
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -1071,8 +1071,8 @@ Skipped: AllTerrainRacingXmasDemo_v1.3.lha
 Skipped: AllTerrainRacing_v1.2.lha
 Skipped: AllTerrainRacing_v1.4.lha
 Skipped: AllTerrainRacing_v1.4_CD32.lha
-Scanned: ATR - All Terrain Racing
-Scanned: All Terrain Racing [CD32]
+Skipped: AllTerrainRacing_v1.5.lha
+Skipped: AllTerrainRacing_v1.5_CD32.lha
 Skipped: Alpha1_v1.0_1921.lha
 Skipped: AlphaWaves_v1.0_0626.lha
 Skipped: AlteredBeast_v2.0_0819.lha
@@ -2297,7 +2297,7 @@ Skipped: DizzyPrinceOfTheYolkfolk_v2.0_1146.lha
 Skipped: DizzysExcellentAdventures_v1.0_2502.lha
 Skipped: Dogfight_v1.02_1293.lha
 Skipped: DogsOfWar_v1.3_3008.lha
-Scanned: Dogs Of War
+Skipped: DogsOfWar_v2.0_3008.lha
 Skipped: DojoDan_v1.1_2503.lha
 Skipped: Doman_v1.4_Pl.lha
 Skipped: Explora_v1.4_Fr.lha
@@ -5955,7 +5955,7 @@ Skipped: AbuSimbelProfanation_v1.0_AGA_Es.lha
 Skipped: AddamsFamily_v1.4_BETA_0419.lha
 Skipped: Aladdin_v1.8_AGA_0420.lha
 Skipped: Alien3_v2.2.lha
-Scanned: Amidar
+Skipped: Amidar_v1.0.lha
 Skipped: AnotherWorldLostLevel_v1.1_Hack_by_Earok.lha
 Skipped: ApidyaSpecialEdition_v1.1_Hack_by_Earok.lha
 Skipped: Area88_v1.2_Hack_by_Earok.lha

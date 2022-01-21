@@ -1,4 +1,4 @@
-Scanned file log: 2022-01-19 at 03:00:04
+Scanned file log: 2022-01-21 at 03:00:04
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -154,6 +154,7 @@ Skipped: Cuzco_v1.0_Oxygene_AGA.lha
 Skipped: CyberSounds_v1.0_Bastards.lha
 Skipped: Demo_v1.0_Mute101.lha
 Skipped: DOS_v1.1_Andromeda.lha
+Scanned: DOS
 Skipped: DoTheBartman_v1.0_FreeHand.lha
 Skipped: DoubleIntro_v1.0_Vega.lha
 Skipped: DragonLord_v1.0_AlfaForce.lha
@@ -292,7 +293,7 @@ Skipped: Hallucinations&Dreams_v1.1_Union.lha
 Skipped: Hammer_v1.0_Amaze.lha
 Skipped: Hardcore_v1.1_Anarchy.lha
 Skipped: Hardwired_v1.1_Crionics&Silents.lha
-Scanned: Harmagedon [AGA]
+Skipped: Harmagedon_v1.01_Infect_AGA.lha
 Skipped: Harmagedon_v1.0_Infect_AGA.lha
 Skipped: Heliopolis_v1.0_EMTDesign.lha
 Skipped: HereWeAre_v1.0_Awake.lha
@@ -2785,6 +2786,9 @@ Skipped: Gloom_v1.2_CD32.lha
 Skipped: Gloom_v1.3.1_1330.lha
 Skipped: Gloom_v1.3.1_AGA_0124.lha
 Skipped: Gloom_v1.3.1_CD32.lha
+Scanned: Gloom
+Scanned: Gloom [AGA]
+Scanned: Gloom [CD32]
 Skipped: GNius_v1.1_0895.lha
 Skipped: GnomeAlone_v1.0.lha
 Skipped: GnomeRanger_v1.0.lha
@@ -3593,6 +3597,7 @@ Skipped: Logical_v1.1_CDTV.lha
 Skipped: Logical_v1.2_0529.lha
 Skipped: Logical_v1.2_CDTV.lha
 Skipped: Logo_v1.0.lha
+Scanned: Logo
 Skipped: Lollypop_v1.0.lha
 Skipped: LombardRACRally_v1.1_1Disk_1144.lha
 Skipped: Loom_v2.1_0618.lha
@@ -5029,7 +5034,7 @@ Skipped: StreetRacer_v1.5_AGA_CD.lha
 Skipped: StreetRacer_v1.5_CD32.lha
 Skipped: StreetRacer_v2.0_AGA_CD.lha
 Skipped: StreetRod2_v1.1.lha
-Scanned: Street Rod 2
+Skipped: StreetRod2_v1.2.lha
 Skipped: StreetRod_v1.01.lha
 Skipped: StreetRod_v1.02.lha
 Skipped: StreetSportsBasketball_v1.0.lha
@@ -7060,20 +7065,6 @@ Skipped: GlizdorPL-WHDL.lha
 Skipped: GlobalDomination-WHDL.lha
 Skipped: GlobalDominationAGA-WHDL.lha
 Skipped: GlobalEffectCD32-WHDL.lha
-Skipped: GlobalEffectFR-M4-WHDL.lha
-Skipped: Globetrotter-WHDL.lha
-Skipped: Glodrick-WHDL.lha
-Skipped: Gloom2DX96ECSAGA-WHDL.lha
-Skipped: Gloom2SE97ECSAGA-WHDL.lha
-Skipped: Gloom3ZE98ECSAGA-WHDL.lha
-Skipped: Gloom4ZM99ECSAGA-WHDL.lha
-Skipped: Gloom8BitKillerECSAGA-WHDL.lha
-Skipped: GloomDeathMaskECSAGA-WHDL.lha
-Skipped: GloomDICFTDECSAGA-WHDL.lha
-Skipped: GloomJechtBattleECSAGA-WHDL.lha
-Skipped: GloomSpekkioBattleECSAGA-WHDL.lha
-Skipped: GloomUltMazeECSAGA-WHDL.lha
-Skipped: GloomXmenECSAGA-WHDL.lha
 Skipped: HighNoon-WHDL.lha
 Skipped: HighOctane-WHDL.lha
 Skipped: HighReflection-WHDL.lha
@@ -7305,6 +7296,7 @@ Skipped: JU52FlightSim-WHDL.lha
 Skipped: JumpBesiJump-WHDL.lha
 Skipped: JumpBlockJump-WHDL.lha
 Skipped: JumpEm-WHDL.lha
+Skipped: GlobalEffectFR-M4-WHDL.lha
 Skipped: Gobblers-WHDL.lha
 Skipped: GoPlayerFR-M3-WHDL.lha
 Skipped: GRocker-WHDL.lha
@@ -9127,6 +9119,24 @@ Skipped: Caffeine1-WHDL.lha
 Skipped: Caffeine2-WHDL.lha
 Skipped: Calculation-WHDL.lha
 Skipped: CampoFuocoIT-WHDL.lha
+Skipped: Globetrotter-WHDL.lha
+Skipped: Glodrick-WHDL.lha
+Scanned: Gloom 25 SE 97 ECSAGA
+Skipped: Gloom2DX96ECSAGA-WHDL.lha
+Skipped: Gloom2SE97ECSAGA-WHDL.lha
+Skipped: Gloom3ZE98ECSAGA-WHDL.lha
+Skipped: Gloom4ZM99ECSAGA-WHDL.lha
+Skipped: Gloom8BitKillerECSAGA-WHDL.lha
+Skipped: GloomDeathMaskECSAGA-WHDL.lha
+Skipped: GloomDICFTDECSAGA-WHDL.lha
+Skipped: GloomJechtBattleECSAGA-WHDL.lha
+Scanned: Gloom Map First Age ECSAGA
+Scanned: Gloom Map Plenty 1 ECSAGA
+Scanned: Gloom Map Plenty 2 ECSAGA
+Scanned: Gloom Map Plenty 3 ECSAGA
+Skipped: GloomSpekkioBattleECSAGA-WHDL.lha
+Skipped: GloomUltMazeECSAGA-WHDL.lha
+Skipped: GloomXmenECSAGA-WHDL.lha
 Skipped: AdamIsMe-WHDL.lha
 Skipped: Agonman2021AGAdemo-WHDL.lha
 Skipped: AlarcityAGAdemo-WHDL.lha
@@ -9258,7 +9268,7 @@ Skipped: Turrican2AGAdemoW3-WHDL.lha
 Skipped: UnderCoverDemo-WHDL.lha
 Skipped: WarpgateDemo-WHDL.lha
 Skipped: WolfShackDemo-WHDL.lha
-Scanned: Wonderboy 1 Demo
+Skipped: Wonderboy1Demo-WHDL.lha
 Skipped: WonderboyDemo-WHDL.lha
 Skipped: WonderGirlDemo-WHDL.lha
 Skipped: FunSchool3for5to7-WHDL.lha

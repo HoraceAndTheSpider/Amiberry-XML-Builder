@@ -1,4 +1,4 @@
-Scanned file log: 2022-01-26 at 03:00:03
+Scanned file log: 2022-01-28 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -6798,6 +6798,7 @@ Skipped: DownhillChallengeDeva-WHDL.lha
 Skipped: Dozer-WHDL.lha
 Skipped: DrachensteineDE-WHDL.lha
 Skipped: DragDrop-WHDL.lha
+Scanned: Drag Drop DX
 Skipped: DraggyCroco-WHDL.lha
 Skipped: DragonballJumpsSP-WHDL.lha
 Skipped: DragonForce-WHDL.lha
@@ -8804,7 +8805,7 @@ Skipped: Trains-WHDL.lha
 Skipped: Traitor-WHDL.lha
 Skipped: TrapEm-WHDL.lha
 Skipped: Trapped1ECSAGA-WHDL.lha
-Scanned: Trapped 3 ECSAGAdemo-NV
+Skipped: Trapped3ECSAGAdemo-WHDL.lha
 Skipped: TravelManagerDE-WHDL.lha
 Skipped: Trax-WHDL.lha
 Skipped: TraxLucas-WHDL.lha

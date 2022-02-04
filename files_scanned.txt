@@ -1,4 +1,4 @@
-Scanned file log: 2022-02-02 at 03:00:03
+Scanned file log: 2022-02-04 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -3271,6 +3271,7 @@ Skipped: JumpingJackSon_v1.41_1040.lha
 Skipped: JumpingJackSon_v2.0_1040.lha
 Skipped: Knightmare_v2.0_0966.lha
 Skipped: Knightmare_v2.1_0966.lha
+Scanned: Knightmare Mindscape
 Skipped: KnightOrc_v1.0_0215.lha
 Skipped: KnightsOfTheCrystallion_v1.51_1160.lha
 Skipped: KnightsOfTheCrystallion_v1.51_De_1426.lha
@@ -3413,6 +3414,7 @@ Skipped: KnightForce_v1.2_1574.lha
 Skipped: KnightForce_v2.0_1574.lha
 Skipped: KnightForce_v2.1_1574.lha
 Skipped: KnightForce_v2.2_1574.lha
+Scanned: Knightmare Konami
 Skipped: LostInMine_v1.1_Pl.lha
 Skipped: LostPatrol_v1.3_0773.lha
 Skipped: LostPatrol_v1.3_NTSC_0498.lha
@@ -3814,6 +3816,7 @@ Skipped: MetroCross_v1.1.lha
 Skipped: Mewilo_v1.0_De.lha
 Skipped: Mewilo_v1.0_Fr.lha
 Skipped: Moonwalker_v1.0.lha
+Scanned: More Lemmings
 Skipped: Morph_v1.0_1148.lha
 Skipped: Morph_v1.0_AGA_1070.lha
 Skipped: Morph_v1.0_CD32.lha
@@ -6014,7 +6017,7 @@ Skipped: Outlands&DizzyDice_v0.8_BETA.lha
 Skipped: Outlands&DizzyDice_v1.0_BETA.lha
 Skipped: Outlands_v1.0_BETA.lha
 Skipped: PacMan_v1.0.lha
-Scanned: Poker Nights & Data Disk
+Skipped: PokerNights&DataDisk_v1.1.lha
 Skipped: Populous&DataDisks_v1.2_BETA_0069&1217.lha
 Skipped: Populous_v1.2_0069_BETA.lha
 Skipped: ProjectXSE2017_v1.5_Hack_by_Earok.lha
@@ -6525,7 +6528,7 @@ Skipped: CasinoGamesFruitmania-WHDL.lha
 Skipped: CasinoGamesFullHouse-WHDL.lha
 Skipped: CasinoTrumpCastle1-WHDL.lha
 Skipped: CasinoTrumpCastle2-WHDL.lha
-Scanned: Castle Danger
+Skipped: CastleDanger-WHDL.lha
 Skipped: CastleHackDemo-WHDL.lha
 Skipped: Castles1Northern-WHDL.lha
 Skipped: Cat2-WHDL.lha
@@ -7122,7 +7125,7 @@ Skipped: GravityPower-WHDL.lha
 Skipped: GravityWars-WHDL.lha
 Skipped: GreatEscapeBillyBurglar-WHDL.lha
 Skipped: GreatGoldRaid-WHDL.lha
-Scanned: Green Beret
+Skipped: GreenBeret-WHDL.lha
 Skipped: GreenFive-WHDL.lha
 Skipped: GreenhouseLCDAGA-WHDL.lha
 Skipped: Greenies-WHDL.lha
@@ -7297,7 +7300,7 @@ Skipped: JokerPokerWolfDE-WHDL.lha
 Skipped: JonasFulstrand-WHDL.lha
 Skipped: JourneyCenterEarth-WHDL.lha
 Skipped: Joust-WHDL.lha
-Scanned: Joyride RIPAGA
+Skipped: JoyrideRIPAGA-WHDL.lha
 Skipped: JPSpider-WHDL.lha
 Skipped: JU52FlightSim-WHDL.lha
 Skipped: JumpBesiJump-WHDL.lha
@@ -8596,7 +8599,7 @@ Skipped: Sumera-WHDL.lha
 Skipped: SummerChallenge-WHDL.lha
 Skipped: Sun-WHDL.lha
 Skipped: SuperBallz-WHDL.lha
-Scanned: Super Ballz [AGA]
+Skipped: SuperBallzAGA-WHDL.lha
 Skipped: SuperBattlezone-WHDL.lha
 Skipped: SuperBlobble1-WHDL.lha
 Skipped: SuperBlobble2-WHDL.lha
@@ -9173,7 +9176,7 @@ Skipped: BlazingGunsDemo-WHDL.lha
 Skipped: BlockOffDemo-WHDL.lha
 Skipped: BlueThunderDemo-WHDL.lha
 Skipped: BombJackOtherDemo-WHDL.lha
-Scanned: Castlevania [AGA]demo
+Skipped: CastlevaniaAGAdemo-WHDL.lha
 Skipped: ChaosGuns2016Demo-WHDL.lha
 Skipped: ChipsRemakeDemo-WHDL.lha
 Skipped: ChocTrisDemo-WHDL.lha
@@ -9187,7 +9190,7 @@ Skipped: DeepSilenceDemo-WHDL.lha
 Skipped: DevilsTempleDemo-WHDL.lha
 Skipped: DreamRowanDemo-WHDL.lha
 Skipped: EgoWingsDemo-WHDL.lha
-Scanned: Emotiworld Demo
+Skipped: EmotiworldDemo-WHDL.lha
 Skipped: EnforcerDemo-WHDL.lha
 Skipped: FtypeDemo-WHDL.lha
 Skipped: FurtumSacrumDarkDemo-WHDL.lha
@@ -9249,7 +9252,7 @@ Skipped: RedpillShotemupDemo-WHDL.lha
 Skipped: RedpillWaveDemo-WHDL.lha
 Skipped: ReshootAGAdemo-WHDL.lha
 Skipped: ReshootRAGADemo-WHDL.lha
-Scanned: Rick Dangerous 2022demo
+Skipped: RickDangerous2022demo-WHDL.lha
 Skipped: Robbo2demo-WHDL.lha
 Skipped: RygarDemo-WHDL.lha
 Skipped: SchutzeMike1IncaDemo-WHDL.lha

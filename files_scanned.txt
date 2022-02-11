@@ -1,4 +1,4 @@
-Scanned file log: 2022-02-09 at 03:00:03
+Scanned file log: 2022-02-11 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -2948,7 +2948,7 @@ Skipped: HarrierCombatSimulator_v1.0_0919.lha
 Skipped: HarrierCombatSimulator_v1.0_NTSC_0919.lha
 Skipped: HATE_v1.0_1930.lha
 Skipped: Hawkeye_v1.0.lha
-Scanned: Hawkeye
+Skipped: Hawkeye_v1.1_1963.lha
 Skipped: HeadOverHeels_v1.0_1674.lha
 Skipped: HeartOfChina_v1.1_De_1869.lha
 Skipped: HeartOfTheDragon_v1.1_3Disk.lha
@@ -7937,7 +7937,7 @@ Skipped: AllSquare-WHDL.lha
 Skipped: AllValleyKarate-WHDL.lha
 Skipped: Alphaflight-WHDL.lha
 Skipped: AlterEgo-WHDL.lha
-Scanned: Alternate Reality
+Skipped: AlternateReality-WHDL.lha
 Skipped: Amazed-WHDL.lha
 Skipped: Ambassador-WHDL.lha
 Skipped: Amber-WHDL.lha
@@ -9189,7 +9189,7 @@ Skipped: CocoBananaXmasDemo-WHDL.lha
 Skipped: CrazyColumnsDemo-WHDL.lha
 Skipped: CreepingOut-WHDL.lha
 Skipped: CreepingOutDemo-WHDL.lha
-Scanned: Cyber Punk Alien City [AGA]demo
+Skipped: CyberPunkAlienCityAGAdemo.lha
 Skipped: DeepSilenceDemo-WHDL.lha
 Skipped: DevilsTempleDemo-WHDL.lha
 Skipped: DreamRowanDemo-WHDL.lha

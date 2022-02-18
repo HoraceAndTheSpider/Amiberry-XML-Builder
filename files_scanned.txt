@@ -1,4 +1,4 @@
-Scanned file log: 2022-02-16 at 03:00:03
+Scanned file log: 2022-02-18 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -4774,7 +4774,7 @@ Skipped: SevenCitiesOfGold_v1.1_0908.lha
 Skipped: SevenCitiesOfGold_v1.1_NTSC_0908.lha
 Skipped: SevenGatesOfJambala_v1.1_Files.lha
 Skipped: SevenGatesOfJambala_v1.1_Image.lha
-Scanned: Seven Gates Of Jambala
+Skipped: SevenGatesOfJambala_v1.2_3052.lha
 Skipped: Sextimates_v1.0.lha
 Skipped: SeymourGoesToHollywood_v1.3.lha
 Skipped: ShadowDancer_v1.2_0202.lha
@@ -7451,6 +7451,7 @@ Skipped: MachoKillers-WHDL.lha
 Skipped: MadBomber-WHDL.lha
 Skipped: MadCrashRacing-WHDL.lha
 Skipped: MadFactory-WHDL.lha
+Scanned: Mad Fighters 2
 Skipped: MadFighters2AGA-WHDL.lha
 Skipped: MadhouseIndian-WHDL.lha
 Skipped: MadLocsDE-WHDL.lha
@@ -8298,6 +8299,7 @@ Skipped: Sexanoids2-WHDL.lha
 Skipped: Sexy2IT-WHDL.lha
 Skipped: SexyDroids-WHDL.lha
 Skipped: ShadowDevilCZ-WHDL.lha
+Scanned: Shadow Third Moon [AGA]
 Skipped: ShaNaNa-WHDL.lha
 Skipped: Shanghai2GR-WHDL.lha
 Skipped: Shanghai93-WHDL.lha
@@ -8770,7 +8772,7 @@ Skipped: TimeBomb-WHDL.lha
 Skipped: TimebombCoagulus-WHDL.lha
 Skipped: TimeBombs-WHDL.lha
 Skipped: TimeHornIT-WHDL.lha
-Scanned: Time Keepers 1
+Skipped: TimeKeepers1-WHDL.lha
 Skipped: Timekeepers1-WHDL.lha
 Skipped: TimeKeepers1FR-WHDL.lha
 Skipped: TimeKeepers2-WHDL.lha
@@ -8869,7 +8871,7 @@ Skipped: TwinZ-WHDL.lha
 Skipped: TwoToOne-WHDL.lha
 Skipped: Tykkipeli-WHDL.lha
 Skipped: TyranPL-WHDL.lha
-Scanned: T-Zero RIPAGA
+Skipped: TZeroRIPAGA-WHDL.lha
 Skipped: TzeroRIPAGA-WHDL.lha
 Skipped: UbekECSAGA-WHDL.lha
 Skipped: UbekECSAGAPL-WHDL.lha

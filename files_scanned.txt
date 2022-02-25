@@ -1,4 +1,4 @@
-Scanned file log: 2022-02-23 at 03:00:03
+Scanned file log: 2022-02-25 at 03:00:02
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -6940,6 +6940,7 @@ Skipped: FeedingFrenzy-WHDL.lha
 Skipped: FeudalLords-WHDL.lha
 Skipped: Fever-WHDL.lha
 Skipped: FieldsGloryAGAFR-M3-WHDL.lha
+Scanned: Fields Glory FR
 Skipped: FighterCommandFR-M6-WHDL.lha
 Skipped: FightHartmann-WHDL.lha
 Skipped: FightingWarriors-WHDL.lha
@@ -7181,7 +7182,7 @@ Skipped: Paradox-WHDL.lha
 Skipped: Patience3-WHDL.lha
 Skipped: PGwinPL-WHDL.lha
 Skipped: PickBrick-WHDL.lha
-Skipped: PitchNPutt-WHDL.lha
+Skipped: Pitfall2-WHDL.lha
 Skipped: Polataa4AGAdemo-WHDL.lha
 Skipped: PowerGinger-WHDL.lha
 Skipped: PremierDivision-WHDL.lha
@@ -7198,7 +7199,7 @@ Skipped: HydacornPL-WHDL.lha
 Skipped: Hydrocis-WHDL.lha
 Skipped: Hydrozone-WHDL.lha
 Skipped: HypeRace-WHDL.lha
-Scanned: Hype Race-NV-No A Kit
+Skipped: Hyperace-WHDL.lha
 Skipped: Hyperball-WHDL.lha
 Skipped: HyperViper-WHDL.lha
 Skipped: Iceball-WHDL.lha
@@ -7247,6 +7248,7 @@ Skipped: InternalCombustion-WHDL.lha
 Skipped: InternationalGolf-WHDL.lha
 Skipped: InternationalKarate-WHDL.lha
 Skipped: InternationalOpenGolfAGA-WHDL.lha
+Scanned: Int Open Golf [CD32]
 Skipped: Interstate1-WHDL.lha
 Skipped: Interstate2-WHDL.lha
 Skipped: InterstellarAGA-WHDL.lha
@@ -7743,7 +7745,7 @@ Skipped: OldtimerDE-WHDL.lha
 Skipped: OldtomerAGADE-WHDL.lha
 Skipped: Olempiad-WHDL.lha
 Skipped: Olimpadia96PL-WHDL.lha
-Scanned: Olimpiada 96 PL
+Skipped: Olimpiada96PL-WHDL.lha
 Skipped: OliverCompanyFR-WHDL.lha
 Skipped: OlofightAGA-WHDL.lha
 Skipped: Olympus-WHDL.lha
@@ -7845,6 +7847,7 @@ Skipped: Pipemaster2-WHDL.lha
 Skipped: PipeRider-WHDL.lha
 Skipped: PirateCove-WHDL.lha
 Skipped: PiratesBounty-WHDL.lha
+Skipped: PitchNPutt-WHDL.lha
 Skipped: PremierPicks-WHDL.lha
 Skipped: PremierSixes-WHDL.lha
 Skipped: PremierSoccer-WHDL.lha
@@ -8023,7 +8026,6 @@ Skipped: MoonBase-WHDL.lha
 Skipped: MoonbaseLunarColony-WHDL.lha
 Skipped: MoonbasesAGA-WHDL.lha
 Skipped: MoonbasesAGAFR-WHDL.lha
-Skipped: Pitfall2-WHDL.lha
 Skipped: PixieKingdom-WHDL.lha
 Skipped: PizzaConnectionTeng-WHDL.lha
 Skipped: Plaft-WHDL.lha
@@ -8238,6 +8240,7 @@ Skipped: RunningBob-WHDL.lha
 Skipped: RunningBoy-WHDL.lha
 Skipped: RushHour-WHDL.lha
 Skipped: RyderCupGolfAGA-WHDL.lha
+Scanned: Rydercup Golf [CD32]
 Skipped: RygarAGA-WHDL.lha
 Skipped: RygarCD32-WHDL.lha
 Skipped: SaddamHusseinGame-WHDL.lha
@@ -8606,7 +8609,7 @@ Skipped: SuicideMachine-WHDL.lha
 Skipped: SuicideMission-WHDL.lha
 Skipped: Sumera-WHDL.lha
 Skipped: SummerChallenge-WHDL.lha
-Scanned: Summer Olympix [CD32]
+Skipped: SummerOlympixCD32-WHDL.lha
 Skipped: Sun-WHDL.lha
 Skipped: SuperBallz-WHDL.lha
 Skipped: SuperBallzAGA-WHDL.lha

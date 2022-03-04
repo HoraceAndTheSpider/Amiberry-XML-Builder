@@ -1,4 +1,4 @@
-Scanned file log: 2022-03-02 at 03:00:04
+Scanned file log: 2022-03-04 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -5894,7 +5894,7 @@ Skipped: WorldClassRugby_v1.0_2131.lha
 Skipped: WorldClassSoccer_v1.2.lha
 Skipped: WorldCricket_v1.0.lha
 Skipped: WorldCup90_v1.0.lha
-Scanned: World Cup USA 94
+Skipped: WorldCupUSA94_v1.0_0163.lha
 Skipped: WorldDarts_v0.1_Arcadia.lha
 Skipped: WorldDarts_v1.0_0871.lha
 Skipped: Xenex_v1.0.lha
@@ -6001,6 +6001,7 @@ Skipped: Hybris_v2.4b3_BETA_1457.lha
 Skipped: JamesPond_v0.1_BETA_1MB.lha
 Skipped: JoanOfArc_v0.1.lha
 Skipped: Knightmare_v1.1_Konami.lha
+Scanned: Last Action Hero Hack
 Skipped: Legion_v1.1a_BETA.lha
 Skipped: Liberation_v1.0_0617.lha
 Skipped: Liberation_v1.0_CD32.lha
@@ -8408,6 +8409,8 @@ Skipped: Skidmarks2FarmECSAGA-WHDL.lha
 Skipped: Skidmarks2plusECSAGA-WHDL.lha
 Skipped: Skidmarks2SillyECSAGA-WHDL.lha
 Skipped: Skidmarks2SuperECSAGA-WHDL.lha
+Scanned: Skidmarks 2 Ult
+Scanned: Skidmarks 2 Ult [AGA]
 Skipped: SkimmersAGADemo-WHDL.lha
 Skipped: Skirmish-WHDL.lha
 Skipped: SkiRun-WHDL.lha
@@ -9306,7 +9309,7 @@ Skipped: WolfShackDemo-WHDL.lha
 Skipped: Wonderboy1Demo-WHDL.lha
 Skipped: WonderboyDemo-WHDL.lha
 Skipped: WonderGirlDemo-WHDL.lha
-Scanned: Yoomp Demo-NV-NE
+Skipped: YoompDemo-WHDL.lha
 Skipped: FunSchool3for5to7-WHDL.lha
 Skipped: AbracadabraFR-WHDL.lha
 Skipped: AcrossUSAFR-WHDL.lha

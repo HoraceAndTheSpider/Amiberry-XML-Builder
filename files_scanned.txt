@@ -1,4 +1,4 @@
-Scanned file log: 2022-03-09 at 03:00:04
+Scanned file log: 2022-03-11 at 03:00:04
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -1333,7 +1333,7 @@ Skipped: BattleCommand_v1.2_0858.lha
 Skipped: BattleForTheAshes_v1.0_2526.lha
 Skipped: BattleForTheAshes_v1.0_AmigaPower.lha
 Skipped: Battlehawks1942_v1.0_0053.lha
-Scanned: Battle Isle (& Data Disks)
+Skipped: BattleIsle&DataDisks_v1.10_0460&0667&1991.lha
 Skipped: BadLands_v1.2_1237.lha
 Skipped: Banshee_v3.3_AGA_0633.lha
 Skipped: BAT2_v1.1_1835.lha
@@ -1355,7 +1355,7 @@ Skipped: BSSJaneSeymour_v1.2_0177.lha
 Skipped: BubbleAndSqueak_v2.1_CD32.lha
 Skipped: Budokan_v1.2_1215.lha
 Skipped: BundesligaManagerProfessional_v1.01_De.lha
-Scanned: Battle Isle
+Skipped: BattleIsle_v1.10_1991.lha
 Skipped: BattleIsle_v1.9_1991.lha
 Skipped: BattleMaster_v1.0_0635.lha
 Skipped: Battleships_v1.0.lha
@@ -1418,7 +1418,7 @@ Skipped: BionicCommando_v1.1_NTSC_1074.lha
 Skipped: BiplaneDuel_v1.0.lha
 Skipped: BlackShadow_v1.0_0997.lha
 Skipped: BlackShadow_v1.1_0997.lha
-Scanned: Black Strawberry Cake
+Skipped: BlackStrawberryCake_v1.0.lha
 Skipped: BlackTiger_v1.2_1221.lha
 Skipped: BlackViper_v1.0.lha
 Skipped: BlackViper_v1.0_AGA.lha
@@ -2946,7 +2946,7 @@ Skipped: Harpoon&Battleset1_v1.0.lha
 Skipped: Harpoon&Battleset2_v1.0_1033.lha
 Skipped: Harpoon&Battleset3_v1.0_1788.lha
 Skipped: Harpoon&Battleset4_v1.0.lha
-Scanned: Harricana (Francais)
+Skipped: Harricana_v1.0_Fr.lha
 Skipped: HarrierCombatSimulator_v1.01_NTSC_0919.lha
 Skipped: HarrierCombatSimulator_v1.0_0919.lha
 Skipped: HarrierCombatSimulator_v1.0_NTSC_0919.lha
@@ -3789,6 +3789,7 @@ Skipped: MeanStreets_v1.2_Fr.lha
 Skipped: MegaBall_v1.02.lha
 Skipped: MegaBall_v1.02_1MB.lha
 Skipped: MegaBall_v1.02_AGA.lha
+Scanned: Mega Ball [AGA]
 Skipped: MegaLoMania_v1.7_0272.lha
 Skipped: MegaLoMania_v1.7_De_0076.lha
 Skipped: MegaLoMania_v1.7_Fr_1741.lha
@@ -4304,7 +4305,7 @@ Skipped: Pod_v1.0.lha
 Skipped: Pod_v1.1.lha
 Skipped: PokerNights&DataDisk_v1.1.lha
 Skipped: PokerNights_v1.0_De.lha
-Scanned: Poker Nights
+Skipped: PokerNights_v1.1.lha
 Skipped: PoliceQuest2_v1.0_1849.lha
 Skipped: PoliceQuest3_v1.2.lha
 Skipped: PoliceQuest3_v1.2_De.lha
@@ -4668,7 +4669,7 @@ Skipped: Switchblade2_v1.3_1725.lha
 Skipped: Switchblade2_v1.4_1725.lha
 Skipped: Switchblade2_v1.5_1725.lha
 Skipped: Switchblade2_v1.6_1725.lha
-Scanned: Switchblade II
+Skipped: Switchblade2_v1.7_1725.lha
 Skipped: Switchblade_v1.3_1101.lha
 Skipped: SWIV_v1.7_0038.lha
 Skipped: Swooper_v1.0.lha
@@ -5184,7 +5185,7 @@ Skipped: SoccerSuperstars_v1.0_De.lha
 Skipped: Soldier2000_v1.2.lha
 Skipped: SoldierOfLight_v1.1_2001.lha
 Skipped: SolidGold_v1.01.lha
-Scanned: Solid Gold
+Skipped: SolidGold_v1.02.lha
 Skipped: SolNegro_v1.0.lha
 Skipped: SolNegro_v1.1.lha
 Skipped: SolomonsKey2_v1.0.lha
@@ -6468,6 +6469,7 @@ Skipped: BrainArtifice-WHDL.lha
 Skipped: Brainbow-WHDL.lha
 Skipped: BrainDamageFR-WHDL.lha
 Skipped: BrainKillerAGAdemo-WHDL.lha
+Scanned: Brain Man 1 TR
 Skipped: BrainShave-WHDL.lha
 Skipped: Brainsphere-WHDL.lha
 Skipped: BrainWavePL-WHDL.lha
@@ -7830,6 +7832,7 @@ Skipped: PeebeeSeuck-WHDL.lha
 Skipped: PegIt-WHDL.lha
 Skipped: Pengo1-WHDL.lha
 Skipped: Pengo2-WHDL.lha
+Scanned: Pengo MS
 Skipped: PenguinsAGA-WHDL.lha
 Skipped: PepeScrewdriverPL-WHDL.lha
 Skipped: PepsiGameDE-WHDL.lha
@@ -8048,6 +8051,7 @@ Skipped: PizzaConnectionTeng-WHDL.lha
 Skipped: Plaft-WHDL.lha
 Skipped: PlanetZybex-WHDL.lha
 Skipped: PlasmaBubble-WHDL.lha
+Scanned: Plat Man Demo
 Skipped: PlatmanECSAGA-WHDL.lha
 Skipped: Platou-WHDL.lha
 Skipped: Playball-WHDL.lha

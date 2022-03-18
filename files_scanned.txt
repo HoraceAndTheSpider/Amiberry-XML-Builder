@@ -1,4 +1,4 @@
-Scanned file log: 2022-03-16 at 03:00:03
+Scanned file log: 2022-03-18 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -996,7 +996,7 @@ Skipped: AigleDOr_v1.1_Fr_2600.lha
 Skipped: AigleDOr_v1.2_512k_Fr_2600.lha
 Skipped: AigleDOr_v1.2_Fr_2600.lha
 Skipped: Airball_v1.1.lha
-Scanned: Airball
+Skipped: Airball_v1.2_3034.lha
 Skipped: AirborneRanger_v1.1_0100.lha
 Skipped: AirSupport_v1.1_1320.lha
 Skipped: ACSYSDemo_v1.11_AGA.lha
@@ -1654,7 +1654,7 @@ Skipped: Cytron_v1.02_NTSC.lha
 Skipped: Cytron_v1.1_0110.lha
 Skipped: Cytron_v1.1_NTSC.lha
 Skipped: Cabal_v1.2a_0638.lha
-Scanned: Cabal
+Skipped: Cabal_v1.3_0638.lha
 Skipped: CabaretAsteroids_v1.1.lha
 Skipped: CabaretAsteroids_v1.1_Repacked.lha
 Skipped: Cadaver&CadaverThePayoff_v2.2_0900.lha

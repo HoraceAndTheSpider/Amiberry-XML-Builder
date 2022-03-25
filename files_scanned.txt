@@ -1,4 +1,4 @@
-Scanned file log: 2022-03-23 at 03:00:04
+Scanned file log: 2022-03-25 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -6512,8 +6512,8 @@ Skipped: Fayoh1AGA-WHDL.lha
 Skipped: Fayoh2AGA-WHDL.lha
 Skipped: BubblePopMemory-WHDL.lha
 Skipped: BubblePopMemoryAGA-WHDL.lha
-Scanned: Bubble Stones 1
-Scanned: Bubble Stones 2 [AGA]
+Skipped: BubbleStones1-WHDL.lha
+Skipped: BubbleStones2AGA-WHDL.lha
 Skipped: BubbleTrubble-WHDL.lha
 Skipped: BugBlaster-WHDL.lha
 Skipped: Buggles-WHDL.lha
@@ -8758,6 +8758,7 @@ Skipped: TecnoballzAGA-WHDL.lha
 Skipped: Teddy-WHDL.lha
 Skipped: TeenAgentAGA-WHDL.lha
 Skipped: TeenAgentSpeechAGAPL-WHDL.lha
+Scanned: Teeny Weenys
 Skipped: TeenyWeenysAGA-WHDL.lha
 Skipped: TeeOff-WHDL.lha
 Skipped: Telekommando1DE-WHDL.lha
@@ -9208,6 +9209,7 @@ Skipped: AMRWolfdemoAGA-WHDL.lha
 Skipped: AonicDemo-WHDL.lha
 Skipped: AstroBloxRevDemo-WHDL.lha
 Skipped: AtareniumFalconDemo-WHDL.lha
+Scanned: Attack PETSCIIRobots Demo
 Skipped: AztecChallengeCD32demo-WHDL.lha
 Skipped: BackboneMicrofighters-WHDL.lha
 Skipped: BackboneMonkeyDemo-WHDL.lha

@@ -1,4 +1,4 @@
-Scanned file log: 2022-03-30 at 03:00:03
+Scanned file log: 2022-04-01 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -9200,9 +9200,9 @@ Skipped: Cornelius-WHDL.lha
 Skipped: Cortex-WHDL.lha
 Skipped: CosmicBattles-WHDL.lha
 Skipped: CosmicRacer-WHDL.lha
-Scanned: Countdown 1 Extinction
-Scanned: Countdown 2 Traitor
-Scanned: Countdown 3 Hanger 18-NV
+Skipped: Countdown1Extinction-WHDL.lha
+Skipped: Countdown2Traitor-WHDL.lha
+Skipped: Countdown3Hanger18-WHDL.lha
 Skipped: CountdownExtinction-WHDL.lha
 Skipped: AdamIsMe-WHDL.lha
 Skipped: Agonman2021AGAdemo-WHDL.lha

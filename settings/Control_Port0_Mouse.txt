@@ -362,6 +362,9 @@ LostDutchmanMine
 LostPatrol
 LostPatrolNTSC
 LureOfTheTemptress
+LureOfTheTemptressDe
+LureOfTheTemptressFr
+LureOfTheTemptressIt
 M1TankPlatoon
 MadTV
 Manhunter

@@ -414,6 +414,9 @@ Lotus
 Lotus2
 Lotus3
 LureOfTheTemptress
+LureOfTheTemptressDe
+LureOfTheTemptressFr
+LureOfTheTemptressIt
 M1TankPlatoon
 MadTV
 MadTVDe

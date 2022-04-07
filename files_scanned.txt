@@ -1,4 +1,4 @@
-Scanned file log: 2021-06-11 at 03:00:07
+Scanned file log: 2022-04-06 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -154,6 +154,7 @@ Skipped: Cuzco_v1.0_Oxygene_AGA.lha
 Skipped: CyberSounds_v1.0_Bastards.lha
 Skipped: Demo_v1.0_Mute101.lha
 Skipped: DOS_v1.1_Andromeda.lha
+Skipped: DOS_v1.2_Andromeda.lha
 Skipped: DoTheBartman_v1.0_FreeHand.lha
 Skipped: DoubleIntro_v1.0_Vega.lha
 Skipped: DragonLord_v1.0_AlfaForce.lha
@@ -257,6 +258,7 @@ Skipped: FelixDontYouWantMe_v1.0_ProjectA.lha
 Skipped: Finlandia_v1.0_DualCrew&Complex.lha
 Skipped: FirstDemo_v1.0_Exact.lha
 Skipped: FlowerPower_v1.0_Anarchy.lha
+Skipped: FlowerPower_v1.1_Anarchy.lha
 Skipped: FollowMe_v1.0_RedSectorInc.lha
 Skipped: FoolsGold_v1.0_Sanity.lha
 Skipped: Forgotten_v1.0_Mirage.lha
@@ -292,6 +294,7 @@ Skipped: Hallucinations&Dreams_v1.1_Union.lha
 Skipped: Hammer_v1.0_Amaze.lha
 Skipped: Hardcore_v1.1_Anarchy.lha
 Skipped: Hardwired_v1.1_Crionics&Silents.lha
+Skipped: Harmagedon_v1.01_Infect_AGA.lha
 Skipped: Harmagedon_v1.0_Infect_AGA.lha
 Skipped: Heliopolis_v1.0_EMTDesign.lha
 Skipped: HereWeAre_v1.0_Awake.lha
@@ -994,6 +997,7 @@ Skipped: AigleDOr_v1.1_Fr_2600.lha
 Skipped: AigleDOr_v1.2_512k_Fr_2600.lha
 Skipped: AigleDOr_v1.2_Fr_2600.lha
 Skipped: Airball_v1.1.lha
+Skipped: Airball_v1.2_3034.lha
 Skipped: AirborneRanger_v1.1_0100.lha
 Skipped: AirSupport_v1.1_1320.lha
 Skipped: ACSYSDemo_v1.11_AGA.lha
@@ -1016,6 +1020,7 @@ Skipped: Akira_v1.1.lha
 Skipped: Akira_v1.2.lha
 Skipped: Akira_v1.2_CD32.lha
 Skipped: Aladdin_v1.7_AGA_0420.lha
+Skipped: Aladdin_v1.8_AGA_0420.lha
 Skipped: Albedo_v1.0_Fr.lha
 Skipped: Alcatraz_v1.2_2073.lha
 Skipped: Alcatraz_v1.3_2073.lha
@@ -1070,6 +1075,8 @@ Skipped: AllTerrainRacingXmasDemo_v1.3.lha
 Skipped: AllTerrainRacing_v1.2.lha
 Skipped: AllTerrainRacing_v1.4.lha
 Skipped: AllTerrainRacing_v1.4_CD32.lha
+Skipped: AllTerrainRacing_v1.5.lha
+Skipped: AllTerrainRacing_v1.5_CD32.lha
 Skipped: Alpha1_v1.0_1921.lha
 Skipped: AlphaWaves_v1.0_0626.lha
 Skipped: AlteredBeast_v2.0_0819.lha
@@ -1182,6 +1189,8 @@ Skipped: ArcherMacLeansPool_v1.2_1096.lha
 Skipped: Archipelagos_v1.2_0627.lha
 Skipped: Archipelagos_v1.2_NTSC_0628.lha
 Skipped: AncientArtOfWar_v1.1.lha
+Skipped: AndromedaMission_v1.0.lha
+Skipped: AndromedaMission_v1.0_De.lha
 Skipped: AnotherWorld_v2.4_0425.lha
 Skipped: AnotherWorld_v2.4_Fr_2377.lha
 Skipped: AnotherWorld_v2.4_It.lha
@@ -1326,6 +1335,7 @@ Skipped: BattleCommand_v1.2_0858.lha
 Skipped: BattleForTheAshes_v1.0_2526.lha
 Skipped: BattleForTheAshes_v1.0_AmigaPower.lha
 Skipped: Battlehawks1942_v1.0_0053.lha
+Skipped: BattleIsle&DataDisks_v1.10_0460&0667&1991.lha
 Skipped: BadLands_v1.2_1237.lha
 Skipped: Banshee_v3.3_AGA_0633.lha
 Skipped: BAT2_v1.1_1835.lha
@@ -1347,6 +1357,7 @@ Skipped: BSSJaneSeymour_v1.2_0177.lha
 Skipped: BubbleAndSqueak_v2.1_CD32.lha
 Skipped: Budokan_v1.2_1215.lha
 Skipped: BundesligaManagerProfessional_v1.01_De.lha
+Skipped: BattleIsle_v1.10_1991.lha
 Skipped: BattleIsle_v1.9_1991.lha
 Skipped: BattleMaster_v1.0_0635.lha
 Skipped: Battleships_v1.0.lha
@@ -1409,6 +1420,7 @@ Skipped: BionicCommando_v1.1_NTSC_1074.lha
 Skipped: BiplaneDuel_v1.0.lha
 Skipped: BlackShadow_v1.0_0997.lha
 Skipped: BlackShadow_v1.1_0997.lha
+Skipped: BlackStrawberryCake_v1.0.lha
 Skipped: BlackTiger_v1.2_1221.lha
 Skipped: BlackViper_v1.0.lha
 Skipped: BlackViper_v1.0_AGA.lha
@@ -1419,6 +1431,8 @@ Skipped: BlackViper_v1.1_CD32.lha
 Skipped: BladesOfSteel_v1.0.lha
 Skipped: BladeWarrior_v1.3_2201.lha
 Skipped: BladeWarrior_v2.0_2201.lha
+Skipped: Blade_v1.0_1801.lha
+Skipped: Blade_v1.0_AGA_1801.lha
 Skipped: BlastaBall_v0.1_Arcadia.lha
 Skipped: Blastar_v2.1.lha
 Skipped: Blastar_v3.0_2814.lha
@@ -1482,6 +1496,7 @@ Skipped: BramStokersDracula_v1.0.lha
 Skipped: Brataccas_v1.0_NTSC_1189.lha
 Skipped: Brat_v2.0.lha
 Skipped: Breach2_v1.0_1195.lha
+Skipped: Breach2_v1.1_1195.lha
 Skipped: Breach_v1.0_1487.lha
 Skipped: Breach_v1.0_NTSC_1487.lha
 Skipped: BreakOutRevolution_v1.0_AGA.lha
@@ -1640,6 +1655,7 @@ Skipped: Cytron_v1.02_NTSC.lha
 Skipped: Cytron_v1.1_0110.lha
 Skipped: Cytron_v1.1_NTSC.lha
 Skipped: Cabal_v1.2a_0638.lha
+Skipped: Cabal_v1.3_0638.lha
 Skipped: CabaretAsteroids_v1.1.lha
 Skipped: CabaretAsteroids_v1.1_Repacked.lha
 Skipped: Cadaver&CadaverThePayoff_v2.2_0900.lha
@@ -1682,7 +1698,8 @@ Skipped: Carcharodon_v1.1a_2389.lha
 Skipped: Carcharodon_v1.1_2389.lha
 Skipped: Cardiaxx_v1.0a_ElectronicZoo_1601.lha
 Skipped: Cardiaxx_v1.0a_Team17_2362.lha
-Skipped: CarlLewisChallenge_v1.1_0639.lha
+Skipped: CardinalOfTheKremlin_v1.0.lha
+Skipped: CardinalOfTheKremlin_v1.01.lha
 Skipped: Carlos_v1.0_2299.lha
 Skipped: Carlos_v1.1_2299.lha
 Skipped: Carlos_v1.2_2229.lha
@@ -1709,8 +1726,9 @@ Skipped: CastleMaster_v1.20.1.lha
 Skipped: Calephar_v1.1_Image_2661.lha
 Skipped: CannonFodder_v1.3_0860.lha
 Skipped: CapNCarnage_v1.0_2227.lha
-Skipped: CardinalOfTheKremlin_v1.0.lha
+Skipped: CarlLewisChallenge_v1.1_0639.lha
 Skipped: CastleOfDrBrain_v1.1_1287.lha
+Skipped: CaveRunner_v1.0.lha
 Skipped: Centurion_v1.0_1945.lha
 Skipped: ChampionsOfKrynn_v1.0_0986.lha
 Skipped: ChaosStrikesBack&EnglishUtilityDisk_v1.2.lha
@@ -1740,20 +1758,6 @@ Skipped: CastorsJuniorsDansLaForet_v1.0_Fr.lha
 Skipped: CatchEm_v1.0.lha
 Skipped: Cattivik_v1.0_2752.lha
 Skipped: CaveMania_v1.2_2220.lha
-Skipped: CaveRunner_v1.0.lha
-Skipped: Cavitas_v1.1_2251.lha
-Skipped: Cedric_v1.1.lha
-Skipped: Cedric_v1.1_CD32.lha
-Skipped: Cedric_v1.1_CD32_Fast.lha
-Skipped: Cedric_v1.1_Fast.lha
-Skipped: Cedric_v1.2.lha
-Skipped: Cedric_v1.2_CD32.lha
-Skipped: Cedric_v2.1.lha
-Skipped: Cedric_v2.1_CD32.lha
-Skipped: Cedric_v2.2.lha
-Skipped: Cedric_v2.2_CD32.lha
-Skipped: CelticLegends_v1.4_1281.lha
-Skipped: CentrefoldSquares_v1.0_0467.lha
 Skipped: Centurion_v1.0_NTSC_1945.lha
 Skipped: Century_v1.0_0640.lha
 Skipped: ChamberOfTheSciMutantPriestess_v1.1b.lha
@@ -1957,6 +1961,7 @@ Skipped: CrystalHammer_v1.1_V1.lha
 Skipped: CrystalHammer_v1.2_V1.lha
 Skipped: CrystalHammer_v1.2_V2.lha
 Skipped: CrystalKingdomDizzy_v1.0.lha
+Skipped: CrystalKingdomDizzy_v2.0a_0109.lha
 Skipped: CrystalPalace_v1.0.lha
 Skipped: CrystalPalace_v1.1a.lha
 Skipped: CrystalsOfArborea_v1.3.lha
@@ -1998,6 +2003,23 @@ Skipped: CannonFodder2_v1.12_Fr_2578.lha
 Skipped: CannonFodderNewCampaign_v1.3.lha
 Skipped: CannonFodderPlus_v1.0_0060.lha
 Skipped: CannonFodder_v1.2_CD32.lha
+Skipped: Cavitas_v1.1_2251.lha
+Skipped: Cedric_v1.1.lha
+Skipped: Cedric_v1.1_CD32.lha
+Skipped: Cedric_v1.1_CD32_Fast.lha
+Skipped: Cedric_v1.1_Fast.lha
+Skipped: Cedric_v1.2.lha
+Skipped: Cedric_v1.2_CD32.lha
+Skipped: Cedric_v2.1.lha
+Skipped: Cedric_v2.1_CD32.lha
+Skipped: Cedric_v2.2.lha
+Skipped: Cedric_v2.2_CD32.lha
+Skipped: CelticLegends_v1.4_1281.lha
+Skipped: CenterCourt2_v1.0_AGA.lha
+Skipped: CenterCourt2_v1.1_AGA.lha
+Skipped: CenterCourt_v1.0_2765.lha
+Skipped: CenterCourt_v1.0_AGA_2765.lha
+Skipped: CentrefoldSquares_v1.0_0467.lha
 Skipped: Driller_v1.0_2256.lha
 Skipped: Drip_v1.0.lha
 Skipped: DrivinForce_v1.1_1521.lha
@@ -2115,14 +2137,17 @@ Skipped: DefensorDeLaCorona2_v1.1_CD32_Es.lha
 Skipped: DefensorDeLaCorona2_v1.2_CD32_Es.lha
 Skipped: Deflektor_v1.11_1087.lha
 Skipped: DejaVu2LostInLasVegas_v1.0.lha
+Skipped: DejaVu2LostInLasVegas_v1.1.lha
 Skipped: DejaVuANightmareComesTrue_v1.0_1832.lha
 Skipped: DejaVu_v1.0_NTSC_1832.lha
 Skipped: DejaVu_v1.1_NTSC_1832.lha
+Skipped: DejaVu_v1.2_NTSC_1832.lha
 Skipped: Deliverance_v1.4_1500.lha
 Skipped: Deliverance_v1.5_1500.lha
 Skipped: Deliverance_v2.0_1500.lha
 Skipped: Deliverance_v2.0_512k_1500.lha
 Skipped: DeltaCommand_v0.2_Arcadia.lha
+Skipped: DeltaCommand_v1.0_Arcadia.lha
 Skipped: DeluxeGalaga_v1.1.lha
 Skipped: DeluxeGalaga_v1.1_AGA.lha
 Skipped: DeluxeGalaga_v1.2.lha
@@ -2147,12 +2172,15 @@ Skipped: Dennis_v1.5.2_CD32.lha
 Skipped: DenverJeFaisDesCouleurs_v1.0_Fr.lha
 Skipped: DesertStrike_v2.3_0112.lha
 Skipped: DesertStrike_v3.1_0112.lha
+Scanned: Desert Strike - Return to the Gulf
+Scanned: Desert Strike (512Kb)
 Skipped: Destroyer_v1.0_0318.lha
 Skipped: Detonator_v1.0.lha
 Skipped: Detroit_v1.0_1861.lha
 Skipped: Detroit_v1.0_AGA.lha
 Skipped: Detroit_v1.0_AGA_Fr.lha
 Skipped: Deuteros_v1.10_0958.lha
+Skipped: DevilsTempleDemo_v1.0.lha
 Skipped: DeviousDesigns_v1.3_0256.lha
 Skipped: DGeneration_v2.2_0677.lha
 Skipped: DGeneration_v2.3_AGA_0457.lha
@@ -2277,9 +2305,11 @@ Skipped: DizzyCollection_v2.0_1348.lha
 Skipped: DizzyDice_v1.0.lha
 Skipped: DizzyPanic_v1.1.lha
 Skipped: DizzyPrinceOfTheYolkfolk_v1.4_1146.lha
+Skipped: DizzyPrinceOfTheYolkfolk_v2.0_1146.lha
 Skipped: DizzysExcellentAdventures_v1.0_2502.lha
 Skipped: Dogfight_v1.02_1293.lha
 Skipped: DogsOfWar_v1.3_3008.lha
+Skipped: DogsOfWar_v2.0_3008.lha
 Skipped: DojoDan_v1.1_2503.lha
 Skipped: Doman_v1.4_Pl.lha
 Skipped: Explora_v1.4_Fr.lha
@@ -2287,6 +2317,7 @@ Skipped: Extase_v1.1_2421.lha
 Skipped: Exterminator_v1.1_1958.lha
 Skipped: ExtractorPreview_v1.0_CD32.lha
 Skipped: Extrial_v1.0.lha
+Skipped: Extrial_v1.1.lha
 Skipped: EyeOfHorus_v1.0_1746.lha
 Skipped: EyeOfTheBeholder2_v1.1_0834.lha
 Skipped: EyeOfTheBeholder2_v1.1_De_0681.lha
@@ -2332,6 +2363,7 @@ Skipped: Elvira_v1.1_Fr_1751.lha
 Skipped: Elvira_v1.2_0267.lha
 Skipped: Elvira_v1.2_De_0474.lha
 Skipped: Elvira_v1.2_Fr_1751.lha
+Skipped: Elvira_v1.2_NTSC.lha
 Skipped: Embryo_v1.0_2265.lha
 Skipped: Embryo_v1.0_De.lha
 Skipped: EmeraldMine2_v0.91b_1520.lha
@@ -2519,6 +2551,8 @@ Skipped: FirstContact_v1.1_0923.lha
 Skipped: FirstSamurai_v1.6_1182.lha
 Skipped: FirstSamurai_v2.0_1182.lha
 Skipped: FirstSamurai_v2.0_A1200Version_NONAGA.lha
+Skipped: FirstSamurai_v2.1_1182.lha
+Skipped: FirstSamurai_v2.1_A1200Version_NONAGA.lha
 Skipped: Fish_v1.0_0271.lha
 Skipped: FistFighter_v1.0.lha
 Skipped: FiveASideSoccer_v1.2.lha
@@ -2759,6 +2793,12 @@ Skipped: GloomDemo_v1.0_AGA.lha
 Skipped: GloomDemo_v1.1_AGA.lha
 Skipped: Gloom_v1.2_AGA_0124.lha
 Skipped: Gloom_v1.2_CD32.lha
+Skipped: Gloom_v1.3.1_1330.lha
+Skipped: Gloom_v1.3.1_AGA_0124.lha
+Skipped: Gloom_v1.3.1_CD32.lha
+Skipped: Gloom_v1.4_1330.lha
+Skipped: Gloom_v1.4_AGA_0124.lha
+Skipped: Gloom_v1.4_CD32.lha
 Skipped: GNius_v1.1_0895.lha
 Skipped: GnomeAlone_v1.0.lha
 Skipped: GnomeRanger_v1.0.lha
@@ -2818,6 +2858,7 @@ Skipped: GreatCourts2_v1.5_512KB_0333.lha
 Skipped: GreatCourts_v2.3_2605.lha
 Skipped: GreatGianaSisters_v1.5.1_2945.lha
 Skipped: GreatGianaSisters_v1.6_2945.lha
+Scanned: Green Beret
 Skipped: Gremlins2_v1.2_0489.lha
 Skipped: Gridiron_v1.0_2124.lha
 Skipped: GodsDemo_v1.0.lha
@@ -2912,11 +2953,13 @@ Skipped: Harpoon&Battleset1_v1.0.lha
 Skipped: Harpoon&Battleset2_v1.0_1033.lha
 Skipped: Harpoon&Battleset3_v1.0_1788.lha
 Skipped: Harpoon&Battleset4_v1.0.lha
+Skipped: Harricana_v1.0_Fr.lha
 Skipped: HarrierCombatSimulator_v1.01_NTSC_0919.lha
 Skipped: HarrierCombatSimulator_v1.0_0919.lha
 Skipped: HarrierCombatSimulator_v1.0_NTSC_0919.lha
 Skipped: HATE_v1.0_1930.lha
 Skipped: Hawkeye_v1.0.lha
+Skipped: Hawkeye_v1.1_1963.lha
 Skipped: HeadOverHeels_v1.0_1674.lha
 Skipped: HeartOfChina_v1.1_De_1869.lha
 Skipped: HeartOfTheDragon_v1.1_3Disk.lha
@@ -3022,6 +3065,8 @@ Skipped: Humans_v1.5_CD32.lha
 Skipped: Humans_v1.6-B_1888.lha
 Skipped: Humans_v1.6-B_De_0509.lha
 Skipped: Humans_v1.6-B_Fr_2666.lha
+Skipped: ISS_v1.1_0287.lha
+Skipped: ISS_v1.2_0287.lha
 Skipped: Italia1990_v1.0_2314.lha
 Skipped: Italy1990WinnersEdition_v1.2_1610.lha
 Skipped: Italy1990_v1.2_1260.lha
@@ -3238,6 +3283,7 @@ Skipped: JumpingJackSon_v1.41_1040.lha
 Skipped: JumpingJackSon_v2.0_1040.lha
 Skipped: Knightmare_v2.0_0966.lha
 Skipped: Knightmare_v2.1_0966.lha
+Skipped: Knightmare_v2.1_Mindscape_0966.lha
 Skipped: KnightOrc_v1.0_0215.lha
 Skipped: KnightsOfTheCrystallion_v1.51_1160.lha
 Skipped: KnightsOfTheCrystallion_v1.51_De_1426.lha
@@ -3266,6 +3312,7 @@ Skipped: KalasPuffsExpressen_v1.1_Se_1MB.lha
 Skipped: KalasPuffsExpressen_v1.1_Se_512KB.lha
 Skipped: Kamikaze_v1.0_1573.lha
 Skipped: KarateKid2_v1.1.lha
+Skipped: KarateKid2_v1.2.lha
 Skipped: KarateKing&CityDefence_v1.1.lha
 Skipped: KartingGrandPrix_v1.0_0517.lha
 Skipped: Katakis_v1.2_1Disk_1273.lha
@@ -3379,6 +3426,7 @@ Skipped: KnightForce_v1.2_1574.lha
 Skipped: KnightForce_v2.0_1574.lha
 Skipped: KnightForce_v2.1_1574.lha
 Skipped: KnightForce_v2.2_1574.lha
+Skipped: Knightmare_v1.0_Konami.lha
 Skipped: LostInMine_v1.1_Pl.lha
 Skipped: LostPatrol_v1.3_0773.lha
 Skipped: LostPatrol_v1.3_NTSC_0498.lha
@@ -3416,6 +3464,8 @@ Skipped: LastActionHero_v1.1.lha
 Skipped: LastBattle_v1.1_1044.lha
 Skipped: LastDuel_v1.1.lha
 Skipped: LastNinja2_v1.1_0131.lha
+Scanned: Last Ninja 3
+Scanned: Last Ninja 3 [CD32]
 Skipped: LastNinja3_v1.1_0495.lha
 Skipped: LastNinja3_v1.1_CD32.lha
 Skipped: LastSoldier_v1.0_Pl.lha
@@ -3564,6 +3614,7 @@ Skipped: Logical_v1.1_CDTV.lha
 Skipped: Logical_v1.2_0529.lha
 Skipped: Logical_v1.2_CDTV.lha
 Skipped: Logo_v1.0.lha
+Skipped: Logo_v1.1.lha
 Skipped: Lollypop_v1.0.lha
 Skipped: LombardRACRally_v1.1_1Disk_1144.lha
 Skipped: Loom_v2.1_0618.lha
@@ -3620,6 +3671,10 @@ Skipped: LureOfTheTemptress_v2.0_2030.lha
 Skipped: LureOfTheTemptress_v2.0_De.lha
 Skipped: LureOfTheTemptress_v2.0_Fr_2040.lha
 Skipped: LureOfTheTemptress_v2.0_It_2028.lha
+Scanned: Lure Of The Temptress
+Scanned: Lure Of The Temptress (Deutsch)
+Scanned: Lure Of The Temptress (Francais)
+Scanned: Lure Of The Temptress (Italiano)
 Skipped: Luxor_v1.0.lha
 Skipped: MultiPlayerSoccerManager_v1.0.lha
 Skipped: Munsters_v1.1_1265.lha
@@ -3632,6 +3687,7 @@ Skipped: MurdersInSpace_v1.3a_Image_2344.lha
 Skipped: MurdersInSpace_v1.3_Files_2344.lha
 Skipped: MurdersInSpace_v1.3_Image_2344.lha
 Skipped: Murder_v1.4_0136.lha
+Skipped: MutantLeagueHockey_v1.0_AGA.lha
 Skipped: MysteriousWorlds_v1.05_1588.lha
 Skipped: MysteryOfTheMummy_v1.0.lha
 Skipped: Mystical_v1.2_0541.lha
@@ -3746,6 +3802,9 @@ Skipped: MeanStreets_v1.2_Fr.lha
 Skipped: MegaBall_v1.02.lha
 Skipped: MegaBall_v1.02_1MB.lha
 Skipped: MegaBall_v1.02_AGA.lha
+Skipped: MegaBall_v1.03.lha
+Skipped: MegaBall_v1.03_1MB.lha
+Skipped: MegaBall_v1.03_AGA.lha
 Skipped: MegaLoMania_v1.7_0272.lha
 Skipped: MegaLoMania_v1.7_De_0076.lha
 Skipped: MegaLoMania_v1.7_Fr_1741.lha
@@ -3764,6 +3823,7 @@ Skipped: Mercenary3_v1.2_0356.lha
 Skipped: Mercenary_v1.2_0955.lha
 Skipped: Mercs_v1.1_1668.lha
 Skipped: MervTheMerciless_v1.0.lha
+Skipped: MetalGear_v1.1.lha
 Skipped: MetalLaw_v1.0.lha
 Skipped: MetalLaw_v2.0.lha
 Skipped: MetalMasters_v1.0_0534.lha
@@ -3777,6 +3837,7 @@ Skipped: MetroCross_v1.1.lha
 Skipped: Mewilo_v1.0_De.lha
 Skipped: Mewilo_v1.0_Fr.lha
 Skipped: Moonwalker_v1.0.lha
+Skipped: MoreLemmings_v1.0.lha
 Skipped: Morph_v1.0_1148.lha
 Skipped: Morph_v1.0_AGA_1070.lha
 Skipped: Morph_v1.0_CD32.lha
@@ -3944,6 +4005,8 @@ Skipped: Neuronics_v1.0.lha
 Skipped: NeverEndingStory2_v1.4.lha
 Skipped: NeverMind_v1.0_1507.lha
 Skipped: NewYorkWarriors_v1.4_512KB_0705.lha
+Skipped: NewYorkWarriors_v1.5_1MB.lha
+Skipped: NewYorkWarriors_v1.5_512k_0705.lha
 Skipped: NewZealandStoryDemo_v1.0.lha
 Skipped: NewZealandStory_v2.1_1180.lha
 Skipped: NewZealandStory_v2.21_1180.lha
@@ -3970,6 +4033,7 @@ Skipped: NilDieuVivant_v1.1_Fr.lha
 Skipped: NinjaMission_v0.1_Arcadia.lha
 Skipped: NinjaMission_v1.0.lha
 Skipped: NinjaRabbits_v1.1.lha
+Scanned: Ninja Remix
 Skipped: NinjaRemix_v1.3.lha
 Skipped: NinjaSpirit_v1.2_1669.lha
 Skipped: NinjaWarriors_v1.2_0543.lha
@@ -4144,7 +4208,10 @@ Skipped: ParisDakar90_v1.0.lha
 Skipped: PassingShot_v1.1_0708.lha
 Skipped: Patrician_v1.3_1802.lha
 Skipped: Patrician_v1.3_Fr.lha
+Skipped: Patrician_v1.4_1802.lha
+Skipped: Patrician_v1.4_Fr.lha
 Skipped: Patrizier_v1.3_De_0376.lha
+Skipped: Patrizier_v1.4_De_0376.lha
 Skipped: Pawn_v1.0_0709.lha
 Skipped: Pegasus_v1.1_1645.lha
 Skipped: PenthouseHotNumbersDeluxe_v1.0_AGA_De.lha
@@ -4186,6 +4253,8 @@ Skipped: PinballDreams_v1.7_0377.lha
 Skipped: PinballDreams_v1.7_NTSC.lha
 Skipped: PinballDreams_v1.8_0377.lha
 Skipped: PinballDreams_v1.8_NTSC.lha
+Skipped: PinballDreams_v1.9_0377.lha
+Skipped: PinballDreams_v1.9_NTSC.lha
 Skipped: ParadiseLost_v1.0.lha
 Skipped: PeterBeardsleysInternationalFootball_v1.2.lha
 Skipped: PinballBrainDamage_v1.0_AGA.lha
@@ -4250,7 +4319,9 @@ Skipped: Plan9FromOuterSpace_v1.2a.lha
 Skipped: Plan9FromOuterSpace_v1.3_3023.lha
 Skipped: Pod_v1.0.lha
 Skipped: Pod_v1.1.lha
+Skipped: PokerNights&DataDisk_v1.1.lha
 Skipped: PokerNights_v1.0_De.lha
+Skipped: PokerNights_v1.1.lha
 Skipped: PoliceQuest2_v1.0_1849.lha
 Skipped: PoliceQuest3_v1.2.lha
 Skipped: PoliceQuest3_v1.2_De.lha
@@ -4378,6 +4449,7 @@ Skipped: PlayerManager_v1.03_0171.lha
 Skipped: PlayerManager_v1.03_De_2772.lha
 Skipped: PlayerManager_v1.03_Fr.lha
 Skipped: PlayerManager_v1.03_It_2572.lha
+Skipped: PlayhouseStripPoker_v1.0.lha
 Skipped: Playroom_v1.0_Fr.lha
 Skipped: Plotting_v1.3_1844.lha
 Skipped: Plutos_v1.1_0994.lha
@@ -4427,6 +4499,7 @@ Skipped: QuikTheThunderRabbit_v1.3_AGA.lha
 Skipped: QuikTheThunderRabbit_v1.3_CD32.lha
 Skipped: Qwak_v1.2_0715.lha
 Skipped: Qwak_v1.2_CD32.lha
+Skipped: RogueTrooper_v1.2_1441.lha
 Skipped: Rogue_v1.0.lha
 Skipped: Roketz_v1.1_AGA.lha
 Skipped: RollerCoasterRumbler_v1.0_0698.lha
@@ -4611,6 +4684,8 @@ Skipped: Robotnic_v1.0_2161.lha
 Skipped: Switchblade2_v1.3_1725.lha
 Skipped: Switchblade2_v1.4_1725.lha
 Skipped: Switchblade2_v1.5_1725.lha
+Skipped: Switchblade2_v1.6_1725.lha
+Skipped: Switchblade2_v1.7_1725.lha
 Skipped: Switchblade_v1.3_1101.lha
 Skipped: SWIV_v1.7_0038.lha
 Skipped: Swooper_v1.0.lha
@@ -4621,21 +4696,6 @@ Skipped: SwordOfHonour_v1.1_0149.lha
 Skipped: SwordOfSodan_v1.0_1103.lha
 Skipped: SwordOfSodan_v2.0a_1103.lha
 Skipped: SwordOfSodan_v2.0_1103.lha
-Skipped: Swords&Galleons_v1.0.lha
-Skipped: SwordsOfTwilight_v1.0_0972.lha
-Skipped: Sword_v1.0.lha
-Skipped: SyndicateAmericanRevolt_v2.2.lha
-Skipped: SyndicateAmericanRevolt_v2.3.lha
-Skipped: SyndicateAmericanRevolt_v2.6.lha
-Skipped: Syndicate_v2.2_0739.lha
-Skipped: Syndicate_v2.2_CD32.lha
-Skipped: Syndicate_v2.2_De_0405.lha
-Skipped: Syndicate_v2.3_0739.lha
-Skipped: Syndicate_v2.3_De_0405.lha
-Skipped: Syndicate_v2.4_CD32.lha
-Skipped: Syndicate_v2.6_0739.lha
-Skipped: Syndicate_v2.6_CD32.lha
-Skipped: Syndicate_v2.6_De_0405.lha
 Skipped: SabreTeam_v1.2.lha
 Skipped: SabreTeam_v1.2_AGA_1158.lha
 Skipped: SabreTeam_v1.2_CD32.lha
@@ -4663,10 +4723,15 @@ Skipped: Scorpion_v1.3_2615.lha
 Skipped: Scrabble_v1.0.lha
 Skipped: ScrambleSpirits_v1.0_1955.lha
 Skipped: ScrollingWalls_v1.0.lha
+Skipped: ScubaDiver_v1.0_AGA.lha
 Skipped: SDI_v1.0_Cinemaware_1266.lha
 Skipped: SDI_v1.0_Cinemaware_NTSC_1266.lha
 Skipped: SecondSamurai_v1.1_0721.lha
 Skipped: SecondSamurai_v1.1_AGA_1624.lha
+Scanned: Second Samurai
+Scanned: Second Samurai [AGA]
+Skipped: SecondSamurai_v1.2_0721.lha
+Skipped: SecondSamurai_v1.2_AGA_1624.lha
 Skipped: SecondsOut_v1.1_2760.lha
 Skipped: SecretOfMonkeyIsland_v3.4_De_0359.lha
 Skipped: SecretOfMonkeyIsland_v3.4_Es.lha
@@ -4682,6 +4747,11 @@ Skipped: SecretOfMonkeyIsland_v3.6_De_0359.lha
 Skipped: SecretOfMonkeyIsland_v3.6_Es.lha
 Skipped: SecretOfMonkeyIsland_v3.6_Fr_1750.lha
 Skipped: SecretOfMonkeyIsland_v3.6_It.lha
+Skipped: SecretOfMonkeyIsland_v3.7_1625.lha
+Skipped: SecretOfMonkeyIsland_v3.7_De_0359.lha
+Skipped: SecretOfMonkeyIsland_v3.7_Es.lha
+Skipped: SecretOfMonkeyIsland_v3.7_Fr_1750.lha
+Skipped: SecretOfMonkeyIsland_v3.7_It.lha
 Skipped: SecretOfTheSilverBlades_v1.0.lha
 Skipped: Seek&Destroy_v1.1_0252.lha
 Skipped: Seek&Destroy_v1.1_AGA_0252.lha
@@ -4714,6 +4784,7 @@ Skipped: SuperMethaneBros_v1.2_CD32.lha
 Skipped: SuperSkidmarks_v1.1_CD32.lha
 Skipped: SuperStreetFighter2DX_v1.1_AGA.lha
 Skipped: Switchblade2_v1.1_1725.lha
+Skipped: Swords&Galleons_v1.0.lha
 Skipped: SonShuShi_v1.2_2513.lha
 Skipped: Settlers_v1.6_0143.lha
 Skipped: Settlers_v1.6_Fr_2378.lha
@@ -4721,6 +4792,7 @@ Skipped: SevenCitiesOfGold_v1.1_0908.lha
 Skipped: SevenCitiesOfGold_v1.1_NTSC_0908.lha
 Skipped: SevenGatesOfJambala_v1.1_Files.lha
 Skipped: SevenGatesOfJambala_v1.1_Image.lha
+Skipped: SevenGatesOfJambala_v1.2_3052.lha
 Skipped: Sextimates_v1.0.lha
 Skipped: SeymourGoesToHollywood_v1.3.lha
 Skipped: ShadowDancer_v1.2_0202.lha
@@ -4728,6 +4800,7 @@ Skipped: ShadowFighter_v1.0_1630.lha
 Skipped: ShadowFighter_v1.0_AGA_0203.lha
 Skipped: ShadowFighter_v1.0_CD32.lha
 Skipped: Shadowgate_v1.0_0290.lha
+Skipped: Shadowgate_v1.1_0290.lha
 Skipped: Shadowlands_v1.6_0574.lha
 Skipped: ShadowOfTheBeast2Demo_v1.0.lha
 Skipped: ShadowOfTheBeast2_v1.3a_1359.lha
@@ -4735,6 +4808,10 @@ Skipped: ShadowOfTheBeast2_v1.3a_NTSC.lha
 Skipped: ShadowOfTheBeast2_v1.4_1359.lha
 Skipped: ShadowOfTheBeast2_v1.4_NTSC.lha
 Skipped: ShadowOfTheBeast3_v1.6_NTSC_1176.lha
+Skipped: ShadowOfTheBeast3_v1.7_0016.lha
+Skipped: ShadowOfTheBeast3_v1.7_NTSC_1176.lha
+Skipped: ShadowOfTheBeast3_v2.1_0016.lha
+Skipped: ShadowOfTheBeast3_v2.1_NTSC_1176.lha
 Skipped: ShadowOfTheBeastDemo_v1.0.lha
 Skipped: ShadowOfTheBeast_v2.2_1357.lha
 Skipped: ShadowOfTheBeast_v2.3_1357.lha
@@ -4747,20 +4824,6 @@ Skipped: ShadowSorcerer_v1.1_0275.lha
 Skipped: ShadowSorcerer_v1.1_DeFrIt.lha
 Skipped: ShadowWarriors_v1.1_0830.lha
 Skipped: ShadowWarriors_v2.1_0830.lha
-Skipped: Shanghai_v1.2_1388.lha
-Skipped: Shanghai_v1.2_Fr.lha
-Skipped: Shanghai_v1.2_NTSC_1387.lha
-Skipped: ShaqFu_v1.1.lha
-Skipped: ShaqFu_v1.1_AGA_1761.lha
-Skipped: SharkeysMoll_v1.2_2133.lha
-Skipped: SheFox_v1.3_0383.lha
-Skipped: ShermanM4_v1.2.lha
-Skipped: Shinobi_v1.4_1054.lha
-Skipped: Shinobi_v1.4_NTSC_2354.lha
-Skipped: ShockWave_v1.0_0723.lha
-Skipped: Shortgrey_v1.1a_Fr_2669.lha
-Skipped: ShufflepuckCafe_v1.1_1143.lha
-Skipped: ShufflepuckCafe_v1.1_Fr_2416.lha
 Skipped: Shuttle_v0.9_1906.lha
 Skipped: SideArms_v1.01_1073.lha
 Skipped: SideShow_v1.1_0779.lha
@@ -4997,6 +5060,7 @@ Skipped: StreetRacer_v1.5_AGA_CD.lha
 Skipped: StreetRacer_v1.5_CD32.lha
 Skipped: StreetRacer_v2.0_AGA_CD.lha
 Skipped: StreetRod2_v1.1.lha
+Skipped: StreetRod2_v1.2.lha
 Skipped: StreetRod_v1.01.lha
 Skipped: StreetRod_v1.02.lha
 Skipped: StreetSportsBasketball_v1.0.lha
@@ -5049,6 +5113,8 @@ Skipped: Superfrog_v1.2_CD32.lha
 Skipped: Superfrog_v1.3_0035.lha
 Skipped: Superfrog_v1.3_CD32.lha
 Skipped: Superfrog_v1.4_0035.lha
+Skipped: Superfrog_v1.5_0035.lha
+Skipped: Superfrog_v1.5_CD32.lha
 Skipped: SuperGemZ_v1.1.lha
 Skipped: SuperGrandPrix_v1.0_2145.lha
 Skipped: SuperGridRunner_v1.0.lha
@@ -5089,10 +5155,12 @@ Skipped: SensibleTrainSpotting_v1.0.lha
 Skipped: SensibleWorldOfSoccer9596EuropeanChampions_v1.7_1825.lha
 Skipped: Sentinel_v1.01_3025.lha
 Skipped: ShadowOfTheBeast3_v1.6_0016.lha
+Skipped: Shanghai_v1.2_1388.lha
 Skipped: Shuffle_v1.0_0724.lha
 Skipped: SilentService2_v2.1b_0949.lha
 Skipped: SimAnt_v1.01a_HiRes_De_0084.lha
 Skipped: SimEarth_v1.0_LoRes_Fr_2645.lha
+Skipped: SimonTheSorcerer_v1.4_De_1434.lha
 Skipped: Sinbad_v1.3_0083.lha
 Skipped: SkautKwatermaster_v1.0_Pl.lha
 Skipped: Skyfox_v1.0_0903.lha
@@ -5137,6 +5205,7 @@ Skipped: SoccerSuperstars_v1.0_De.lha
 Skipped: Soldier2000_v1.2.lha
 Skipped: SoldierOfLight_v1.1_2001.lha
 Skipped: SolidGold_v1.01.lha
+Skipped: SolidGold_v1.02.lha
 Skipped: SolNegro_v1.0.lha
 Skipped: SolNegro_v1.1.lha
 Skipped: SolomonsKey2_v1.0.lha
@@ -5150,18 +5219,11 @@ Skipped: SimonTheSorcerer_v1.3_AGA_De_0726.lha
 Skipped: SimonTheSorcerer_v1.3_AGA_Fr_2692.lha
 Skipped: SimonTheSorcerer_v1.3_De_1434.lha
 Skipped: SimonTheSorcerer_v1.3_Fr_2370.lha
-Skipped: Simulcra_v1.1.1.lha
-Skipped: Simulman01_v1.0_It.lha
-Skipped: Simulman02_v1.0_It.lha
-Skipped: Simulman03_v1.0_It.lha
-Skipped: Simulman04_v1.0_It.lha
-Skipped: Simulman05_v1.0_It.lha
-Skipped: Simulman06_v1.0_It.lha
-Skipped: Simulman07_v1.0_It.lha
-Skipped: Simulman08_v1.0_It.lha
-Skipped: Simulman09_v1.0_It.lha
-Skipped: Simulman10_v1.0_It.lha
-Skipped: Simulman11_v1.0_It.lha
+Skipped: SimonTheSorcerer_v1.4_2865.lha
+Skipped: SimonTheSorcerer_v1.4_AGA_0898.lha
+Skipped: SimonTheSorcerer_v1.4_AGA_De_0726.lha
+Skipped: SimonTheSorcerer_v1.4_AGA_Fr_2692.lha
+Skipped: SimonTheSorcerer_v1.4_AGA_It.lha
 Skipped: SuperStreetFighter2Turbo_v1.1_AGA_0735.lha
 Skipped: SuperStreetFighter2Turbo_v1.1_CD32.lha
 Skipped: SuperStreetFighter2_v1.1_0147.lha
@@ -5202,6 +5264,7 @@ Skipped: SensibleWorldOfSoccer2020_v2.1.lha
 Skipped: SensibleWorldOfSoccer2021_v1.7.lha
 Skipped: SensibleWorldOfSoccer2021_v2.0.lha
 Skipped: SensibleWorldOfSoccer2021_v2.1.lha
+Skipped: SensibleWorldOfSoccer2122_v2.1.lha
 Skipped: SensibleWorldOfSoccer9596EuropeanChampionsEdition_v2.1_1825.lha
 Skipped: SensibleWorldOfSoccer9596EuropeanChampions_v2.0_1825.lha
 Skipped: SensibleWorldOfSoccer9596_v1.7_1755.lha
@@ -5221,6 +5284,47 @@ Skipped: SensibleWorldOfSoccer_v1.7_0840.lha
 Skipped: SensibleWorldOfSoccer_v2.0_0840.lha
 Skipped: SensibleWorldOfSoccer_v2.1_0840.lha
 Skipped: SensibleWorldOfSoccer_v2.1_De.lha
+Skipped: Shanghai_v1.2_Fr.lha
+Skipped: Shanghai_v1.2_NTSC_1387.lha
+Skipped: ShaqFu_v1.1.lha
+Skipped: ShaqFu_v1.1_AGA_1761.lha
+Skipped: SharkeysMoll_v1.2_2133.lha
+Skipped: SheFox_v1.3_0383.lha
+Skipped: ShermanM4_v1.2.lha
+Skipped: Shinobi_v1.4_1054.lha
+Skipped: Shinobi_v1.4_NTSC_2354.lha
+Skipped: ShockWave_v1.0_0723.lha
+Skipped: Shortgrey_v1.1a_Fr_2669.lha
+Skipped: ShufflepuckCafe_v1.1_1143.lha
+Skipped: ShufflepuckCafe_v1.1_Fr_2416.lha
+Skipped: SimonTheSorcerer_v1.4_Fr_2370.lha
+Skipped: SimonTheSorcerer_v1.4_It.lha
+Skipped: Simulcra_v1.1.1.lha
+Skipped: Simulman01_v1.0_It.lha
+Skipped: Simulman02_v1.0_It.lha
+Skipped: Simulman03_v1.0_It.lha
+Skipped: Simulman04_v1.0_It.lha
+Skipped: Simulman05_v1.0_It.lha
+Skipped: Simulman06_v1.0_It.lha
+Skipped: Simulman07_v1.0_It.lha
+Skipped: Simulman08_v1.0_It.lha
+Skipped: Simulman09_v1.0_It.lha
+Skipped: Simulman10_v1.0_It.lha
+Skipped: Simulman11_v1.0_It.lha
+Skipped: SwordsOfTwilight_v1.0_0972.lha
+Skipped: Sword_v1.0.lha
+Skipped: SyndicateAmericanRevolt_v2.2.lha
+Skipped: SyndicateAmericanRevolt_v2.3.lha
+Skipped: SyndicateAmericanRevolt_v2.6.lha
+Skipped: Syndicate_v2.2_0739.lha
+Skipped: Syndicate_v2.2_CD32.lha
+Skipped: Syndicate_v2.2_De_0405.lha
+Skipped: Syndicate_v2.3_0739.lha
+Skipped: Syndicate_v2.3_De_0405.lha
+Skipped: Syndicate_v2.4_CD32.lha
+Skipped: Syndicate_v2.6_0739.lha
+Skipped: Syndicate_v2.6_CD32.lha
+Skipped: Syndicate_v2.6_De_0405.lha
 Skipped: TetrisPro_v1.0.1.lha
 Skipped: Tetris_v1.1_Infogrames.lha
 Skipped: Tetris_v1.1_Mirrorsoft.lha
@@ -5304,6 +5408,7 @@ Skipped: ThemePark_v2.0_AGA_0153.lha
 Skipped: ThemePark_v3.0_0090.lha
 Skipped: ThemePark_v3.0_AGA_0153.lha
 Skipped: ThemePark_v3.0_CD32.lha
+Skipped: ThemePark_v3.1_0090.lha
 Skipped: Thexder_v1.1_0392.lha
 Skipped: Thexder_v1.2_0392.lha
 Skipped: ThirdCourier_v1.0_0593.lha
@@ -5443,6 +5548,7 @@ Skipped: Transarctica_v1.4_0744.lha
 Skipped: Transarctica_v1.4_AGA.lha
 Skipped: Transplant_v1.01.lha
 Skipped: Transworld_v1.0_De_2837.lha
+Skipped: TrapRunner_v1.0.lha
 Skipped: TrapsNTreasures_v1.0.lha
 Skipped: TrapsNTreasures_v1.0_De.lha
 Skipped: TreasureIslandDizzy_v1.2_0594.lha
@@ -5537,6 +5643,7 @@ Skipped: TinToyAdventure_v1.3_AGA.lha
 Skipped: TinyBobble_v1.0.lha
 Skipped: TinyBobble_v1.1.lha
 Skipped: TinyBobble_v1.2.lha
+Skipped: TinyBobble_v1.3.lha
 Skipped: TinyGalaga_v1.0.lha
 Skipped: TinyGalaga_v1.1.lha
 Skipped: TinyGalaga_v1.2.lha
@@ -5555,6 +5662,7 @@ Skipped: UltimateXTremeRacing_v1.1_AGA_CD.lha
 Skipped: UMS2NationsAtWar_v1.0_2137.lha
 Skipped: UnderPressure_v1.0.lha
 Skipped: Uninvited_v1.0.lha
+Skipped: Uninvited_v1.1.lha
 Skipped: UniversalMilitarySimulator_v1.0_0753.lha
 Skipped: UniversalMonsters_v1.0.lha
 Skipped: UniversalWarrior_v1.01_0597.lha
@@ -5821,6 +5929,7 @@ Skipped: WorldClassRugby_v1.0_2131.lha
 Skipped: WorldClassSoccer_v1.2.lha
 Skipped: WorldCricket_v1.0.lha
 Skipped: WorldCup90_v1.0.lha
+Skipped: WorldCupUSA94_v1.0_0163.lha
 Skipped: WorldDarts_v0.1_Arcadia.lha
 Skipped: WorldDarts_v1.0_0871.lha
 Skipped: Xenex_v1.0.lha
@@ -5896,9 +6005,12 @@ Skipped: Zeewolf2_v5.00_0608.lha
 Skipped: Zeewolf_v5.03_0414.lha
 Skipped: ZeroGravity_v1.0.lha
 Skipped: Ziriax_v1.2_3001.lha
+Skipped: AbuSimbelProfanation_v1.0_AGA.lha
+Skipped: AbuSimbelProfanation_v1.0_AGA_Es.lha
 Skipped: AddamsFamily_v1.4_BETA_0419.lha
 Skipped: Aladdin_v1.8_AGA_0420.lha
 Skipped: Alien3_v2.2.lha
+Skipped: Amidar_v1.0.lha
 Skipped: AnotherWorldLostLevel_v1.1_Hack_by_Earok.lha
 Skipped: ApidyaSpecialEdition_v1.1_Hack_by_Earok.lha
 Skipped: Area88_v1.2_Hack_by_Earok.lha
@@ -5906,6 +6018,7 @@ Skipped: Armalyte_v1.3_BETA.lha
 Skipped: Atlantyda_v1.1_Pl.lha
 Skipped: Boppin_v1.0.lha
 Skipped: BuggyBoy_v1.3_BETA_0465.lha
+Skipped: Citadel_v1.3_RemonsteredEdition.lha
 Skipped: Cobra_v1.0.lha
 Skipped: DeepCore_v1.0_CD32_BETA.lha
 Skipped: DeepCore_v1.2_BETA.lha
@@ -5923,6 +6036,8 @@ Skipped: Hugo_v1.0_Es_Spanish_hack_by_K-teto.lha
 Skipped: Hybris_v2.4b3_BETA_1457.lha
 Skipped: JamesPond_v0.1_BETA_1MB.lha
 Skipped: JoanOfArc_v0.1.lha
+Skipped: Knightmare_v1.1_Konami.lha
+Skipped: LastActionHero_v1.1_Hack_by_AmigaLive.lha
 Skipped: Legion_v1.1a_BETA.lha
 Skipped: Liberation_v1.0_0617.lha
 Skipped: Liberation_v1.0_CD32.lha
@@ -5933,6 +6048,7 @@ Skipped: MetalGear_v1.0.lha
 Skipped: MoebiusGoatlizard_v0.1.lha
 Skipped: MonkeyBusiness_v1.0.lha
 Skipped: MrMenOlympics_v1.1.lha
+Skipped: MsPacMan_v1.0.lha
 Skipped: Netherworld_v1.5_2033_BETA.lha
 Skipped: Neutralizer2Demo_v0.1_BETA.lha
 Skipped: NibbyNibble_v1.0.lha
@@ -5941,6 +6057,8 @@ Skipped: NinjaGaiden2_v0.1_BETA.lha
 Skipped: Outlands&DizzyDice_v0.8_BETA.lha
 Skipped: Outlands&DizzyDice_v1.0_BETA.lha
 Skipped: Outlands_v1.0_BETA.lha
+Skipped: PacMan_v1.0.lha
+Skipped: PokerNights&DataDisk_v1.1.lha
 Skipped: Populous&DataDisks_v1.2_BETA_0069&1217.lha
 Skipped: Populous_v1.2_0069_BETA.lha
 Skipped: ProjectXSE2017_v1.5_Hack_by_Earok.lha
@@ -5953,6 +6071,8 @@ Skipped: Snakes_v0.9.lha
 Skipped: StoriaAncestrale_v0.9g.lha
 Skipped: StuntCarRacerTNT_v1.4_BETA.lha
 Skipped: StuntCarRacer_v1.4_BETA_0222.lha
+Skipped: SuperCars2_v0.85_AGA.lha
+Skipped: SuperCars2_v0.86_AGA.lha
 Skipped: SuperGemZ_v1.0.lha
 Skipped: SuperHangOn_v1.5_Hack_by_Earok.lha
 Skipped: SuperMonacoGP_v1.2_BETA.lha
@@ -5974,6 +6094,9 @@ Skipped: Abduction-WHDL.lha
 Skipped: ABreakingDuoNextAGA-WHDL.lha
 Skipped: AbusimbelProfanation-WHDL.lha
 Skipped: AbusimbelProfanationSP-WHDL.lha
+Skipped: AbuSimbelTFA-WHDL.lha
+Skipped: AbuSimbelTFAExt-WHDL.lha
+Skipped: Abyss-WHDL.lha
 Skipped: Accordion-WHDL.lha
 Skipped: AceSpaceCase-WHDL.lha
 Skipped: Acorralado-WHDL.lha
@@ -6036,6 +6159,7 @@ Skipped: DynatechAGADE-WHDL.lha
 Skipped: AmiBeeDemoAGA-WHDL.lha
 Skipped: AmiBird-WHDL.lha
 Skipped: Amibox-WHDL.lha
+Skipped: Amicube-WHDL.lha
 Skipped: AmiDonkeyLCDdemo-WHDL.lha
 Skipped: Amiga4096-WHDL.lha
 Skipped: AmigaboyTetrisDemo-WHDL.lha
@@ -6241,6 +6365,8 @@ Skipped: BlackKnight-WHDL.lha
 Skipped: BlackMagic-WHDL.lha
 Skipped: Blade-WHDL.lha
 Skipped: BladeAGA-WHDL.lha
+Skipped: BladeAGAFR-WHDL.lha
+Skipped: BladeFR-WHDL.lha
 Skipped: BlainHome-WHDL.lha
 Skipped: BlakeStoneAliens-WHDL.lha
 Skipped: Blasted-WHDL.lha
@@ -6301,9 +6427,11 @@ Skipped: Blox-WHDL.lha
 Skipped: BloxBlop-WHDL.lha
 Skipped: BlueEscape-WHDL.lha
 Skipped: BlueMoon-WHDL.lha
+Skipped: Blumengiesser-WHDL.lha
 Skipped: BnoidAGA-WHDL.lha
 Skipped: BoatRaceIT-WHDL.lha
 Skipped: BobblePuzzleAGA-WHDL.lha
+Skipped: BobLemon-WHDL.lha
 Skipped: BoboKlocPL-WHDL.lha
 Skipped: BodeRunnerDemo-WHDL.lha
 Skipped: BogratsAGA-WHDL.lha
@@ -6342,6 +6470,7 @@ Skipped: Boscar-WHDL.lha
 Skipped: Botss3AGA-WHDL.lha
 Skipped: BoulderDash2-WHDL.lha
 Skipped: Bounce-WHDL.lha
+Skipped: BounceAk-WHDL.lha
 Skipped: BounceBallAGAdemo-WHDL.lha
 Skipped: BouncenblastDemo-WHDL.lha
 Skipped: Bouncer-WHDL.lha
@@ -6361,6 +6490,7 @@ Skipped: BrainArtifice-WHDL.lha
 Skipped: Brainbow-WHDL.lha
 Skipped: BrainDamageFR-WHDL.lha
 Skipped: BrainKillerAGAdemo-WHDL.lha
+Skipped: BrainMan1-WHDL.lha
 Skipped: BrainShave-WHDL.lha
 Skipped: Brainsphere-WHDL.lha
 Skipped: BrainWavePL-WHDL.lha
@@ -6382,6 +6512,7 @@ Skipped: EyeDragon-WHDL.lha
 Skipped: F15EagleStrike-WHDL.lha
 Skipped: F1GPCircuits-WHDL.lha
 Skipped: F1Racer-WHDL.lha
+Skipped: FaeryTaleAdvFR-WHDL.lha
 Skipped: FailedNegotiations-WHDL.lha
 Skipped: FallingDown-WHDL.lha
 Skipped: FallingDownMuller-WHDLG.lha
@@ -6396,6 +6527,8 @@ Skipped: Fayoh1AGA-WHDL.lha
 Skipped: Fayoh2AGA-WHDL.lha
 Skipped: BubblePopMemory-WHDL.lha
 Skipped: BubblePopMemoryAGA-WHDL.lha
+Skipped: BubbleStones1-WHDL.lha
+Skipped: BubbleStones2AGA-WHDL.lha
 Skipped: BubbleTrubble-WHDL.lha
 Skipped: BugBlaster-WHDL.lha
 Skipped: Buggles-WHDL.lha
@@ -6409,21 +6542,6 @@ Skipped: BullysSportingDarts-WHDL.lha
 Skipped: BundesligaManagerDE-WHDL.lha
 Skipped: BundesligaManagerHattAGADE-WHDL.lha
 Skipped: BundesligaManagerHattDE-WHDL.lha
-Skipped: Bunny-WHDL.lha
-Skipped: BurnoutAGA-WHDL.lha
-Skipped: BurstMarble-WHDL.lha
-Skipped: BurtonBird-WHDL.lha
-Skipped: BuscaParejasSP-WHDL.lha
-Skipped: BushBuck-WHDL.lha
-Skipped: Buzzy-WHDL.lha
-Skipped: ByteMan-WHDL.lha
-Skipped: C5sim-WHDL.lha
-Skipped: CadaverLast-WHDL.lha
-Skipped: CaesarDX-WHDL.lha
-Skipped: Caffeine1-WHDL.lha
-Skipped: Caffeine2-WHDL.lha
-Skipped: Calculation-WHDL.lha
-Skipped: CampoFuocoIT-WHDL.lha
 Skipped: Cane-WHDL.lha
 Skipped: Capacitator-WHDL.lha
 Skipped: CaptainBonus-WHDL.lha
@@ -6438,6 +6556,7 @@ Skipped: CardSharp-WHDL.lha
 Skipped: Cardsorama-WHDL.lha
 Skipped: Cardz-WHDL.lha
 Skipped: CaribbeanDisasterDE-WHDL.lha
+Skipped: CaribbeanDisasterFR-WHDL.lha
 Skipped: CarmenSandiegoTime-WHDL.lha
 Skipped: CarmenSandiegoWorldFR-WHDL.lha
 Skipped: CarnageECSAGA-WHDL.lha
@@ -6453,12 +6572,14 @@ Skipped: CasinoGamesFruitmania-WHDL.lha
 Skipped: CasinoGamesFullHouse-WHDL.lha
 Skipped: CasinoTrumpCastle1-WHDL.lha
 Skipped: CasinoTrumpCastle2-WHDL.lha
+Skipped: CastleDanger-WHDL.lha
 Skipped: CastleHackDemo-WHDL.lha
 Skipped: Castles1Northern-WHDL.lha
 Skipped: Cat2-WHDL.lha
 Skipped: Catapults-WHDL.lha
 Skipped: CavernsPalle-WHDL.lha
 Skipped: CaveRunner2-WHDL.lha
+Skipped: CavesCargo-WHDL.lha
 Skipped: Centerbase-WHDL.lha
 Skipped: CenterCourt1-WHDL.lha
 Skipped: CenterCourt197-WHDL.lha
@@ -6472,8 +6593,8 @@ Skipped: ChallengeMatrix-WHDL.lha
 Skipped: Challenger-WHDL.lha
 Skipped: ChambersShaolinCD32-WHDL.lha
 Skipped: ChampionshipBaseball-WHDL.lha
+Skipped: ChampManager1-WHDL.lha
 Skipped: ChampManager1Italia-WHDL.lha
-Skipped: Chaneques-WHDL.lha
 Skipped: ChaosLiteFR-M6-amiga-WHDL.lha
 Skipped: ChariotsWrath-WHDL.lha
 Skipped: CharlieChimp1-WHDL.lha
@@ -6502,6 +6623,8 @@ Skipped: Clue-WHDL.lha
 Skipped: CoarseAngler-WHDL.lha
 Skipped: CocoBanana-WHDL.lha
 Skipped: CocoBananaAGA-WHDL.lha
+Skipped: CocoBananaECS-WHDL.lha
+Skipped: CocoBananaOCS-WHDL.lha
 Skipped: CodenameHellsquadRIP-WHDL.lha
 Skipped: CodeNameNano-WHDL.lha
 Skipped: CoDoGroszaPL-WHDL.lha
@@ -6524,27 +6647,15 @@ Skipped: ColossusBridgeX-WHDL.lha
 Skipped: Colourmania-WHDL.lha
 Skipped: Colours-WHDL.lha
 Skipped: Colums-WHDL.lha
+Skipped: Combine-WHDL.lha
 Skipped: CommandoRaid-WHDL.lha
 Skipped: CompleteChessSystem-WHDL.lha
+Skipped: CompleteChessSystemAGAFR-WHDL.lha
 Skipped: ComputerCapers-WHDL.lha
 Skipped: ComputerScrabbleFR-WHDL.lha
 Skipped: ConflictFederation1-WHDL.lha
 Skipped: ConflictFederation2-WHDL.lha
 Skipped: Confuzion-WHDL.lha
-Skipped: Conquest-WHDL.lha
-Skipped: ConquestDominion-WHDL.lha
-Skipped: ConquestRemix-WHDL.lha
-Skipped: Contentious-WHDL.lha
-Skipped: ContraptionZack-WHDL.lha
-Skipped: Conundrum2demo-WHDL.lha
-Skipped: Cookie-WHDL.lha
-Skipped: Copper-WHDL.lha
-Skipped: CoqueNKieaguaRallyAGA-WHDL.lha
-Skipped: Cornelius-WHDL.lha
-Skipped: Cortex-WHDL.lha
-Skipped: CosmicBattles-WHDL.lha
-Skipped: CosmicRacer-WHDL.lha
-Skipped: CountdownExtinction-WHDL.lha
 Skipped: CountryRacers-WHDL.lha
 Skipped: CountyRacers-WHDL.lha
 Skipped: CowWars-WHDL.lha
@@ -6558,11 +6669,13 @@ Skipped: Crave-WHDL.lha
 Skipped: Crazy8AGA-WHDL.lha
 Skipped: CrazyBallsDE-WHDL.lha
 Skipped: CrazyChallenge-WHDL.lha
+Skipped: CrazyColumns-WHDL.lha
 Skipped: CrazyCones-WHDL.lha
 Skipped: CrazyPipe-WHDL.lha
 Skipped: CrazyPriest-WHDL.lha
 Skipped: CrazyPriestMulti-WHDL.lha
 Skipped: CrazySpeedway-WHDL.lha
+Skipped: CreepyCrawlies-WHDL.lha
 Skipped: CreepyCrawliesDemo-WHDL.lha
 Skipped: Cribbage-WHDL.lha
 Skipped: CribbageBasic-WHDL.lha
@@ -6599,6 +6712,7 @@ Skipped: CyberBlast2-WHDL.lha
 Skipped: CyberdroidECSAGA-WHDL.lha
 Skipped: CyberKickPL-WHDL.lha
 Skipped: CyberMan-WHDL.lha
+Skipped: CyberManSpruijt-WHDL.lha
 Skipped: Cybernauts-WHDL.lha
 Skipped: CyberRaceDemo-WHDL.lha
 Skipped: Cybersphere-WHDL.lha
@@ -6615,14 +6729,16 @@ Skipped: BounceBlast-WHDL.lha
 Skipped: BrainChallenge-WHDL.lha
 Skipped: BridgePlayerGalactica-WHDL.lha
 Skipped: BubbleHeroesAGA-WHDL.lha
+Skipped: Bunny-WHDL.lha
 Skipped: CandyPuzzleCD32-WHDL.lha
 Skipped: CartonRougeAGAFR-WHDL.lha
 Skipped: CaveRunner1-WHDL.lha
-Skipped: ChampManager1-WHDL.lha
+Skipped: Chaneques-WHDL.lha
 Skipped: CheckersConquest-WHDL.lha
 Skipped: ClassicBoardGamesCDTVFR-WHDL.lha
 Skipped: CodenameHellsquad-WHDL.lha
 Skipped: ColorMind-WHDL.lha
+Skipped: Conquest-WHDL.lha
 Skipped: CountDuckula2-WHDL.lha
 Skipped: CribMaster-WHDL.lha
 Skipped: CyberForcePL-WHDL.lha
@@ -6638,7 +6754,7 @@ Skipped: SuddenDeath-WHDL.lha
 Skipped: DangerDoggSE-WHDL.lha
 Skipped: DangerMouse-WHDL.lha
 Skipped: DanWilderPL-WHDL.lha
-Scanned: Dark Angel
+Skipped: DarkAngel-WHDL.lha
 Skipped: DarkAngelDemo-WHDL.lha
 Skipped: DarkCitadel-WHDL.lha
 Skipped: DarkConquest-WHDL.lha
@@ -6656,6 +6772,8 @@ Skipped: DeadHead-WHDL.lha
 Skipped: Deadline-WHDL.lha
 Skipped: DeathAngel-WHDL.lha
 Skipped: Deathbots-WHDL.lha
+Skipped: DeathGloryExtDE-WHDL.lha
+Skipped: DeathGloryExtFR-WHDL.lha
 Skipped: DeathWay-WHDL.lha
 Skipped: Decton-WHDL.lha
 Skipped: Deface-WHDL.lha
@@ -6672,12 +6790,15 @@ Skipped: DemonWars-WHDL.lha
 Skipped: DemonWinter-WHDL.lha
 Skipped: DentakuAGAdemo-WHDL.lha
 Skipped: DenverDuck-WHDL.lha
+Skipped: Depthcharge-WHDL.lha
+Skipped: Depthcharge94-WHDL.lha
 Skipped: DerringDo-WHDL.lha
 Skipped: DesertApache-WHDL.lha
 Skipped: DesertWolfPL-WHDL.lha
 Skipped: DesolateWorldDemo-WHDL.lha
 Skipped: Desperation-WHDL.lha
 Skipped: DestinationMoonbase-WHDL.lha
+Skipped: DeutscheImperiumDE-WHDL.lha
 Skipped: Dflip-WHDL.lha
 Skipped: Diabolik01-WHDL.lha
 Skipped: DiabolikSeriesIT-WHDL.lha
@@ -6717,9 +6838,11 @@ Skipped: DownhillChallengeDeva-WHDL.lha
 Skipped: Dozer-WHDL.lha
 Skipped: DrachensteineDE-WHDL.lha
 Skipped: DragDrop-WHDL.lha
+Skipped: DragDropDX-WHDL.lha
 Skipped: DraggyCroco-WHDL.lha
 Skipped: DragonballJumpsSP-WHDL.lha
 Skipped: DragonForce-WHDL.lha
+Skipped: DragonsFlame-WHDL.lha
 Skipped: DragonSim2-WHDL.lha
 Skipped: DragonsPyramids-WHDL.lha
 Skipped: Dreadnoughts-WHDL.lha
@@ -6749,6 +6872,7 @@ Skipped: FruitMachineCameron-WHDL.lha
 Skipped: FruitMania-WHDL.lha
 Skipped: FruitPanic-WHDL.lha
 Skipped: FruitSalad-WHDL.lha
+Skipped: Fullspeed-WHDL.lha
 Skipped: Funtris-WHDL.lha
 Skipped: Furball-WHDL.lha
 Skipped: FutureCombat2-WHDL.lha
@@ -6847,6 +6971,7 @@ Skipped: FeedingFrenzy-WHDL.lha
 Skipped: FeudalLords-WHDL.lha
 Skipped: Fever-WHDL.lha
 Skipped: FieldsGloryAGAFR-M3-WHDL.lha
+Skipped: FieldsGloryFR-M3-WHDL.lha
 Skipped: FighterCommandFR-M6-WHDL.lha
 Skipped: FightHartmann-WHDL.lha
 Skipped: FightingWarriors-WHDL.lha
@@ -6875,13 +7000,16 @@ Skipped: FlatMates-WHDL.lha
 Skipped: FlatmatesAGA-WHDL.lha
 Skipped: FlatmatesFRAGA-WHDL.lha
 Skipped: Fleet-WHDL.lha
+Skipped: FlightyFox-WHDL.lha
 Skipped: Floaty-WHDL.lha
 Skipped: Flob-WHDL.lha
 Skipped: FloppyBird-WHDL.lha
 Skipped: Flotte-WHDL.lha
 Skipped: FlowerDemo-WHDL.lha
+Skipped: Fluffles-WHDL.lha
 Skipped: Flyers-WHDL.lha
 Skipped: Fnurr2000-WHDL.lha
+Skipped: FollixAGA-WHDL.lha
 Skipped: FootballClubManager-WHDL.lha
 Skipped: FootballCrazy-WHDL.lha
 Skipped: FootballDirector2FR-M5-WHDL.lha
@@ -6955,6 +7083,7 @@ Skipped: HelterSkelter1-WHDL.lha
 Skipped: Hemroids-WHDL.lha
 Skipped: Henry5Towers-WHDL.lha
 Skipped: HenryHouse-WHDL.lha
+Skipped: HenryHouse8bit-WHDL.lha
 Skipped: HenryIsland-WHDL.lha
 Skipped: HenryPanic-WHDL.lha
 Skipped: Herman-WHDL.lha
@@ -6978,19 +7107,11 @@ Skipped: GlizdorPL-WHDL.lha
 Skipped: GlobalDomination-WHDL.lha
 Skipped: GlobalDominationAGA-WHDL.lha
 Skipped: GlobalEffectCD32-WHDL.lha
-Skipped: GlobalEffectFR-M4-WHDL.lha
-Skipped: Globetrotter-WHDL.lha
-Skipped: Glodrick-WHDL.lha
-Skipped: Gloom2DX96ECSAGA-WHDL.lha
-Skipped: Gloom2SE97ECSAGA-WHDL.lha
-Skipped: Gloom3ZE98ECSAGA-WHDL.lha
-Skipped: Gloom4ZM99ECSAGA-WHDL.lha
-Skipped: Gloom8BitKillerECSAGA-WHDL.lha
-Skipped: GloomDeathMaskECSAGA-WHDL.lha
 Skipped: HighNoon-WHDL.lha
 Skipped: HighOctane-WHDL.lha
 Skipped: HighReflection-WHDL.lha
 Skipped: HillClimb-WHDL.lha
+Skipped: HillClimbFR-WHDL.lha
 Skipped: HilseaLido-WHDL.lha
 Skipped: HirnissMuller-WHDL.lha
 Skipped: Hirnris-WHDL.lha
@@ -7007,11 +7128,6 @@ Skipped: HopHurl-WHDL.lha
 Skipped: HotAir-WHDL.lha
 Skipped: Hotball-WHDL.lha
 Skipped: Hotblox-WHDL.lha
-Skipped: GloomJechtBattleECSAGA-WHDL.lha
-Skipped: GloomSpekkioBattleECSAGA-WHDL.lha
-Skipped: GloomUltMazeECSAGA-WHDL.lha
-Skipped: GloomXmenECSAGA-WHDL.lha
-Skipped: Gobblers-WHDL.lha
 Skipped: Gobblies-WHDL.lha
 Skipped: GoKaevin-WHDL.lha
 Skipped: GoKartMania-WHDL.lha
@@ -7043,6 +7159,7 @@ Skipped: GravityPower-WHDL.lha
 Skipped: GravityWars-WHDL.lha
 Skipped: GreatEscapeBillyBurglar-WHDL.lha
 Skipped: GreatGoldRaid-WHDL.lha
+Skipped: GreenBeret-WHDL.lha
 Skipped: GreenFive-WHDL.lha
 Skipped: GreenhouseLCDAGA-WHDL.lha
 Skipped: Greenies-WHDL.lha
@@ -7085,7 +7202,7 @@ Skipped: HBall-WHDL.lha
 Skipped: HeartlightPL-WHDL.lha
 Skipped: HeartsBlackLady-WHDL.lha
 Skipped: HelicopterMission-WHDL.lha
-Skipped: MrBeanWeenAGA-WHDL.lha
+Skipped: MrBrick-WHDL.lha
 Skipped: NapalmAGA-WHDL.lha
 Skipped: NordSudFR-WHDL.lha
 Skipped: OffYouGo-WHDL.lha
@@ -7095,8 +7212,8 @@ Skipped: Pacman87-WHDL.lha
 Skipped: Paradox-WHDL.lha
 Skipped: Patience3-WHDL.lha
 Skipped: PGwinPL-WHDL.lha
-Skipped: PicIt-WHDL.lha
-Skipped: PitchNPutt-WHDL.lha
+Skipped: PickBrick-WHDL.lha
+Skipped: Pitfall2-WHDL.lha
 Skipped: Polataa4AGAdemo-WHDL.lha
 Skipped: PowerGinger-WHDL.lha
 Skipped: PremierDivision-WHDL.lha
@@ -7113,12 +7230,14 @@ Skipped: HydacornPL-WHDL.lha
 Skipped: Hydrocis-WHDL.lha
 Skipped: Hydrozone-WHDL.lha
 Skipped: HypeRace-WHDL.lha
+Skipped: Hyperace-WHDL.lha
 Skipped: Hyperball-WHDL.lha
 Skipped: HyperViper-WHDL.lha
 Skipped: Iceball-WHDL.lha
 Skipped: IceHockeyKaramalzDE-WHDL.lha
 Skipped: IfoAGA-WHDL.lha
 Skipped: Ilducrus-WHDL.lha
+Skipped: Imagems-WHDL.lha
 Skipped: ImagemsDE-WHDL.lha
 Skipped: Imbrium-WHDL.lha
 Skipped: ImpactKidStuff-WHDL.lha
@@ -7131,6 +7250,7 @@ Skipped: ImperiumTerranum2STAGADE-WHDL.lha
 Skipped: ImperoIT-WHDL.lha
 Skipped: Impsbru-WHDL.lha
 Skipped: InADream-WHDL.lha
+Skipped: IncaMan-WHDL.lha
 Skipped: IncineratorDemo-WHDL.lha
 Skipped: IncydentDemoPL-WHDL.lha
 Skipped: IndianJoe1DE-WHDL.lha
@@ -7159,6 +7279,7 @@ Skipped: InternalCombustion-WHDL.lha
 Skipped: InternationalGolf-WHDL.lha
 Skipped: InternationalKarate-WHDL.lha
 Skipped: InternationalOpenGolfAGA-WHDL.lha
+Skipped: InternationalOpenGolfCD32-WHDL.lha
 Skipped: Interstate1-WHDL.lha
 Skipped: Interstate2-WHDL.lha
 Skipped: InterstellarAGA-WHDL.lha
@@ -7208,6 +7329,7 @@ Skipped: JimLostTimesDemoFR-M2-WHDL.lha
 Skipped: JimsVideoPoker-WHDL.lha
 Skipped: JinxAGA-WHDL.lha
 Skipped: JoanArc-WHDL.lha
+Skipped: JoanArcFR-WHDL.lha
 Skipped: JoeBloggs-WHDL.lha
 Skipped: JoeyWorm-WHDL.lha
 Skipped: JokerPoker-WHDL.lha
@@ -7215,11 +7337,14 @@ Skipped: JokerPokerWolfDE-WHDL.lha
 Skipped: JonasFulstrand-WHDL.lha
 Skipped: JourneyCenterEarth-WHDL.lha
 Skipped: Joust-WHDL.lha
+Skipped: JoyrideRIPAGA-WHDL.lha
 Skipped: JPSpider-WHDL.lha
 Skipped: JU52FlightSim-WHDL.lha
 Skipped: JumpBesiJump-WHDL.lha
+Skipped: JumpBlockJump-WHDL.lha
 Skipped: JumpEm-WHDL.lha
-Skipped: GloomDICFTDECSAGA-WHDL.lha
+Skipped: GlobalEffectFR-M4-WHDL.lha
+Skipped: Gobblers-WHDL.lha
 Skipped: GoPlayerFR-M3-WHDL.lha
 Skipped: GRocker-WHDL.lha
 Skipped: HappyMonter-WHDL.lha
@@ -7239,6 +7364,7 @@ Skipped: JumpMachine-WHDL.lha
 Skipped: Jumpman-WHDL.lha
 Skipped: JumpmanDXdemo-WHDL.lha
 Skipped: JumpmanJunior-WHDL.lha
+Skipped: JumpmanLives-WHDL.lha
 Skipped: Jumpy-WHDL.lha
 Skipped: JungleJim-WHDL.lha
 Skipped: JurajskiSenPL-WHDL.lha
@@ -7288,6 +7414,7 @@ Skipped: Klawz-WHDL.lha
 Skipped: KlondikeSolitaire-WHDL.lha
 Skipped: KlondikeWiseman-WHDL.lha
 Skipped: KnightLoreDemo-WHDL.lha
+Skipped: Knightmare-WHDL.lha
 Skipped: KnightQuest-WHDL.lha
 Skipped: KnightRider77-WHDL.lha
 Skipped: LaserStrixxCD32-WHDL.lha
@@ -7319,6 +7446,7 @@ Skipped: LigaPolskaPL-WHDL.lha
 Skipped: Lightcycles1-WHDL.lha
 Skipped: LightCycles2-WHDL.lha
 Skipped: LimboDemo-WHDL.lha
+Skipped: Liminalia-WHDL.lha
 Skipped: LitilDivilCD32-WHDL.lha
 Skipped: Litterbusters-WHDL.lha
 Skipped: Locomotion-WHDL.lha
@@ -7358,6 +7486,7 @@ Skipped: MachoKillers-WHDL.lha
 Skipped: MadBomber-WHDL.lha
 Skipped: MadCrashRacing-WHDL.lha
 Skipped: MadFactory-WHDL.lha
+Skipped: MadFighters2-WHDL.lha
 Skipped: MadFighters2AGA-WHDL.lha
 Skipped: MadhouseIndian-WHDL.lha
 Skipped: MadLocsDE-WHDL.lha
@@ -7452,6 +7581,7 @@ Skipped: MewiloFR-WHDL.lha
 Skipped: MiamiMice-WHDL.lha
 Skipped: MiamMan-WHDL.lha
 Skipped: MiastoSmierciPL-WHDL.lha
+Skipped: Microbattle-WHDL.lha
 Skipped: MicroLeagueBaseball-WHDL.lha
 Skipped: MieczeValdgira2PL-WHDL.lha
 Skipped: MightyMind-WHDL.lha
@@ -7540,7 +7670,7 @@ Skipped: Moving-WHDL.lha
 Skipped: Movix-WHDL.lha
 Skipped: MrBeanbagAGA-WHDL.lha
 Skipped: MrBeanbagSeasonsAGA-WHDL.lha
-Skipped: MrBrick-WHDL.lha
+Skipped: MrBeanWeenAGA-WHDL.lha
 Skipped: MrBrownstone-WHDL.lha
 Skipped: MrDig-WHDL.lha
 Skipped: MrMunkFluidland-WHDL.lha
@@ -7562,6 +7692,8 @@ Skipped: MysiSteskaCZ-WHDL.lha
 Skipped: MysteryFish-WHDL.lha
 Skipped: NaixalagDemo-WHDL.lha
 Skipped: NanoFly-WHDL.lha
+Skipped: Paradroid2-WHDL.lha
+Skipped: Paradroid90Ship-WHDL.lha
 Skipped: Paragon-WHDL.lha
 Skipped: ParallelWorlds-WHDL.lha
 Skipped: ParanoidDE-WHDL.lha
@@ -7604,6 +7736,7 @@ Skipped: NoddyBigAdv-WHDL.lha
 Skipped: NoddyPlaytime-WHDL.lha
 Skipped: NoEscape-WHDL.lha
 Skipped: NoMansLand-WHDL.lha
+Skipped: NomanslandUnv-WHDL.lha
 Skipped: NoMercy-WHDL.lha
 Skipped: NordSudFR-M3-WHDL.lha
 Skipped: Norris-WHDL.lha
@@ -7612,6 +7745,7 @@ Skipped: Nostalgium-WHDL.lha
 Skipped: NothingnessAGAdemoFR-M2-WHDL.lha
 Skipped: Nova-WHDL.lha
 Skipped: Nu-WHDL.lha
+Skipped: NuclearReaction-WHDL.lha
 Skipped: NukesRUsDE-WHDL.lha
 Skipped: Numerix-WHDL.lha
 Skipped: NumptyAlienInvaders-WHDL.lha
@@ -7623,6 +7757,7 @@ Skipped: Oblidox-WHDL.lha
 Skipped: Obliteratives-WHDL.lha
 Skipped: ObsessOMatic-WHDL.lha
 Skipped: Obstickle-WHDL.lha
+Skipped: OBY1-WHDL.lha
 Skipped: OCB-WHDL.lha
 Skipped: OddsFavourite-WHDL.lha
 Skipped: Odkrywka-WHDL.lha
@@ -7641,6 +7776,7 @@ Skipped: OldtimerDE-WHDL.lha
 Skipped: OldtomerAGADE-WHDL.lha
 Skipped: Olempiad-WHDL.lha
 Skipped: Olimpadia96PL-WHDL.lha
+Skipped: Olimpiada96PL-WHDL.lha
 Skipped: OliverCompanyFR-WHDL.lha
 Skipped: OlofightAGA-WHDL.lha
 Skipped: Olympus-WHDL.lha
@@ -7671,6 +7807,7 @@ Skipped: Oubliette-WHDL.lha
 Skipped: Ouch-WHDL.lha
 Skipped: OuterimDemo-WHDL.lha
 Skipped: Outfall-WHDL.lha
+Skipped: OutlinerAGA-WHDL.lha
 Skipped: OutpostFinalBattle-WHDL.lha
 Skipped: OutpostSoloAssault-WHDL.lha
 Skipped: Overdose-WHDL.lha
@@ -7707,6 +7844,7 @@ Skipped: PeebeeSeuck-WHDL.lha
 Skipped: PegIt-WHDL.lha
 Skipped: Pengo1-WHDL.lha
 Skipped: Pengo2-WHDL.lha
+Skipped: PengoMS-WHDL.lha
 Skipped: PenguinsAGA-WHDL.lha
 Skipped: PepeScrewdriverPL-WHDL.lha
 Skipped: PepsiGameDE-WHDL.lha
@@ -7724,7 +7862,7 @@ Skipped: Petris-WHDL.lha
 Skipped: Phantom-WHDL.lha
 Skipped: PhoenixFighters-WHDL.lha
 Skipped: PhukWorld-WHDL.lha
-Skipped: PickBrick-WHDL.lha
+Skipped: PicIt-WHDL.lha
 Skipped: PickOut-WHDL.lha
 Skipped: PicrossSebelDE-WHDL.lha
 Skipped: PicturePuzzle-WHDL.lha
@@ -7738,8 +7876,10 @@ Skipped: Pipeline3-WHDL.lha
 Skipped: PipelineBrown-WHDL.lha
 Skipped: Pipeliner-WHDL.lha
 Skipped: Pipemaster2-WHDL.lha
+Skipped: PipeRider-WHDL.lha
 Skipped: PirateCove-WHDL.lha
 Skipped: PiratesBounty-WHDL.lha
+Skipped: PitchNPutt-WHDL.lha
 Skipped: PremierPicks-WHDL.lha
 Skipped: PremierSixes-WHDL.lha
 Skipped: PremierSoccer-WHDL.lha
@@ -7763,7 +7903,10 @@ Skipped: Pollymorf-WHDL.lha
 Skipped: PoltergeistPL-WHDL.lha
 Skipped: PomPomGunner-WHDL.lha
 Skipped: Pong4-WHDL.lha
+Skipped: Pong4a-WHDL.lha
+Skipped: Pong4b-WHDL.lha
 Skipped: Pong4KAGA-WHDL.lha
+Skipped: Pong4KCD32-WHDL.lha
 Skipped: Pong91-WHDL.lha
 Skipped: Pongo-WHDL.lha
 Skipped: Pool2099-WHDL.lha
@@ -7772,6 +7915,7 @@ Skipped: Pooyan-WHDL.lha
 Skipped: Popcorn-WHDL.lha
 Skipped: PopeyeLCDdemo-WHDL.lha
 Skipped: PopeyeWrestle-WHDL.lha
+Skipped: Populous2ChallengeFR-WHDL.lha
 Skipped: PopUpSly-WHDL.lha
 Skipped: PorkAPork-WHDL.lha
 Skipped: Posiden-WHDL.lha
@@ -7833,10 +7977,14 @@ Skipped: AllSquare-WHDL.lha
 Skipped: AllValleyKarate-WHDL.lha
 Skipped: Alphaflight-WHDL.lha
 Skipped: AlterEgo-WHDL.lha
+Skipped: AlternateReality-WHDL.lha
 Skipped: Amazed-WHDL.lha
 Skipped: Ambassador-WHDL.lha
+Skipped: Amber-WHDL.lha
+Skipped: AmbermoonAdv-WHDL.lha
 Skipped: AmbermoonArcade-WHDL.lha
 Skipped: AmbermoonFR-WHDL.lha
+Skipped: AmbermoonUpd-WHDL.lha
 Skipped: AmegaRace-WHDL.lha
 Skipped: AmericanChainikRU-WHDL.lha
 Skipped: KnightTimeDemoAGA-WHDL.lha
@@ -7910,12 +8058,12 @@ Skipped: MoonBase-WHDL.lha
 Skipped: MoonbaseLunarColony-WHDL.lha
 Skipped: MoonbasesAGA-WHDL.lha
 Skipped: MoonbasesAGAFR-WHDL.lha
-Skipped: Pitfall2-WHDL.lha
 Skipped: PixieKingdom-WHDL.lha
 Skipped: PizzaConnectionTeng-WHDL.lha
 Skipped: Plaft-WHDL.lha
 Skipped: PlanetZybex-WHDL.lha
 Skipped: PlasmaBubble-WHDL.lha
+Skipped: PlatManDemo-WHDL.lha
 Skipped: PlatmanECSAGA-WHDL.lha
 Skipped: Platou-WHDL.lha
 Skipped: Playball-WHDL.lha
@@ -7970,6 +8118,7 @@ Skipped: Quakers-WHDL.lha
 Skipped: Quantum-WHDL.lha
 Skipped: QuaptosPL-WHDL.lha
 Skipped: Quasarius-WHDL.lha
+Skipped: QuasarWars-WHDL.lha
 Skipped: Quasi-WHDL.lha
 Skipped: QuatroProSoccer-WHDL.lha
 Skipped: QuestGalaxia-WHDL.lha
@@ -7996,6 +8145,7 @@ Skipped: Ramify-WHDL.lha
 Skipped: Ramses-WHDL.lha
 Skipped: RamsesFR-WHDL.lha
 Skipped: RanTrainerDE-WHDL.lha
+Skipped: Rasenmaeher-WHDL.lha
 Skipped: RashPanic-WHDL.lha
 Skipped: RasterBike-WHDL.lha
 Skipped: RattleSnake-WHDL.lha
@@ -8005,6 +8155,7 @@ Skipped: RavanelliSoccer-WHDL.lha
 Skipped: RazorDemo-WHDL.lha
 Skipped: RealExit16-WHDL.lha
 Skipped: RealmSendai-WHDL.lha
+Skipped: RealPacman-WHDL.lha
 Skipped: RebelAGACZ-WHDL.lha
 Skipped: RebelGW24-WHDL.lha
 Skipped: RebelGW24FR-WHDL.lha
@@ -8015,12 +8166,17 @@ Skipped: ReboundDD-WHDL.lha
 Skipped: ReboundScorpius-WHDL.lha
 Skipped: Recoil-WHDL.lha
 Skipped: Rectum-WHDL.lha
+Skipped: RedMars-WHDL.lha
 Skipped: Redmars-WHDL.lha
 Skipped: RedMarsFR-WHDL.lha
 Skipped: RedpillPuzzleAGA-WHDL.lha
 Skipped: RedpillRacingDemo-WHDL.lha
+Skipped: Reeder-WHDL.lha
+Skipped: ReederAGA-WHDL.lha
 Skipped: ReederAGADE-WHDL.lha
+Skipped: ReederAGAFR-WHDL.lha
 Skipped: ReederDE-WHDL.lha
+Skipped: ReederFR-WHDL.lha
 Skipped: ReelFish-WHDL.lha
 Skipped: Reels-WHDL.lha
 Skipped: ReelSkill-WHDL.lha
@@ -8050,6 +8206,7 @@ Skipped: Revolver-WHDL.lha
 Skipped: RickyDangerous-WHDL.lha
 Skipped: Ricochet2-WHDL.lha
 Skipped: RightWay-WHDL.lha
+Skipped: RingsZon-WHDL.lha
 Skipped: RingWorm-WHDL.lha
 Skipped: RiseOfTheRobotsSECD32-WHDL.lha
 Skipped: RiseRabbits1AGA-WHDL.lha
@@ -8064,6 +8221,7 @@ Skipped: RoadTrip-WHDL.lha
 Skipped: Robbo1-WHDL.lha
 Skipped: RobertGrabschander-WHDL.lha
 Skipped: RobinHeed-WHDL.lha
+Skipped: RoboBall-WHDL.lha
 Skipped: Robocop4-WHDL.lha
 Skipped: RobocopTarget-WHDL.lha
 Skipped: RoboQuest-WHDL.lha
@@ -8091,6 +8249,7 @@ Skipped: Rooster2PL-WHDL.lha
 Skipped: Roper-WHDL.lha
 Skipped: Rotator-WHDL.lha
 Skipped: Rothello-WHDL.lha
+Skipped: Roton-WHDL.lha
 Skipped: Rotoplex-WHDL.lha
 Skipped: Roulette98-WHDL.lha
 Skipped: RouletteCalibra-WHDL.lha
@@ -8114,6 +8273,7 @@ Skipped: RunningBob-WHDL.lha
 Skipped: RunningBoy-WHDL.lha
 Skipped: RushHour-WHDL.lha
 Skipped: RyderCupGolfAGA-WHDL.lha
+Skipped: RyderCupGolfCD32-WHDL.lha
 Skipped: RygarAGA-WHDL.lha
 Skipped: RygarCD32-WHDL.lha
 Skipped: SaddamHusseinGame-WHDL.lha
@@ -8151,6 +8311,7 @@ Skipped: Scrabble2-WHDL.lha
 Skipped: Scramble-WHDL.lha
 Skipped: ScreechAGAdemo-WHDL.lha
 Skipped: ScubaDiverAGA-WHDL.lha
+Skipped: ScubaDiverFRAGA-WHDL.lha
 Skipped: ScudBuster-WHDL.lha
 Skipped: Seahaven2000-WHDL.lha
 Skipped: SeaHavenTowers-WHDL.lha
@@ -8177,6 +8338,7 @@ Skipped: Sexanoids2-WHDL.lha
 Skipped: Sexy2IT-WHDL.lha
 Skipped: SexyDroids-WHDL.lha
 Skipped: ShadowDevilCZ-WHDL.lha
+Skipped: ShadowThirdMoonAGA-WHDL.lha
 Skipped: ShaNaNa-WHDL.lha
 Skipped: Shanghai2GR-WHDL.lha
 Skipped: Shanghai93-WHDL.lha
@@ -8214,9 +8376,12 @@ Skipped: SagaAGA-WHDL.lha
 Skipped: SaturdayNightSnooker-WHDL.lha
 Skipped: ScreechDemo-WHDL.lha
 Skipped: SeriousBackgammon-WHDL.lha
+Skipped: ShopDrop-WHDL.lha
 Skipped: ShopTilYouDrop-WHDL.lha
 Skipped: ShroomGammon-WHDL.lha
+Skipped: ShufflePix-WHDL.lha
 Skipped: ShuffleRun-WHDL.lha
+Skipped: ShufflingAround-WHDL.lha
 Skipped: SibwingAGAdemo-WHDL.lha
 Skipped: Sickball2-WHDL.lha
 Skipped: Siegebeast-WHDL.lha
@@ -8227,9 +8392,13 @@ Skipped: SilverEagle-WHDL.lha
 Skipped: Silverman-WHDL.lha
 Skipped: SilvermanSP-WHDL.lha
 Skipped: SimBlind-WHDL.lha
+Skipped: SimCity122-WHDL.lha
 Skipped: SimCity13-WHDL.lha
 Skipped: SimCity2000AGA-WHDL.lha
 Skipped: SimCity2000AGADE-WHDL.lha
+Skipped: SimCityCDTVFR-WHDL.lha
+Skipped: SimCityDX-WHDL.lha
+Skipped: SimCityDXFR-WHDL.lha
 Skipped: SimLifeFR-WHDL.lha
 Skipped: DieOdysseeDE-WHDL.lha
 Skipped: Digit-WHDL.lha
@@ -8270,6 +8439,8 @@ Skipped: Skidmarks2FarmECSAGA-WHDL.lha
 Skipped: Skidmarks2plusECSAGA-WHDL.lha
 Skipped: Skidmarks2SillyECSAGA-WHDL.lha
 Skipped: Skidmarks2SuperECSAGA-WHDL.lha
+Skipped: Skidmarks2Ult-WHDL.lha
+Skipped: Skidmarks2UltAGA-WHDL.lha
 Skipped: SkimmersAGADemo-WHDL.lha
 Skipped: Skirmish-WHDL.lha
 Skipped: SkiRun-WHDL.lha
@@ -8319,6 +8490,7 @@ Skipped: SoeldnerDE-WHDL.lha
 Skipped: SoftwareManagerDE-WHDL.lha
 Skipped: Soko-WHDL.lha
 Skipped: Sokoban-WHDL.lha
+Skipped: Sokoban84-WHDL.lha
 Skipped: SokomondDE-WHDL.lha
 Skipped: SolarSystemVoidBlast-WHDL.lha
 Skipped: SoleDefender-WHDL.lha
@@ -8367,12 +8539,14 @@ Skipped: SpaceTaxi3-WHDL.lha
 Skipped: Spacetrax-WHDL.lha
 Skipped: SpaceTribulationsFR-WHDL.lha
 Skipped: SpaceWar-WHDL.lha
+Skipped: SpaceWar4-WHDL.lha
 Skipped: SpacewardHo-WHDL.lha
 Skipped: SpaceWarsCDTV-WHDL.lha
 Skipped: SpadeInvaders-WHDL.lha
 Skipped: Spades-WHDL.lha
 Skipped: SpatialHyperdrive-WHDL.lha
 Skipped: Spectra-WHDL.lha
+Skipped: SpectrumScorpius-WHDL.lha
 Skipped: SpeedAGAdemo-WHDL.lha
 Skipped: SpeedBallDillon-WHDL.lha
 Skipped: SpeedBreak-WHDL.lha
@@ -8416,6 +8590,7 @@ Skipped: Starbase132Epsilon9-WHDL.lha
 Skipped: Starboy-WHDL.lha
 Skipped: StarBuster-WHDL.lha
 Skipped: StarbyteSuperSoccerDE-WHDL.lha
+Skipped: StarChessDE-WHDL.lha
 Skipped: StarDefender-WHDL.lha
 Skipped: StarPlop-WHDL.lha
 Skipped: Starrwoids-WHDL.lha
@@ -8461,6 +8636,7 @@ Skipped: StripPoker2data4-WHDL.lha
 Skipped: StripPokerLiveCDTV-WHDL.lha
 Skipped: Struggle-WHDL.lha
 Skipped: StThomasDE-WHDL.lha
+Skipped: StThomasFR-WHDL.lha
 Skipped: Subattack-WHDL.lha
 Skipped: SubRally-WHDL.lha
 Skipped: SubVersion-WHDL.lha
@@ -8468,8 +8644,10 @@ Skipped: SuicideMachine-WHDL.lha
 Skipped: SuicideMission-WHDL.lha
 Skipped: Sumera-WHDL.lha
 Skipped: SummerChallenge-WHDL.lha
+Skipped: SummerOlympixCD32-WHDL.lha
 Skipped: Sun-WHDL.lha
 Skipped: SuperBallz-WHDL.lha
+Skipped: SuperBallzAGA-WHDL.lha
 Skipped: SuperBattlezone-WHDL.lha
 Skipped: SuperBlobble1-WHDL.lha
 Skipped: SuperBlobble2-WHDL.lha
@@ -8495,6 +8673,7 @@ Skipped: StewardsEnquiry-WHDL.lha
 Skipped: Strikeball-WHDL.lha
 Skipped: SuperChickenRun-WHDL.lha
 Skipped: SuperCombat3-WHDL.lha
+Skipped: SuperDeliveryBoyHoliday-WHDL.lha
 Skipped: SuperDrive-WHDL.lha
 Skipped: SuperFoulEgg-WHDL.lha
 Skipped: SuperGoDownHole-WHDL.lha
@@ -8510,7 +8689,7 @@ Skipped: SuperNovaeDemo-WHDL.lha
 Skipped: SuperNovaFruitMachine-WHDL.lha
 Skipped: SuperOrangeMan-WHDL.lha
 Skipped: SuperPacman92-WHDL.lha
-Skipped: SuperPoker-WHDL.lha
+Skipped: SuperPengoTwinsAGA-WHDL.lha
 Skipped: SuperPool-WHDL.lha
 Skipped: SuperprixDemo-WHDL.lha
 Skipped: SuperPumpkinBrosAGAdemo-WHDL.lha
@@ -8571,6 +8750,7 @@ Skipped: Targis-WHDL.lha
 Skipped: Targis93-WHDL.lha
 Skipped: Tasar-WHDL.lha
 Skipped: TaskForce-WHDL.lha
+Skipped: TaskForceFR-WHDL.lha
 Skipped: TaskForceGranseuer-WHDL.lha
 Skipped: Taxi-WHDL.lha
 Skipped: TeamManager-WHDL.lha
@@ -8582,6 +8762,7 @@ Skipped: TecnoballzAGA-WHDL.lha
 Skipped: Teddy-WHDL.lha
 Skipped: TeenAgentAGA-WHDL.lha
 Skipped: TeenAgentSpeechAGAPL-WHDL.lha
+Skipped: TeenyWeenys-WHDL.lha
 Skipped: TeenyWeenysAGA-WHDL.lha
 Skipped: TeeOff-WHDL.lha
 Skipped: Telekommando1DE-WHDL.lha
@@ -8593,6 +8774,7 @@ Skipped: TenaBlaster-WHDL.lha
 Skipped: TennisDreke-WHDL.lha
 Skipped: TeoPL-WHDL.lha
 Skipped: TeresaAGA-WHDL.lha
+Skipped: Teserae-WHDL.lha
 Skipped: Testament2AGA-WHDL.lha
 Skipped: TestMatchCricket-WHDL.lha
 Skipped: Tetracopy-WHDL.lha
@@ -8633,6 +8815,7 @@ Skipped: TimeBomb-WHDL.lha
 Skipped: TimebombCoagulus-WHDL.lha
 Skipped: TimeBombs-WHDL.lha
 Skipped: TimeHornIT-WHDL.lha
+Skipped: TimeKeepers1-WHDL.lha
 Skipped: Timekeepers1-WHDL.lha
 Skipped: TimeKeepers1FR-WHDL.lha
 Skipped: TimeKeepers2-WHDL.lha
@@ -8682,6 +8865,7 @@ Skipped: Trains-WHDL.lha
 Skipped: Traitor-WHDL.lha
 Skipped: TrapEm-WHDL.lha
 Skipped: Trapped1ECSAGA-WHDL.lha
+Skipped: Trapped3ECSAGAdemo-WHDL.lha
 Skipped: TravelManagerDE-WHDL.lha
 Skipped: Trax-WHDL.lha
 Skipped: TraxLucas-WHDL.lha
@@ -8691,6 +8875,7 @@ Skipped: TrickOrTreat-WHDL.lha
 Skipped: TrifleAGA-WHDL.lha
 Skipped: TrioDE-WHDL.lha
 Skipped: Tritus-WHDL.lha
+Skipped: TrivialPursuitLanguage-WHDL.lha
 Skipped: Triz-WHDL.lha
 Skipped: Tron5000-WHDL.lha
 Skipped: Tron95-WHDL.lha
@@ -8715,6 +8900,7 @@ Skipped: TurboLode2DemoFR-WHDL.lha
 Skipped: TurboRacer3DAGA-WHDL.lha
 Skipped: TurboRaketti1FI-WHDL.lha
 Skipped: TurboRaketti3FI-WHDL.lha
+Skipped: TurboSanta-WHDL.lha
 Skipped: TurboSmash-WHDL.lha
 Skipped: TurboThrust-WHDL.lha
 Skipped: TurboTomatoDemo-WHDL.lha
@@ -8728,6 +8914,7 @@ Skipped: TwinZ-WHDL.lha
 Skipped: TwoToOne-WHDL.lha
 Skipped: Tykkipeli-WHDL.lha
 Skipped: TyranPL-WHDL.lha
+Skipped: TZeroRIPAGA-WHDL.lha
 Skipped: TzeroRIPAGA-WHDL.lha
 Skipped: UbekECSAGA-WHDL.lha
 Skipped: UbekECSAGAPL-WHDL.lha
@@ -8741,7 +8928,7 @@ Skipped: UltimateSoccerManagerAGAFR-WHDL.lha
 Skipped: UltimateSoccerManagerFR-WHDL.lha
 Skipped: UltimateTourTennis-WHDL.lha
 Skipped: SuperCaztri2-WHDL.lha
-Skipped: SuperPengoTwinsAGA-WHDL.lha
+Skipped: SuperPoker-WHDL.lha
 Skipped: SuperTron97-WHDL.lha
 Skipped: TacticalManager1Italia-WHDL.lha
 Skipped: TanksMassacre-WHDL.lha
@@ -8779,6 +8966,7 @@ Skipped: VabankPL-WHDL.lha
 Skipped: ValarCZ-WHDL.lha
 Skipped: Valhalla3-WHDL.lha
 Skipped: VampireCurseNight-WHDL.lha
+Skipped: VampireCurseNightEasy-WHDL.lha
 Skipped: VanillaTetris-WHDL.lha
 Skipped: VegetablesDX-WHDL.lha
 Skipped: VektorStorm-WHDL.lha
@@ -8833,6 +9021,7 @@ Skipped: WhalesVoyage1CD32-WHDL.lha
 Skipped: WhalesVoyage2-WHDL.lha
 Skipped: Wheelchair-WHDL.lha
 Skipped: Wheelie-WHDL.lha
+Skipped: WheelsOnFireAGA-WHDL.lha
 Skipped: Wheelspin-WHDL.lha
 Skipped: WheelspinAGA-WHDL.lha
 Skipped: WhenTwoWorldsWar-WHDL.lha
@@ -8860,6 +9049,7 @@ Skipped: WizardWarsDemo-WHDL.lha
 Skipped: WizardWorld-WHDL.lha
 Skipped: Wizio1-WHDL.lha
 Skipped: WizzyQuest-WHDL.lha
+Skipped: Wobbler-WHDL.lha
 Skipped: WolfPacAGA-WHDL.lha
 Skipped: Wonderland-WHDL.lha
 Skipped: WoodenBall-WHDL.lha
@@ -8894,7 +9084,10 @@ Skipped: Wuzzi-WHDL.lha
 Skipped: Xap-WHDL.lha
 Skipped: XBalls-WHDL.lha
 Skipped: Xenomorphs1-WHDL.lha
+Skipped: Xenomorphs1demo-WHDL.lha
 Skipped: Xenomorphs2-WHDL.lha
+Skipped: Xenomorphs2AGA-WHDL.lha
+Skipped: Xenomorphs2demo-WHDL.lha
 Skipped: Xenostar-WHDL.lha
 Skipped: XFI-WHDL.lha
 Skipped: XFighterAGAdemo-WHDL.lha
@@ -8953,6 +9146,7 @@ Skipped: ChinaChallenge3-WHDL.lha
 Skipped: ChinczykPL-WHDL.lha
 Skipped: ChineseChess-WHDL.lha
 Skipped: Chips-WHDL.lha
+Skipped: ChocTris-WHDL.lha
 Skipped: Chopper2-WHDL.lha
 Skipped: ChopperAttack-WHDL.lha
 Skipped: CiemnaStronaPL-WHDL.lha
@@ -8975,6 +9169,59 @@ Skipped: BrutalHomicide2-WHDL.lha
 Skipped: BrutalTeniaIT-WHDL.lha
 Skipped: BrydzPL-WHDL.lha
 Skipped: BubbleGhost-WHDL.lha
+Skipped: BurnoutAGA-WHDL.lha
+Skipped: BurstMarble-WHDL.lha
+Skipped: BurtonBird-WHDL.lha
+Skipped: BuscaParejasSP-WHDL.lha
+Skipped: BushBuck-WHDL.lha
+Skipped: Buzzy-WHDL.lha
+Skipped: BVASnow-WHDL.lha
+Skipped: ByteMan-WHDL.lha
+Skipped: C5sim-WHDL.lha
+Skipped: CadaverLast-WHDL.lha
+Skipped: CaesarDX-WHDL.lha
+Skipped: CaesarDXCohort2FR-WHDL.lha
+Skipped: CaesarDXFR-WHDL.lha
+Skipped: Caffeine1-WHDL.lha
+Skipped: Caffeine2-WHDL.lha
+Skipped: Calculation-WHDL.lha
+Skipped: CampoFuocoIT-WHDL.lha
+Skipped: Globetrotter-WHDL.lha
+Skipped: Glodrick-WHDL.lha
+Skipped: Gloom25SE97ECSAGA-WHDL.lha
+Skipped: Gloom2DX96ECSAGA-WHDL.lha
+Skipped: Gloom2SE97ECSAGA-WHDL.lha
+Skipped: Gloom3ZE98ECSAGA-WHDL.lha
+Skipped: Gloom4ZM99ECSAGA-WHDL.lha
+Skipped: Gloom8BitKillerECSAGA-WHDL.lha
+Skipped: GloomDeathMaskECSAGA-WHDL.lha
+Skipped: GloomDICFTDECSAGA-WHDL.lha
+Skipped: GloomJechtBattleECSAGA-WHDL.lha
+Skipped: GloomMapFirstAgeECSAGA-WHDL.lha
+Skipped: GloomMapPlenty1ECSAGA-WHDL.lha
+Skipped: GloomMapPlenty2ECSAGA-WHDL.lha
+Skipped: GloomMapPlenty3ECSAGA-WHDL.lha
+Skipped: GloomSpekkioBattleECSAGA-WHDL.lha
+Skipped: GloomUltMazeECSAGA-WHDL.lha
+Skipped: GloomXmenECSAGA-WHDL.lha
+Skipped: ConquestDominion-WHDL.lha
+Skipped: ConquestRemix-WHDL.lha
+Skipped: Contentious-WHDL.lha
+Skipped: ContraptionZack-WHDL.lha
+Skipped: Conundrum2demo-WHDL.lha
+Skipped: Cookie-WHDL.lha
+Skipped: Copper-WHDL.lha
+Skipped: CoqueNKieaguaRallyAGA-WHDL.lha
+Skipped: Cornelius-WHDL.lha
+Skipped: Cortex-WHDL.lha
+Skipped: CosmicBattles-WHDL.lha
+Skipped: CosmicRacer-WHDL.lha
+Skipped: Countdown1Extinction-WHDL.lha
+Skipped: Countdown2Traitor-WHDL.lha
+Skipped: Countdown3Hanger18-WHDL.lha
+Skipped: CountdownExtinction-WHDL.lha
+Skipped: AdamIsMe-WHDL.lha
+Skipped: Agonman2021AGAdemo-WHDL.lha
 Skipped: AlarcityAGAdemo-WHDL.lha
 Skipped: AlarcityDungeonAGADemo-WHDL.lha
 Skipped: AmiBloodDemo-WHDL.lha
@@ -8985,6 +9232,7 @@ Skipped: AMRWolfdemoAGA-WHDL.lha
 Skipped: AonicDemo-WHDL.lha
 Skipped: AstroBloxRevDemo-WHDL.lha
 Skipped: AtareniumFalconDemo-WHDL.lha
+Skipped: AttackPETSCIIRobotsDemo-WHDL.lha
 Skipped: AztecChallengeCD32demo-WHDL.lha
 Skipped: BackboneMicrofighters-WHDL.lha
 Skipped: BackboneMonkeyDemo-WHDL.lha
@@ -8993,12 +9241,14 @@ Skipped: BackboneTutorialDemo-WHDL.lha
 Skipped: BeatsFireFFAGA-WHDL.lha
 Skipped: BeatsFireFFECS-WHDL.lha
 Skipped: BigEndCD32Demo-WHDL.lha
+Skipped: BlackDawn2TechoMageDemo-WHDL.lha
 Skipped: BlackDawnRebirthDemo-WHDL.lha
 Skipped: BlaskDemo-WHDL.lha
 Skipped: BlazingGunsDemo-WHDL.lha
 Skipped: BlockOffDemo-WHDL.lha
 Skipped: BlueThunderDemo-WHDL.lha
 Skipped: BombJackOtherDemo-WHDL.lha
+Skipped: CastlevaniaAGAdemo-WHDL.lha
 Skipped: ChaosGuns2016Demo-WHDL.lha
 Skipped: ChipsRemakeDemo-WHDL.lha
 Skipped: ChocTrisDemo-WHDL.lha
@@ -9006,8 +9256,14 @@ Skipped: ClimbySkiesDemo-WHDL.lha
 Skipped: CocoBananaDemo-WHDL.lha
 Skipped: CocoBananaXmasDemo-WHDL.lha
 Skipped: CrazyColumnsDemo-WHDL.lha
+Skipped: CreepingOut-WHDL.lha
+Skipped: CreepingOutDemo-WHDL.lha
+Skipped: CyberPunkAlienCityAGAdemo.lha
 Skipped: DeepSilenceDemo-WHDL.lha
+Skipped: DevilsTempleDemo-WHDL.lha
+Skipped: DreamRowanDemo-WHDL.lha
 Skipped: EgoWingsDemo-WHDL.lha
+Skipped: EmotiworldDemo-WHDL.lha
 Skipped: EnforcerDemo-WHDL.lha
 Skipped: FtypeDemo-WHDL.lha
 Skipped: FurtumSacrumDarkDemo-WHDL.lha
@@ -9017,16 +9273,19 @@ Skipped: GilbertDemo-WHDL.lha
 Skipped: GolfExcellenceAGAdemo-WHDL.lha
 Skipped: GolfExcellenceECSdemo-WHDL.lha
 Skipped: GreenThangDemo-WHDL.lha
+Skipped: HalloweenNightmareDemo-WHDL.lha
 Skipped: HanselGretelDemo-WHDL.lha
 Skipped: HenryHouseDemo-WHDL.lha
 Skipped: HeroesGorluthDemo-WHDL.lha
 Skipped: HighwaySprintDemo-WHDL.lha
 Skipped: HyboriaAGADemoEarly-WHDL.lha
 Skipped: InviyyaDemo-WHDL.lha
+Skipped: JackalDemo-WHDL.lha
 Skipped: KCMdemo-WHDL.lha
 Skipped: KungFuMasterDemo-WHDL.lha
 Skipped: LegacyDemo-WHDL.lha
 Skipped: LegacyHighDemo-WHDL.lha
+Skipped: LittleKingDemo-WHDL.lha
 Skipped: MagazynDemo-WHDL.lha
 Skipped: MakeFightDemo-WHDL.lha
 Skipped: MegamanXDemoEarly-WHDL.lha
@@ -9040,6 +9299,8 @@ Skipped: PlatformNeesoDemo-WHDL.lha
 Skipped: PlatformNobodyDemo-WHDL.lha
 Skipped: Pong4kDemoCD32-WHDL.lha
 Skipped: ProjectHorizonDemo-WHDL.lha
+Skipped: ProjectQuestDemo-WHDL.lha
+Skipped: ProjektLilaDemo-WHDL.lha
 Skipped: PutterDemo-WHDL.lha
 Skipped: QuasaurusXDemo-WHDL.lha
 Skipped: BattlecraftDemo-WHDL.lha
@@ -9047,8 +9308,10 @@ Skipped: CyberwolfDemo-WHDL.lha
 Skipped: IcarusDemo-WHDL.lha
 Skipped: RedpillAstroDemo-WHDL.lha
 Skipped: Rotator2020demo-WHDL.lha
+Skipped: SVLCVSSdemo-WHDL.lha
 Skipped: RedpillBasicPlatfDemo-WHDL.lha
 Skipped: RedpillBasicShootDemo-WHDL.lha
+Skipped: RedpillBlockBreakerDemo-WHDL.lha
 Skipped: RedpillExPlatfDemo-WHDL.lha
 Skipped: RedpillGalagaDemo-WHDL.lha
 Skipped: RedpillGravityDemo-WHDL.lha
@@ -9058,10 +9321,16 @@ Skipped: RedpillPacManDemo-WHDL.lha
 Skipped: RedpillPangDemo-WHDL.lha
 Skipped: RedpillPillmanDemo-WHDL.lha
 Skipped: RedpillPongDemo-WHDL.lha
+Skipped: RedpillShotemupDemo-WHDL.lha
 Skipped: RedpillWaveDemo-WHDL.lha
+Skipped: ReshootAGAdemo-WHDL.lha
 Skipped: ReshootRAGADemo-WHDL.lha
+Skipped: RickDangerous2022demo-WHDL.lha
 Skipped: Robbo2demo-WHDL.lha
 Skipped: RygarDemo-WHDL.lha
+Skipped: SchutzeMike1IncaDemo-WHDL.lha
+Skipped: SchutzeMike2ZombieCD32Demo-WHDL.lha
+Skipped: SchutzeMike2ZombieDemo-WHDL.lha
 Skipped: ScorpionAlexKiddDemo-WHDL.lha
 Skipped: ScorpionPhoenixWrightDemo-WHDL.lha
 Skipped: ScorpionZeldaDemo-WHDL.lha
@@ -9075,7 +9344,6 @@ Skipped: SuperDeliveryBoyDemo-WHDL.lha
 Skipped: SuperDeliveryBoyDemo.lha
 Skipped: SuperMarioRebelDemo-WHDL.lha
 Skipped: SuperMarioRetroDemo-WHDL.lha
-Skipped: SVLCVSSdemo-WHDL.lha
 Skipped: SVLCVSSRaceAGADemo-WHDL.lha
 Skipped: SzalterHolidayDemo-WHDL.lha
 Skipped: TalesGorluth3demo-WHDL.lha
@@ -9085,11 +9353,14 @@ Skipped: ThingsDemo-WHDL.lha
 Skipped: TinyLittleSlugDemo-WHDL.lha
 Skipped: TurboSprintAGAdemo-WHDL.lha
 Skipped: Turrican2AGAdemo-WHDL.lha
+Skipped: Turrican2AGAdemoW3-WHDL.lha
 Skipped: UnderCoverDemo-WHDL.lha
 Skipped: WarpgateDemo-WHDL.lha
 Skipped: WolfShackDemo-WHDL.lha
+Skipped: Wonderboy1Demo-WHDL.lha
 Skipped: WonderboyDemo-WHDL.lha
 Skipped: WonderGirlDemo-WHDL.lha
+Skipped: YoompDemo-WHDL.lha
 Skipped: FunSchool3for5to7-WHDL.lha
 Skipped: AbracadabraFR-WHDL.lha
 Skipped: AcrossUSAFR-WHDL.lha
@@ -9106,6 +9377,7 @@ Skipped: BosseMaths6emeFR-WHDL.lha
 Skipped: DenverDecouvreFormeFR-WHDL.lha
 Skipped: Droledecole0507FR-WHDL.lha
 Skipped: DroledEcole5a7FR-WHDL.lha
+Skipped: EmmasPaintBook-WHDL.lha
 Skipped: FunSchool2for6to8-WHDL.lha
 Skipped: FunSchool2over8-WHDL.lha
 Skipped: FunSchool2under6-WHDL.lha

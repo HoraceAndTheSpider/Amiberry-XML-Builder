@@ -381,7 +381,7 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                     whd_fast_ram = 0
 
                 chip_ram = 2
-                fast_ram = 4
+                fast_ram = 8
                
                 
                 old_chip_ram = chip_ram
@@ -400,6 +400,7 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
 
                 # ' ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
                 # ' when we want different fast ram!!
+                # No longer required as of Amiberry 5.0 | Default is 8Mb of fast RAM.
 
                 old_fast_ram = fast_ram
                 for i in range(0, 4):
@@ -602,7 +603,7 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                 if chip_ram != 2:
                     hardware += ("CHIP_RAM=") + str(chip_ram) + chr(10)
 
-                if fast_ram != 4:
+                if fast_ram != 8:
                     hardware += ("FAST_RAM=") + str(fast_ram) + chr(10)
 
                 if z3_ram != 0:
@@ -684,7 +685,7 @@ text_file.close()
 
 ######
 # no more offsetX/Y related lines and remove anythig else specified like blank lines
-offtext = ['SCREEN_X_OFFSET=', 'SCREEN_Y_OFFSET=', '\t\t\n']
+offtext = ['FAST_RAM=8', 'SCREEN_X_OFFSET=', 'SCREEN_Y_OFFSET=', '\t\t\n']
 
 with open(whdbfile, 'r') as nomoreoffset:
     olines = nomoreoffset.readlines()

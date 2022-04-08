@@ -1,4 +1,4 @@
-Scanned file log: 2022-04-06 at 03:00:03
+Scanned file log: 2022-04-08 at 03:00:04
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -2039,6 +2039,7 @@ Skipped: Dune_v3.1_Fr_2393.lha
 Skipped: Dune_v3.1_Gr.lha
 Skipped: Dune_v3.1_It_2594.lha
 Skipped: DungeonMaster2_v1.0_AGA_0899.lha
+Scanned: Dungeon Master 2
 Skipped: DungeonMaster_v1.2_0833.lha
 Skipped: DungeonMaster_v1.3_0833.lha
 Skipped: DungeonQuest_v1.0_0663.lha
@@ -2172,8 +2173,8 @@ Skipped: Dennis_v1.5.2_CD32.lha
 Skipped: DenverJeFaisDesCouleurs_v1.0_Fr.lha
 Skipped: DesertStrike_v2.3_0112.lha
 Skipped: DesertStrike_v3.1_0112.lha
-Scanned: Desert Strike - Return to the Gulf
-Scanned: Desert Strike (512Kb)
+Skipped: DesertStrike_v3.3_0112.lha
+Skipped: DesertStrike_v3.3_512k_0112.lha
 Skipped: Destroyer_v1.0_0318.lha
 Skipped: Detonator_v1.0.lha
 Skipped: Detroit_v1.0_1861.lha
@@ -2858,7 +2859,7 @@ Skipped: GreatCourts2_v1.5_512KB_0333.lha
 Skipped: GreatCourts_v2.3_2605.lha
 Skipped: GreatGianaSisters_v1.5.1_2945.lha
 Skipped: GreatGianaSisters_v1.6_2945.lha
-Scanned: Green Beret
+Skipped: GreenBeret_v1.0.lha
 Skipped: Gremlins2_v1.2_0489.lha
 Skipped: Gridiron_v1.0_2124.lha
 Skipped: GodsDemo_v1.0.lha
@@ -3464,8 +3465,8 @@ Skipped: LastActionHero_v1.1.lha
 Skipped: LastBattle_v1.1_1044.lha
 Skipped: LastDuel_v1.1.lha
 Skipped: LastNinja2_v1.1_0131.lha
-Scanned: Last Ninja 3
-Scanned: Last Ninja 3 [CD32]
+Skipped: LastNinja3_v1.1a_0495.lha
+Skipped: LastNinja3_v1.1a_CD32.lha
 Skipped: LastNinja3_v1.1_0495.lha
 Skipped: LastNinja3_v1.1_CD32.lha
 Skipped: LastSoldier_v1.0_Pl.lha
@@ -3671,10 +3672,10 @@ Skipped: LureOfTheTemptress_v2.0_2030.lha
 Skipped: LureOfTheTemptress_v2.0_De.lha
 Skipped: LureOfTheTemptress_v2.0_Fr_2040.lha
 Skipped: LureOfTheTemptress_v2.0_It_2028.lha
-Scanned: Lure Of The Temptress
-Scanned: Lure Of The Temptress (Deutsch)
-Scanned: Lure Of The Temptress (Francais)
-Scanned: Lure Of The Temptress (Italiano)
+Skipped: LureOfTheTemptress_v2.1_2030.lha
+Skipped: LureOfTheTemptress_v2.1_De.lha
+Skipped: LureOfTheTemptress_v2.1_Fr_2040.lha
+Skipped: LureOfTheTemptress_v2.1_It_2028.lha
 Skipped: Luxor_v1.0.lha
 Skipped: MultiPlayerSoccerManager_v1.0.lha
 Skipped: Munsters_v1.1_1265.lha
@@ -4033,7 +4034,7 @@ Skipped: NilDieuVivant_v1.1_Fr.lha
 Skipped: NinjaMission_v0.1_Arcadia.lha
 Skipped: NinjaMission_v1.0.lha
 Skipped: NinjaRabbits_v1.1.lha
-Scanned: Ninja Remix
+Skipped: NinjaRemix_v1.1_3020.lha
 Skipped: NinjaRemix_v1.3.lha
 Skipped: NinjaSpirit_v1.2_1669.lha
 Skipped: NinjaWarriors_v1.2_0543.lha
@@ -4133,6 +4134,7 @@ Skipped: OverTheNet_v1.1_NTSC_2439.lha
 Skipped: Oxxonian_v1.0.lha
 Skipped: OperationG2Demo_v1.0_1475.lha
 Skipped: OperationHarrier_v1.1_1051.lha
+Scanned: Operation Harrier
 Skipped: OperationJupiter_v1.1_Fr_0374.lha
 Skipped: OperationJupiter_v1.2_Fr_0374.lha
 Skipped: OperationNeptune_v1.0_0546.lha
@@ -4728,8 +4730,8 @@ Skipped: SDI_v1.0_Cinemaware_1266.lha
 Skipped: SDI_v1.0_Cinemaware_NTSC_1266.lha
 Skipped: SecondSamurai_v1.1_0721.lha
 Skipped: SecondSamurai_v1.1_AGA_1624.lha
-Scanned: Second Samurai
-Scanned: Second Samurai [AGA]
+Skipped: SecondSamurai_v1.2a_0721.lha
+Skipped: SecondSamurai_v1.2a_AGA_1624.lha
 Skipped: SecondSamurai_v1.2_0721.lha
 Skipped: SecondSamurai_v1.2_AGA_1624.lha
 Skipped: SecondsOut_v1.1_2760.lha

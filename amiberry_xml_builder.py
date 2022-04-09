@@ -589,7 +589,7 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                     hardware += ('SCREEN_AUTOHEIGHT=') + HW_AUTO_HEIGHT + chr(10)
 
                 if HW_WIDTH != "":
-                    hardware += ("SCREEN_WIDTH") + HW_WIDTH + chr(10)
+                    hardware += ("SCREEN_WIDTH=") + HW_WIDTH + chr(10)
 
                 if HW_H_CENTER != '':
                     hardware += ('SCREEN_CENTERH=') + HW_H_CENTER + chr(10)

@@ -500,15 +500,10 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                 # cycle_exact = check_list("CPU_CycleExact.txt", sub_path)
 
                 # JIT Cache
-                # when JIT is True to prevent a bug Z2 must be set to 0
-                # hence we need to set some Z3 (if not already set).
                 HW_JIT = "FALSE"
                 if check_list("CPU_ForceJIT.txt",sub_path) == True:
                     #HW_SPEED = 'MAX'
                     HW_JIT = 'TRUE'
-                    fast_ram = 0
-                    if z3_ram == 0 or z3_ram == '':
-                        z3_ram = 16
 
                 # CHIPSET
                 HW_CHIPSET = ""

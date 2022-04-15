@@ -335,9 +335,10 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                         HW_HEIGHT = possibleheight
                         break
 
-                # screen widths  { 320, 352, 384, 640, 704, 720, 768 };
-                listwidths = ['320', '352', '384', '640', '704', '720', '768']
-                HW_WIDTH = ''
+                # screen widths { 320, 352, 384, 640, 704, 720 };
+                # default: 720
+                listwidths = ['320', '352', '384', '640', '704']
+                HW_WIDTH = '720'
 
                 for possiblewidth in listwidths:
                     if check_list('Screen_Width_'+possiblewidth+'.txt', sub_path) is True:
@@ -583,7 +584,7 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                 else:
                     hardware += ('SCREEN_AUTOHEIGHT=') + HW_AUTO_HEIGHT + chr(10)
 
-                if HW_WIDTH != "":
+                if HW_HEIGHT != "":
                     hardware += ("SCREEN_WIDTH=") + HW_WIDTH + chr(10)
 
                 if HW_H_CENTER != '':

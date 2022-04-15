@@ -367,6 +367,7 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                 max_offset_h = 60
 
                 if offset_h.lstrip('-').isnumeric():
+                    HW_H_CENTER = 'NONE' # disabling auto-centering if there's offset
                     screen_offset_h = int(offset_h)
                     if min_offset_h <= screen_offset_h <= max_offset_h:
                         pass
@@ -381,6 +382,7 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                 max_offset_v = 20
 
                 if offset_v.lstrip('-').isnumeric():
+                    HW_V_CENTER = 'NONE' # disabling auto-centering if there's offset
                     screen_offset_v = int(offset_v)
                     if min_offset_v <= screen_offset_v <= max_offset_v:
                         pass

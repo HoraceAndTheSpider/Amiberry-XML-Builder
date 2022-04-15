@@ -1,4 +1,4 @@
-Scanned file log: 2022-04-13 at 03:00:03
+Scanned file log: 2022-04-15 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -1132,11 +1132,11 @@ Skipped: AshesOfEmpire_v1.0.lha
 Skipped: AshesOfEmpire_v1.0_De_0794.lha
 Skipped: AssassinSpecialEdition_v2.0_0766.lha
 Skipped: AssassinSpecialEdition_v3.0a_0766.lha
-Scanned: Assassin Special Edition
+Skipped: AssassinSpecialEdition_v3.0b_0766.lha
 Skipped: AssassinSpecialEdition_v3.0_0766.lha
 Skipped: Assassin_v1.1_1214.lha
 Skipped: Assassin_v1.2a_1214.lha
-Scanned: Assassin
+Skipped: Assassin_v1.2b_1214.lha
 Skipped: Assassin_v1.2_1214.lha
 Skipped: Astaroth_v1.0_1321.lha
 Skipped: Astatin_v1.0.lha
@@ -1242,6 +1242,7 @@ Skipped: AuntArcticAdventure_v1.0_1757.lha
 Skipped: AustraloPiticusMechanicus_v1.0a_0809.lha
 Skipped: AustraloPiticusMechanicus_v2.0_0809.lha
 Skipped: AutoDuel_v1.0_0916.lha
+Scanned: Bundesliga Manager Pro (Deutsch)
 Skipped: BunnyBricks_v1.2_0211.lha
 Skipped: BunnyBricks_v1.2_Fast_0211.lha
 Skipped: BurgerMan_v1.0.lha
@@ -1941,7 +1942,7 @@ Skipped: CrimeCity_v1.01.lha
 Skipped: CrimeCity_v1.01_De.lha
 Skipped: CrimeDoesNotPay_v1.0_0364.lha
 Skipped: CrimeWave_v1.1.lha
-Scanned: Crime Wave
+Skipped: CrimeWave_v1.2_2942.lha
 Skipped: Croak2_v1.0.lha
 Skipped: Croak_v1.0.lha
 Skipped: CroisierePourUnCadavre_v2.1-B_Fr_1827.lha
@@ -3077,11 +3078,11 @@ Skipped: Italia1990_v1.0_2314.lha
 Skipped: Italy1990WinnersEdition_v1.2_1610.lha
 Skipped: Italy1990_v1.2_1260.lha
 Skipped: ItCameFromTheDesert2_v2.0.lha
-Scanned: It Came From The Desert 2 (Italiano)
+Skipped: ItCameFromTheDesert2_v2.0_It.lha
 Skipped: ItCameFromTheDesert_v2.0_0014.lha
-Scanned: It Came From The Desert (Espanol)
+Skipped: ItCameFromTheDesert_v2.0_Es.lha
 Skipped: ItCameFromTheDesert_v2.0_Gr.lha
-Scanned: It Came From The Desert (Italiano)
+Skipped: ItCameFromTheDesert_v2.0_It.lha
 Skipped: Ivanhoe_v1.0_1648.lha
 Skipped: Ivanhoe_v1.1_1648.lha
 Skipped: Ivanhoe_v1.2_1648.lha
@@ -3512,7 +3513,7 @@ Skipped: LegendOfKyrandia_v2.0_Fr.lha
 Skipped: LegendOfKyrandia_v2.0_It.lha
 Skipped: LegendOfRagnarok_v1.0.lha
 Skipped: LegendOfTheLost_v1.01_2971.lha
-Scanned: Legend Of The Lost
+Skipped: LegendOfTheLost_v1.02_2971.lha
 Skipped: LegendOfTheLost_v1.0_2971.lha
 Skipped: LegendOfTheSword_v1.01_0797.lha
 Skipped: LegendOfTheSword_v1.0_0797.lha
@@ -3744,6 +3745,8 @@ Skipped: MagicPockets_v3.3_0917.lha
 Skipped: MagicPockets_v3.3_NTSC.lha
 Skipped: Magnatron_v1.2.lha
 Skipped: MajorMotion_v1.0_1756.lha
+Scanned: Manager
+Scanned: Manager (Italiano)
 Skipped: ManchesterUnitedEurope20_v1.0_1104.lha
 Skipped: ManchesterUnitedEurope21_v1.0_1120.lha
 Skipped: ManchesterUnitedEurope23_v1.0_2206.lha
@@ -4140,7 +4143,7 @@ Skipped: Oxxonian_v1.0.lha
 Skipped: OperationG2Demo_v1.0_1475.lha
 Skipped: OperationHarrier_v1.1_1051.lha
 Skipped: OperationHarrier_v1.2_1051.lha
-Scanned: Operation Harrier
+Skipped: OperationHarrier_v1.3_1051.lha
 Skipped: OperationJupiter_v1.1_Fr_0374.lha
 Skipped: OperationJupiter_v1.2_Fr_0374.lha
 Skipped: OperationNeptune_v1.0_0546.lha
@@ -4222,11 +4225,11 @@ Skipped: Patrician_v1.3_1802.lha
 Skipped: Patrician_v1.3_Fr.lha
 Skipped: Patrician_v1.4_1802.lha
 Skipped: Patrician_v1.4_Fr.lha
-Scanned: Patrician
-Scanned: Patrician (Francais)
+Skipped: Patrician_v1.5_1802.lha
+Skipped: Patrician_v1.5_Fr.lha
 Skipped: Patrizier_v1.3_De_0376.lha
 Skipped: Patrizier_v1.4_De_0376.lha
-Scanned: Patrizier (Deutsch)
+Skipped: Patrizier_v1.5_De_0376.lha
 Skipped: Pawn_v1.0_0709.lha
 Skipped: Pegasus_v1.1_1645.lha
 Skipped: PenthouseHotNumbersDeluxe_v1.0_AGA_De.lha
@@ -4245,7 +4248,7 @@ Skipped: PGAEuropeanTour_v1.1_CD32.lha
 Skipped: PGATourGolf&TournamentCourseDisk_v1.01_0891.lha
 Skipped: PGATourGolf_v1.01_0891.lha
 Skipped: Phalanx_v1.1.lha
-Scanned: Phalanx
+Skipped: Phalanx_v1.1_2708.lha
 Skipped: Phantasie3_v1.1_1186.lha
 Skipped: Phantasie_v1.0_1185.lha
 Skipped: Phantasm_v1.1_2972.lha
@@ -4527,6 +4530,7 @@ Skipped: RomeAD92_v1.2_0780.lha
 Skipped: Rotor_v1.1.lha
 Skipped: Rotox_v1.0_2496.lha
 Skipped: RoundTheBend_v1.0.lha
+Scanned: Round The Bend
 Skipped: RType2_v1.1_2065.lha
 Skipped: RType2_v2.0_2065.lha
 Skipped: RType2_v2.1_2065.lha
@@ -4727,7 +4731,7 @@ Skipped: Sarcophaser_v1.1_3078.lha
 Skipped: SASCombatSimulator_v1.2_QuattroArcade.lha
 Skipped: SASCombatSimulator_v1.2_QuattroFighters_2205.lha
 Skipped: SASCombatSimulator_v1.3_2205.lha
-Scanned: SA SCombat Simulator
+Skipped: SASCombatSimulator_v1.4_2205.lha
 Skipped: Satan_v1.3.lha
 Skipped: Savage_v1.0_0028.lha
 Skipped: Scapeghost_v1.0.lha
@@ -4749,8 +4753,8 @@ Skipped: SecondSamurai_v1.2a_0721.lha
 Skipped: SecondSamurai_v1.2a_AGA_1624.lha
 Skipped: SecondSamurai_v1.2_0721.lha
 Skipped: SecondSamurai_v1.2_AGA_1624.lha
-Scanned: Second Samurai [AGA]
-Scanned: Second Samurai
+Skipped: SecondSamurai_v1.3a_AGA_1624.lha
+Skipped: SecondSamurai_v1.3_0721.lha
 Skipped: SecondsOut_v1.1_2760.lha
 Skipped: SecretOfMonkeyIsland_v3.4_De_0359.lha
 Skipped: SecretOfMonkeyIsland_v3.4_Es.lha
@@ -6092,7 +6096,7 @@ Skipped: StuntCarRacerTNT_v1.4_BETA.lha
 Skipped: StuntCarRacer_v1.4_BETA_0222.lha
 Skipped: SuperCars2_v0.85_AGA.lha
 Skipped: SuperCars2_v0.86_AGA.lha
-Scanned: Super Cars 2 [AGA]
+Skipped: SuperCars2_v0.87_AGA.lha
 Skipped: SuperGemZ_v1.0.lha
 Skipped: SuperHangOn_v1.5_Hack_by_Earok.lha
 Skipped: SuperMonacoGP_v1.2_BETA.lha
@@ -6106,7 +6110,7 @@ Skipped: UntouchablesSpecialEdition_v2.0_Hack_by_Earok.lha
 Skipped: WipeOut_v1.0_0161_Abaddon.lha
 Skipped: WonderboyInMonsterlandSE_v1.1_Hack_by_Earok.lha
 Skipped: WonderDogSE_v1.0_Hack_by_Earok.lha
-Scanned: Worthy
+Skipped: Worthy_v1.0.lha
 Skipped: Ziriax_v1.3b_Ross_Ultimate_Edition.lha
 Skipped: Ziriax_v1.3_UltimateEdition_Ross.lha
 Skipped: Zool_v3.1_AGA_BETA.lha

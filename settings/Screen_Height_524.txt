@@ -21,7 +21,6 @@ ChaosEngine2AGA
 ChaosEngine21MB
 DeluxePacman
 DeluxePacmanAGA
-Elfmania
 FearsAGA
 FearsCD32
 FightinSpiritAGA

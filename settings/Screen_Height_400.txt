@@ -19,6 +19,7 @@ Amberstar
 AmberstarDe
 AmberstarDeFast
 AmberstarFast
+Amnios
 AnotherWorld
 AnotherWorldFr
 AnotherWorldIt

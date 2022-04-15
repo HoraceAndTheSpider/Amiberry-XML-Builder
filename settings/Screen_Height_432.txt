@@ -1,6 +1,5 @@
 AbandonedPlaces2
 AddamsFamily
-AlienBreed3D2AGA
 AlienBreed3DAGA
 AlienBreed3DCD32
 AlienBreed3DNoMusicAGA
@@ -8,8 +7,6 @@ Apocalypse
 ArabianNightsCD32
 BartVsSpaceMutants1Disk
 BartVsSpaceMutants2Disk
-BatmanTheMovie1Disk
-BatmanTheMovie2Disk
 BCKid
 BeyondTheIcePalace
 BloodMoney

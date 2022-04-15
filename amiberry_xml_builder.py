@@ -345,7 +345,7 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                         HW_WIDTH = possiblewidth
                         break
 
-                # screen centering
+                # centering
                 HW_H_CENTER = 'SMART'
                 if check_list('Screen_NoCenter_H.txt', sub_path) is True:
                   HW_H_CENTER = 'NONE'
@@ -354,10 +354,42 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                 if check_list('Screen_NoCenter_V.txt', sub_path) is True:
                   HW_V_CENTER = 'NONE'
                                 
-                # auto centering
+                # auto-height
                 HW_AUTO_HEIGHT = 'FALSE'
                 if check_list('Screen_AutoHeight.txt', sub_path) is True or HW_HEIGHT == "":
                     HW_AUTO_HEIGHT = 'TRUE'
+
+                # offset
+                offset_h = value_list("Screen_OffsetH.txt", sub_path)
+                offset_v = value_list("Screen_OffsetV.txt", sub_path)
+
+                min_offset_h = -60
+                max_offset_h = 60
+
+                if offset_h.lstrip('-').isnumeric():
+                    screen_offset_h = int(offset_h)
+                    if min_offset_h <= screen_offset_h <= max_offset_h:
+                        pass
+                    elif screen_offset_h < min_offset_h:
+                        screen_offset_h = min_offset_h
+                    elif screen_offset_h > max_offset_h:
+                        screen_offset_h = max_offset_h
+                else:
+                    screen_offset_h = ''
+
+                min_offset_v = -20
+                max_offset_v = 20
+
+                if offset_v.lstrip('-').isnumeric():
+                    screen_offset_v = int(offset_v)
+                    if min_offset_v <= screen_offset_v <= max_offset_v:
+                        pass
+                    elif screen_offset_v < min_offset_v:
+                        screen_offset_v = min_offset_v
+                    elif screen_offset_v > max_offset_v:
+                        screen_offset_v = max_offset_v
+                else:
+                    screen_offset_v = ''
 
                 # extras
                 HW_NTSC = ""
@@ -593,6 +625,11 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                 if HW_V_CENTER != '':
                     hardware += ('SCREEN_CENTERV=') + HW_V_CENTER + chr(10)
 
+                if screen_offset_h != '':
+                    hardware += ("SCREEN_OFFSETH=") + str(screen_offset_h) + chr(10)
+
+                if screen_offset_v != '':
+                    hardware += ("SCREEN_OFFSETV=") + str(screen_offset_v) + chr(10)
 
                 # MEMORY OPTIONS
 
@@ -680,8 +717,9 @@ text_file.write(XML)
 text_file.close()
 
 ######
-# no more offsetX/Y related lines and remove anythig else specified like blank lines
-offtext = ['FAST_RAM=8', 'SCREEN_X_OFFSET=', 'SCREEN_Y_OFFSET=', '\t\t\n']
+# Line Squasher
+# Any line containing the following characters will be removed from file eg. blank lines
+offtext = ['FAST_RAM=8', '\t\t\n']
 
 with open(whdbfile, 'r') as nomoreoffset:
     olines = nomoreoffset.readlines()

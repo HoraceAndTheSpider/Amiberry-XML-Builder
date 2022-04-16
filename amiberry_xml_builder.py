@@ -354,11 +354,6 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                 if check_list('Screen_NoCenter_V.txt', sub_path) is True:
                   HW_V_CENTER = 'NONE'
                                 
-                # auto-height
-                HW_AUTO_HEIGHT = 'FALSE'
-                if check_list('Screen_AutoHeight.txt', sub_path) is True or HW_HEIGHT == "":
-                    HW_AUTO_HEIGHT = 'TRUE'
-
                 # offset
                 offset_h = value_list("Screen_OffsetH.txt", sub_path)
                 offset_v = value_list("Screen_OffsetV.txt", sub_path)
@@ -367,31 +362,29 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                 max_offset_h = 60
 
                 if offset_h.lstrip('-').isnumeric():
-                    HW_H_CENTER = 'NONE' # disabling auto-centering if there's offset
-                    screen_offset_h = int(offset_h)
-                    if min_offset_h <= screen_offset_h <= max_offset_h:
+                    HW_H_OFFSET = int(offset_h)
+                    if min_offset_h <= HW_H_OFFSET <= max_offset_h:
                         pass
-                    elif screen_offset_h < min_offset_h:
-                        screen_offset_h = min_offset_h
-                    elif screen_offset_h > max_offset_h:
-                        screen_offset_h = max_offset_h
+                    elif HW_H_OFFSET < min_offset_h:
+                        HW_H_OFFSET = min_offset_h
+                    elif HW_H_OFFSET > max_offset_h:
+                        HW_H_OFFSET = max_offset_h
                 else:
-                    screen_offset_h = ''
+                    HW_H_OFFSET = ''
 
                 min_offset_v = -20
                 max_offset_v = 20
 
                 if offset_v.lstrip('-').isnumeric():
-                    HW_V_CENTER = 'NONE' # disabling auto-centering if there's offset
-                    screen_offset_v = int(offset_v)
-                    if min_offset_v <= screen_offset_v <= max_offset_v:
+                    HW_V_OFFSET = int(offset_v)
+                    if min_offset_v <= HW_V_OFFSET <= max_offset_v:
                         pass
-                    elif screen_offset_v < min_offset_v:
-                        screen_offset_v = min_offset_v
-                    elif screen_offset_v > max_offset_v:
-                        screen_offset_v = max_offset_v
+                    elif HW_V_OFFSET < min_offset_v:
+                        HW_V_OFFSET = min_offset_v
+                    elif HW_V_OFFSET > max_offset_v:
+                        HW_V_OFFSET = max_offset_v
                 else:
-                    screen_offset_v = ''
+                    HW_V_OFFSET = ''
 
                 # extras
                 HW_NTSC = ""
@@ -612,29 +605,36 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                     hardware += ("NTSC=") + HW_NTSC + chr(10)
 
                 # SCREEN OPTIONS
-                if HW_AUTO_HEIGHT == 'FALSE':
+                # Screen: size, auto-height/crop
+                # Disable AUTOHEIGHT and set HEIGHT/WIDTH only when there's HEIGHT
+                if HW_HEIGHT != '':
+                    HW_AUTO_HEIGHT = 'FALSE'
                     hardware += ('SCREEN_AUTOHEIGHT=') + HW_AUTO_HEIGHT + chr(10)
                     hardware += ('SCREEN_HEIGHT=') + HW_HEIGHT + chr(10)
+                    hardware += ('SCREEN_WIDTH=') + HW_WIDTH + chr(10)
                 else:
+                    HW_AUTO_HEIGHT = 'TRUE'
                     hardware += ('SCREEN_AUTOHEIGHT=') + HW_AUTO_HEIGHT + chr(10)
 
-                if HW_HEIGHT != "":
-                    hardware += ("SCREEN_WIDTH=") + HW_WIDTH + chr(10)
+                # H_CENTER only if there's no H_OFFSET
+                if HW_H_CENTER == 'SMART' and HW_H_OFFSET != '':
+                    HW_H_CENTER = 'NONE'
 
-                if HW_H_CENTER != '':
-                    hardware += ('SCREEN_CENTERH=') + HW_H_CENTER + chr(10)
+                hardware += ('SCREEN_CENTERH=') + HW_H_CENTER + chr(10)
 
-                if HW_V_CENTER != '':
-                    hardware += ('SCREEN_CENTERV=') + HW_V_CENTER + chr(10)
+                # V_CENTER only if there's no V_OFFSET
+                if HW_V_CENTER == 'SMART' and HW_V_OFFSET != '':
+                    HW_V_CENTER = 'NONE'
 
-                if screen_offset_h != '':
-                    hardware += ("SCREEN_OFFSETH=") + str(screen_offset_h) + chr(10)
+                hardware += ('SCREEN_CENTERV=') + HW_V_CENTER + chr(10)
 
-                if screen_offset_v != '':
-                    hardware += ("SCREEN_OFFSETV=") + str(screen_offset_v) + chr(10)
+                if HW_H_OFFSET != '':
+                    hardware += ("SCREEN_OFFSETH=") + str(HW_H_OFFSET) + chr(10)
+
+                if HW_V_OFFSET != '':
+                    hardware += ("SCREEN_OFFSETV=") + str(HW_V_OFFSET) + chr(10)
 
                 # MEMORY OPTIONS
-
                 if chip_ram != 2:
                     hardware += ("CHIP_RAM=") + str(chip_ram) + chr(10)
 
@@ -644,24 +644,23 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                 if z3_ram != 0:
                     hardware += ("Z3_RAM=") + str(z3_ram) + chr(10)
 
-                    
                 # custom controls
-                custom_file = "customcontrols/" + full_game_name + ".controls"
+                custom_file = "customcontrols/" + sub_path
                 custom_text = ""
                                 
                 # remove any items which are not amiberry custom settings
                 if os.path.isfile(custom_file) == True:
                     with open(custom_file) as f:
-                        content = f.readlines()
+                        customsettings_content = f.readlines()
                     f.close()
                                     
-                    for this_line in content:
+                    for this_line in customsettings_content:
                       if this_line.find('amiberry_custom') > -1 and '\n' in this_line:
                         custom_text += chr(9) + chr(9) + this_line
                       elif this_line.find('amiberry_custom') > -1 and not '\n' in this_line:
                         custom_text += chr(9) + chr(9) + this_line + chr(10)
 
-                # 
+                # Libraries
                 extra_libs = "False"
                 if check_list("WHD_Libraries.txt", sub_path) is True:
                     extra_libs = "True"

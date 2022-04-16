@@ -1,9 +1,4 @@
 AbandonedPlaces
-Aladdin
-AladdinAGA
-AlfredChicken
-AlfredChickenAGA
-AlfredChickenCD32
 AllNewWorldOfLemmingsAGA
 Anarchy
 Apidya
@@ -14,9 +9,7 @@ BartVsTheWorld
 BattleIsle
 BattleIsle&DataDisks
 Blastar
-BodyBlowsGalacticAGA
 BreathlessAGA
-BrutalFootball
 BubbaNStix
 BubbleDizzy
 CannonFodder

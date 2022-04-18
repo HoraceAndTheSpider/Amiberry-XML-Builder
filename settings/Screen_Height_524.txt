@@ -1,17 +1,6 @@
-AlienBreed
 AlienBreed2
 AlienBreed2AGA
-AlienBreedSpecialEdition
-AlienBreedTA11
-AlienBreedTA11AGA
-AlienBreedTAAGA
-AlienBreedTACD32
 AlienFishFinger
-ApidyaKaiko
-Assassin
-AssassinSpecialEdition
-Benefactor
-BodyBlowsAGA
 CapitalPunishmentAGA
 CapitalPunishmentAGACD
 Cedric
@@ -21,7 +10,6 @@ ChaosEngine2AGA
 ChaosEngine21MB
 DeluxePacman
 DeluxePacmanAGA
-Elfmania
 FearsAGA
 FearsCD32
 FightinSpiritAGA

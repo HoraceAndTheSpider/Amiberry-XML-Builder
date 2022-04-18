@@ -1,8 +1,6 @@
 3DPool
 3DWorldTennis
 AlienBash2
-AlienBreedTA
-AlienBreedTowerAssaultAGA
 Arkanoid
 Atomix
 AttackOfTheGreenSmellyAliens
@@ -13,7 +11,6 @@ BaseJumpersCD32
 BatmanReturns
 BattleSquadron
 BattleSquadronDemo
-BenefactorCD32
 BombPacCD32
 BombPacCD32AGA
 CaptainPlanet&Planeteers

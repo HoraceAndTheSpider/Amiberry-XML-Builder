@@ -14,6 +14,17 @@ BodyBlowsAGA
 BodyBlowsGalacticAGA
 BrataccasNTSC
 BubbleBobble
+ChaseHQ2
+CiscoHeat
+CrazyCars
+CrazyCars2
+Emmanuelle
+FinalFight
+FinalFight1MB
+FinalFight512k
+Fire&Forget
+Fire&Forget2
+ForgottenWorlds
 ItCameFromTheDesert2
 NewZealandStory
 NewZealandStoryDemo

@@ -1,16 +1,9 @@
 BreathlessAGA
-Elite
-EliteAdvanced
 F15StrikeEagle2
 F16CombatPilot
 F19StealthFighter
 F29Retaliator
 FA18Interceptor
-Frontier
-FrontierCD32
-FrontierCz
-FrontierDe
-FrontierFr
 GloomAGA
 Hostages
 HostageNTSC

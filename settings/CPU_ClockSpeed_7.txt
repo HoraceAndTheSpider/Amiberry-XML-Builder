@@ -25,7 +25,15 @@ FinalFight512k
 Fire&Forget
 Fire&Forget2
 ForgottenWorlds
-ItCameFromTheDesert2
+HudsonHawk
+Hydra
+IkariWarriors
+Ivanhoe
+JaguarXJ220Files
+JaguarXJ220FilesChip
+JaguarXJ220Image
+JaguarXJ220ImageChip
+KickOff
 NewZealandStory
 NewZealandStoryDemo
 Viz

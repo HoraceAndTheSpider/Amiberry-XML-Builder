@@ -5,13 +5,6 @@ CivilizationAGA
 CivilizationAGACD
 CivilizationAGADe
 DeconstructionAGA
-Hunter
-HunterDe
-HunterFr
-Ishar
-IsharAGA
-IsharEs
-KidChaos
 NoSecondPrize
 RedBaron
 RoboCop3

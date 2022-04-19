@@ -4,9 +4,6 @@ BlackViperCD32
 BloodnetAGA
 CapitalPunishmentAGA
 CapitalPunishmentAGACD
-ChaosEngineAGA
-ChaosEngineCD32
-ChaosEngine2AGA
 CivilizationAGA
 CivilizationAGACD
 CivilizationAGADe
@@ -16,6 +13,9 @@ DreamWebAGADe
 DungeonMaster2AGA
 FearsAGA
 FearsCD32
+Hunter
+HunterDe
+HunterFr
 Ishar2AGA
 Ishar3AGA
 Nicky2

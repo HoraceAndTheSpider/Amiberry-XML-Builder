@@ -16,8 +16,6 @@ BombPacCD32AGA
 CaptainPlanet&Planeteers
 CardiaxxTeam17
 Carnage
-ChaosEngine
-ChaosEngineCD32
 CharlieJCool
 CharlieJCoolAGA
 Clockwiser
@@ -32,12 +30,9 @@ Commando
 CrystalKingdomDizzy
 Cyberpunks
 Cytron
-Deliverance
-Deliverance512k
 DimosQuest
 DonkTheSamuraiDuck
 DonkTheSamuraiDuckAGA
-DoubleDragon2
 DragonsLairEscapeDemoNTSC
 DragonsLairEscapeFast
 DragonsLairEscapeSlow
@@ -52,7 +47,6 @@ FullContact
 FutureTank
 Fuzzball
 GemX
-Goal
 GuySpy
 GuySpyCD32
 Hilt2

@@ -1,13 +1,6 @@
 AlienBreed2
 AlienBreed2AGA
 AlienFishFinger
-CapitalPunishmentAGA
-CapitalPunishmentAGACD
-Cedric
-CedricCD32Fast
-ChaosEngine2
-ChaosEngine2AGA
-ChaosEngine21MB
 DeluxePacman
 DeluxePacmanAGA
 FearsAGA

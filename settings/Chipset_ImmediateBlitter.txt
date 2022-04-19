@@ -4,15 +4,7 @@ CaptainPlanet&Planeteers
 CivilizationAGA
 CivilizationAGACD
 CivilizationAGADe
-CrazyCars2
 DeconstructionAGA
-Deliverance
-Deliverance512k
-Frontier
-FrontierCD32
-FrontierCz
-FrontierDe
-FrontierFr
 Hunter
 HunterDe
 HunterFr

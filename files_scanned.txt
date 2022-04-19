@@ -1,4 +1,4 @@
-Scanned file log: 2022-04-18 at 02:00:03
+Scanned file log: 2022-04-19 at 10:20:44
 Scanned: 1001 Stolen Ideas
 Scanned: 1001 Stolen Ideas
 Scanned: 242
@@ -455,6 +455,7 @@ Scanned: Megademo Powerslaves
 Scanned: Megademo Precise
 Scanned: Megademo Predators
 Scanned: Megademo Pseudo Plast
+Scanned: Megademo Sargon
 Scanned: Megademo Scoopex
 Scanned: Megademo Static Bytes
 Scanned: Megademo The Link
@@ -6099,6 +6100,7 @@ Scanned: Stunt Car Racer
 Scanned: Super Cars 2 [AGA]
 Scanned: Super Cars 2 [AGA]
 Scanned: Super Cars 2 [AGA]
+Scanned: Super Cars 2 [AGA]
 Scanned: Super Gem Z
 Scanned: Super Hang-On
 Scanned: Super Monaco GP
@@ -6168,6 +6170,7 @@ Scanned: Duenix-NV
 Scanned: Duncan Demo-NV
 Scanned: Dune 2 Spice DE
 Scanned: Dungeon Delver
+Scanned: Dungeoneer Turbo
 Scanned: Dungeon Explorer
 Scanned: Dungeon Master Addon 5
 Scanned: Dust Digger
@@ -9369,6 +9372,7 @@ Scanned: Streets Rage Demo
 Scanned: Streets Rage Demo-test
 Scanned: Super Delivery Boy Demo
 Scanned: Super Delivery Boy Demo
+Scanned: Super Dotmos Demo
 Scanned: Super Mario Rebel Demo
 Scanned: Super Mario Retro Demo
 Scanned: SVLCVSSRace [AGA] Demo

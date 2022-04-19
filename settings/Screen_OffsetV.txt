@@ -2,3 +2,6 @@ BatmanTheMovie1Disk 20
 BatmanTheMovie2Disk 20
 BluesBrothers 20
 FullContact 17
+JamesPond 17
+JamesPond2 15
+JamesPond2AGA 15

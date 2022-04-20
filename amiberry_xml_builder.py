@@ -493,7 +493,7 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                 #                HW_SPEED = "14"
                 if check_list("CPU_ClockSpeed_25.txt", sub_path) is True:
                                 HW_SPEED = "25"
-                if check_list("CPU_MaxSpeed.txt", sub_path) is True:
+                if check_list("CPU_ClockSpeed_Max.txt", sub_path) is True:
                                 HW_SPEED = "MAX"
                 #if check_list("CPU_RealSpeed.txt", sub_path) is True:
                 #               HW_SPEED = "REAL"

@@ -18,6 +18,9 @@ HunterDe
 HunterFr
 Ishar2AGA
 Ishar3AGA
+Lionheart
+LionheartDemo
+LionheartDemo1MB
 Nicky2
 UFOEnemyUnknownAGA
 UFOEnemyUnknownCD32

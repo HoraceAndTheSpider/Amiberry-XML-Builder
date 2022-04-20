@@ -2,8 +2,6 @@ AlienBreed3DAGA
 AlienBreed3DNoMusicAGA
 AlienBreed3D2AGA
 FlinkCD32
-Leander
-Nicky2
 RiskyWoods
 Seek&Destroy
 Seek&DestroyAGA

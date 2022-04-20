@@ -485,20 +485,18 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                 # '======== CPU SETTINGS =======
                 # ' ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-                # ' max emu speed
-                HW_SPEED = ""
-                if check_list("CPU_MaxSpeed.txt", sub_path) is True:
-                                HW_SPEED = "MAX"
-                if check_list("CPU_RealSpeed.txt", sub_path) is True:
-                                HW_SPEED = "REAL"
                 # ' clock speed
+                # Default: 14
                 if check_list("CPU_ClockSpeed_7.txt", sub_path) is True:
                                 HW_SPEED = "7"
-                if check_list("CPU_ClockSpeed_14.txt", sub_path) is True:
-                                HW_SPEED = "14"
+                #if check_list("CPU_ClockSpeed_14.txt", sub_path) is True:
+                #                HW_SPEED = "14"
                 if check_list("CPU_ClockSpeed_25.txt", sub_path) is True:
                                 HW_SPEED = "25"
-
+                if check_list("CPU_MaxSpeed.txt", sub_path) is True:
+                                HW_SPEED = "MAX"
+                #if check_list("CPU_RealSpeed.txt", sub_path) is True:
+                #               HW_SPEED = "REAL"
 
                 HW_CPU = ""
                 # ' cpu model 68000

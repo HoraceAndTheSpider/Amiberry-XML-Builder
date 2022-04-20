@@ -1,7 +1,7 @@
-Scanned file log: 2022-04-19 at 10:20:44
-Scanned: 1001 Stolen Ideas
-Scanned: 1001 Stolen Ideas
-Scanned: 242
+Scanned file log: 2022-04-20 at 03:00:03
+Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
+Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
+Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
 Scanned: 242
 Scanned: 24 Hour EFix
 Scanned: 2 D

@@ -15,12 +15,6 @@ MiamiChase
 NaughtyOnes
 Obsession
 Overdrive
-PinballFntsies
-PinballFntsiesAGA
-PinballFntsiesCD32
-PinballFntsiesAGAChip
-PinballIllusionsAGA
-PinballIllusionsCD32
 RevengeOfMutantCamels
 RevengeOfMutantCamels2
 Seek&Destroy

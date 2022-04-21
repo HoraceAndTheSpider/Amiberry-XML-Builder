@@ -10,6 +10,7 @@ BadDudesNTSC
 BadDudesVsDragonNinja
 BadDudesVsDragonNinjaChip
 Barbarian2Palace
+BestOfTheBest
 BodyBlowsAGA
 BodyBlowsGalacticAGA
 BrataccasNTSC
@@ -38,6 +39,8 @@ MetalMutant
 MetalMutantDe
 MetalMutantFr
 Motorhead
-NewZealandStory
-NewZealandStoryDemo
+NoExit
+PitFighter
+Predator2
+PremierManager
 Viz

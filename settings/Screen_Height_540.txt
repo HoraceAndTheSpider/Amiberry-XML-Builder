@@ -6,7 +6,6 @@ DeluxeGalagaAGA
 FootballGloryAGA
 ManchesterUnitedEurope
 ManchesterUnitedEurope23
-PinballDreams
 ProjectX
 ProjectXSE
 ProjectXSECD32

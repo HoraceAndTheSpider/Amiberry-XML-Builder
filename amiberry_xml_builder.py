@@ -453,28 +453,30 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                 if whd_fast_ram >= z3_ram and whd_fast_ram > 8 : z3_ram = whd_chip_ram
 
 
-                # '======== CHIPSET SETTINGS =======
-                # ' ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-                # ' sprite collisions
+                # ======= CHIPSET SETTINGS =======
+                # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+                # sprite collisions
+                # Default: Playfield
                 HW_SPRITES = ""
-                if check_list("Chipset_CollisionLevel_full.txt", sub_path) is True:
-                                HW_SPRITES = "FULL"
                 if check_list("Chipset_CollisionLevel_none.txt", sub_path) is True:
                                 HW_SPRITES = "NONE"
-                if check_list("Chipset_CollisionLevel_playfields.txt", sub_path) is True:
-                                HW_SPRITES = "PLAYFIELDS"
+                if check_list("Chipset_CollisionLevel_full.txt", sub_path) is True:
+                                HW_SPRITES = "FULL"
                 if check_list("Chipset_CollisionLevel_sprites.txt", sub_path) is True:
                                 HW_SPRITES = "SPRITES"
+                #if check_list("Chipset_CollisionLevel_playfields.txt", sub_path) is True:
+                #                HW_SPRITES = "PLAYFIELDS"
 
-                # ' blitter    
+                # blitter    
+                # Default: Wait for Blitter
                 HW_BLITS = ""        
                 if check_list("Chipset_ImmediateBlitter.txt", sub_path) is True:
                     HW_BLITS = "IMMEDIATE"
                 if  check_list("Chipset_NormalBlitter.txt", sub_path) is True:
                     HW_BLITS = "NORMAL"
-                if  check_list("Chipset_WaitBlitter.txt", sub_path) is True:
-                    HW_BLITS = "WAIT"
+                #if  check_list("Chipset_WaitBlitter.txt", sub_path) is True:
+                #    HW_BLITS = "WAIT"
 
                 # copper
                 HW_FASTCOPPER = "FALSE"
@@ -482,10 +484,10 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                     HW_FASTCOPPER = "TRUE"
 
 
-                # '======== CPU SETTINGS =======
-                # ' ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                # ======== CPU SETTINGS =======
+                # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-                # ' clock speed
+                # clock speed
                 # Default: 14
                 if check_list("CPU_ClockSpeed_7.txt", sub_path) is True:
                                 HW_SPEED = "7"
@@ -499,37 +501,40 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                 #               HW_SPEED = "REAL"
 
                 HW_CPU = ""
-                # ' cpu model 68000
+                # cpu model 68000
                 if check_list("CPU_68000.txt", sub_path) is True:
                                 HW_CPU = "68000"
                                 
-                # ' cpu model 68010
+                # cpu model 68010
                 if check_list("CPU_68010.txt", sub_path) is True:
                                 HW_CPU = "68010"
                                 HW_24BIT = "FALSE"
                                 
-                # ' cpu model 68040
+                # cpu model 68040
                 if check_list("CPU_68040.txt", sub_path) is True:
                                 HW_CPU = "68040"
                                 HW_24BIT = "FALSE"
 
-                # ' 24 bit addressing 
+                # 24 bit addressing 
+                # Default: True / you can set Z3 separately
                 HW_24BIT = ""
-                if not check_list("CPU_No24BitAddress.txt", sub_path) is False:
-                    HW_24BIT = "FALSE"
+                #if not check_list("CPU_No24BitAddress.txt", sub_path) is False:
+                #    HW_24BIT = "FALSE"
              
                 # compatible CPU 
+                # Defalult: True
                 HW_CPUCOMP = ""
-                if check_list("CPU_Compatible.txt", sub_path) is True:
-                    HW_CPUCOMP = "TRUE"
+                #if check_list("CPU_Compatible.txt", sub_path) is True:
+                #    HW_CPUCOMP = "TRUE"
                     
+                # cycle exact
                 # cycle_exact = check_list("CPU_CycleExact.txt", sub_path)
 
                 # JIT Cache
                 HW_JIT = "FALSE"
                 if check_list("CPU_ForceJIT.txt",sub_path) == True:
-                    #HW_SPEED = 'MAX'
                     HW_JIT = 'TRUE'
+                    #HW_SPEED = 'MAX'
 
                 # CHIPSET
                 HW_CHIPSET = ""

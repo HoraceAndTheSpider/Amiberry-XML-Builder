@@ -1,7 +1,3 @@
 AlienBreed3DAGA
 AlienBreed3DNoMusicAGA
 AlienBreed3D2AGA
-FlinkCD32
-Seek&Destroy
-Seek&DestroyAGA
-ShadowFighterAGA

@@ -47,13 +47,6 @@ OperationJupiterFr
 PoolOfRadiance
 RedHeat
 Rockford
-RuffNTumble
-RuffNTumble512k
-ScoobyDoo&ScrappyDoo
-Sleepwalker
-SleepwalkerAGA
-SleepwalkerAGAComicRelief
-SleepwalkerComicRelief
 SmashTV
 Soldier2000
 SpindizzyWorlds
@@ -63,7 +56,6 @@ Strider
 Strider2
 STUNRunner
 SuperSki
-SuperSkweek
 SuprStrtFtr2TrboAGA
 SuspiciousCargo
 Thexder

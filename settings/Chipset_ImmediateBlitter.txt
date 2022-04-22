@@ -1,14 +1,8 @@
-ApidyaKaiko
 AstroMarineCorps
-CaptainPlanet&Planeteers
-CivilizationAGA
-CivilizationAGACD
-CivilizationAGADe
 DeconstructionAGA
 PanzaKickBoxing
 PanzaKickBoxingFr
 RedBaron
-RoboCop3
 SensibleSoccer
 SensibleSoccer92931MB
 SensibleSoccer9293512KB
@@ -45,9 +39,7 @@ SWOS2021
 SWOS2122
 Settlers
 SettlersFr
-ShadowFighterAGA
 Simulcra
-Speedball
 Sqrxz
 Sqrxz2
 Sqrxz3
@@ -57,6 +49,7 @@ StarCrusaderAGA
 SuperCars2Disk
 SuperCars1Disk
 SuperStardustAGA
+SuprStrtFtr2TrboAGA
 ThunderStrike
 Unreal
 UnrealNTSC

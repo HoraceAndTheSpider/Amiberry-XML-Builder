@@ -43,4 +43,11 @@ NoExit
 PitFighter
 Predator2
 PremierManager
+Shadowgate
+Shinobi
+ShinobiNTSC
+StreetFighter2
+TeenageMtntHeroTurtlesCOp
+TeenageMtntHeroTurtles
+TeenageMtntNinjaTurtles
 Viz

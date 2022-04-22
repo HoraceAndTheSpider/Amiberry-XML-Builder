@@ -22,5 +22,8 @@ Lionheart
 LionheartDemo
 LionheartDemo1MB
 Nicky2
+SuprStrtFtr2TrboAGA
+ThemePark
+ThemeParkAGA
 UFOEnemyUnknownAGA
 UFOEnemyUnknownCD32

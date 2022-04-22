@@ -9,12 +9,5 @@ ManchesterUnitedEurope23
 ProjectX
 ProjectXSE
 ProjectXSECD32
-SensibleSoccer
-SensibleWorldOfSoccer
-SensibleWorldOfSoccer11
-SensibleWorldOfSoccer9596
-Settlers
-SettlersFr
-SuperStardustAGA
 TurboRaketti2
 TurboRaketti2Fi

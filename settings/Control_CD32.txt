@@ -4,6 +4,7 @@ GloomCD32
 Heimdall2CD32
 MidnightResistance
 NewZealandStory
+SuprStrtFtr2TrboAGA
 SyndicateCD32
 WingCommanderCD32
 WormsDCAGA

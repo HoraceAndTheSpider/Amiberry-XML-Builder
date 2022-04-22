@@ -9,6 +9,7 @@ SuperfrogDemoAmigaAction
 SuperfrogDemoCUAmiga
 SuperfrogDemoTheOne
 Superfrog
+SwordOfHonour
 TestDrive
 TreasureTrap
 VenusTheFlytrap

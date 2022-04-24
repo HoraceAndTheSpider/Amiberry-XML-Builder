@@ -29,5 +29,3 @@ WormsDCAGA12MB
 WormsDCAGA
 WormsDirectorsCutAGA
 Zarathrusta
-Zool
-Zool2

@@ -50,4 +50,13 @@ StreetFighter2
 TeenageMtntHeroTurtlesCOp
 TeenageMtntHeroTurtles
 TeenageMtntNinjaTurtles
+TintinOnTheMoonFiles
+TintinOnTheMoonImage
+TotalRecallFiles
+TotalRecallImage
+Untouchables
+VenusTheFlytrap
+VenusTheFlytrapNoIntro
+Vroom
 Viz
+Xenon

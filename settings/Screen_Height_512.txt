@@ -88,12 +88,6 @@ TennisChamps
 TinyTroops
 TipOff
 Ugh
-VenusTheFlytrap
-VenusTheFlytrapNoIntro
 Vyrus
 WheelsOnFire
-WizNLiz
-XP8
-XP8AGA
-ZoolAGA
-Zool2AGA
+WonderDog

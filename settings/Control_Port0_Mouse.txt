@@ -556,7 +556,6 @@ TowerOfSoulsAGA
 Transarctica
 TransarcticaAGA
 TrexWarrior
-Trolls
 TyphoonThompson
 UFOEnemyUnknown
 UFOEnemyUnknownAGA
@@ -595,10 +594,7 @@ WormsDCAGA
 WormsDCAGA12MB
 WormsDCAGA8MB
 Worms1MB
-WrathOfTheDemon
 Wreckers
-XOut1Disk
-XOut2Disk
 ZakMcKracken
 Zeewolf
 Zeewolf2

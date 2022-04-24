@@ -51,7 +51,4 @@ SuperCars1Disk
 SuperStardustAGA
 SuprStrtFtr2TrboAGA
 ThunderStrike
-Unreal
-UnrealNTSC
 WheelsOnFire
-XP8AGA

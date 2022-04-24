@@ -11,6 +11,8 @@ SuperfrogDemoTheOne
 Superfrog
 SwordOfHonour
 TestDrive
-TreasureTrap
+Untouchables
 VenusTheFlytrap
 VenusTheFlytrapNoIntro
+Zool
+ZoolAGA

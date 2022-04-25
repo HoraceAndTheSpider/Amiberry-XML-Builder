@@ -401,6 +401,10 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                 use_mouse2 = check_list("Control_Port1_Mouse.txt", sub_path)
                 use_cd32_pad = check_list("Control_CD32.txt", sub_path)
 
+
+                # ======== MEMORY SETTINGS =======
+                # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
                 # quick clean-up on WHDLoad memory requirements
                 whd_z3_ram = 0
 
@@ -408,40 +412,47 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                     whd_z3_ram = whd_fast_ram
                     whd_fast_ram = 0
 
+                # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                # when we want different CHIP ram!
+                # Default: 2Mb
+
                 chip_ram = 2
-                fast_ram = 8
                
-                
-                old_chip_ram = chip_ram
-                for i in range(0, 4):
-                    chip_ram = int(math.pow(2, i)) / 2
-                    if chip_ram >= 1:
-                                    chip_ram = int(chip_ram)
+                #old_chip_ram = chip_ram
+                #for i in range(0, 4):
+                #    chip_ram = int(math.pow(2, i)) / 2
+                #    if chip_ram >= 1:
+                #                    chip_ram = int(chip_ram)
 
-                    if check_list("Memory_ChipRam_" + str(chip_ram) + ".txt", sub_path) is True:
-                                    chip_ram = int(chip_ram * 2)
-                                    break
-                    chip_ram = old_chip_ram
-                    # whd chip-memory overwrite
-                if whd_chip_ram >= chip_ram: chip_ram = whd_chip_ram
+                #    if check_list("Memory_ChipRam_" + str(chip_ram) + ".txt", sub_path) is True:
+                #                    chip_ram = int(chip_ram * 2)
+                #                    break
+                #    chip_ram = old_chip_ram
+
+                # whd chip-memory overwrite
+                #if whd_chip_ram >= chip_ram: chip_ram = whd_chip_ram
 
 
-                # ' ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-                # ' when we want different fast ram!!
-                # No longer required as of Amiberry 5.0 | Default is 8Mb of fast RAM.
+                # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                # when we want different fast ram!
+                # No longer required as of Amiberry 5.0 given new default.
+                # Default: 8Mb
 
-                old_fast_ram = fast_ram
-                for i in range(0, 4):
-                    fast_ram = int(math.pow(2, i))
-                    if check_list("Memory_FastRam_" + str(fast_ram) + ".txt", sub_path) is True:
-                        break
-                    fast_ram = old_fast_ram
+                fast_ram = 8
+
+                #old_fast_ram = fast_ram
+                #for i in range(0, 4):
+                #    fast_ram = int(math.pow(2, i))
+                #    if check_list("Memory_FastRam_" + str(fast_ram) + ".txt", sub_path) is True:
+                #        break
+                #    fast_ram = old_fast_ram
 
                 # whd fast-memory overwrite
-                if whd_fast_ram >= fast_ram and whd_fast_ram <= 8 : fast_ram = whd_fast_ram
+                #if whd_fast_ram >= fast_ram and whd_fast_ram <= 8 : fast_ram = whd_fast_ram
 
-                # ' ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-                # ' when we want different Z3 ram!!
+                # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                # when we want different Z3 ram!!
+                # Default: 0Mb
 
                 for i in range(0, 8):
                     z3_ram = int(math.pow(2, i))
@@ -449,7 +460,7 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                         break
                     z3_ram = 0
 
-                    # whd z3-memory overwrite
+                # whd z3-memory overwrite
                 if whd_fast_ram >= z3_ram and whd_fast_ram > 8 : z3_ram = whd_chip_ram
 
 

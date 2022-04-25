@@ -61,7 +61,6 @@ BAT2Fr
 BATDe
 BATFr
 BATIt
-BatmanReturns
 BattleChess
 BattleChess2
 BattleChessCD32
@@ -162,10 +161,9 @@ DeluxeGalagaAGA
 Detroit
 DetroitAGA
 DickTracyAdventure
+DieHard2
 DiggersAGA
 DonaldDucksPlayground
-DonkTheSamuraiDuck
-DonkTheSamuraiDuckAGA
 DragonsBreath
 DragonsLairEscapeFast
 Dragonstone
@@ -291,6 +289,10 @@ IndianaJonesLastCrusAdvFr
 IndianaJonesLastCrusAdvIt
 IndyJonesLastCrusAdvNTSC
 Indianapolis500
+InnocentUntilCaught
+InnocentUntilCaughtDe
+InnocentUntilCaughtFr
+InnocentUntilCaughtIt
 Interphase
 InterphaseAmigaFormat
 Ishar

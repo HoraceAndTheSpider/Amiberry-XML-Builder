@@ -8,7 +8,6 @@ BansheeAGA
 BansheeCD32
 BaseJumpers
 BaseJumpersCD32
-BatmanReturns
 BattleSquadron
 BattleSquadronDemo
 BombPacCD32
@@ -23,16 +22,12 @@ ClockwiserAGA
 ClockwiserCD32
 Coala
 CoalaAGA
-Colonization
-ColonizationAGA
 Coloris
 Commando
 CrystalKingdomDizzy
 Cyberpunks
 Cytron
 DimosQuest
-DonkTheSamuraiDuck
-DonkTheSamuraiDuckAGA
 DragonsLairEscapeDemoNTSC
 DragonsLairEscapeFast
 DragonsLairEscapeSlow
@@ -47,11 +42,10 @@ FullContact
 FutureTank
 Fuzzball
 GemX
+GreenBeret
 GuySpy
 GuySpyCD32
 Hilt2
-Humans3
-Humans3AGA
 Hybris
 Jetstrike
 JewelsOfDarkness

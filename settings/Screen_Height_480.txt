@@ -1,5 +1,4 @@
 AbandonedPlaces
-AllNewWorldOfLemmingsAGA
 Anarchy
 Apidya
 ArcadePoolAGA
@@ -18,7 +17,6 @@ ChronoQuest
 ChronoQuestDe
 CrazySue
 CrazySueGoesOn
-DesertStrike
 DragonsLair
 Elvira
 Elvira2
@@ -29,13 +27,10 @@ Elvira2It
 ElviraDe
 ElviraFr
 ExploraFr
-FantasticDizzy
 FireAndIceCD32
 Fire&IceCD32
 FlyHarder
 FranticFreddie
-GhostsNGoblins
-GhoulsNGhosts
 Globdule
 GuardianAGA
 IndyHeat

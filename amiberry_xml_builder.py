@@ -469,18 +469,21 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
 
                 # sprite collisions
                 # Default: Playfield
+                # can't find a single case where value other than default is required.
+
                 HW_SPRITES = ""
-                if check_list("Chipset_CollisionLevel_none.txt", sub_path) is True:
-                                HW_SPRITES = "NONE"
-                if check_list("Chipset_CollisionLevel_full.txt", sub_path) is True:
-                                HW_SPRITES = "FULL"
-                if check_list("Chipset_CollisionLevel_sprites.txt", sub_path) is True:
-                                HW_SPRITES = "SPRITES"
+                #if check_list("Chipset_CollisionLevel_none.txt", sub_path) is True:
+                #                HW_SPRITES = "NONE"
+                #if check_list("Chipset_CollisionLevel_full.txt", sub_path) is True:
+                #                HW_SPRITES = "FULL"
+                #if check_list("Chipset_CollisionLevel_sprites.txt", sub_path) is True:
+                #                HW_SPRITES = "SPRITES"
                 #if check_list("Chipset_CollisionLevel_playfields.txt", sub_path) is True:
                 #                HW_SPRITES = "PLAYFIELDS"
 
                 # blitter    
                 # Default: Wait for Blitter
+
                 HW_BLITS = ""        
                 if check_list("Chipset_ImmediateBlitter.txt", sub_path) is True:
                     HW_BLITS = "IMMEDIATE"
@@ -489,7 +492,8 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                 #if  check_list("Chipset_WaitBlitter.txt", sub_path) is True:
                 #    HW_BLITS = "WAIT"
 
-                # copper
+                # fast copper
+                # Default: False
                 HW_FASTCOPPER = "FALSE"
                 if check_list("Chipset_FastCopper.txt", sub_path) is True:
                     HW_FASTCOPPER = "TRUE"

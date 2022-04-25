@@ -355,8 +355,8 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                   HW_V_CENTER = 'NONE'
                                 
                 # offset
-                offset_h = value_list("Screen_OffsetH.txt", sub_path)
-                offset_v = value_list("Screen_OffsetV.txt", sub_path)
+                offset_h = value_list("Screen_Offset_H.txt", sub_path)
+                offset_v = value_list("Screen_Offset_V.txt", sub_path)
 
                 min_offset_h = -60
                 max_offset_h = 60

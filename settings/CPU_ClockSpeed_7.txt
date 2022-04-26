@@ -17,6 +17,7 @@ BodyBlowsGalacticAGA
 BrataccasNTSC
 BubbleBobble
 BubbleBobbleNTSC
+CaliforniaGames
 ChaseHQ2
 CircusGames
 CiscoHeat

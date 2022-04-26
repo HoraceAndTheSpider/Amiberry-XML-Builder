@@ -65,7 +65,7 @@ Premiere
 PremierManager
 SantasXmasCaper
 SolomonsKey2
-SuperSkidmarks
+SuperSkidMarks
 SuperSkidMarks+CD
 SuperSkidMarks+LMCD
 SuperSkidMarksFYEdCD
@@ -75,6 +75,17 @@ SuperSkidMarksCD
 SuperSkidMarksLowMem
 SuperSkidMarksLMCD
 SuperSkidMarksLowMemCD32
+SuperSkidmarks
+SuperSkidmarks+CD
+SuperSkidmarks+LMCD
+SuperSkidmarksFYEdCD
+SuperSkidmarksFYEdLMCD
+SuperSkidmarksCD32
+SuperSkidmarksLowMemCD32
+SuperSkidmarksCD
+SuperSkidmarksLowMem
+SuperSkidmarksLMCD
+SuperSkidmarksLowMemCD32
 SuprTennisChmps
 Switchblade2
 TanksFurry

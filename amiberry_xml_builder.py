@@ -457,11 +457,13 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                 for i in range(0, 8):
                     z3_ram = int(math.pow(2, i))
                     if check_list("Memory_Z3Ram_" + str(z3_ram) + ".txt", sub_path) is True:
+                        HW_24BIT = "FALSE"
                         break
                     z3_ram = 0
 
                 # whd z3-memory overwrite
-                if whd_fast_ram >= z3_ram and whd_fast_ram > 8 : z3_ram = whd_chip_ram
+                if whd_fast_ram >= z3_ram and whd_fast_ram > 8: 
+                    z3_ram = whd_chip_ram
 
 
                 # ======= CHIPSET SETTINGS =======
@@ -506,30 +508,30 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                 # Default: 14
                 HW_SPEED = ""
                 if check_list("CPU_ClockSpeed_7.txt", sub_path) is True:
-                                HW_SPEED = "7"
+                    HW_SPEED = "7"
                 #if check_list("CPU_ClockSpeed_14.txt", sub_path) is True:
-                #                HW_SPEED = "14"
+                #   HW_SPEED = "14"
                 if check_list("CPU_ClockSpeed_25.txt", sub_path) is True:
-                                HW_SPEED = "25"
+                    HW_SPEED = "25"
                 if check_list("CPU_ClockSpeed_Max.txt", sub_path) is True:
-                                HW_SPEED = "MAX"
+                    HW_SPEED = "MAX"
                 #if check_list("CPU_RealSpeed.txt", sub_path) is True:
-                #               HW_SPEED = "REAL"
+                #   HW_SPEED = "REAL"
 
                 HW_CPU = ""
                 # cpu model 68000
                 if check_list("CPU_68000.txt", sub_path) is True:
-                                HW_CPU = "68000"
+                    HW_CPU = "68000"
                                 
                 # cpu model 68010
                 if check_list("CPU_68010.txt", sub_path) is True:
-                                HW_CPU = "68010"
-                                HW_24BIT = "FALSE"
+                    HW_CPU = "68010"
+                    HW_24BIT = "FALSE"
                                 
                 # cpu model 68040
                 if check_list("CPU_68040.txt", sub_path) is True:
-                                HW_CPU = "68040"
-                                HW_24BIT = "FALSE"
+                    HW_CPU = "68040"
+                    HW_24BIT = "FALSE"
 
                 # 24 bit addressing 
                 # Default: True / you can set Z3 separately
@@ -544,9 +546,11 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                 #    HW_CPUCOMP = "TRUE"
                     
                 # cycle exact
+                # Default: False
                 # cycle_exact = check_list("CPU_CycleExact.txt", sub_path)
 
                 # JIT Cache
+                # Default: False
                 HW_JIT = "FALSE"
                 if check_list("CPU_ForceJIT.txt",sub_path) == True:
                     HW_JIT = 'TRUE'
@@ -555,17 +559,17 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                 # CHIPSET
                 HW_CHIPSET = ""
                 #if check_list("CPU_ForceAGA.txt",sub_path) == True:
-                #        HW_CHIPSET = "AGA"
+                #   HW_CHIPSET = "AGA"
                 #elif check_list("CPU_ForceECS.txt", sub_path) == True:
-                #        HW_CHIPSET = "ECS"  
+                #   HW_CHIPSET = "ECS"  
                 #elif check_list("CPU_ForceOCS.txt", sub_path) == True:
-                #        HW_CHIPSET = "OCS"  
+                #   HW_CHIPSET = "OCS"  
 
                 if this_file.find("_AGA") > -1:
-                        HW_CHIPSET = "AGA"                                       
+                    HW_CHIPSET = "AGA"                                       
                 if this_file.find("_CD32") > -1:
-                        HW_CHIPSET = "AGA"
-                        use_cd32_pad = True
+                    HW_CHIPSET = "AGA"
+                    use_cd32_pad = True
 
 
                 # ================================
@@ -600,6 +604,7 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                 #    hardware += ("SPRITES=") + HW_CPU + chr(10)
                     
                 #if HW_24BIT != "":
+                if 'HW_24BIT' in globals():
                     hardware += ("CPU_24BITADDRESSING=") + HW_24BIT + chr(10)
 
                 #if HW_CPUCOMP != "":

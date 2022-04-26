@@ -459,7 +459,9 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                     if check_list("Memory_Z3Ram_" + str(z3_ram) + ".txt", sub_path) is True:
                         HW_24BIT = "FALSE"
                         break
-                    z3_ram = 0
+                    else:
+                        z3_ram = 0
+                        HW_24BIT = ""
 
                 # whd z3-memory overwrite
                 if whd_fast_ram >= z3_ram and whd_fast_ram > 8: 
@@ -603,8 +605,7 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                 #if HW_SPRITES != "":
                 #    hardware += ("SPRITES=") + HW_CPU + chr(10)
                     
-                #if HW_24BIT != "":
-                if 'HW_24BIT' in globals():
+                if HW_24BIT != "":
                     hardware += ("CPU_24BITADDRESSING=") + HW_24BIT + chr(10)
 
                 #if HW_CPUCOMP != "":

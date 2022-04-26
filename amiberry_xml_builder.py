@@ -416,7 +416,7 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                 # when we want different CHIP ram!
                 # Default: 2Mb
 
-                chip_ram = 2
+                #chip_ram = 2
                
                 #old_chip_ram = chip_ram
                 #for i in range(0, 4):
@@ -438,7 +438,7 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                 # No longer required as of Amiberry 5.0 given new default.
                 # Default: 8Mb
 
-                fast_ram = 8
+                #fast_ram = 8
 
                 #old_fast_ram = fast_ram
                 #for i in range(0, 4):
@@ -471,7 +471,7 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                 # Default: Playfield
                 # can't find a single case where value other than default is required.
 
-                HW_SPRITES = ""
+                #HW_SPRITES = ""
                 #if check_list("Chipset_CollisionLevel_none.txt", sub_path) is True:
                 #                HW_SPRITES = "NONE"
                 #if check_list("Chipset_CollisionLevel_full.txt", sub_path) is True:
@@ -533,13 +533,13 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
 
                 # 24 bit addressing 
                 # Default: True / you can set Z3 separately
-                HW_24BIT = ""
+                #HW_24BIT = ""
                 #if not check_list("CPU_No24BitAddress.txt", sub_path) is False:
                 #    HW_24BIT = "FALSE"
              
                 # compatible CPU 
                 # Defalult: True
-                HW_CPUCOMP = ""
+                #HW_CPUCOMP = ""
                 #if check_list("CPU_Compatible.txt", sub_path) is True:
                 #    HW_CPUCOMP = "TRUE"
                     
@@ -554,12 +554,12 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
 
                 # CHIPSET
                 HW_CHIPSET = ""
-                if check_list("CPU_ForceAGA.txt",sub_path) == True:
-                        HW_CHIPSET = "AGA"
-                elif check_list("CPU_ForceECS.txt", sub_path) == True:
-                        HW_CHIPSET = "ECS"  
-                elif check_list("CPU_ForceOCS.txt", sub_path) == True:
-                        HW_CHIPSET = "OCS"  
+                #if check_list("CPU_ForceAGA.txt",sub_path) == True:
+                #        HW_CHIPSET = "AGA"
+                #elif check_list("CPU_ForceECS.txt", sub_path) == True:
+                #        HW_CHIPSET = "ECS"  
+                #elif check_list("CPU_ForceOCS.txt", sub_path) == True:
+                #        HW_CHIPSET = "OCS"  
 
                 if this_file.find("_AGA") > -1:
                         HW_CHIPSET = "AGA"                                       
@@ -568,15 +568,14 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                         use_cd32_pad = True
 
 
-
                 # ================================
                 # building the hardware section
+
                 if use_mouse1 == True:
                     hardware += ("PRIMARY_CONTROL=MOUSE") + chr(10)
                 else:
                     hardware += ("PRIMARY_CONTROL=JOYSTICK")  + chr(10)       
 
-                # building the hardware section
                 if use_mouse1 == True:
                     hardware += ("PORT0=MOUSE") + chr(10)
                 elif use_cd32_pad == True:
@@ -591,22 +590,20 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                 else:
                     hardware += ("PORT1=JOY")  + chr(10)      
 
-             #   hardware += ("PRIMARY_CONTROL=MOUSE") + chr(10)
-
                 if HW_FASTCOPPER != "":
                     hardware += ("FAST_COPPER=") + HW_FASTCOPPER + chr(10)
 
                 if HW_BLITS != "":
                     hardware += ("BLITTER=") + HW_BLITS + chr(10)
 
-                if HW_SPRITES != "":
-                    hardware += ("SPRITES=") + HW_CPU + chr(10)
+                #if HW_SPRITES != "":
+                #    hardware += ("SPRITES=") + HW_CPU + chr(10)
                     
-                if HW_24BIT != "":
+                #if HW_24BIT != "":
                     hardware += ("CPU_24BITADDRESSING=") + HW_24BIT + chr(10)
 
-                if HW_CPUCOMP != "":
-                    hardware += ("CPU_COMPATIBLE=") + HW_CPUCOMP + chr(10)
+                #if HW_CPUCOMP != "":
+                #    hardware += ("CPU_COMPATIBLE=") + HW_CPUCOMP + chr(10)
 
                 if HW_CPU != "":
                     hardware += ("CPU=") + HW_CPU + chr(10)
@@ -654,11 +651,11 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                     hardware += ("SCREEN_OFFSETV=") + str(HW_V_OFFSET) + chr(10)
 
                 # MEMORY OPTIONS
-                if chip_ram != 2:
-                    hardware += ("CHIP_RAM=") + str(chip_ram) + chr(10)
+                #if chip_ram != 2:
+                #    hardware += ("CHIP_RAM=") + str(chip_ram) + chr(10)
 
-                if fast_ram != 8:
-                    hardware += ("FAST_RAM=") + str(fast_ram) + chr(10)
+                #if fast_ram != 8:
+                #    hardware += ("FAST_RAM=") + str(fast_ram) + chr(10)
 
                 if z3_ram != 0:
                     hardware += ("Z3_RAM=") + str(z3_ram) + chr(10)

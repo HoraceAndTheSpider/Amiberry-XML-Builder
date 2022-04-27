@@ -25,6 +25,7 @@ CrazyCars
 CrazyCars2
 CrimeWave
 DickTracy
+DickTracyAdventure
 Emmanuelle
 FinalFight
 FinalFight1MB

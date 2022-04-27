@@ -160,7 +160,6 @@ DeluxeGalaga
 DeluxeGalagaAGA
 Detroit
 DetroitAGA
-DickTracyAdventure
 DieHard2
 DiggersAGA
 DonaldDucksPlayground

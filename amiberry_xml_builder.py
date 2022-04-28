@@ -547,9 +547,11 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                 #if check_list("CPU_Compatible.txt", sub_path) is True:
                 #    HW_CPUCOMP = "TRUE"
                     
-                # cycle exact
-                # Default: False
-                # cycle_exact = check_list("CPU_CycleExact.txt", sub_path)
+                # CPU cycle exact
+                # Default: False / available only for 68000 CPU
+                HW_CPUEXACT = ""
+                if check_list("CPU_CycleExact.txt", sub_path) is True and HW_CPU == "68000":
+                    HW_CPUEXACT = "TRUE"
 
                 # JIT Cache
                 # Default: False
@@ -625,6 +627,9 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                     
                 if HW_NTSC != "":
                     hardware += ("NTSC=") + HW_NTSC + chr(10)
+
+                if HW_CPUEXACT != "":
+                    hardware += ("CPU_EXACT=") + HW_CPUEXACT + chr(10)
 
                 # SCREEN OPTIONS
                 # Screen: size, auto-height/crop

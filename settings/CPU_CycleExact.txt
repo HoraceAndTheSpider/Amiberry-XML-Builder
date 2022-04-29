@@ -3,6 +3,8 @@ BadDudesChipNTSC
 BadDudesNTSC
 BadDudesVsDragonNinja
 BadDudesVsDragonNinjaChip
+DrDoomsRevenge1Disk
+DrDoomsRevengeNTSC2Disk
 FinalFight
 FinalFight1MB
 FinalFight512k

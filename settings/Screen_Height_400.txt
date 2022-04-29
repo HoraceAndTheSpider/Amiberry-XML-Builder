@@ -114,6 +114,7 @@ Detroit
 DetroitAGA
 DickTracyAdventure
 Disc
+Dominium
 DonaldDucksPlayground
 DragonsBreath
 DrakkhenFiles
@@ -122,6 +123,8 @@ DrakkhenFilesFr
 DrakkhenImage
 DrakkhenImageDe
 DrakkhenImageFr
+DrDoomsRevenge1Disk
+DrDoomsRevengeNTSC2Disk
 DuckTales
 Dune2
 DungeonMaster
@@ -194,6 +197,7 @@ IndianaJonesLastCrusAdvDe
 IndianaJonesLastCrusAdvEs
 IndianaJonesLastCrusAdvFr
 IndianaJonesLastCrusAdvIt
+IndianaJonesTempleOfDoom
 IndyJonesLastCrusAdvNTSC
 Infestation
 Intact15MB

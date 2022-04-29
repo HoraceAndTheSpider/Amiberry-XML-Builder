@@ -1,4 +1,4 @@
-Scanned file log: 2022-04-27 at 03:00:04
+Scanned file log: 2022-04-29 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -740,7 +740,7 @@ Skipped: SoundDemo_v1.0_Syndicate.lha
 Skipped: SoundDisk1_v1.0_Mygon.lha
 Skipped: SoundDisk2_v1.0_Mygon.lha
 Skipped: SoundDisk_v1.01_Zenith.lha
-Scanned: Sound Disk Arcadia Team
+Skipped: SoundDisk_v1.0_ArcadiaTeam.lha
 Skipped: SoundEngine2_v1.0_Absence.lha
 Skipped: SoundEngine_v1.01_Absence.lha
 Skipped: SoundErection_v1.0_Shining8.lha
@@ -1594,7 +1594,7 @@ Skipped: BlackDawn6_v1.0.lha
 Skipped: BlackDawnRebirth_v1.0.lha
 Skipped: BlackDawnRebirth_v1.1.lha
 Skipped: BlackDawnRebirth_v1.1b.lha
-Scanned: Black Dawn Rebirth
+Skipped: BlackDawnRebirth_v1.2.lha
 Skipped: BlackDawn_v1.0.lha
 Skipped: BlackGold_v1.5_ReLINE.lha
 Skipped: BlackGold_v1.6_ReLINE.lha
@@ -1674,7 +1674,7 @@ Skipped: Cadaver&ThePayoff_v2.3_0900.lha
 Skipped: Cadaver&ThePayoff_v2.4_0900.lha
 Skipped: CadaverDemos_v1.0.lha
 Skipped: CadaverDemos_v1.1.lha
-Scanned: Cadaver (Demos)
+Skipped: CadaverDemos_v1.2.lha
 Skipped: CadaverThePayoff_v2.2_0900.lha
 Skipped: Cadaver_v2.2_0900.lha
 Skipped: Caesar_v1.0_3085.lha
@@ -1800,7 +1800,8 @@ Skipped: ChaosEngine_v2.1_CD32.lha
 Skipped: ChaosInAndromeda_v1.0.lha
 Skipped: ChaosInAndromeda_v1.0_CDTV.lha
 Scanned: Chaos In Andromeda [CDTV]
-Scanned: Chaos in Andromeda - Eyes of the Eagle
+Skipped: ChaosInAndromeda_v1.1a_CDTV.lha
+Skipped: ChaosInAndromeda_v1.1_1210.lha
 Skipped: ChaosStrikesBack&EnglishUtilityDisk_v1.1.lha
 Skipped: ChessPlayer2150_v1.1_2493.lha
 Skipped: ChessPlayer2150_v1.1_CompilationArcadeAction_2313.lha
@@ -3273,6 +3274,8 @@ Skipped: JupiterProbe_v1.0.1.lha
 Skipped: JupitersMasterdrive_v1.1_1280.lha
 Skipped: JurassicPark_v1.5_AGA_0836.lha
 Skipped: JurassicPark_v1.6_0048.lha
+Scanned: Jurassic Park
+Scanned: Jurassic Park [AGA]
 Skipped: JamesPond3_v1.0_AGA_0688.lha
 Skipped: Jet_v1.0.lha
 Skipped: Joe&MacCavemanNinja_v1.1_Fast_2179.lha
@@ -3879,8 +3882,8 @@ Skipped: Morph_v1.0_AGA_1070.lha
 Skipped: Morph_v1.0_CD32.lha
 Skipped: MortalKombat2_v1.1.1_1MB_1105.lha
 Skipped: MortalKombat2_v1.1.1_2MB_1105.lha
-Scanned: Mortal Kombat 2
-Scanned: Mortal Kombat 21 MB
+Skipped: MortalKombat2_v1.2_1105.lha
+Skipped: MortalKombat2_v1.2_1MB_1105.lha
 Skipped: MortalKombat_v0.9_0288.lha
 Skipped: MortalKombat_v0.9_Censored_1319.lha
 Skipped: MortonStrikesBack_v1.0.lha
@@ -4051,7 +4054,7 @@ Skipped: NewZealandStory_v2.21_1180.lha
 Skipped: NewZealandStory_v2.2_1180.lha
 Skipped: NewZealandStory_v2.4_1180.lha
 Skipped: NewZealandStory_v2.5_1180.lha
-Scanned: New Zealand Story
+Skipped: NewZealandStory_v2.6_1180.lha
 Skipped: NibbyNibble_v1.0.lha
 Skipped: NickFaldosChampionshipGolf_v2.1b_1164.lha
 Skipped: NickFaldosChampionshipGolf_v2.1b_CD32.lha
@@ -4717,8 +4720,8 @@ Skipped: Rygar_v1.0_AGA.lha
 Skipped: Rygar_v1.2_AGA.lha
 Skipped: Rygar_v2.0_AGA.lha
 Skipped: Rygar_v2.0_AGA_Chip.lha
-Scanned: Rygar [AGA]
-Scanned: Rygar [AGA] (Chip)
+Skipped: Rygar_v2.1_AGA.lha
+Skipped: Rygar_v2.1_AGA_Chip.lha
 Skipped: RoadWars_v0.1_Arcadia.lha
 Skipped: RoadWars_v1.1_0142.lha
 Skipped: Robbeary_v1.00a_2946.lha
@@ -5371,6 +5374,7 @@ Skipped: Sword_v1.0.lha
 Skipped: SyndicateAmericanRevolt_v2.2.lha
 Skipped: SyndicateAmericanRevolt_v2.3.lha
 Skipped: SyndicateAmericanRevolt_v2.6.lha
+Scanned: Syndicate American Revolt
 Skipped: Syndicate_v2.2_0739.lha
 Skipped: Syndicate_v2.2_CD32.lha
 Skipped: Syndicate_v2.2_De_0405.lha
@@ -5380,6 +5384,9 @@ Skipped: Syndicate_v2.4_CD32.lha
 Skipped: Syndicate_v2.6_0739.lha
 Skipped: Syndicate_v2.6_CD32.lha
 Skipped: Syndicate_v2.6_De_0405.lha
+Scanned: Syndicate
+Scanned: Syndicate [CD32]
+Scanned: Syndicate (Deutsch)
 Skipped: TetrisPro_v1.0.1.lha
 Skipped: Tetris_v1.1_Infogrames.lha
 Skipped: Tetris_v1.1_Mirrorsoft.lha
@@ -6010,8 +6017,8 @@ Skipped: XP8_v1.2_0607.lha
 Skipped: XP8_v1.2_AGA.lha
 Skipped: XP8_v2.0_0607.lha
 Skipped: XP8_v2.0_AGA.lha
-Scanned: XP8
-Scanned: XP8 [AGA]
+Skipped: XP8_v2.1_0607.lha
+Skipped: XP8_v2.1_AGA.lha
 Skipped: XR35_v1.1_0034.lha
 Skipped: XTremeRacing&DataDisks_v1.1_AGA_0164&1807.lha
 Skipped: XTremeRacing_v1.1_AGA_0164.lha

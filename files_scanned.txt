@@ -1,4 +1,4 @@
-Scanned file log: 2022-05-04 at 03:00:03
+Scanned file log: 2022-05-06 at 03:00:02
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -3203,7 +3203,7 @@ Skipped: IndianaJones&TheTempleOfDoom_v1.0_0660.lha
 Skipped: IndianaJones&TheTempleOfDoom_v1.1-B_0660.lha
 Skipped: Indianapolis500_v2.0_0686.lha
 Skipped: Indianapolis500_v2.1_0686.lha
-Scanned: Indianapolis 500 - The Simulation
+Skipped: Indianapolis500_v3.0_0686.lha
 Skipped: IndianMission_v1.0_Fr.lha
 Skipped: Indigo_v1.1_Files.lha
 Skipped: Indigo_v1.1_Image.lha
@@ -3885,8 +3885,8 @@ Skipped: MortalKombat2_v1.1.1_1MB_1105.lha
 Skipped: MortalKombat2_v1.1.1_2MB_1105.lha
 Skipped: MortalKombat2_v1.2_1105.lha
 Skipped: MortalKombat2_v1.2_1MB_1105.lha
-Scanned: Mortal Kombat 2
-Scanned: Mortal Kombat 21 MB
+Skipped: MortalKombat2_v1.3_1105.lha
+Skipped: MortalKombat2_v1.3_1MB_1105.lha
 Skipped: MortalKombat_v0.9_0288.lha
 Skipped: MortalKombat_v0.9_Censored_1319.lha
 Skipped: MortonStrikesBack_v1.0.lha
@@ -4027,7 +4027,7 @@ Skipped: Nucleus_v1.1.lha
 Skipped: NuxeliaDemo_v1.0.lha
 Skipped: Nam19651975_v1.0.lha
 Skipped: NarcoPolice_v1.1.lha
-Scanned: Narco Police
+Skipped: NarcoPolice_v1.2.lha
 Skipped: Narc_v1.0_1256.lha
 Skipped: NathanNever_v1.0_It_2667.lha
 Skipped: NaughtyOnes_v1.1.lha
@@ -6311,7 +6311,7 @@ Skipped: Asterix1-WHDL.lha
 Skipped: AstralPL-WHDL.lha
 Skipped: AstroBlox-WHDL.lha
 Skipped: Astrokid-WHDL.lha
-Scanned: Atarenium Falcon
+Skipped: AtareniumFalcon-WHDL.lha
 Skipped: AtariBusters-WHDL.lha
 Skipped: AtlantisFR-WHDL.lha
 Skipped: Atomania-WHDL.lha
@@ -7119,7 +7119,7 @@ Skipped: GeoQuest2-WHDL.lha
 Skipped: GeoQuest3-WHDL.lha
 Skipped: GeorgeReptonAGA-WHDL.lha
 Skipped: GermanDice-WHDL.lha
-Scanned: Germz
+Skipped: Germz-WHDL.lha
 Skipped: GetOutECSAGA-WHDL.lha
 Skipped: DeadMetalAGA-WHDL.lha
 Skipped: DentWolfAGAdemo-WHDL.lha
@@ -7832,7 +7832,7 @@ Skipped: Odkrywka-WHDL.lha
 Skipped: OdkrywkaPL-WHDL.lha
 Skipped: Offence-WHDL.lha
 Skipped: OffendersDemo-WHDL.lha
-Scanned: Og 93
+Skipped: Og93-WHDL.lha
 Skipped: Ohm-WHDL.lha
 Skipped: Oids-WHDL.lha
 Skipped: OilBarons-WHDL.lha
@@ -9054,6 +9054,7 @@ Skipped: VideoVegas-WHDL.lha
 Skipped: Vierzehn-WHDL.lha
 Skipped: ViperDemoAGA-WHDL.lha
 Skipped: VirusAttackDemo-WHDL.lha
+Scanned: Vital Light [CD32]
 Skipped: VivkyPL-WHDL.lha
 Skipped: VoyageCentreTerreFR-WHDL.lha
 Skipped: Wabes-WHDL.lha
@@ -9304,7 +9305,7 @@ Skipped: BilliardsSimulator1FR-WHDL.lha
 Skipped: BilliardsSimulator2-WHDL.lha
 Skipped: BillyKidFR-WHDL.lha
 Skipped: Biojet-WHDL.lha
-Scanned: Birdie
+Skipped: Birdie-WHDL.lha
 Skipped: BirdieDemo-WHDL.lha
 Skipped: AdamIsMe-WHDL.lha
 Skipped: Agonman2021AGAdemo-WHDL.lha

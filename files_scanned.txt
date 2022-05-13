@@ -1,4 +1,4 @@
-Scanned file log: 2022-05-11 at 03:00:03
+Scanned file log: 2022-05-13 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -1019,10 +1019,10 @@ Skipped: ATF2_v1.1a_2396.lha
 Skipped: Atomix_v1.3_1356.lha
 Skipped: ATrain_v1.2_Fr_2579.lha
 Skipped: AV8BHarrierAssault_v1.0_0430.lha
-Scanned: Air Support
-Scanned: Air Support (512Kb)
-Scanned: Air Support (512Kb) (NTSC)
-Scanned: Air Support (NTSC)
+Skipped: AirSupport_v1.2_1320.lha
+Skipped: AirSupport_v1.2_512k_1320.lha
+Skipped: AirSupport_v1.2_512k_NTSC_1325.lha
+Skipped: AirSupport_v1.2_NTSC_1325.lha
 Skipped: Akira_v1.1.lha
 Skipped: Akira_v1.2.lha
 Skipped: Akira_v1.2_CD32.lha
@@ -7063,6 +7063,7 @@ Skipped: FishingFun-WHDL.lha
 Skipped: Flagcatcher-WHDL.lha
 Skipped: FlamingEngines-WHDL.lha
 Skipped: FlamingoToursDE-WHDL.lha
+Scanned: Flappadiddle
 Skipped: Flappybird-WHDL.lha
 Skipped: FlatMates-WHDL.lha
 Skipped: FlatmatesAGA-WHDL.lha

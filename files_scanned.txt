@@ -1,4 +1,4 @@
-Scanned file log: 2022-05-18 at 03:00:03
+Scanned file log: 2022-05-20 at 03:00:04
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -900,6 +900,7 @@ Skipped: 1869_v1.2_De_0417.lha
 Skipped: 1869_v1.2_De_AGA_1653.lha
 Skipped: 1869_v1.2_Pl.lha
 Skipped: 1943_v1.3.lha
+Scanned: 1943 - The Battle of Midway
 Skipped: 1stDivisionManager_v1.0_1800.lha
 Skipped: 20000LeaguesUnderTheSea_v0.4.lha
 Skipped: 20000LeaguesUnderTheSea_v1.1.lha
@@ -2028,7 +2029,7 @@ Skipped: CenterCourt_v1.0_2765.lha
 Skipped: CenterCourt_v1.0_AGA_2765.lha
 Skipped: CentrefoldSquares_v1.0_0467.lha
 Skipped: ConquestsOfCamelot_v1.2_1112.lha
-Scanned: Conquests Of Camelot
+Skipped: ConquestsOfCamelot_v1.3_1112.lha
 Skipped: ConquestsOfTheLongbow_v1.0b.lha
 Skipped: ConquestsOfTheLongbow_v1.1-B.lha
 Skipped: ConquestsOfTheLongbow_v1.1-B_MT32.lha
@@ -2698,6 +2699,7 @@ Skipped: Funturatum_v1.1_Pl.lha
 Skipped: FuryOfTheFurries_v1.0_1347.lha
 Skipped: FuryOfTheFurries_v1.0_CD32.lha
 Skipped: Fusion_v1.0_0331.lha
+Scanned: Fusion
 Skipped: FussballTotal_v1.1_De_2135.lha
 Skipped: FutureBasketball_v1.2_1253.lha
 Skipped: FutureBikeSimulator_v2.0_2149.lha
@@ -4630,8 +4632,8 @@ Skipped: RedLightning_v1.0.lha
 Skipped: RedLightning_v1.0_NTSC_1781.lha
 Skipped: RedStormRising_v1.0_1603.lha
 Skipped: RedZone_v2.0.lha
-Scanned: Red Zone
-Scanned: Red Zone (NTSC)
+Skipped: RedZone_v3.0.lha
+Skipped: RedZone_v3.0_NTSC.lha
 Skipped: Reflexity_v1.0.lha
 Skipped: ReiseInsLandDesBigBen_v1.0_De.lha
 Skipped: ReiseInsLandDesBigBen_v1.1_De.lha
@@ -5476,7 +5478,7 @@ Skipped: TestDrive2_v1.4_0588.lha
 Skipped: TestDrive2_v1.5_0588.lha
 Skipped: TestDrive_v1.1_0089.lha
 Skipped: TestDrive_v1.2_0089.lha
-Scanned: Test Drive
+Skipped: TestDrive_v1.3_0089.lha
 Skipped: ThemePark_v1.0_0090.lha
 Skipped: ThemePark_v2.0_AGA_0153.lha
 Skipped: ThemePark_v3.0_0090.lha
@@ -9362,6 +9364,7 @@ Skipped: DuckstromaDemo-WHDL.lha
 Skipped: EgoWingsDemo-WHDL.lha
 Skipped: EmotiworldDemo-WHDL.lha
 Skipped: EnforcerDemo-WHDL.lha
+Scanned: Farmiga PLDemo
 Skipped: FtypeDemo-WHDL.lha
 Skipped: FurtumSacrumDarkDemo-WHDL.lha
 Skipped: FurtumSacrumDemo-WHDL.lha

@@ -50,6 +50,8 @@ MetalMutantDe
 MetalMutantFr
 Motorhead
 NoExit
+NorthAndSouthImage
+NorthAndSouthFiles
 PanzaKickBoxing
 PanzaKickBoxingFr
 PitFighter

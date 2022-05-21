@@ -16,3 +16,5 @@ FinalFight
 FinalFight1MB
 FinalFight512k
 IkariWarriors
+NorthAndSouthImage
+NorthAndSouthFiles

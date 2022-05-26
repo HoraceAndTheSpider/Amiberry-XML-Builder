@@ -300,8 +300,6 @@ OilImperium
 OmnicronConspiracy
 Ooze
 OperationNeptune
-OperationThunderbolt
-OperationWolf
 OutRunEuropa
 OutRunUSGold
 OverlordRowan
@@ -383,6 +381,7 @@ TarghanFr
 TarghanNTSC
 TassTimesInTonetown
 TeamYankee
+Technocop
 Teller
 TennisCup
 TennisCup1Mb

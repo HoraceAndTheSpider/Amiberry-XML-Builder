@@ -52,6 +52,8 @@ Motorhead
 NoExit
 NorthAndSouthImage
 NorthAndSouthFiles
+OperationWolf
+Overlander
 PanzaKickBoxing
 PanzaKickBoxingFr
 PitFighter
@@ -60,7 +62,14 @@ PremierManager
 Shadowgate
 Shinobi
 ShinobiNTSC
+SpaceHarrier
+SpaceHarrierNTSC
+SpaceHarrier2
 StreetFighter2
+Strider
+Strider2
+SuperstarIceHockey
+Technocop
 TeenageMtntHeroTurtlesCOp
 TeenageMtntHeroTurtles
 TeenageMtntNinjaTurtles

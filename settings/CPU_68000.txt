@@ -18,3 +18,8 @@ FinalFight512k
 IkariWarriors
 NorthAndSouthImage
 NorthAndSouthFiles
+OperationWolf
+Overlander
+SpaceHarrier
+SpaceHarrierNTSC
+SpaceHarrier2

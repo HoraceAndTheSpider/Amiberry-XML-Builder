@@ -1,4 +1,4 @@
-Scanned file log: 2022-05-25 at 03:00:03
+Scanned file log: 2022-05-27 at 03:00:04
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -247,7 +247,7 @@ Skipped: Experiment_v1.0_RamJam.lha
 Skipped: Explorer_v1.0_Delight_AGA.lha
 Skipped: Expressions_v1.0_Timecircle.lha
 Skipped: Extemporized_v1.0_Digital.lha
-Scanned: Extemporized
+Skipped: Extemporized_v1.1_Digital.lha
 Skipped: Extension_v1.4_PygmyProjects.lha
 Skipped: FaceAnotherDay_v1.0_Razor1911.lha
 Skipped: Faktory_v1.1_Fairlight&VirtualDreams_AGA.lha
@@ -3896,8 +3896,8 @@ Skipped: MortalKombat2_v1.2_1105.lha
 Skipped: MortalKombat2_v1.2_1MB_1105.lha
 Skipped: MortalKombat2_v1.3_1105.lha
 Skipped: MortalKombat2_v1.3_1MB_1105.lha
-Scanned: Mortal Kombat 2
-Scanned: Mortal Kombat 21 MB
+Skipped: MortalKombat2_v1.4_1105.lha
+Skipped: MortalKombat2_v1.4_1MB_1105.lha
 Skipped: MortalKombat_v0.9_0288.lha
 Skipped: MortalKombat_v0.9_Censored_1319.lha
 Skipped: MortonStrikesBack_v1.0.lha
@@ -5007,9 +5007,9 @@ Skipped: SpaceAssault_v1.0.lha
 Skipped: Spaceball_v1.1_2675.lha
 Skipped: Spaceball_v1.3_2675.lha
 Skipped: SpaceCrusade&TheVoyageBeyond_v2.2_1535.lha
-Scanned: Space Crusade (& The Voyage Beyond)
+Skipped: SpaceCrusade&TheVoyageBeyond_v3.0_1535.lha
 Skipped: SpaceCrusade_v2.2_1535.lha
-Scanned: Space Crusade
+Skipped: SpaceCrusade_v3.0_1535.lha
 Skipped: Spacecutter_v1.0_1408.lha
 Skipped: SpaceGun_v1.1.lha
 Skipped: SpaceGun_v1.2_2004.lha
@@ -6171,10 +6171,12 @@ Skipped: SuperMonacoGP_v1.2_BETA.lha
 Skipped: TFX_v1.1_AGA_BETA.lha
 Skipped: Tinyus_v1.0_BETA.lha
 Skipped: Tony&FriendsInKelloggsLand_v1.0_Hack_by_Earok.lha
-Skipped: Turrican2_v0.2_AGA_Build_v8.lha
 Scanned: Turrican 2 [AGA]
-Skipped: Turrican2_v0.2_AGA_NTSC_Build_v8.lha
+Skipped: Turrican2_v0.2_AGA_Build_v8.lha
+Skipped: Turrican2_v0.2_AGA_Build_v9.lha
 Scanned: Turrican 2 [AGA] (NTSC)
+Skipped: Turrican2_v0.2_AGA_NTSC_Build_v8.lha
+Skipped: Turrican2_v0.2_AGA_NTSC_Build_v9.lha
 Skipped: Ultima6_v1.2_0294.lha
 Skipped: Ultima6_v1.2_NTSC.lha
 Skipped: UNSquadron_v1.2_Hack_by_Earok.lha
@@ -6481,7 +6483,7 @@ Skipped: BlockBuster2-WHDL.lha
 Skipped: BlockHead1-WHDL.lha
 Skipped: BlockHead2-WHDL.lha
 Skipped: BlockIt-WHDL.lha
-Scanned: Blockman Gets
+Skipped: BlockmanGets-WHDL.lha
 Skipped: BlockOff-WHDL.lha
 Skipped: Blocks-WHDL.lha
 Skipped: BlocksXL-WHDL.lha
@@ -6989,7 +6991,7 @@ Skipped: Elvira3WaxworksPL-WHDL.lha
 Skipped: EmeraldMine4-WHDL.lha
 Skipped: EmeraudeEmpireFR-WHDL.lha
 Skipped: EmotionalConflict-WHDL.lha
-Scanned: Emotiworld
+Skipped: Emotiworld-WHDL.lha
 Skipped: EmperorMines-WHDL.lha
 Skipped: EmpireWargameCentury-WHDL.lha
 Skipped: Enemy2-128-WHDL.lha
@@ -8536,8 +8538,8 @@ Skipped: Skidmarks2SillyECSAGA-WHDL.lha
 Skipped: Skidmarks2SuperECSAGA-WHDL.lha
 Skipped: Skidmarks2Ult-WHDL.lha
 Skipped: Skidmarks2UltAGA-WHDL.lha
-Scanned: Skill Grid [AGA]
-Scanned: Skill Grid Ppot [AGA]
+Skipped: SkillGridAGA-WHDL.lha
+Skipped: SkillGridPpotAGA-WHDL.lha
 Skipped: SkimmersAGADemo-WHDL.lha
 Skipped: Skirmish-WHDL.lha
 Skipped: SkiRun-WHDL.lha
@@ -9395,7 +9397,7 @@ Skipped: HenryHouseDemo-WHDL.lha
 Skipped: HeroesGorluthDemo-WHDL.lha
 Skipped: HighwaySprintDemo-WHDL.lha
 Skipped: HyboriaAGADemoEarly-WHDL.lha
-Scanned: Invanoid Demo
+Skipped: InvanoidDemo-WHDL.lha
 Skipped: InviyyaDemo-WHDL.lha
 Skipped: JackalDemo-WHDL.lha
 Skipped: KCMdemo-WHDL.lha
@@ -9455,6 +9457,7 @@ Skipped: ShadowsSergothDemo-WHDL.lha
 Skipped: SilvermanDemo-WHDL.lha
 Skipped: SlipStreamAGAdemo-WHDL.lha
 Skipped: SonicHedgehogDemo-WHDL.lha
+Scanned: Spheroid Demo
 Skipped: StreetsRageDemo-WHDL.lha
 Skipped: StreetsRageDemoEarly-WHDL.lha
 Skipped: SuperDeliveryBoyDemo-WHDL.lha

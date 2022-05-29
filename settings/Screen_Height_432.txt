@@ -28,6 +28,9 @@ Hostages
 JamesPond2
 JamesPond2AGA
 JungleStrike
+JungleStrike1MB
+JungleStrike2MB
+JungleStrikeAGA
 JungleStrikeCD32
 KidGloves
 LegendOfTheSword

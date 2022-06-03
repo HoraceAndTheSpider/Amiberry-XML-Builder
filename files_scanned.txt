@@ -1,4 +1,4 @@
-Scanned file log: 2022-06-01 at 03:00:03
+Scanned file log: 2022-06-03 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -7,7 +7,7 @@ Skipped: 24HourEFix_v1.0_Quartz.lha
 Skipped: 2D_v1.0_Remedy.lha
 Skipped: 2UnlimitedNoLimit_v1.0_ProjectA.lha
 Skipped: 2Unlimited_v1.0_Scoopex.lha
-Scanned: 2 Unlimited
+Skipped: 2Unlimited_v1.1a_Scoopex.lha
 Skipped: 2Unlimited_v1.1_Scoopex.lha
 Skipped: 3DBalls_v1.0_Avenger.lha
 Skipped: 3DDemo2_v1.0_Anarchy.lha
@@ -1725,7 +1725,7 @@ Skipped: Carlos_v1.0_2299.lha
 Skipped: Carlos_v1.1_2299.lha
 Skipped: Carlos_v1.2_2229.lha
 Skipped: Carnage_v1.0.lha
-Scanned: Carnage
+Skipped: Carnage_v2.0.lha
 Skipped: CarrierCommand_v1.3_0813.lha
 Skipped: CarrierCommand_v1.3_NoMusic.lha
 Skipped: CarrierCommand_v1.4_0813.lha
@@ -3487,8 +3487,8 @@ Skipped: LostVikings_v2.0_Fr_2236.lha
 Skipped: LotharMatthaeusSuperSoccer_v1.0_De_1728.lha
 Skipped: LotharMatthausDieInteraktiveFussballsimulation_v1.1.lha
 Skipped: Lotus2_v1.11_0497.lha
-Scanned: Lotus Turbo Challenge 2
-Scanned: Lotus 2 [CD32]
+Skipped: Lotus2_v1.12_0497.lha
+Skipped: Lotus2_v1.12_CD32.lha
 Skipped: LabyrintheAuxMilleCalculs_v1.0_Fr.lha
 Skipped: LabyrintheDAnglomania1_v1.0_Fr.lha
 Skipped: LabyrintheDAnglomania2_v1.0_Fr_2584.lha
@@ -4532,7 +4532,7 @@ Skipped: PinballIllusions_v2.2_CD32.lha
 Skipped: PinballMagic_v1.0_2003.lha
 Skipped: PinballMagic_v1.1_2003.lha
 Skipped: PinballMania_v1.4_AGA_0896.lha
-Scanned: Pinball Mania [AGA]
+Skipped: PinballMania_v2.0_AGA_0896.lha
 Skipped: PinballPrelude_v1.2_2114.lha
 Skipped: PinballPrelude_v1.2_AGA_2327.lha
 Skipped: PinballWizard_v1.0.lha
@@ -4861,6 +4861,7 @@ Skipped: SpiritOfExcalibur_v1.01_1586.lha
 Skipped: StarCommand_v1.0_0989.lha
 Skipped: StarRay_v3.0_1Disk_1721.lha
 Skipped: Stellar7_v1.0_2026.lha
+Skipped: StormMaster_v1.7_Fr_Fast_2387.lha
 Skipped: StreetRod2_v1.0.lha
 Skipped: StrikeAces_v1.0_1485.lha
 Skipped: SubBattleSimulator_v1.0_1458.lha
@@ -5132,21 +5133,6 @@ Skipped: StormMaster_v1.7_De.lha
 Skipped: StormMaster_v1.7_De_Fast.lha
 Skipped: StormMaster_v1.7_Fast_0620.lha
 Skipped: StormMaster_v1.7_Fr_2387.lha
-Skipped: StormMaster_v1.7_Fr_Fast_2387.lha
-Skipped: Stratego_v1.1.1.lha
-Skipped: StreetFighter2_v1.1_0882.lha
-Skipped: StreetFighter2_v1.2a_0882.lha
-Skipped: StreetFighter2_v1.2_0882.lha
-Skipped: StreetFighter2_v1.3_0882.lha
-Skipped: StreetFighter2_v1.4_0882.lha
-Skipped: StreetFighter_v1.0.lha
-Skipped: StreetFighter_v1.1_2784.lha
-Skipped: StreetFighter_v1.2_2784.lha
-Skipped: StreetGang_v1.0.lha
-Skipped: StreetHockey_v1.0.lha
-Skipped: StreetRacer_v1.5_AGA_CD.lha
-Skipped: StreetRacer_v1.5_CD32.lha
-Skipped: StreetRacer_v2.0_AGA_CD.lha
 Skipped: StreetRod2_v1.1.lha
 Skipped: StreetRod2_v1.2.lha
 Skipped: StreetRod_v1.01.lha
@@ -5379,7 +5365,7 @@ Skipped: Shanghai_v1.2_NTSC_1387.lha
 Skipped: ShaqFu_v1.1.lha
 Skipped: ShaqFu_v1.1_AGA_1761.lha
 Skipped: SharkeysMoll_v1.2_2133.lha
-Scanned: Sharkey's Moll
+Skipped: SharkeysMoll_v1.3_2133.lha
 Skipped: SheFox_v1.3_0383.lha
 Skipped: ShermanM4_v1.2.lha
 Skipped: Shinobi_v1.4_1054.lha
@@ -5420,6 +5406,21 @@ Skipped: Syndicate_v2.6_De_0405.lha
 Skipped: Syndicate_v2.7_0739.lha
 Skipped: Syndicate_v2.7_CD32.lha
 Skipped: Syndicate_v2.7_De_0405.lha
+Skipped: Stratego_v1.1.1.lha
+Scanned: Street Cat (NTSC)
+Skipped: StreetFighter2_v1.1_0882.lha
+Skipped: StreetFighter2_v1.2a_0882.lha
+Skipped: StreetFighter2_v1.2_0882.lha
+Skipped: StreetFighter2_v1.3_0882.lha
+Skipped: StreetFighter2_v1.4_0882.lha
+Skipped: StreetFighter_v1.0.lha
+Skipped: StreetFighter_v1.1_2784.lha
+Skipped: StreetFighter_v1.2_2784.lha
+Skipped: StreetGang_v1.0.lha
+Skipped: StreetHockey_v1.0.lha
+Skipped: StreetRacer_v1.5_AGA_CD.lha
+Skipped: StreetRacer_v1.5_CD32.lha
+Skipped: StreetRacer_v2.0_AGA_CD.lha
 Skipped: TetrisPro_v1.0.1.lha
 Skipped: Tetris_v1.1_Infogrames.lha
 Skipped: Tetris_v1.1_Mirrorsoft.lha
@@ -9418,7 +9419,7 @@ Skipped: LegacyHighDemo-WHDL.lha
 Skipped: LittleKingDemo-WHDL.lha
 Skipped: MagazynDemo-WHDL.lha
 Skipped: MakeFightDemo-WHDL.lha
-Scanned: Maria Renards Revenge [AGA] Demo
+Skipped: MariaRenardsRevengeAGADemo-WHDL.lha
 Skipped: MegamanXDemoEarly-WHDL.lha
 Skipped: Mini1942Demo-WHDL.lha
 Skipped: MiniSwatdemo-WHDL.lha

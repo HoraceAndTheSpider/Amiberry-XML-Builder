@@ -12,10 +12,15 @@ DickTracy
 DickTracyAdventure
 DrDoomsRevenge1Disk
 DrDoomsRevengeNTSC2Disk
+FaeryTaleAdventure
 FinalFight
 FinalFight1MB
 FinalFight512k
 IkariWarriors
+MoonShineRacers
+Necronom
+NewYorkWarriors1MB
+NewYorkWarriors512KB
 NorthAndSouthImage
 NorthAndSouthFiles
 OperationWolf

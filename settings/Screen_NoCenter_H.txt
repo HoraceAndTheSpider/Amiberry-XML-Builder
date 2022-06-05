@@ -3,6 +3,7 @@ BodyBlowsAGA
 BodyBlowsGalacticAGA
 CapitalPunishmentAGA
 CapitalPunishmentAGACD
+MasterAxe
 RoboCop2
 Stardust
 SuperfrogDemoAmigaAction

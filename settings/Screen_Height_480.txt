@@ -45,7 +45,6 @@ MaxKnightHDD
 Minskies
 MortonStrikesBack
 MortonStrikesBackAGA
-MrNutz
 NewYorkWarriors1MB
 NewYorkWarriors512KB
 NightbreedAction

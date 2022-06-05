@@ -29,6 +29,7 @@ DickTracyAdventure
 DrDoomsRevenge1Disk
 DrDoomsRevengeNTSC2Disk
 Emmanuelle
+FaeryTaleAdventure
 FinalFight
 FinalFight1MB
 FinalFight512k
@@ -48,7 +49,12 @@ KickOff
 MetalMutant
 MetalMutantDe
 MetalMutantFr
+MoonShineRacers
 Motorhead
+Necronom
+NewYorkWarriors1MB
+NewYorkWarriors512KB
+NinjaMission
 NoExit
 NorthAndSouthImage
 NorthAndSouthFiles

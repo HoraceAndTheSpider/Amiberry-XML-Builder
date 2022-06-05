@@ -372,6 +372,10 @@ LordsOfChaos
 LordsOfTheRealm
 LordsOfTheRealmAGA
 LordsOfTheRealmAGAFast
+LordsOfTheRealmAGADe
+LordsOfTheRealmAGADeFast
+LordsOfTheRealmAGAFr
+LordsOfTheRealmAGAFrFast
 LordsOfTheRisingSun
 LostDutchmanMine
 LostPatrol

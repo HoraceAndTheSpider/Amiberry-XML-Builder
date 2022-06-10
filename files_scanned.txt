@@ -1,4 +1,4 @@
-Scanned file log: 2022-06-08 at 03:00:03
+Scanned file log: 2022-06-10 at 03:00:02
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -4469,7 +4469,7 @@ Skipped: PremierManager3Deluxe_v1.0_2889.lha
 Skipped: PremierManager3_v1.0_2127.lha
 Skipped: PremierManager3_v1.0_AGA_2021.lha
 Skipped: PremierManager_v1.0_2115.lha
-Scanned: Prey [CD32]
+Skipped: Prey_v1.0_CD32.lha
 Skipped: PrimeMover_v1.1_0694.lha
 Skipped: PrinceDePerse_v3.1_Fr_2290.lha
 Skipped: PrinceDePerse_v3.3_Fr_2290.lha
@@ -4877,7 +4877,7 @@ Skipped: Settlers_v1.6_0143.lha
 Skipped: Settlers_v1.6_Fr_2378.lha
 Skipped: SevenCitiesOfGold_v1.1_0908.lha
 Skipped: SevenCitiesOfGold_v1.1_NTSC_0908.lha
-Scanned: Seven Cities Of Gold (NTSC)
+Skipped: SevenCitiesOfGold_v2.0_NTSC_0908.lha
 Skipped: SevenGatesOfJambala_v1.1_Files.lha
 Skipped: SevenGatesOfJambala_v1.1_Image.lha
 Skipped: SevenGatesOfJambala_v1.2_3052.lha
@@ -6186,9 +6186,11 @@ Skipped: TFX_v1.1_AGA_BETA.lha
 Skipped: Tinyus_v1.0_BETA.lha
 Skipped: Tony&FriendsInKelloggsLand_v1.0_Hack_by_Earok.lha
 Skipped: Turrican2_v0.2_AGA_Build_v10.lha
+Scanned: Turrican 2 [AGA]
 Skipped: Turrican2_v0.2_AGA_Build_v8.lha
 Skipped: Turrican2_v0.2_AGA_Build_v9.lha
 Skipped: Turrican2_v0.2_AGA_NTSC_Build_v10.lha
+Scanned: Turrican 2 [AGA] (NTSC)
 Skipped: Turrican2_v0.2_AGA_NTSC_Build_v8.lha
 Skipped: Turrican2_v0.2_AGA_NTSC_Build_v9.lha
 Skipped: Ultima6_v1.2_0294.lha
@@ -9383,7 +9385,7 @@ Skipped: DuckstromaDemo-WHDL.lha
 Skipped: EgoWingsDemo-WHDL.lha
 Skipped: EmotiworldDemo-WHDL.lha
 Skipped: EnforcerDemo-WHDL.lha
-Scanned: Farmiga Demo
+Skipped: FarmigaDemo-WHDL.lha
 Skipped: FarmigaPLDemo-WHDL.lha
 Skipped: FtypeDemo-WHDL.lha
 Skipped: FurtumSacrumDarkDemo-WHDL.lha

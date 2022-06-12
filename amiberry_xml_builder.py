@@ -498,7 +498,7 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
 
                 # fast copper
                 # Default: False
-                HW_FASTCOPPER = "FALSE"
+                HW_FASTCOPPER = ""
                 if check_list("Chipset_FastCopper.txt", sub_path) is True:
                     HW_FASTCOPPER = "TRUE"
 
@@ -555,10 +555,9 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
 
                 # JIT Cache
                 # Default: False
-                HW_JIT = "FALSE"
+                HW_JIT = ""
                 if check_list("CPU_ForceJIT.txt",sub_path) == True:
-                    HW_JIT = 'TRUE'
-                    #HW_SPEED = 'MAX'
+                    HW_JIT = "TRUE"
 
                 # CHIPSET
                 HW_CHIPSET = ""

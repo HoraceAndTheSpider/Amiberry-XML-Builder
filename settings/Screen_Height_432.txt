@@ -43,11 +43,15 @@ NeverMind
 NorthAndSouthImage
 NorthAndSouthFiles
 OperationJupiterFr
+Paperboy2
 PoolOfRadiance
+RevengeOfDefender
 Rockford
 SmashTV
 Soldier2000
 SpindizzyWorlds
+StarRay
+StarRayNoIntro
 StarControl
 StegTheSlug
 STUNRunner

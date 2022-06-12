@@ -22,6 +22,8 @@ Lionheart
 LionheartDemo
 LionheartDemo1MB
 Nicky2
+RedZone
+RedZoneNTSC
 SuprStrtFtr2TrboAGA
 ThemePark
 ThemeParkAGA

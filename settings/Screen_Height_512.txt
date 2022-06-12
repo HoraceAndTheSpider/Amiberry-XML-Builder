@@ -51,7 +51,6 @@ Jetstrike
 JewelsOfDarkness
 KickOff
 KickOff3
-KickOff3EC
 KickOff96
 LastActionHero
 LeadingLapMPV
@@ -59,10 +58,9 @@ LeadingLapMPVAGA
 LethalXcess
 MeanArenas
 Moonwalker
-OverdriveTeam17
-PacMania
 Premiere
 PremierManager
+RollingRonny
 SantasXmasCaper
 SolomonsKey2
 SuperSkidMarks

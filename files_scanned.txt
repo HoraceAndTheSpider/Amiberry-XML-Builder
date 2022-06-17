@@ -1,4 +1,4 @@
-Scanned file log: 2022-06-15 at 03:00:04
+Scanned file log: 2022-06-17 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -2492,7 +2492,7 @@ Skipped: F40PursuitSimulator_v1.1_NTSC.lha
 Skipped: F40PursuitSimulator_v1.2_NTSC.lha
 Skipped: F40PursuitSimulator_v1.3_NTSC.lha
 Skipped: FA18Interceptor_v1.4_0119.lha
-Scanned: FA-18 Interceptor
+Skipped: FA18Interceptor_v2.0_0119.lha
 Skipped: FaceOff_v1.0_1670.lha
 Skipped: FaeryTaleAdventure_v1.1_0367.lha
 Skipped: Falcon&MissionDisk1_v1.2_NTSC_1197&1205.lha
@@ -4879,7 +4879,7 @@ Skipped: Settlers_v1.6_Fr_2378.lha
 Skipped: SevenCitiesOfGold_v1.1_0908.lha
 Skipped: SevenCitiesOfGold_v1.1_NTSC_0908.lha
 Skipped: SevenCitiesOfGold_v2.0_NTSC_0908.lha
-Scanned: Seven Cities Of Gold (NTSC)
+Skipped: SevenCitiesOfGold_v2.1_NTSC_0908.lha
 Skipped: SevenGatesOfJambala_v1.1_Files.lha
 Skipped: SevenGatesOfJambala_v1.1_Image.lha
 Skipped: SevenGatesOfJambala_v1.2_3052.lha
@@ -8513,9 +8513,9 @@ Skipped: DirtyRackets-WHDL.lha
 Skipped: DiscerPL-WHDL.lha
 Skipped: DiscoveryComputec-WHDL.lha
 Skipped: DithellSpaceDemo-WHDL.lha
-Scanned: Dithell Wonderland
-Scanned: Dithell Wonderland 1997
-Scanned: Dithell Wonderland 2022
+Skipped: DithellWonderland-WHDL.lha
+Skipped: DithellWonderland1997-WHDL.lha
+Skipped: DithellWonderland2022-WHDL.lha
 Skipped: DivisionOne92-WHDL.lha
 Skipped: DivumexDemo-WHDL.lha
 Skipped: DizzyDiamonds-WHDL.lha

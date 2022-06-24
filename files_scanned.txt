@@ -1,4 +1,4 @@
-Scanned file log: 2022-06-22 at 03:00:04
+Scanned file log: 2022-06-24 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -2137,8 +2137,8 @@ Skipped: Deconstruction_v1.0_AGA.lha
 Skipped: Deconstruction_v1.1_AGA.lha
 Skipped: Deconstruction_v1.2_AGA.lha
 Skipped: DeepCore_v1.1.lha
-Scanned: Deep Core
-Scanned: Deep Core [CD32]
+Skipped: DeepCore_v2.0.lha
+Skipped: DeepCore_v2.0_CD32.lha
 Skipped: DeepSpace_v1.2.lha
 Skipped: Deep_v1.0.lha
 Skipped: Defender2_v1.0.lha
@@ -2760,6 +2760,8 @@ Skipped: Fireblaster_v1.0_1627.lha
 Skipped: GuardianAngel_v1.0_2173.lha
 Skipped: Guardian_v1.0_AGA_0835.lha
 Skipped: Guardian_v1.0_CD32.lha
+Scanned: Guardian [AGA]
+Scanned: Guardian [CD32]
 Skipped: GuildOfThieves_v1.0_0271.lha
 Skipped: GuldkornExpressen_v1.1_Dk_1MB.lha
 Skipped: GuldkornExpressen_v1.1_Dk_512KB.lha
@@ -4846,7 +4848,7 @@ Skipped: Seek&Destroy_v1.1_0252.lha
 Skipped: Seek&Destroy_v1.1_AGA_0252.lha
 Skipped: Seelenturm_v1.1_AGA_De.lha
 Skipped: SensibleGolf_v1.2_0200.lha
-Scanned: Sensible Golf
+Skipped: SensibleGolf_v1.3_0200.lha
 Skipped: SensibleSoccer9293_v1.2_1MB_2391.lha
 Skipped: SensibleSoccer9293_v1.2_512KB_2391.lha
 Skipped: SensibleSoccerBulldogBlighty_v1.0.lha
@@ -5034,7 +5036,7 @@ Skipped: SpaceHarrier2_v1.0_1121.lha
 Skipped: SpaceHarrier_v1.3_1600.lha
 Skipped: SpaceHarrier_v1.3_NTSC.lha
 Skipped: SpaceHulk_v1.0_1279.lha
-Scanned: Space Hulk
+Skipped: SpaceHulk_v2.0_1279.lha
 Skipped: SpaceMAX_v1.1_De.lha
 Skipped: SpacePilot89_v1.1.lha
 Skipped: Spaceport_v1.0.lha
@@ -6563,7 +6565,7 @@ Skipped: BombX-WHDL.lha
 Skipped: BombXNewLevelFR-WHDL.lha
 Skipped: Bondmine-WHDL.lha
 Skipped: BoneCruncher-WHDL.lha
-Scanned: Boomeraid
+Skipped: Boomeraid-WHDL.lha
 Skipped: BoomerangMan-WHDL.lha
 Skipped: BoominEckDemo-WHDL.lha
 Skipped: BoondarAGA-WHDL.lha
@@ -8312,7 +8314,7 @@ Skipped: ReversiCourbois-WHDL.lha
 Skipped: ReversiPL-WHDL.lha
 Skipped: Revolution-WHDL.lha
 Skipped: Revolver-WHDL.lha
-Scanned: Riamel
+Skipped: Riamel-WHDL.lha
 Skipped: RickyDangerous-WHDL.lha
 Skipped: Ricochet2-WHDL.lha
 Skipped: RightWay-WHDL.lha
@@ -8633,7 +8635,7 @@ Skipped: SpaceCombat-WHDL.lha
 Skipped: SpaceDay-WHDL.lha
 Skipped: SpaceDunk-WHDL.lha
 Skipped: SpaceFight-WHDL.lha
-Scanned: Space Invaders 2004
+Skipped: SpaceInvaders2004-WHDL.lha
 Skipped: SpaceInvaders2020-WHDL.lha
 Skipped: SpaceInvaders2021-WHDL.lha
 Skipped: SpaceInvadersHavie-WHDL.lha

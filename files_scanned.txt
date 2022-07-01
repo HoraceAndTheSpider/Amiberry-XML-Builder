@@ -1,4 +1,4 @@
-Scanned file log: 2022-06-29 at 03:00:03
+Scanned file log: 2022-07-01 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -3251,7 +3251,7 @@ Skipped: IslandOfLostHope_v1.1_1318.lha
 Skipped: JewelsOfDarkness_v1.0.lha
 Skipped: JimmysFantasticJourney_v1.1.lha
 Skipped: JimmyWhitesWhirlwindSnooker_v2.0_2466.lha
-Scanned: Jimmy White's 'Whirlwind' Snooker
+Skipped: JimmyWhitesWhirlwindSnooker_v2.2_2466.lha
 Skipped: JimmyWillburne_v1.0_Fr.lha
 Skipped: JimPower_v1.1_0068.lha
 Skipped: JimPower_v2.0_0068.lha
@@ -3850,8 +3850,8 @@ Skipped: Maya_v1.4_Fast_1742.lha
 Skipped: Maya_v1.4_Fr.lha
 Skipped: Maya_v1.4_Fr_Fast.lha
 Skipped: MaydaySquadHeroes_v1.0_2219.lha
-Scanned: Mayday Squad
-Scanned: Mayday Squad (Francais)
+Skipped: MaydaySquad_v2.0_2219.lha
+Skipped: MaydaySquad_v2.0_Fr.lha
 Skipped: McDonaldLandV2_v1.5.lha
 Skipped: McDonaldLand_v1.4.1_0970.lha
 Skipped: McDonaldLand_v1.5_0970.lha
@@ -4852,7 +4852,7 @@ Skipped: Seek&Destroy_v1.1_AGA_0252.lha
 Skipped: Seelenturm_v1.1_AGA_De.lha
 Skipped: SensibleGolf_v1.2_0200.lha
 Skipped: SensibleGolf_v1.3_0200.lha
-Scanned: Sensible Golf
+Skipped: SensibleGolf_v1.4_0200.lha
 Skipped: SensibleSoccer9293_v1.2_1MB_2391.lha
 Skipped: SensibleSoccer9293_v1.2_512KB_2391.lha
 Skipped: SensibleSoccerBulldogBlighty_v1.0.lha
@@ -5005,6 +5005,7 @@ Skipped: Smash_v1.0.lha
 Skipped: Snapperazzi_v1.0_2534.lha
 Skipped: Sneech_v1.0.lha
 Skipped: Snoopy&Peanuts_v1.0.lha
+Scanned: Snoopy & Peanuts
 Skipped: Snoopy&Peanuts_v1.0_NoSounds.lha
 Skipped: SnowBros_v1.3_Files_2601.lha
 Skipped: SnowBros_v1.3_Image_2601.lha
@@ -5030,10 +5031,10 @@ Skipped: Spaceball_v1.1_2675.lha
 Skipped: Spaceball_v1.3_2675.lha
 Skipped: SpaceCrusade&TheVoyageBeyond_v2.2_1535.lha
 Skipped: SpaceCrusade&TheVoyageBeyond_v3.0_1535.lha
-Scanned: Space Crusade (& The Voyage Beyond)
+Skipped: SpaceCrusade&TheVoyageBeyond_v3.1_1535.lha
 Skipped: SpaceCrusade_v2.2_1535.lha
 Skipped: SpaceCrusade_v3.0_1535.lha
-Scanned: Space Crusade
+Skipped: SpaceCrusade_v3.1_1535.lha
 Skipped: Spacecutter_v1.0_1408.lha
 Skipped: SpaceGun_v1.1.lha
 Skipped: SpaceGun_v1.2_2004.lha
@@ -9408,7 +9409,7 @@ Skipped: EmotiworldDemo-WHDL.lha
 Skipped: EnforcerDemo-WHDL.lha
 Skipped: FarmigaDemo-WHDL.lha
 Skipped: FarmigaPLDemo-WHDL.lha
-Scanned: Flying Shark 2022demo
+Skipped: FlyingShark2022demo-WHDL.lha
 Skipped: FtypeDemo-WHDL.lha
 Skipped: FurtumSacrumDarkDemo-WHDL.lha
 Skipped: FurtumSacrumDemo-WHDL.lha

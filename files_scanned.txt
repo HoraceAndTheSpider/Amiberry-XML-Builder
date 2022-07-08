@@ -1,4 +1,4 @@
-Scanned file log: 2022-07-06 at 03:00:04
+Scanned file log: 2022-07-08 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -7156,6 +7156,7 @@ Skipped: FrankoUnc-WHDL.lha
 Skipped: FreddyFish-WHDL.lha
 Skipped: GameGo-WHDL.lha
 Skipped: GameMachineAGAdemo-WHDL.lha
+Scanned: Game Over Moscow
 Skipped: GamerDemo-WHDL.lha
 Skipped: GammaZone-WHDL.lha
 Skipped: Gardener-WHDL.lha
@@ -7231,6 +7232,7 @@ Skipped: GlobalEffectCD32-WHDL.lha
 Skipped: HighNoon-WHDL.lha
 Skipped: HighOctane-WHDL.lha
 Skipped: HighReflection-WHDL.lha
+Scanned: High Seas Trader [AGA] FR
 Skipped: HillClimb-WHDL.lha
 Skipped: HillClimbFR-WHDL.lha
 Skipped: HilseaLido-WHDL.lha

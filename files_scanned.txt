@@ -1,4 +1,4 @@
-Scanned file log: 2022-07-13 at 03:00:03
+Scanned file log: 2022-07-15 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -1321,6 +1321,7 @@ Skipped: BardsTale3_v1.01_0300.lha
 Skipped: BardsTale_v1.2_0010.lha
 Skipped: BardsTale_v1.2_NTSC_1978.lha
 Skipped: BarGames_v1.0_2947.lha
+Scanned: Bar Games
 Skipped: BargonAttack_v1.0.lha
 Skipped: BargonAttack_v1.0_Fr_2486.lha
 Skipped: BargonAttack_v1.1.lha
@@ -1744,10 +1745,10 @@ Skipped: Cartoons_v1.2.lha
 Skipped: Carver_v1.0.lha
 Skipped: CarVup_v1.3_1232.lha
 Skipped: CastleKingdoms_v1.1.lha
-Scanned: Castle Master & The Crypt
+Skipped: CastleMaster&TheCrypt_v2.0_0612.lha
 Skipped: CastleMaster2_v1.11_0612.lha
 Skipped: CastleMaster_v1.20.1.lha
-Scanned: Castle Master
+Skipped: CastleMaster_v2.0_0447.lha
 Skipped: Calephar_v1.1_Image_2661.lha
 Skipped: CannonFodder_v1.3_0860.lha
 Skipped: CapNCarnage_v1.0_2227.lha
@@ -2057,6 +2058,7 @@ Skipped: DrMario_v1.0.lha
 Skipped: DuckTales_v1.1_0299.lha
 Skipped: Dugger_v1.0_0322.lha
 Skipped: Dune2_v1.1_1548.lha
+Scanned: Dune 2 (Italiano)
 Skipped: Dune_v3.0_1156.lha
 Skipped: Dune_v3.0_De_0459.lha
 Skipped: Dune_v3.0_Es.lha
@@ -2760,7 +2762,7 @@ Skipped: FireAndIce_v3.3_0502.lha
 Skipped: FireAndIce_v3.4_0502.lha
 Skipped: FireAndIce_v3.4_CD32.lha
 Skipped: Fireblaster_v1.0_1627.lha
-Scanned: Grid Start
+Skipped: GridStart_v1.1_1470.lha
 Skipped: GuardianAngel_v1.0_2173.lha
 Skipped: Guardian_v1.0_AGA_0835.lha
 Skipped: Guardian_v1.0_CD32.lha
@@ -4892,7 +4894,7 @@ Skipped: Settlers_v1.6_Fr_2378.lha
 Skipped: SevenCitiesOfGold_v1.1_0908.lha
 Skipped: SevenCitiesOfGold_v1.1_NTSC_0908.lha
 Skipped: SevenCitiesOfGold_v2.0_NTSC_0908.lha
-Scanned: Seven Cities Of Gold (NTSC)
+Skipped: SevenCitiesOfGold_v2.1b_NTSC_0908.lha
 Skipped: SevenCitiesOfGold_v2.1_NTSC_0908.lha
 Skipped: SevenGatesOfJambala_v1.1_Files.lha
 Skipped: SevenGatesOfJambala_v1.1_Image.lha
@@ -7026,7 +7028,7 @@ Skipped: EmeraldMine4-WHDL.lha
 Skipped: EmeraudeEmpireFR-WHDL.lha
 Skipped: EmotionalConflict-WHDL.lha
 Skipped: Emotiworld-WHDL.lha
-Scanned: Emotiworld [AGA]
+Skipped: EmotiworldAGA-WHDL.lha
 Skipped: EmperorMines-WHDL.lha
 Skipped: EmpireWargameCentury-WHDL.lha
 Skipped: Enemy2-128-WHDL.lha
@@ -7356,7 +7358,7 @@ Skipped: Huey-WHDL.lha
 Skipped: HundirFlotaSP-WHDL.lha
 Skipped: HungryHarry-WHDL.lha
 Skipped: HunterKiller-WHDL.lha
-Scanned: Hunting Frogs
+Skipped: Huntingfrogs-WHDL.lha
 Skipped: HydacornPL-WHDL.lha
 Skipped: Hydrocis-WHDL.lha
 Skipped: Hydrozone-WHDL.lha
@@ -8036,7 +8038,7 @@ Skipped: Pong4a-WHDL.lha
 Skipped: Pong4b-WHDL.lha
 Skipped: Pong4KAGA-WHDL.lha
 Skipped: Pong4KCD32-WHDL.lha
-Scanned: Pong 50
+Skipped: Pong50-WHDL.lha
 Skipped: Pong91-WHDL.lha
 Skipped: Pongo-WHDL.lha
 Skipped: Pool2099-WHDL.lha
@@ -8664,7 +8666,7 @@ Skipped: SpaceInvasion3-WHDL.lha
 Skipped: Spaceman-WHDL.lha
 Skipped: SpacePanic-WHDL.lha
 Skipped: SpacePilotDeath-WHDL.lha
-Scanned: Space Pong
+Skipped: SpacePong-WHDL.lha
 Skipped: SpacePower-WHDL.lha
 Skipped: Spacer-WHDL.lha
 Skipped: SpaceRescue-WHDL.lha

@@ -1,4 +1,4 @@
-Scanned file log: 2022-07-20 at 03:00:03
+Scanned file log: 2022-07-22 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -7922,7 +7922,7 @@ Skipped: OozeAGA-WHDL.lha
 Skipped: OozeDemo-WHDL.lha
 Skipped: OozeDemoAGA-WHDL.lha
 Skipped: OpenFire-WHDL.lha
-Scanned: Operacion Fallida
+Skipped: OperacionFallida-WHDL.lha
 Skipped: OperationCombat1-WHDL.lha
 Skipped: OperationLemming-WHDL.lha
 Skipped: Orb-WHDL.lha
@@ -9301,7 +9301,7 @@ Skipped: BrikFighter-WHDL.lha
 Skipped: BriscolaIT-WHDL.lha
 Skipped: BritishLeagueSpeedway-WHDL.lha
 Skipped: Brod-WHDL.lha
-Scanned: Bruce Lee
+Skipped: BruceLee-WHDL.lha
 Skipped: BruceLeeC64demo-WHDL.lha
 Skipped: BrusLii-WHDL.lha
 Skipped: BrusLiiReal-WHDL.lha

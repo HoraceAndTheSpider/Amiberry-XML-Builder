@@ -1,4 +1,4 @@
-Scanned file log: 2022-07-27 at 03:00:03
+Scanned file log: 2022-07-29 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -3380,7 +3380,7 @@ Skipped: Kathedrale_v1.0_De_0518.lha
 Skipped: KeefTheThief_v1.0_NTSC_1460.lha
 Skipped: KellyX_v1.0_1133.lha
 Skipped: KennedyApproach_v1.01_1506.lha
-Scanned: Kennedy Approach
+Skipped: KennedyApproach_v1.02_1506.lha
 Skipped: KeysToMaramon_v1.0.lha
 Skipped: KGB_v1.1_1109.lha
 Skipped: KGB_v1.1_De.lha
@@ -4356,6 +4356,7 @@ Skipped: PoliceQuest3_v1.3_De.lha
 Skipped: Populous_v1.1_NTSC_0070.lha
 Skipped: Power_v1.1_1284.lha
 Skipped: PrimalRage_v1.1_AGA.lha
+Skipped: Prince_v1.0_1729.lha
 Skipped: ProjectX_v1.3_0886.lha
 Skipped: ProTennisTour_v2.2_1080.lha
 Skipped: PinballFantasies_v2.6c_AGA_0047.lha
@@ -4491,6 +4492,7 @@ Skipped: PrimeMover_v1.1_0694.lha
 Skipped: PrinceDePerse_v3.1_Fr_2290.lha
 Skipped: PrinceDePerse_v3.3_Fr_2290.lha
 Skipped: PrinceDePerse_v3.4_Fr_2290.lha
+Scanned: Prince De Perse (Francais)
 Skipped: PrinceOfPersia_v3.1_1823.lha
 Skipped: PrinceOfPersia_v3.1_De_0082.lha
 Skipped: PrinceOfPersia_v3.1_NTSC_1407.lha
@@ -4500,21 +4502,10 @@ Skipped: PrinceOfPersia_v3.3_NTSC_1407.lha
 Skipped: PrinceOfPersia_v3.4_1823.lha
 Skipped: PrinceOfPersia_v3.4_De_0082.lha
 Skipped: PrinceOfPersia_v3.4_NTSC_1407.lha
+Scanned: Prince Of Persia
+Scanned: Prince Of Persia (Deutsch)
+Scanned: Prince Of Persia (NTSC)
 Skipped: Prince_v1.01_1729.lha
-Skipped: Prince_v1.0_1729.lha
-Skipped: Prison_v1.0_0416.lha
-Skipped: Prison_v1.0_NTSC.lha
-Skipped: Prison_v2.0_0416.lha
-Skipped: Prison_v2.0_NTSC.lha
-Skipped: ProBoxingSimulator_v1.1_1663.lha
-Skipped: ProBoxingSimulator_v1.2_1663.lha
-Skipped: Profezia_v1.0_It_2375.lha
-Skipped: ProjectXBonusLevel_v1.0.lha
-Skipped: ProjectXSE_v1.5_0927.lha
-Skipped: ProjectXSE_v1.5_CD32.lha
-Skipped: ProjectXv2_v1.3_0289.lha
-Skipped: ProjectXv2_v1.4.1_0289.lha
-Skipped: ProjectXv2_v1.4_0289.lha
 Skipped: ProjectX_v1.4.1_0886.lha
 Skipped: ProjectX_v1.4_0886.lha
 Skipped: Projectyle_v1.11_0379.lha
@@ -4559,6 +4550,19 @@ Skipped: Pinkie_v1.2b_1774.lha
 Skipped: PinkPanther_v1.0_0236.lha
 Skipped: Pinomania_v1.0.lha
 Skipped: PipeDream_v1.0.lha
+Skipped: Prison_v1.0_0416.lha
+Skipped: Prison_v1.0_NTSC.lha
+Skipped: Prison_v2.0_0416.lha
+Skipped: Prison_v2.0_NTSC.lha
+Skipped: ProBoxingSimulator_v1.1_1663.lha
+Skipped: ProBoxingSimulator_v1.2_1663.lha
+Skipped: Profezia_v1.0_It_2375.lha
+Skipped: ProjectXBonusLevel_v1.0.lha
+Skipped: ProjectXSE_v1.5_0927.lha
+Skipped: ProjectXSE_v1.5_CD32.lha
+Skipped: ProjectXv2_v1.3_0289.lha
+Skipped: ProjectXv2_v1.4.1_0289.lha
+Skipped: ProjectXv2_v1.4_0289.lha
 Skipped: QuestionOfSport_v1.0_2143.lha
 Skipped: QBic_v1.1.lha
 Skipped: Qix_v1.0.lha
@@ -5229,6 +5233,7 @@ Skipped: Superman_v1.1_3035.lha
 Skipped: SuperMethaneBros_v1.3.lha
 Skipped: SuperMethaneBros_v2.0_CD32.lha
 Skipped: SuperMonacoGP_v1.1.lha
+Scanned: Super Monaco GP
 Skipped: SuperObliteration_v1.1.lha
 Skipped: SuperOffRoad_v1.3a_0387.lha
 Skipped: SuperOffRoad_v1.3a_NTSC.lha
@@ -6170,6 +6175,8 @@ Skipped: JamesPond_v0.1_BETA_1MB.lha
 Skipped: JoanOfArc_v0.1.lha
 Skipped: Knightmare_v1.1_Konami.lha
 Skipped: LastActionHero_v1.1_Hack_by_AmigaLive.lha
+Scanned: LCDDreams
+Scanned: LCDDreams (Fast)
 Skipped: Legion_v1.1a_BETA.lha
 Skipped: Liberation_v1.0_0617.lha
 Skipped: Liberation_v1.0_CD32.lha

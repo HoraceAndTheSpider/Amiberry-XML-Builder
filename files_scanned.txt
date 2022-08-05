@@ -1,4 +1,4 @@
-Scanned file log: 2022-08-03 at 03:00:04
+Scanned file log: 2022-08-05 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -2054,6 +2054,7 @@ Skipped: CoolWorld_v2.0_1826.lha
 Skipped: CoolWorld_v2.1_1826.lha
 Skipped: CoolWorld_v2.2_1826.lha
 Skipped: Driller_v1.0_2256.lha
+Skipped: Driller_v2.0_2256.lha
 Scanned: Driller
 Skipped: Drip_v1.0.lha
 Skipped: DrivinForce_v1.1_1521.lha
@@ -3267,7 +3268,7 @@ Skipped: JimPower_v2.0_0068.lha
 Skipped: JimPower_v2.1_0068.lha
 Skipped: JimPower_v3.0-B_0068.lha
 Skipped: JimPower_v3.0_0068.lha
-Scanned: Jim Power - In Mutant Planet
+Skipped: JimPower_v3.1_0068.lha
 Skipped: Jinks_v1.0_0973.lha
 Skipped: Jinxter_v1.0.lha
 Skipped: JoakimVonAnkaSkattsoekaren_v1.1_Se.lha
@@ -4359,6 +4360,7 @@ Skipped: PoliceQuest3_v1.3_De.lha
 Skipped: Populous_v1.1_NTSC_0070.lha
 Skipped: Power_v1.1_1284.lha
 Skipped: PrimalRage_v1.1_AGA.lha
+Skipped: PrinceOfPersia_v3.3_NTSC_1407.lha
 Skipped: Prince_v1.0_1729.lha
 Skipped: ProjectX_v1.3_0886.lha
 Skipped: ProTennisTour_v2.2_1080.lha
@@ -4497,26 +4499,13 @@ Skipped: PrinceDePerse_v3.3_Fr_2290.lha
 Skipped: PrinceDePerse_v3.4_Fr_2290.lha
 Skipped: PrinceDePerse_v4.0_Fr_2290.lha
 Skipped: PrinceDePerse_v4.1_Fr_2290.lha
+Skipped: PrinceDePerse_v4.2_Fr_2290.lha
 Scanned: Prince De Perse (Francais)
 Skipped: PrinceOfPersia_v3.1_1823.lha
 Skipped: PrinceOfPersia_v3.1_De_0082.lha
 Skipped: PrinceOfPersia_v3.1_NTSC_1407.lha
 Skipped: PrinceOfPersia_v3.3_1823.lha
 Skipped: PrinceOfPersia_v3.3_De_0082.lha
-Skipped: PrinceOfPersia_v3.3_NTSC_1407.lha
-Skipped: PrinceOfPersia_v3.4_1823.lha
-Skipped: PrinceOfPersia_v3.4_De_0082.lha
-Skipped: PrinceOfPersia_v3.4_NTSC_1407.lha
-Skipped: PrinceOfPersia_v4.0_1823.lha
-Skipped: PrinceOfPersia_v4.0_De_0082.lha
-Skipped: PrinceOfPersia_v4.0_NTSC_1407.lha
-Skipped: PrinceOfPersia_v4.1_1823.lha
-Skipped: PrinceOfPersia_v4.1_De_0082.lha
-Skipped: PrinceOfPersia_v4.1_NTSC_1407.lha
-Scanned: Prince Of Persia
-Scanned: Prince Of Persia (Deutsch)
-Scanned: Prince Of Persia (NTSC)
-Skipped: Prince_v1.01_1729.lha
 Skipped: ProjectX_v1.4.1_0886.lha
 Skipped: ProjectX_v1.4_0886.lha
 Skipped: Projectyle_v1.11_0379.lha
@@ -4574,6 +4563,22 @@ Skipped: ProjectXSE_v1.5_CD32.lha
 Skipped: ProjectXv2_v1.3_0289.lha
 Skipped: ProjectXv2_v1.4.1_0289.lha
 Skipped: ProjectXv2_v1.4_0289.lha
+Skipped: PrinceOfPersia_v3.4_1823.lha
+Skipped: PrinceOfPersia_v3.4_De_0082.lha
+Skipped: PrinceOfPersia_v3.4_NTSC_1407.lha
+Skipped: PrinceOfPersia_v4.0_1823.lha
+Skipped: PrinceOfPersia_v4.0_De_0082.lha
+Skipped: PrinceOfPersia_v4.0_NTSC_1407.lha
+Skipped: PrinceOfPersia_v4.1_1823.lha
+Skipped: PrinceOfPersia_v4.1_De_0082.lha
+Skipped: PrinceOfPersia_v4.1_NTSC_1407.lha
+Skipped: PrinceOfPersia_v4.2_1823.lha
+Skipped: PrinceOfPersia_v4.2_De_0082.lha
+Skipped: PrinceOfPersia_v4.2_NTSC_1407.lha
+Scanned: Prince Of Persia
+Scanned: Prince Of Persia (Deutsch)
+Scanned: Prince Of Persia (NTSC)
+Skipped: Prince_v1.01_1729.lha
 Skipped: QuestionOfSport_v1.0_2143.lha
 Skipped: QBic_v1.1.lha
 Skipped: Qix_v1.0.lha
@@ -5158,7 +5163,7 @@ Skipped: StarTrek25thAnniversary_v1.0_AGA_Fr_1752.lha
 Skipped: Starush_v1.1_Files_2311.lha
 Skipped: Starush_v1.1_Image_2311.lha
 Skipped: StarWars_v2.0_0403.lha
-Scanned: Star Ways
+Skipped: StarWays_v1.0_2678.lha
 Skipped: SteelEmpire_v1.1_1659.lha
 Skipped: Steel_v1.1_1981.lha
 Skipped: StegTheSlug_v1.1_2271.lha
@@ -7121,7 +7126,7 @@ Skipped: FeedingFrenzy-WHDL.lha
 Skipped: FeudalLords-WHDL.lha
 Skipped: Fever-WHDL.lha
 Skipped: FieldsGloryAGAFR-M3-WHDL.lha
-Scanned: Fields Glory [CD32] FR
+Skipped: FieldsGloryCD32FR-M3-WHDL.lha
 Skipped: FieldsGloryFR-M3-WHDL.lha
 Skipped: FighterCommandFR-M6-WHDL.lha
 Skipped: FightHartmann-WHDL.lha
@@ -9193,7 +9198,7 @@ Skipped: WhenTwoWorldsWarAGA-WHDL.lha
 Skipped: WhiteRabbits-WHDL.lha
 Skipped: WhoDidWhat-WHDL.lha
 Skipped: WilczySzaniecDemoPL-WHDL.lha
-Scanned: Wild Cup Soccer [CD32]
+Skipped: WildCupSoccerCD32-WHDL.lha
 Skipped: WildfireDemo-WHDL.lha
 Skipped: WildLifeFR-WHDL.lha
 Skipped: WildWestPL-WHDL.lha
@@ -9482,7 +9487,7 @@ Skipped: MiniSwatdemo-WHDL.lha
 Skipped: MinkGold2demo-WHDL.lha
 Skipped: MonkeyLadDemo-WHDL.lha
 Skipped: MrMochiDemo-WHDL.lha
-Scanned: Ninj Feratu Demo
+Skipped: NinjFeratuDemo-WHDL.lha
 Skipped: PlatformDemo-WHDL.lha
 Skipped: PlatformNeesoDemo-WHDL.lha
 Skipped: PlatformNobodyDemo-WHDL.lha

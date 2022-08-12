@@ -1,4 +1,4 @@
-Scanned file log: 2022-08-10 at 03:00:03
+Scanned file log: 2022-08-12 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -946,6 +946,8 @@ Skipped: AxeOfRage_v1.2_NTSC.lha
 Skipped: AxeOfRage_v1.2_NTSC_2018.lha
 Skipped: AztecChallenge_v1.0.lha
 Skipped: Ambermoon_v2.0_De.lha
+Scanned: Ambermoon
+Scanned: Ambermoon (Deutsch)
 Skipped: Amberstar_v1.2_1969.lha
 Skipped: Amberstar_v1.2_De.lha
 Skipped: Amberstar_v1.2_De_Fast.lha
@@ -1016,7 +1018,7 @@ Skipped: AlienBreed_v1.3_0998.lha
 Skipped: AllNewWorldOfLemmings_v1.0_AGA_0625.lha
 Skipped: Ambermoon_v2.0.lha
 Skipped: AncientArtOfWarInTheSkies_v1.0_1666.lha
-Scanned: Another World
+Skipped: AnotherWorld_v2.8_0425.lha
 Skipped: APB_v1.1_Image_1240.lha
 Skipped: ArabianNights_v1.5_1454.lha
 Skipped: Archon2_v1.1_0905.lha
@@ -1242,8 +1244,8 @@ Skipped: AuntArcticAdventure_v1.0_1757.lha
 Skipped: AustraloPiticusMechanicus_v1.0a_0809.lha
 Skipped: AustraloPiticusMechanicus_v2.0_0809.lha
 Skipped: AutoDuel_v1.0_0916.lha
-Scanned: Another World (Francais)
-Scanned: Another World (Italiano)
+Skipped: AnotherWorld_v2.8_Fr_2377.lha
+Skipped: AnotherWorld_v2.8_It.lha
 Skipped: AnstossWorldCupEdition_v1.0_AGA_De.lha
 Skipped: AnstossWorldCupEdition_v1.0_De.lha
 Skipped: Anstoss_v1.2_De_0798.lha
@@ -4162,7 +4164,7 @@ Skipped: OutOfThisWorld_v2.4_NTSC_1556.lha
 Skipped: OutOfThisWorld_v2.5_NTSC_1556.lha
 Skipped: OutOfThisWorld_v2.6_NTSC_1556.lha
 Skipped: OutOfThisWorld_v2.7_NTSC_1556.lha
-Scanned: Out Of This World (NTSC)
+Skipped: OutOfThisWorld_v2.8_NTSC_1556.lha
 Skipped: OutRunEuropa_v1.1.lha
 Skipped: OutRunEuropa_v1.3.lha
 Skipped: Oath_v1.1.lha
@@ -8055,6 +8057,7 @@ Skipped: Pipemaster2-WHDL.lha
 Skipped: PipeRider-WHDL.lha
 Skipped: PirateCove-WHDL.lha
 Skipped: PiratesBounty-WHDL.lha
+Scanned: Pirates [CD32] FR
 Skipped: PitchNPutt-WHDL.lha
 Skipped: PremierPicks-WHDL.lha
 Skipped: PremierSixes-WHDL.lha
@@ -8138,7 +8141,7 @@ Skipped: Aardvark-WHDL.lha
 Skipped: Aardvarks-WHDL.lha
 Skipped: AB3D2MOD-WHDL.lha
 Skipped: AB3D2MOD2022AGA-WHDL.lha
-Scanned: A B 3 D 2 ORI 2022 [AGA]
+Skipped: AB3D2ORI2022AGA-WHDL.lha
 Skipped: AB3D2ORI2022AGA.lha
 Skipped: Alehop-WHDL.lha
 Skipped: Alert-WHDL.lha

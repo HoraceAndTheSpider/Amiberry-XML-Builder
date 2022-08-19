@@ -1,4 +1,4 @@
-Scanned file log: 2022-08-17 at 03:00:03
+Scanned file log: 2022-08-19 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -6824,6 +6824,7 @@ Skipped: Combine-WHDL.lha
 Skipped: CommandoRaid-WHDL.lha
 Skipped: CompleteChessSystem-WHDL.lha
 Skipped: CompleteChessSystemAGAFR-WHDL.lha
+Scanned: Complete Chess System FR
 Skipped: ComputerCapers-WHDL.lha
 Skipped: ComputerScrabbleFR-WHDL.lha
 Skipped: ConflictFederation1-WHDL.lha
@@ -7576,7 +7577,7 @@ Skipped: KillingWarCZ-WHDL.lha
 Skipped: KillLittleDudes-WHDL.lha
 Skipped: KingBarbarians-WHDL.lha
 Skipped: Kingdoms2England-WHDL.lha
-Scanned: Kingdoms 3 Germany-NV
+Skipped: Kingdoms3Germany-WHDL.lha
 Skipped: Kingdoms3GermanyDE-WHDL.lha
 Skipped: KingdomsSteam-WHDL.lha
 Skipped: KingdomWar-WHDL.lha

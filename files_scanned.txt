@@ -1,4 +1,4 @@
-Scanned file log: 2022-08-24 at 03:00:03
+Scanned file log: 2022-08-26 at 03:00:04
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -2061,6 +2061,7 @@ Skipped: CoolWorld_v2.2_1826.lha
 Skipped: Driller_v1.0_2256.lha
 Skipped: Driller_v2.0_2256.lha
 Skipped: Driller_v2.1_2256.lha
+Scanned: Driller
 Skipped: Drip_v1.0.lha
 Skipped: DrivinForce_v1.1_1521.lha
 Skipped: DrMario_v1.0.lha
@@ -8246,7 +8247,7 @@ Skipped: Montezuma-WHDL.lha
 Skipped: MontyWolf-WHDL.lha
 Skipped: MoonBase-WHDL.lha
 Skipped: MoonbaseLunarColony-WHDL.lha
-Scanned: Moonbase Lunar Colony FR
+Skipped: MoonbaseLunarColonyFR-WHDL.lha
 Skipped: MoonbasesAGA-WHDL.lha
 Skipped: MoonbasesAGAFR-WHDL.lha
 Skipped: PixieKingdom-WHDL.lha

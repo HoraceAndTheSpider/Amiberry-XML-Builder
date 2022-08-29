@@ -1,5 +1,3 @@
-AbandonedPlaces
-Anarchy
 Apidya
 ArcadePoolAGA
 ArcadePoolCD32
@@ -9,10 +7,8 @@ BattleIsle
 BattleIsle&DataDisks
 Blastar
 BreathlessAGA
-BubbaNStix
 BubbleDizzy
 CaptainDynamo
-CarVup
 ChronoQuest
 ChronoQuestDe
 CrazySue
@@ -67,9 +63,7 @@ ShadowFighter
 ShadowFighterAGA
 Skidmarks
 SkidmarksAGA
-Skull&Crossbones
 SlipStream
-StarGoose
 TitanicBlinky
 Trolls
 TrollsAGA
@@ -78,5 +72,4 @@ Vixen
 Waxworks
 WaxworksDe
 WaxworksFr
-WeenTheProphecy
 WhereTimeStoodStill

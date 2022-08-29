@@ -1,7 +1,6 @@
 3DPool
 3DWorldTennis
 AlienBash2
-Arkanoid
 Atomix
 AttackOfTheGreenSmellyAliens
 BansheeAGA
@@ -84,7 +83,6 @@ SuperSkidmarksCD
 SuperSkidmarksLowMem
 SuperSkidmarksLMCD
 SuperSkidmarksLowMemCD32
-SuprTennisChmps
 Switchblade2
 TanksFurry
 TennisChamps

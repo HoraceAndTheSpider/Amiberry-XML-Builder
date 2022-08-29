@@ -12,4 +12,6 @@ NorthAndSouthImage
 NorthAndSouthFiles
 OperationWolf
 Overlander
+SirFredTheLegend
+SoldierOfLight
 SpaceHarrier2

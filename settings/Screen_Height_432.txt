@@ -1,8 +1,9 @@
-AbandonedPlaces2
 AlienBreed3DAGA
 AlienBreed3DCD32
 AlienBreed3DNoMusicAGA
 ArabianNightsCD32
+Arkanoid
+ArkanoidNTSC
 BeyondTheIcePalace
 BloodMoney
 BrianTheLion
@@ -47,9 +48,7 @@ Paperboy2
 PoolOfRadiance
 RevengeOfDefender
 Rockford
-SmashTV
 Soldier2000
-SpindizzyWorlds
 StarRay
 StarRayNoIntro
 StarControl
@@ -62,7 +61,6 @@ SuspiciousCargo
 Thexder
 TowerOfSouls
 TowerOfSoulsAGA
-TrapsNTreasures
 Troddlers
 Turrican2
 Turrican2Demo
@@ -72,5 +70,4 @@ Universe
 UniverseCD32
 Unreal
 UnrealNTSC
-WonderboyInMonsterland
 WorldsOfLegend

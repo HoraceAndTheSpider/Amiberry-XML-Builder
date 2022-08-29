@@ -12,6 +12,7 @@ DickTracy
 DickTracyAdventure
 DrDoomsRevenge1Disk
 DrDoomsRevengeNTSC2Disk
+Enlightenment
 FaeryTaleAdventure
 FinalFight
 FinalFight1MB
@@ -30,6 +31,10 @@ Outzone
 Overlander
 PacLand
 PhantomFighter
+SirFredTheLegend
+SoldierOfLight
 SpaceHarrier
 SpaceHarrierNTSC
 SpaceHarrier2
+SuperC
+SuperCFast

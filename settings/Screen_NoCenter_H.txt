@@ -12,6 +12,8 @@ SuperfrogDemoTheOne
 Superfrog
 SwordOfHonour
 TestDrive
+TestDrive2
+TestDrive2&DataDisks
 Untouchables
 VenusTheFlytrap
 VenusTheFlytrapNoIntro

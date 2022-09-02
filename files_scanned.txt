@@ -1,4 +1,4 @@
-Scanned file log: 2022-08-31 at 03:00:04
+Scanned file log: 2022-09-02 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -7957,6 +7957,7 @@ Skipped: OkobanDemo-WHDL.lha
 Skipped: OkretyPL-WHDL.lha
 Skipped: OlafLonghairDemo-WHDL.lha
 Skipped: OlafLonghairDemoFR-WHDL.lha
+Scanned: Oldtimer [AGA] DE
 Skipped: OldtimerDE-WHDL.lha
 Skipped: OldtomerAGADE-WHDL.lha
 Skipped: Olempiad-WHDL.lha
@@ -9421,8 +9422,8 @@ Skipped: Countdown1Extinction-WHDL.lha
 Skipped: Countdown2Traitor-WHDL.lha
 Skipped: Countdown3Hanger18-WHDL.lha
 Skipped: CountdownExtinction-WHDL.lha
-Scanned: Biff Snowboarding
-Scanned: Biff Surfing
+Skipped: BiffSnowboarding-WHDL.lha
+Skipped: BiffSurfing-WHDL.lha
 Skipped: Bifi1DE-WHDL.lha
 Skipped: BiFi1SnackzoneDunkzone-WHDL.lha
 Skipped: Bifi2DE-WHDL.lha

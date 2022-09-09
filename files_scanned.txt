@@ -1,4 +1,4 @@
-Scanned file log: 2022-09-07 at 03:00:04
+Scanned file log: 2022-09-09 at 03:00:04
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -4556,6 +4556,8 @@ Skipped: Plotting_v1.3_1844.lha
 Skipped: Plutos_v1.1_0994.lha
 Skipped: PinballIllusions_v2.2_AGA_0710.lha
 Skipped: PinballIllusions_v2.2_CD32.lha
+Scanned: Pinball Illusions [AGA]
+Scanned: Pinball Illusions [CD32]
 Skipped: PinballMagic_v1.0_2003.lha
 Skipped: PinballMagic_v1.1_2003.lha
 Skipped: PinballMania_v1.4_AGA_0896.lha
@@ -6222,6 +6224,7 @@ Skipped: Liberation_v1.0_CD32.lha
 Skipped: LostTreasuresOfInfocom_v1.0.lha
 Skipped: MagicPockets_v3.0_NTSC.lha
 Skipped: MegaBlock2_v1.0.lha
+Scanned: Metagalactic Llamas
 Skipped: MetalGear_v1.0.lha
 Skipped: MoebiusGoatlizard_v0.1.lha
 Skipped: MonkeyBusiness_v1.0.lha
@@ -7957,6 +7960,7 @@ Skipped: OkobanDemo-WHDL.lha
 Skipped: OkretyPL-WHDL.lha
 Skipped: OlafLonghairDemo-WHDL.lha
 Skipped: OlafLonghairDemoFR-WHDL.lha
+Scanned: Oldtimer [AGA]
 Skipped: OldtimerAGADE-WHDL.lha
 Skipped: OldtimerDE-WHDL.lha
 Skipped: OldtomerAGADE-WHDL.lha

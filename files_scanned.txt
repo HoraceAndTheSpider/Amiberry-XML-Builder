@@ -1,4 +1,4 @@
-Scanned file log: 2022-09-14 at 03:00:03
+Scanned file log: 2022-09-16 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -6348,7 +6348,7 @@ Skipped: Dynamate-WHDL.lha
 Skipped: DynamiteBall-WHDL.lha
 Skipped: DynamiteDick-WHDL.lha
 Skipped: DynamiteWarriors-WHDL.lha
-Scanned: Dynatech [AGA]
+Skipped: DynatechAGA-WHDL.lha
 Skipped: DynatechAGADE-WHDL.lha
 Skipped: AmiBeeDemoAGA-WHDL.lha
 Skipped: AmiBird-WHDL.lha
@@ -9431,11 +9431,11 @@ Skipped: CountdownExtinction-WHDL.lha
 Skipped: BiffSnowboarding-WHDL.lha
 Skipped: BiffSurfing-WHDL.lha
 Skipped: Bifi1DE-WHDL.lha
-Scanned: Bi Fi 1 Dunkzone
-Scanned: Bi Fi 1 Snackzone DE
+Skipped: BiFi1Dunkzone-WHDL.lha
+Skipped: BiFi1SnackzoneDE-WHDL.lha
 Skipped: BiFi1SnackzoneDunkzone-WHDL.lha
 Skipped: Bifi2DE-WHDL.lha
-Scanned: Bi Fi 2 Hollywood DE
+Skipped: BiFi2HollywoodDE-WHDL.lha
 Skipped: BigDealFR-WHDL.lha
 Skipped: BigPictureDE-WHDL.lha
 Skipped: BigSea-WHDL.lha

@@ -1,4 +1,4 @@
-Scanned file log: 2022-09-28 at 03:00:03
+Scanned file log: 2022-09-30 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -3342,6 +3342,8 @@ Skipped: JetSetWilly2_v0501.1_1115.lha
 Skipped: JetsonsTheComputerGame_v1.0_2270.lha
 Skipped: Jetstrike_v1.1.lha
 Skipped: Jetstrike_v1.1_AGA.lha
+Scanned: Joe & Mac - Caveman Ninja
+Scanned: Joe & Mac Caveman Ninja (Fast)
 Skipped: JoeBlade2_v1.0.lha
 Skipped: JoeBlade_v1.1_0514.lha
 Skipped: JohnBarnesEuropeanFootball_v1.01_1925.lha
@@ -4212,6 +4214,7 @@ Skipped: OnTheBallWorldCupEdition_v1.0_2138.lha
 Skipped: OnTheBallWorldCupEdition_v1.0_AGA_2595.lha
 Skipped: OoopsUp_v1.1.lha
 Skipped: OoopsUp_v2.0_1283.lha
+Scanned: Ooops Up
 Skipped: Ooze_v1.0_2315.lha
 Skipped: Ooze_v1.0_De_1255.lha
 Skipped: OperationCleanstreets_v1.2.lha
@@ -4274,6 +4277,8 @@ Skipped: PulsatorDemo_v1.1_AGA.lha
 Skipped: PurpleSaturnDay_v1.1_0562.lha
 Skipped: PurpleSaturnDay_v2.0_0562.lha
 Skipped: PurpleSaturnDay_v2.0_NTSC_0945.lha
+Scanned: Purple Saturn Day
+Scanned: Purple Saturn Day (NTSC)
 Skipped: PushOver_v1.23_1267.lha
 Skipped: PuttySquadDemo_v1.0_AGA.lha
 Skipped: PuttySquad_v1.0_AGA.lha
@@ -5829,6 +5834,9 @@ Skipped: TinyTroops_v1.2_CD_De.lha
 Skipped: TipOff_v1.0_1551.lha
 Skipped: TipOff_v1.0_DeEsFrIt_1269.lha
 Skipped: TipOff_v1.0_NTSC.lha
+Scanned: Tip Off
+Scanned: Tip Off De Es Fr (Italiano)
+Scanned: Tip Off (NTSC)
 Skipped: TitanicBlinky_v1.1.lha
 Skipped: UltimatePinballQuest_v1.01.lha
 Skipped: UltimateRide_v1.0_2306.lha
@@ -5895,6 +5903,7 @@ Skipped: VengeanceOfExcalibur_v1.01_2499.lha
 Skipped: VengeanceOfExcalibur_v1.01_De_2499.lha
 Skipped: VengeanceOfExcalibur_v1.01_Fr_2499.lha
 Skipped: VenomWing_v1.1.lha
+Scanned: Venom Wing
 Skipped: VenusTheFlytrap_v1.2.lha
 Skipped: VenusTheFlytrap_v1.2_NoIntro_1985.lha
 Skipped: VerteidigerDerKrone2_v1.1_CD32_De.lha

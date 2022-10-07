@@ -1,4 +1,4 @@
-Scanned file log: 2022-10-05 at 03:00:03
+Scanned file log: 2022-10-07 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -1133,6 +1133,7 @@ Skipped: Arkanoid_v1.9_0954.lha
 Skipped: Arkanoid_v1.9_NTSC_1136.lha
 Skipped: ArmageddonMan_v1.0_0629.lha
 Skipped: Armalyte_v1.2.lha
+Scanned: Armalyte - The Final Run
 Skipped: ArmourGeddon2_v1.1_0097.lha
 Skipped: ArmourGeddon_v1.0.lha
 Skipped: ArmourGeddon_v1.0_NTSC.lha
@@ -2416,6 +2417,7 @@ Skipped: Embryo_v1.0_De.lha
 Skipped: EmeraldMine2_v0.91b_1520.lha
 Skipped: EmeraldMine3_v1.1.lha
 Skipped: EmeraldMines_v1.0_CD.lha
+Scanned: Emetic Skimmer
 Skipped: EmlynHughesInternationalSoccer_v1.1_1077.lha
 Skipped: Emmanuelle_v1.1a.lha
 Skipped: Emmanuelle_v1.1a_De_0324.lha
@@ -2511,6 +2513,8 @@ Skipped: F40PursuitSimulator_v1.3_NTSC.lha
 Skipped: FA18Interceptor_v1.4_0119.lha
 Skipped: FA18Interceptor_v2.0_0119.lha
 Skipped: FaceOff_v1.0_1670.lha
+Scanned: Face Off Anco
+Scanned: Face Off Krisalis
 Skipped: FaeryTaleAdventure_v1.1_0367.lha
 Skipped: Falcon&MissionDisk1_v1.2_NTSC_1197&1205.lha
 Skipped: Falcon&MissionDisks_v1.1_1754&1205&0269.lha
@@ -3008,6 +3012,7 @@ Skipped: Harpoon&Battleset3_v1.0_1788.lha
 Skipped: Harpoon&Battleset4_v1.0.lha
 Skipped: Harricana_v1.0_Fr.lha
 Skipped: Harricana_v1.1_Fr.lha
+Scanned: Harricana (Francais)
 Skipped: HarrierCombatSimulator_v1.01_NTSC_0919.lha
 Skipped: HarrierCombatSimulator_v1.0_0919.lha
 Skipped: HarrierCombatSimulator_v1.0_NTSC_0919.lha
@@ -4178,7 +4183,7 @@ Skipped: Oath_v1.1.lha
 Skipped: Obitus_v1.2.lha
 Skipped: Obitus_v1.3.lha
 Skipped: Obitus_v1.4.lha
-Scanned: Obitus
+Skipped: Obitus_v1.5.lha
 Skipped: Obliterator_v1.2_0706.lha
 Skipped: Obliterator_v1.3_0706.lha
 Skipped: Oblivion_v1.0.lha
@@ -4628,16 +4633,16 @@ Skipped: QuestForTheTimeBird_v1.2_Files_0564.lha
 Skipped: QuestForTheTimeBird_v1.2_Image_0564.lha
 Skipped: QuestForTheTimeBird_v1.3_Files_0564.lha
 Skipped: QuestForTheTimeBird_v1.3_Image_0564.lha
-Scanned: Quest For Time Bird (Files)
-Scanned: Quest For The Time-Bird (Image)
+Skipped: QuestForTheTimeBird_v1.4_Files_0564.lha
+Skipped: QuestForTheTimeBird_v1.4_Image_0564.lha
 Skipped: QuestOfAgravain_v1.1_0141.lha
 Skipped: Questron2_v1.02_1187.lha
 Skipped: QueteDeLOiseauDuTemp_v1.2_Fr_Files_2343.lha
 Skipped: QueteDeLOiseauDuTemp_v1.2_Fr_Image_2343.lha
 Skipped: QueteDeLOiseauDuTemp_v1.3_Fr_Files_2343.lha
 Skipped: QueteDeLOiseauDuTemp_v1.3_Fr_Image_2343.lha
-Scanned: Quete LOiseau Du Temp Fr (Files)
-Scanned: Quete LOiseau Du Temp Fr (Image)
+Skipped: QueteDeLOiseauDuTemp_v1.4_Fr_Files_2343.lha
+Skipped: QueteDeLOiseauDuTemp_v1.4_Fr_Image_2343.lha
 Skipped: QuicksilverPinball_v1.2.lha
 Skipped: QuikTheThunderRabbit_v1.2a.lha
 Skipped: QuikTheThunderRabbit_v1.2a_AGA.lha
@@ -4742,8 +4747,8 @@ Skipped: RevengeOfDefender_v1.0.lha
 Skipped: RevengeOfTheMutantCamels2_v1.01.lha
 Skipped: RevengeOfTheMutantCamels_v1.0.lha
 Skipped: RevengeOfTheMutantCamels_v1.0_NTSC.lha
-Scanned: Ricerca Augello Tmpo It (Files)
-Scanned: Ricerca Augello Tmpo It (Image)
+Skipped: RicercaDellAugelloDelTempo_v1.4_It_Files.lha
+Skipped: RicercaDellAugelloDelTempo_v1.4_It_Image.lha
 Skipped: RickDangerous25_v1.2.lha
 Skipped: RickDangerous2_v1.2_0570.lha
 Skipped: RickDangerous_v1.3_2294.lha
@@ -5211,6 +5216,7 @@ Skipped: StirCrazyFeaturingBobo_v1.0.lha
 Skipped: StoneAge_v1.1.lha
 Skipped: StoriaAncestrale_v1.0.lha
 Skipped: Stormball_v1.1_0404.lha
+Scanned: Stormball
 Skipped: Stormlord_v1.2_0874.lha
 Skipped: Stormlord_v1.2_NTSC.lha
 Skipped: Stormlord_v1.2_Prerelease.lha
@@ -5815,8 +5821,8 @@ Skipped: Turrican2_v1.4_CDTV.lha
 Skipped: Turrican2_v1.7_0029.lha
 Skipped: Turrican2_v2.1-B_0029.lha
 Skipped: Turrican2_v2.1-B_CDTV.lha
-Scanned: Turrican II - The Final Fight
-Scanned: Turrican 2 [CDTV]
+Skipped: Turrican2_v2.2_0029.lha
+Skipped: Turrican2_v2.2_CDTV.lha
 Skipped: Turrican3Demo_v1.0.lha
 Skipped: Turrican3_v1.5_2633.lha
 Skipped: TurricanDemo_v1.0.lha
@@ -5913,6 +5919,7 @@ Skipped: VengeanceOfExcalibur_v1.01_De_2499.lha
 Skipped: VengeanceOfExcalibur_v1.01_Fr_2499.lha
 Skipped: VenomWing_v1.1.lha
 Skipped: VenomWing_v2.0.lha
+Scanned: Venom Wing
 Skipped: VenusTheFlytrap_v1.2.lha
 Skipped: VenusTheFlytrap_v1.2_NoIntro_1985.lha
 Skipped: VerteidigerDerKrone2_v1.1_CD32_De.lha
@@ -7947,6 +7954,7 @@ Skipped: NoEscape-WHDL.lha
 Skipped: NoMansLand-WHDL.lha
 Skipped: NomanslandUnv-WHDL.lha
 Skipped: NoMercy-WHDL.lha
+Scanned: None Us
 Skipped: NordSudFR-M3-WHDL.lha
 Skipped: Norris-WHDL.lha
 Skipped: NorseGods-WHDL.lha

@@ -1,0 +1,23 @@
+	<game filename="DevilsTemple_v3.0_1222"  sha1="1ded50d02c3ec51467f30f21fea3019edab00b5d">
+		<name>Devils Temple</name>
+		<subpath>DevilsTemple</subpath>
+		<variant_uuid>2e0b87ca-1083-5709-bd80-e46242de331b</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>DevilsTemple.Slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>DevilsTemple.Slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			</custom>
+		</slave>
+		<hardware>
+			CHIPSET=AGA
+			PRIMARY_CONTROL=JOYSTICK
+			PORT0=JOY
+			PORT1=JOY
+			SCREEN_AUTOHEIGHT=TRUE
+			SCREEN_CENTERH=SMART
+			SCREEN_CENTERV=SMART
+		</hardware>
+	</game>

@@ -14,7 +14,7 @@ from whdload import whdload_slave
 from slave_lha.parse_lha.read_lha import LhaSlaveArchive
 
 from utils import text_utils
-
+import xml.etree.ElementTree as etree
 
 def sha1(fname):
     hash_sha1 = hashlib.sha1()
@@ -74,7 +74,6 @@ def check_list(in_file, game_name):
             break
 
     return answer
-
 
 # =======================================
 # main section starting here...
@@ -735,6 +734,64 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
         break
     count = count + 1
 
+# =======================================
+# XML snippets
+# for recent games
+# =======================================
+print()
+print('Adding external XML snippets')
+
+snippet_dir = 'snippets/'
+snippet_text =  ''
+
+# add fake root to 'old' XML to get valid xml
+xml_old_snippet = '<root>' + XML_OLD + '</root>'
+snipoldroot = etree.fromstring(xml_old_snippet)
+
+for snippet_file in os.listdir(snippet_dir):
+    xmlsnip = os.path.join(snippet_dir,snippet_file)
+    with open(xmlsnip, 'r') as snippets_content:
+
+        # add fake root to 'snippets' to get valid xml
+        xml_snippet = '<root>' + snippets_content.read() + '</root>'
+        sniproot = etree.fromstring(xml_snippet)
+
+        # check if snippet's element has no duplicate then update it
+        for snipgame in sniproot.findall('game'):
+            snippet_filename = snipgame.get('filename')
+            snippet_sha1 = snipgame.get('sha1')
+
+            # check for sha1 in new packages or snippets
+            if snippet_sha1 in XML or snippet_sha1 in snippet_text:
+               COMPLETE_MSG += 'Snippet skipped: ' + snippet_filename + chr(10)
+               continue
+
+            # check for sha1 in 'old' XML
+            # if found delete it - it will be re-added below
+            # this way we would always get the latest version
+            if snippet_sha1 in XML_OLD:
+               for old_elem in snipoldroot.findall('.//game[@sha1="{value}"]'.format(value=snippet_sha1)):
+                   snipoldroot.remove(old_elem)
+
+            # add element from snippet
+            snipstr = etree.tostring(snipgame).decode().strip()
+            if snipstr.startswith('\t'):
+               snippet_text += snipstr + chr(10)
+            else:
+               snippet_text += chr(9) + snipstr + chr(10)
+            # add to report
+            COMPLETE_MSG += 'Snippet added: ' + snippet_filename + chr(10)
+
+# return a string and delete the fake root
+XML_OLD = etree.tostring(snipoldroot).decode()
+XML_OLD = XML_OLD.replace('<root>', '').replace('</root>', '')
+
+if len(snippet_text) > 0:
+   XML = XML + chr(10) + snippet_text + chr(9)
+
+# =======================================
+# XML is complete, let's put it all together
+# =======================================
 XML = XML_HEADER + XML_OLD + XML + XML_FOOTER
 
 #print(XML)

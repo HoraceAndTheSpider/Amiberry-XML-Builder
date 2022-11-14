@@ -558,15 +558,17 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
 
                 # SCREEN OPTIONS
                 # Screen: size, auto-height/crop
-                # Disable AUTOHEIGHT and set HEIGHT/WIDTH only when there's HEIGHT
+                # Disable AUTOHEIGHT and set HEIGHT only when there's HEIGHT
                 if HW_HEIGHT != '':
                     HW_AUTO_HEIGHT = 'FALSE'
                     hardware += ('SCREEN_AUTOHEIGHT=') + HW_AUTO_HEIGHT + chr(10)
                     hardware += ('SCREEN_HEIGHT=') + HW_HEIGHT + chr(10)
-                    hardware += ('SCREEN_WIDTH=') + HW_WIDTH + chr(10)
                 else:
                     HW_AUTO_HEIGHT = 'TRUE'
                     hardware += ('SCREEN_AUTOHEIGHT=') + HW_AUTO_HEIGHT + chr(10)
+
+                if HW_WIDTH != '720' or HW_AUTO_HEIGHT == 'FALSE':
+                    hardware += chr(10) + ('SCREEN_WIDTH=') + HW_WIDTH
 
                 # H_CENTER only if there's no H_OFFSET
                 if HW_H_CENTER == 'SMART' and HW_H_OFFSET != '':

@@ -322,11 +322,14 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
 
                 # get what settings we can, based on the name lookup in old Config Maker Files
 
-                # ======== DISPLAY SETTINGS =======
+                # =======================================
+                # DISPLAY SETTINGS
 
-                # prior to Amiberry 3.2 possible heights { 200, 216, 224, 240, 256, 262, 270 };
-                # since 3.2 => heights { 400, 432, 448, 480, 512, 524, 540 };
-                listheights = ['400', '432', '448', '480', '512', '524', '540']
+                # Amiberry 3.2+: HEIGHT can be any value yet let's stick to the following
+                # values to keep things tidy and easy to maintain.
+                # Possible values: 400, 432, 480, 512, 524, 540, 568
+                # default: 568
+                listheights = ['400', '432', '480', '512', '524', '540']
                 HW_HEIGHT = ''
 
                 for possibleheight in listheights:
@@ -334,9 +337,11 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                         HW_HEIGHT = possibleheight
                         break
 
-                # screen widths { 320, 352, 384, 640, 704, 720 };
+                # Amiberry 3.2+: WIDTH can be any value yet let's stick to the following
+                # values to keep things tidy and easy to maintain.
+                # Possible values: 640, 704, 720
                 # default: 720
-                listwidths = ['320', '352', '384', '640', '704']
+                listwidths = ['640', '704']
                 HW_WIDTH = '720'
 
                 for possiblewidth in listwidths:
@@ -345,6 +350,7 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                         break
 
                 # centering
+                # default: enabled
                 HW_H_CENTER = 'SMART'
                 if check_list('Screen_NoCenter_H.txt', sub_path) is True:
                   HW_H_CENTER = 'NONE'
@@ -354,6 +360,7 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                   HW_V_CENTER = 'NONE'
                                 
                 # offset
+                # default: 0 (for both horizontal and vertical)
                 offset_h = value_list("Screen_Offset_H.txt", sub_path)
                 offset_v = value_list("Screen_Offset_V.txt", sub_path)
 
@@ -385,24 +392,26 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                 else:
                     HW_V_OFFSET = ''
 
-                # extras
+                # NTSC
                 HW_NTSC = ""
                 if check_list("Screen_ForceNTSC.txt", sub_path) is True:
                      HW_NTSC = "TRUE"       
                 elif this_file.find("NTSC") > -1:
                      HW_NTSC = "TRUE" 
                             
-
-                # ======== CONTROL SETTINGS =======
+                # =======================================
+                # CONTROL SETTINGS
                 #  mouse / mouse 2 / CD32
 
                 use_mouse1 = check_list("Control_Port0_Mouse.txt", sub_path)
                 use_mouse2 = check_list("Control_Port1_Mouse.txt", sub_path)
                 use_cd32_pad = check_list("Control_CD32.txt", sub_path)
 
-
-                # ======== MEMORY SETTINGS =======
-                # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                # =======================================
+                # MEMORY SETTINGS
+                # Let's limit possible Z3 values to 128Mb.
+                # Amiberry 5+: 8Mb of fast RAM/Z2 set as default
+                # Default: 2Mb Chip / 8Mb Z2 / 0Mb Z3
 
                 # quick clean-up on WHDLoad memory requirements
                 whd_z3_ram = 0
@@ -410,48 +419,6 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                 if whd_fast_ram>8:
                     whd_z3_ram = whd_fast_ram
                     whd_fast_ram = 0
-
-                # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-                # when we want different CHIP ram!
-                # Default: 2Mb
-
-                #chip_ram = 2
-               
-                #old_chip_ram = chip_ram
-                #for i in range(0, 4):
-                #    chip_ram = int(math.pow(2, i)) / 2
-                #    if chip_ram >= 1:
-                #                    chip_ram = int(chip_ram)
-
-                #    if check_list("Memory_ChipRam_" + str(chip_ram) + ".txt", sub_path) is True:
-                #                    chip_ram = int(chip_ram * 2)
-                #                    break
-                #    chip_ram = old_chip_ram
-
-                # whd chip-memory overwrite
-                #if whd_chip_ram >= chip_ram: chip_ram = whd_chip_ram
-
-
-                # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-                # when we want different fast ram!
-                # No longer required as of Amiberry 5.0 given new default.
-                # Default: 8Mb
-
-                #fast_ram = 8
-
-                #old_fast_ram = fast_ram
-                #for i in range(0, 4):
-                #    fast_ram = int(math.pow(2, i))
-                #    if check_list("Memory_FastRam_" + str(fast_ram) + ".txt", sub_path) is True:
-                #        break
-                #    fast_ram = old_fast_ram
-
-                # whd fast-memory overwrite
-                #if whd_fast_ram >= fast_ram and whd_fast_ram <= 8 : fast_ram = whd_fast_ram
-
-                # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-                # when we want different Z3 ram!!
-                # Default: 0Mb
 
                 for i in range(0, 8):
                     z3_ram = int(math.pow(2, i))
@@ -466,34 +433,20 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                 if whd_fast_ram >= z3_ram and whd_fast_ram > 8: 
                     z3_ram = whd_chip_ram
 
-
-                # ======= CHIPSET SETTINGS =======
-                # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                # =======================================
+                # CHIPSET SETTINGS
 
                 # sprite collisions
                 # Default: Playfield
-                # can't find a single case where value other than default is required.
-
-                #HW_SPRITES = ""
-                #if check_list("Chipset_CollisionLevel_none.txt", sub_path) is True:
-                #                HW_SPRITES = "NONE"
-                #if check_list("Chipset_CollisionLevel_full.txt", sub_path) is True:
-                #                HW_SPRITES = "FULL"
-                #if check_list("Chipset_CollisionLevel_sprites.txt", sub_path) is True:
-                #                HW_SPRITES = "SPRITES"
-                #if check_list("Chipset_CollisionLevel_playfields.txt", sub_path) is True:
-                #                HW_SPRITES = "PLAYFIELDS"
+                # can't find a single case requiring value different than default.
 
                 # blitter    
                 # Default: Wait for Blitter
-
                 HW_BLITS = ""        
                 if check_list("Chipset_ImmediateBlitter.txt", sub_path) is True:
                     HW_BLITS = "IMMEDIATE"
                 if  check_list("Chipset_NormalBlitter.txt", sub_path) is True:
                     HW_BLITS = "NORMAL"
-                #if  check_list("Chipset_WaitBlitter.txt", sub_path) is True:
-                #    HW_BLITS = "WAIT"
 
                 # fast copper
                 # Default: False
@@ -501,53 +454,40 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                 if check_list("Chipset_FastCopper.txt", sub_path) is True:
                     HW_FASTCOPPER = "TRUE"
 
-
-                # ======== CPU SETTINGS =======
-                # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                # =======================================
+                # CPU SETTINGS
 
                 # clock speed
                 # Default: 14
                 HW_SPEED = ""
                 if check_list("CPU_ClockSpeed_7.txt", sub_path) is True:
                     HW_SPEED = "7"
-                #if check_list("CPU_ClockSpeed_14.txt", sub_path) is True:
-                #   HW_SPEED = "14"
                 if check_list("CPU_ClockSpeed_25.txt", sub_path) is True:
                     HW_SPEED = "25"
                 if check_list("CPU_ClockSpeed_Max.txt", sub_path) is True:
                     HW_SPEED = "MAX"
-                #if check_list("CPU_RealSpeed.txt", sub_path) is True:
-                #   HW_SPEED = "REAL"
 
+                # cpu model
+                # Default: 68020
                 HW_CPU = ""
-                # cpu model 68000
                 if check_list("CPU_68000.txt", sub_path) is True:
                     HW_CPU = "68000"
-                                
-                # cpu model 68010
                 if check_list("CPU_68010.txt", sub_path) is True:
                     HW_CPU = "68010"
                     HW_24BIT = "FALSE"
-                                
-                # cpu model 68040
                 if check_list("CPU_68040.txt", sub_path) is True:
                     HW_CPU = "68040"
                     HW_24BIT = "FALSE"
 
                 # 24 bit addressing 
                 # Default: True / you can set Z3 separately
-                #HW_24BIT = ""
-                #if not check_list("CPU_No24BitAddress.txt", sub_path) is False:
-                #    HW_24BIT = "FALSE"
-             
+
                 # compatible CPU 
                 # Defalult: True
-                #HW_CPUCOMP = ""
-                #if check_list("CPU_Compatible.txt", sub_path) is True:
-                #    HW_CPUCOMP = "TRUE"
-                    
+
                 # CPU cycle exact
-                # Default: False / available only for 68000 CPU
+                # available only for 68000 CPU
+                # Default: False
                 HW_CPUEXACT = ""
                 if check_list("CPU_CycleExact.txt", sub_path) is True and HW_CPU == "68000":
                     HW_CPUEXACT = "TRUE"
@@ -560,12 +500,6 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
 
                 # CHIPSET
                 HW_CHIPSET = ""
-                #if check_list("CPU_ForceAGA.txt",sub_path) == True:
-                #   HW_CHIPSET = "AGA"
-                #elif check_list("CPU_ForceECS.txt", sub_path) == True:
-                #   HW_CHIPSET = "ECS"  
-                #elif check_list("CPU_ForceOCS.txt", sub_path) == True:
-                #   HW_CHIPSET = "OCS"  
 
                 if this_file.find("_AGA") > -1:
                     HW_CHIPSET = "AGA"                                       
@@ -573,9 +507,8 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                     HW_CHIPSET = "AGA"
                     use_cd32_pad = True
 
-
                 # ================================
-                # building the hardware section
+                # building hardware section
 
                 if use_mouse1 == True:
                     hardware += ("PRIMARY_CONTROL=MOUSE") + chr(10)
@@ -602,14 +535,8 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                 if HW_BLITS != "":
                     hardware += ("BLITTER=") + HW_BLITS + chr(10)
 
-                #if HW_SPRITES != "":
-                #    hardware += ("SPRITES=") + HW_CPU + chr(10)
-                    
                 if HW_24BIT != "":
                     hardware += ("CPU_24BITADDRESSING=") + HW_24BIT + chr(10)
-
-                #if HW_CPUCOMP != "":
-                #    hardware += ("CPU_COMPATIBLE=") + HW_CPUCOMP + chr(10)
 
                 if HW_CPU != "":
                     hardware += ("CPU=") + HW_CPU + chr(10)
@@ -659,13 +586,6 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                 if HW_V_OFFSET != '':
                     hardware += ("SCREEN_OFFSETV=") + str(HW_V_OFFSET) + chr(10)
 
-                # MEMORY OPTIONS
-                #if chip_ram != 2:
-                #    hardware += ("CHIP_RAM=") + str(chip_ram) + chr(10)
-
-                #if fast_ram != 8:
-                #    hardware += ("FAST_RAM=") + str(fast_ram) + chr(10)
-
                 if z3_ram != 0:
                     hardware += ("Z3_RAM=") + str(z3_ram) + chr(10)
 
@@ -685,15 +605,13 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                       elif this_line.find('amiberry_custom') > -1 and not '\n' in this_line:
                         custom_text += chr(9) + chr(9) + this_line + chr(10)
 
-                # Libraries
+                # external libraries (eg. xpk, required for Dungeon Master)
                 extra_libs = "False"
                 if check_list("WHD_Libraries.txt", sub_path) is True:
                     extra_libs = "True"
 
                 COMPLETE_MSG = COMPLETE_MSG + "Scanned: " + full_game_name + chr(10)
-                ##generate XML
-                
-                
+                # generate XML
                 XML = XML + chr(9)+ '<game filename="' + text_utils.left(this_file,len(this_file) - 4).replace("&", "&amp;") + '"  sha1="' + ArchiveSHA + '">' + chr(10)
                 XML = XML + chr(9)+ chr(9) + '<name>' + full_game_name.replace("&", "&amp;") + '</name>' + chr(10)
                 XML = XML + chr(9)+ chr(9) + '<subpath>' + sub_path.replace("&", "&amp;") + '</subpath>' + chr(10)
@@ -794,27 +712,38 @@ if len(snippet_text) > 0:
 # =======================================
 XML = XML_HEADER + XML_OLD + XML + XML_FOOTER
 
-#print(XML)
+# =======================================
+# write down XML file
+# =======================================
 print("Generating XML File")
 text_file = open(whdbfile, "w+")
 text_file.write(XML)
 text_file.close()
 
-######
+# =======================================
 # Line Squasher
-# Any line containing the following characters will be removed from file eg. blank lines
-offtext = ['FAST_RAM=8', '\t\t\n']
+# * line(s) matching specified characters will be deleted
+# * ensure only ASCII characters are written
+#
+# eg.:
+# offtext = ['FAST_RAM=8', '\t\t\n']
+# =======================================
+offtext = []
 
-with open(whdbfile, 'r') as nomoreoffset:
-    olines = nomoreoffset.readlines()
+with open(whdbfile, 'r') as deloffset:
+    olines = deloffset.readlines()
 
 with open(whdbfile, 'w') as nomoreoffset:
     for line in olines:
-        if not any(offset in line for offset in offtext) and all(ord(ch) < 128 for ch in line): #also ensure only ASCII character
-            nomoreoffset.write(line)
-#
-######
+        # remove blank lines
+        if line.rstrip():
+        # ensure only ASCII characters
+            if not any(offset in line for offset in offtext) and all(ord(ch) < 128 for ch in line):
+               nomoreoffset.write(line)
 
+# =======================================
+# Reports
+# =======================================
 text_file = open("files_scanned.txt", "w+")
 text_file.write(COMPLETE_MSG)
 text_file.close()

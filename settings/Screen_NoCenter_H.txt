@@ -1,6 +1,7 @@
 BansheeAGA
 BodyBlowsAGA
 BodyBlowsGalacticAGA
+Cabal
 CapitalPunishmentAGA
 CapitalPunishmentAGACD
 MasterAxe

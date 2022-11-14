@@ -2,6 +2,7 @@ Amberstar
 AmberstarFast
 AmberstarDe
 AmberstarDeFast
+Amnios
 Baal
 BabyJoInGoingHome
 BadDudes
@@ -9,9 +10,12 @@ BadDudesChipNTSC
 BadDudesNTSC
 BadDudesVsDragonNinja
 BadDudesVsDragonNinjaChip
+Ballistix
 Barbarian2Palace
 BatmanCapedCrusader
+Battletoads
 BestOfTheBest
+BeverlyHillsCop
 BodyBlowsAGA
 BodyBlowsGalacticAGA
 BrataccasNTSC

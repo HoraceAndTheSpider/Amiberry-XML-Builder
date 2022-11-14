@@ -12,6 +12,8 @@ BattleSquadronDemo
 BombPacCD32
 BombPacCD32AGA
 CaptainPlanet&Planeteers
+CaptainPlanetA600Pack
+CaptainPlanet
 CardiaxxTeam17
 Carnage
 CharlieJCool

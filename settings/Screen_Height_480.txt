@@ -15,13 +15,13 @@ CrazySue
 CrazySueGoesOn
 DragonsLair
 Elvira
+ElviraDe
+ElviraFr
 Elvira2
 Elvira2De
 Elvira2Es
 Elvira2Fr
 Elvira2It
-ElviraDe
-ElviraFr
 ExploraFr
 FireAndIceCD32
 FlyHarder

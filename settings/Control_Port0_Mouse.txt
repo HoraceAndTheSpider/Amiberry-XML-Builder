@@ -169,7 +169,6 @@ DiggersAGA
 Dominium
 DonaldDucksPlayground
 DragonsBreath
-DragonsLairEscapeFast
 Dragonstone
 DragonstoneCD32
 DragonTiles
@@ -198,14 +197,13 @@ DungeonMaster2
 DungeonMaster2AGA
 DungeonQuest
 Elvira
+ElviraDe
+ElviraFr
 Elvira2
 Elvira2De
 Elvira2Es
 Elvira2Fr
 Elvira2It
-ElviraAdvanced
-ElviraDe
-ElviraFr
 Embryo
 EOB1
 EOB1AGA

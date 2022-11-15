@@ -136,6 +136,9 @@ DungeonQuest
 Dyter07
 ElviraArcade
 Emmanuelle
+EmmanuelleDe
+EmmanuelleEs
+EmmanuelleFr
 Encounter
 Enlightenment
 Exolon

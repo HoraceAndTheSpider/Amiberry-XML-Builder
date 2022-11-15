@@ -3,4 +3,13 @@ CrazyCars
 CrazyCars2
 Cybernoid
 Cybernoid2
+DonkTheSamuraiDuck
+DragonsLairEscapeDemoNTSC
+DragonsLairEscapeFast
+DragonsLairEscapeSlow
+DragonsLair&EscapeFast
+DragonsLair&EscapeSlow
+DragonsLair2
+DragonsLair3
+DynamiteDux
 FullContact

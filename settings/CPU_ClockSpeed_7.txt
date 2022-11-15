@@ -22,6 +22,9 @@ BrataccasNTSC
 BubbleBobble
 BubbleBobbleNTSC
 CaliforniaGames
+ChaosStrikesBack&DeUtil
+ChaosStrikesBack&EnUtil
+ChaosStrikesBack&FrUtil
 ChaseHQ2
 CircusGames
 CiscoHeat
@@ -33,6 +36,9 @@ DickTracyAdventure
 DrDoomsRevenge1Disk
 DrDoomsRevengeNTSC2Disk
 Emmanuelle
+EmmanuelleDe
+EmmanuelleEs
+EmmanuelleFr
 Enlightenment
 FaeryTaleAdventure
 FinalFight

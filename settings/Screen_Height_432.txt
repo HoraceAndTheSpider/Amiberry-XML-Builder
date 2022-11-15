@@ -16,7 +16,6 @@ Capone
 ChambersOfShaolin
 ChuckRock2
 CrystalHammerV2
-DragonsLairEscape
 EmeraldMine
 EscapeFromColditz
 FantasyWorldDizzy

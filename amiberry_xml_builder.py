@@ -489,6 +489,33 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                 # ================================
                 # building hardware section
 
+                if HW_BLITS != "":
+                    hardware += ("BLITTER=") + HW_BLITS + chr(10)
+
+                if HW_CHIPSET != "":
+                    hardware += ("CHIPSET=") + HW_CHIPSET + chr(10)
+
+                if HW_SPEED != "":
+                    hardware += ("CLOCK=") + HW_SPEED + chr(10)
+
+                if HW_CPU != "":
+                    hardware += ("CPU=") + HW_CPU + chr(10)
+
+                if HW_24BIT != "":
+                    hardware += ("CPU_24BITADDRESSING=") + HW_24BIT + chr(10)
+
+                if HW_FASTCOPPER != "":
+                    hardware += ("FAST_COPPER=") + HW_FASTCOPPER + chr(10)
+
+                if HW_CPUEXACT != "":
+                    hardware += ("CPU_EXACT=") + HW_CPUEXACT + chr(10)
+
+                if HW_JIT != "":
+                    hardware += ("JIT=") + HW_JIT + chr(10)
+
+                if HW_NTSC != "":
+                    hardware += ("NTSC=") + HW_NTSC + chr(10)
+
                 if use_mouse1 == True:
                     hardware += ("PRIMARY_CONTROL=MOUSE") + chr(10)
                 else:
@@ -507,33 +534,6 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                     hardware += ("PORT1=CD32")  + chr(10)
                 else:
                     hardware += ("PORT1=JOY")  + chr(10)
-
-                if HW_FASTCOPPER != "":
-                    hardware += ("FAST_COPPER=") + HW_FASTCOPPER + chr(10)
-
-                if HW_BLITS != "":
-                    hardware += ("BLITTER=") + HW_BLITS + chr(10)
-
-                if HW_24BIT != "":
-                    hardware += ("CPU_24BITADDRESSING=") + HW_24BIT + chr(10)
-
-                if HW_CPU != "":
-                    hardware += ("CPU=") + HW_CPU + chr(10)
-
-                if HW_JIT != "":
-                    hardware += ("JIT=") + HW_JIT + chr(10)
-
-                if HW_SPEED != "":
-                    hardware += ("CLOCK=") + HW_SPEED + chr(10)
-
-                if HW_CHIPSET != "":
-                    hardware += ("CHIPSET=") + HW_CHIPSET + chr(10)
-
-                if HW_NTSC != "":
-                    hardware += ("NTSC=") + HW_NTSC + chr(10)
-
-                if HW_CPUEXACT != "":
-                    hardware += ("CPU_EXACT=") + HW_CPUEXACT + chr(10)
 
                 # SCREEN OPTIONS
                 # Screen: size, auto-height/crop

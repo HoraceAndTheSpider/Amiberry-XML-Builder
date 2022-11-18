@@ -16,9 +16,6 @@ EnemyTempestOfViolence
 EnemyTempestOfViolenceDe
 EnemyTOVEasyPlay
 EnemyTOVEasyPlayDe
-ESWAT
-ESWATFiles
-ESWATImage
 Fire&Forget
 FullContact
 GalacticEmpire
@@ -29,3 +26,7 @@ GeishaFr
 Godfather
 GoldenAxe
 GoldenAxeNTSC
+JaguarXJ220Files
+JaguarXJ220FilesChip
+JaguarXJ220Image
+JaguarXJ220ImageChip

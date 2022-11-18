@@ -18,6 +18,7 @@ FaeryTaleAdventure
 FinalFight
 FinalFight1MB
 FinalFight512k
+HeroQuest
 IkariWarriors
 MoonShineRacers
 Necronom

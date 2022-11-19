@@ -49,6 +49,8 @@ Fire&Forget2
 ForgottenWorlds
 GalaxyForce2
 Godfather
+GoldenAxe
+GoldenAxeNTSC
 HeroQuest
 Hydra
 IkariWarriors

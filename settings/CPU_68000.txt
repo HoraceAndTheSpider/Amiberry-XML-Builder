@@ -18,6 +18,8 @@ FaeryTaleAdventure
 FinalFight
 FinalFight1MB
 FinalFight512k
+GoldenAxe
+GoldenAxeNTSC
 HeroQuest
 IkariWarriors
 MoonShineRacers

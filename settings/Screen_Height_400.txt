@@ -195,6 +195,8 @@ HighSeasTrader
 HighSeasTraderAGA
 Hillsfar
 Hilt
+HoleInOne
+HoleInOne&DataDisks
 HomeAlone
 HuntForRedOctober
 Imperium
@@ -290,8 +292,10 @@ MegaBallAGA
 Mercenary3
 MetalMasters
 MicroProseGolf
+MidnightResistance
 MightAndMagic3
 Might&Magic2
+MiniGolf
 MiniGolfPlus
 Moebius
 MoonShineRacers

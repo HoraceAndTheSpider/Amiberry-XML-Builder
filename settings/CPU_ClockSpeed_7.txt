@@ -52,6 +52,8 @@ Godfather
 GoldenAxe
 GoldenAxeNTSC
 HeroQuest
+HoleInOne
+HoleInOne&DataDisks
 Hydra
 IkariWarriors
 IndianaJonesLastCrusAdv
@@ -66,9 +68,11 @@ JaguarXJ220FilesChip
 JaguarXJ220Image
 JaguarXJ220ImageChip
 KickOff
+MetalMasters
 MetalMutant
 MetalMutantDe
 MetalMutantFr
+MiniGolf
 MoonShineRacers
 Motorhead
 Necronom

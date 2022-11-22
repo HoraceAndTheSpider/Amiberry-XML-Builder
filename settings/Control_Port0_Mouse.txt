@@ -276,6 +276,8 @@ Hilt
 Hilt2
 HiredGuns1MB
 Historyline
+HoleInOne
+HoleInOne&DataDisks
 Hook
 Hostages
 Humans3

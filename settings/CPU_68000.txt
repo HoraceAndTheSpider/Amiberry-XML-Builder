@@ -21,7 +21,10 @@ FinalFight512k
 GoldenAxe
 GoldenAxeNTSC
 HeroQuest
+HoleInOne
+HoleInOne&DataDisks
 IkariWarriors
+MiniGolf
 MoonShineRacers
 Necronom
 NewYorkWarriors1MB

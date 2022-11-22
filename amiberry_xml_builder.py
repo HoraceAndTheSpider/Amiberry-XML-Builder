@@ -392,13 +392,6 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                 # Amiberry 5+: 8Mb of fast RAM/Z2 set as default
                 # Default: 2Mb Chip / 8Mb Z2 / 0Mb Z3
 
-                # quick clean-up on WHDLoad memory requirements
-                whd_z3_ram = 0
-
-                if whd_fast_ram>8:
-                    whd_z3_ram = whd_fast_ram
-                    whd_fast_ram = 0
-
                 for i in range(0, 8):
                     z3_ram = int(math.pow(2, i))
                     if check_list("Memory_Z3Ram_" + str(z3_ram) + ".txt", sub_path) is True:
@@ -407,10 +400,6 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                     else:
                         z3_ram = 0
                         HW_24BIT = ""
-
-                # whd z3-memory overwrite
-                if whd_fast_ram >= z3_ram and whd_fast_ram > 8: 
-                    z3_ram = whd_chip_ram
 
                 # =======================================
                 # CHIPSET SETTINGS

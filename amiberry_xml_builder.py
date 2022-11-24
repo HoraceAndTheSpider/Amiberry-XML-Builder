@@ -78,9 +78,8 @@ def check_list(in_file, game_name):
     return answer
 
 # =======================================
-# main section starting here...
+# Variables definition
 # =======================================
-
 print()
 print(
     text_utils.FontColours.BOLD + text_utils.FontColours.OKBLUE + "HoraceAndTheSpider and osvaldolove" + text_utils.FontColours.ENDC + "'s " + text_utils.FontColours.BOLD +
@@ -107,10 +106,6 @@ parser.add_argument('--forceinput', '-f',                  # command line argume
 
 # Parse all command line arguments
 args = parser.parse_args()
-
-# =======================================
-# Variables definition
-# =======================================
 
 # Get the directories to scan (or default)
 # yeah, i shouldnt do this, but i'm lazy, so i will.
@@ -143,15 +138,18 @@ if FULL_REFRESH == False:
             break
 
     c = XML_OLD.find("</whdbooter")
-
     XML_OLD = XML_OLD[b+2:c]
 
 XML = ""
 XML_FOOTER = "</whdbooter>" + chr(10)
 
+# Reports
 ERROR_MSG    = 'Problem file log: ' + datetime.datetime.now().strftime("%Y-%m-%d at %H:%M:%S") + '' + chr(10)
 COMPLETE_MSG = 'Scanned file log: ' + datetime.datetime.now().strftime("%Y-%m-%d at %H:%M:%S") + '' + chr(10)
 
+# =======================================
+# main section starts here...
+# =======================================
 for file2 in Path(input_directory + "/").glob('**/*.lha'):
     archive_path = str(file2)
     this_file = os.path.basename(archive_path)
@@ -264,19 +262,19 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                     # we use the name of the 'last' slave, if there is only one
                     last_slave = slave.name.replace(slave_path +"/","")
 
-                    SLAVE_XML = SLAVE_XML + chr(9)+ chr(9)+ '<slave number="' + str(n) + '">' + chr(10)
-                    SLAVE_XML = SLAVE_XML + chr(9)+ chr(9)+ chr(9) + '<filename>' + (slave.name.replace(slave_path +"/","")).replace("&", "&amp;") + '</filename>' + chr(10)
-                    SLAVE_XML = SLAVE_XML + chr(9)+ chr(9)+ chr(9) + '<datapath>' + (this_slave.current_dir).replace("&", "&amp;") + '</datapath>' + chr(10)
+                    SLAVE_XML += chr(9)+ chr(9)+ '<slave number="' + str(n) + '">' + chr(10)
+                    SLAVE_XML += chr(9)+ chr(9)+ chr(9) + '<filename>' + (slave.name.replace(slave_path +"/","")).replace("&", "&amp;") + '</filename>' + chr(10)
+                    SLAVE_XML += chr(9)+ chr(9)+ chr(9) + '<datapath>' + (this_slave.current_dir).replace("&", "&amp;") + '</datapath>' + chr(10)
                     if (this_slave.config) is not None:
-                        SLAVE_XML = SLAVE_XML + chr(9)+ chr(9)+ chr(9) + '<custom>'  + chr(10)
+                        SLAVE_XML += chr(9)+ chr(9)+ chr(9) + '<custom>'  + chr(10)
 
                         for configs in this_slave.config:
                             if configs is not None:
-                                SLAVE_XML = SLAVE_XML + chr(9)+ chr(9)+ chr(9) + ((configs.replace("<","")).replace(">","")).replace("&", "&amp;") + chr(10)
+                                SLAVE_XML += chr(9)+ chr(9)+ chr(9) + ((configs.replace("<","")).replace(">","")).replace("&", "&amp;") + chr(10)
 
-                        SLAVE_XML = SLAVE_XML + chr(9)+ chr(9)+ chr(9) + '</custom>'  + chr(10)
+                        SLAVE_XML += chr(9)+ chr(9)+ chr(9) + '</custom>'  + chr(10)
 
-                    SLAVE_XML = SLAVE_XML + chr(9)+ chr(9)+ '</slave>'  + chr(10)
+                    SLAVE_XML += chr(9)+ chr(9)+ '</slave>'  + chr(10)
 
                     n=n+1
                 # end of slave checking
@@ -466,7 +464,6 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
 
                 # CHIPSET
                 HW_CHIPSET = ""
-
                 if this_file.find("_AGA") > -1:
                     HW_CHIPSET = "AGA"
                 if this_file.find("_CD32") > -1:
@@ -578,32 +575,33 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                 if check_list("WHD_Libraries.txt", sub_path) is True:
                     extra_libs = "True"
 
-                COMPLETE_MSG = COMPLETE_MSG + "Scanned: " + full_game_name + chr(10)
                 # generate XML
-                XML = XML + chr(9)+ '<game filename="' + text_utils.left(this_file,len(this_file) - 4).replace("&", "&amp;") + '"  sha1="' + ArchiveSHA + '">' + chr(10)
-                XML = XML + chr(9)+ chr(9) + '<name>' + full_game_name.replace("&", "&amp;") + '</name>' + chr(10)
-                XML = XML + chr(9)+ chr(9) + '<subpath>' + sub_path.replace("&", "&amp;") + '</subpath>' + chr(10)
-                XML = XML + chr(9)+ chr(9) + '<variant_uuid>' + UUID + '</variant_uuid>' + chr(10)
-                XML = XML + chr(9)+ chr(9) + '<slave_count>' + str(len(slave_archive.slaves)) + '</slave_count>' + chr(10)
-                XML = XML + chr(9)+ chr(9) + '<slave_default>' + default_slave.replace("&", "&amp;")  + '</slave_default>' + chr(10)
-                XML = XML + chr(9)+ chr(9) + '<slave_libraries>' + extra_libs  + '</slave_libraries>' + chr(10)
-                XML = XML + SLAVE_XML
-                XML = XML + chr(9)  + chr(9) + '<hardware>'
-                XML = XML + chr(10) + chr(9) + chr(9) + hardware.replace(chr(10), chr(10) + chr(9) + chr(9) )
-                XML = XML + chr(10) + chr(9) + chr(9) + '</hardware>' + chr(10)
+                XML += chr(9)+ '<game filename="' + text_utils.left(this_file,len(this_file) - 4).replace("&", "&amp;") + '"  sha1="' + ArchiveSHA + '">' + chr(10)
+                XML += chr(9)+ chr(9) + '<name>' + full_game_name.replace("&", "&amp;") + '</name>' + chr(10)
+                XML += chr(9)+ chr(9) + '<subpath>' + sub_path.replace("&", "&amp;") + '</subpath>' + chr(10)
+                XML += chr(9)+ chr(9) + '<variant_uuid>' + UUID + '</variant_uuid>' + chr(10)
+                XML += chr(9)+ chr(9) + '<slave_count>' + str(len(slave_archive.slaves)) + '</slave_count>' + chr(10)
+                XML += chr(9)+ chr(9) + '<slave_default>' + default_slave.replace("&", "&amp;")  + '</slave_default>' + chr(10)
+                XML += chr(9)+ chr(9) + '<slave_libraries>' + extra_libs  + '</slave_libraries>' + chr(10)
+                XML += SLAVE_XML
+                XML += chr(9)  + chr(9) + '<hardware>'
+                XML += chr(10) + chr(9) + chr(9) + hardware.replace(chr(10), chr(10) + chr(9) + chr(9) )
+                XML += chr(10) + chr(9) + chr(9) + '</hardware>' + chr(10)
 
-                if len(custom_text)>0:
-                    XML = XML + chr(9)+ chr(9) + '<custom_controls>' + chr(10) + custom_text  + chr(9) + chr(9) + '</custom_controls>' + chr(10)
+                if len(custom_text) > 0:
+                    XML += chr(9) + chr(9) + '<custom_controls>' + chr(10) + custom_text + chr(9) + chr(9) + '</custom_controls>' + chr(10)
 
-                XML = XML + chr(9)+ '</game>' + chr(10)
+                XML += chr(9)+ '</game>' + chr(10)
+
+                COMPLETE_MSG += "Scanned: " + full_game_name + chr(10)
 
         except FileNotFoundError:
                 print("Could not find LHA archive: {}".format(archive_path))
-                ERROR_MSG = ERROR_MSG + "Could not find LHA archive: {}".format(this_file)  + chr(10)
+                ERROR_MSG += "Could not find LHA archive: {}".format(this_file)  + chr(10)
 
         except lhafile.BadLhafile:
                 print("Could not read LHA archive: {}".format(archive_path))
-                ERROR_MSG = ERROR_MSG + "Could not read LHA archive: {}".format(this_file)  + chr(10)
+                ERROR_MSG += "Could not read LHA archive: {}".format(this_file)  + chr(10)
 
         except KeyboardInterrupt:
                 print()
@@ -611,7 +609,7 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                 break
         except:
                 print("Something went wrong with LHA archive: {}".format(archive_path))
-                ERROR_MSG = ERROR_MSG + "Could not read LHA archive: {}".format(this_file)  + chr(10)
+                ERROR_MSG += "Could not read LHA archive: {}".format(this_file)  + chr(10)
 
     # limit to a certian number of archives (for testing)
     if count >= 99999:
@@ -671,7 +669,7 @@ XML_OLD = etree.tostring(snipoldroot).decode()
 XML_OLD = XML_OLD.replace('<root>', '').replace('</root>', '')
 
 if len(snippet_text) > 0:
-   XML = XML + chr(10) + snippet_text + chr(9)
+   XML += chr(10) + snippet_text + chr(9)
 
 # =======================================
 # XML is complete, let's put it all together

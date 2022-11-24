@@ -54,6 +54,7 @@ GoldenAxeNTSC
 HeroQuest
 HoleInOne
 HoleInOne&DataDisks
+Hostages
 Hydra
 IkariWarriors
 IndianaJonesLastCrusAdv
@@ -84,9 +85,11 @@ NorthAndSouthImage
 NorthAndSouthFiles
 OneOnOne
 OneOnOneNTSC
+OperationJupiterFr
 OperationNeptune
 OperationWolf
 Outzone
+OverdriveTeam17
 Overlander
 PacLand
 Pandora

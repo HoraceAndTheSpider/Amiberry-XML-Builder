@@ -32,3 +32,7 @@ JaguarXJ220Image
 JaguarXJ220ImageChip
 KillingGameShow
 Menace
+NinjaWarriors
+Odyssey
+OutRun
+OutRunNTSC

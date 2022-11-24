@@ -315,7 +315,8 @@ OneOnOne
 OneOnOneNTSC
 Ooze
 OperationNeptune
-OutRunUSGold
+OutRun
+OutRunNTSC
 OverlordRowan
 PacificIslands
 Paradroid90

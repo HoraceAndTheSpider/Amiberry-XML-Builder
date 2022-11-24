@@ -1,19 +1,17 @@
-import sys
+import argparse
+import datetime
+import hashlib
 import lhafile
+import math
+import openretroid
 import os
 from pathlib import Path
-import math
-import argparse
-import hashlib
-import openretroid
-import datetime
 import platform
-
-import tempfile
-from whdload import whdload_slave
 from slave_lha.parse_lha.read_lha import LhaSlaveArchive
-
+import sys
+import tempfile
 from utils import text_utils
+from whdload import whdload_slave
 import xml.etree.ElementTree as etree
 
 # =======================================

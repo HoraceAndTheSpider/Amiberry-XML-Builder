@@ -473,90 +473,90 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                 # ================================
                 # building hardware section
 
-                if HW_BLITS != "":
-                    hardware += ("BLITTER=") + HW_BLITS + chr(10)
+                if HW_BLITS != '':
+                    hardware += chr(10) + ('BLITTER=') + HW_BLITS
 
-                if HW_CHIPSET != "":
-                    hardware += ("CHIPSET=") + HW_CHIPSET + chr(10)
+                if HW_CHIPSET != '':
+                    hardware += chr(10) + ('CHIPSET=') + HW_CHIPSET
 
-                if HW_SPEED != "":
-                    hardware += ("CLOCK=") + HW_SPEED + chr(10)
+                if HW_SPEED != '':
+                    hardware += chr(10) + ('CLOCK=') + HW_SPEED
 
-                if HW_CPU != "":
-                    hardware += ("CPU=") + HW_CPU + chr(10)
+                if HW_CPU != '':
+                    hardware += chr(10) + ('CPU=') + HW_CPU
 
-                if HW_24BIT != "":
-                    hardware += ("CPU_24BITADDRESSING=") + HW_24BIT + chr(10)
+                if HW_24BIT != '':
+                    hardware += chr(10) + ('CPU_24BITADDRESSING=') + HW_24BIT
 
-                if HW_FASTCOPPER != "":
-                    hardware += ("FAST_COPPER=") + HW_FASTCOPPER + chr(10)
+                if HW_FASTCOPPER != '':
+                    hardware += chr(10) + ('FAST_COPPER=') + HW_FASTCOPPER
 
-                if HW_CPUEXACT != "":
-                    hardware += ("CPU_EXACT=") + HW_CPUEXACT + chr(10)
+                if HW_CPUEXACT != '':
+                    hardware += chr(10) + ('CPU_EXACT=') + HW_CPUEXACT
 
-                if HW_JIT != "":
-                    hardware += ("JIT=") + HW_JIT + chr(10)
+                if HW_JIT != '':
+                    hardware += chr(10) + ('JIT=') + HW_JIT
 
-                if HW_NTSC != "":
-                    hardware += ("NTSC=") + HW_NTSC + chr(10)
+                if HW_NTSC != '':
+                    hardware += chr(10) + ('NTSC=') + HW_NTSC
 
                 if use_mouse1 == True:
-                    hardware += ("PRIMARY_CONTROL=MOUSE") + chr(10)
+                    hardware += chr(10) + ('PRIMARY_CONTROL=MOUSE')
                 else:
-                    hardware += ("PRIMARY_CONTROL=JOYSTICK")  + chr(10)
+                    hardware += chr(10) + ('PRIMARY_CONTROL=JOYSTICK')
 
                 if use_mouse1 == True:
-                    hardware += ("PORT0=MOUSE") + chr(10)
+                    hardware += chr(10) + ('PORT0=MOUSE')
                 elif use_cd32_pad == True:
-                    hardware += ("PORT0=CD32") + chr(10)
+                    hardware += chr(10) + ('PORT0=CD32')
                 else:
-                    hardware += ("PORT0=JOY")  + chr(10)
+                    hardware += chr(10) + ('PORT0=JOY')
 
                 if use_mouse2 == True:
-                    hardware += ("PORT1=MOUSE") + chr(10)
+                    hardware += chr(10) + ('PORT1=MOUSE')
                 elif use_cd32_pad == True:
-                    hardware += ("PORT1=CD32")  + chr(10)
+                    hardware += chr(10) + ('PORT1=CD32')
                 else:
-                    hardware += ("PORT1=JOY")  + chr(10)
+                    hardware += chr(10) + ('PORT1=JOY')
 
                 # SCREEN OPTIONS
                 # Screen: size, auto-height/crop
                 # Disable AUTOHEIGHT and set HEIGHT only when there's HEIGHT
                 if HW_HEIGHT != '':
                     HW_AUTO_HEIGHT = 'FALSE'
-                    hardware += ('SCREEN_AUTOHEIGHT=') + HW_AUTO_HEIGHT + chr(10)
-                    hardware += ('SCREEN_HEIGHT=') + HW_HEIGHT + chr(10)
+                    hardware += chr(10) + ('SCREEN_AUTOHEIGHT=') + HW_AUTO_HEIGHT
+                    hardware += chr(10) + ('SCREEN_HEIGHT=') + HW_HEIGHT
                 else:
                     HW_AUTO_HEIGHT = 'TRUE'
-                    hardware += ('SCREEN_AUTOHEIGHT=') + HW_AUTO_HEIGHT + chr(10)
+                    hardware += chr(10) + ('SCREEN_AUTOHEIGHT=') + HW_AUTO_HEIGHT
 
                 if HW_WIDTH != '720' or HW_AUTO_HEIGHT == 'FALSE':
-                    hardware += ('SCREEN_WIDTH=') + HW_WIDTH + chr(10)
+                    hardware += chr(10) + ('SCREEN_WIDTH=') + HW_WIDTH
 
                 # H_CENTER only if there's no H_OFFSET
                 if HW_H_CENTER == 'SMART' and HW_H_OFFSET != '':
                     HW_H_CENTER = 'NONE'
 
-                hardware += ('SCREEN_CENTERH=') + HW_H_CENTER + chr(10)
+                hardware += chr(10) + ('SCREEN_CENTERH=') + HW_H_CENTER
 
                 # V_CENTER only if there's no V_OFFSET
                 if HW_V_CENTER == 'SMART' and HW_V_OFFSET != '':
                     HW_V_CENTER = 'NONE'
 
-                hardware += ('SCREEN_CENTERV=') + HW_V_CENTER + chr(10)
+                hardware += chr(10) + ('SCREEN_CENTERV=') + HW_V_CENTER
 
                 if HW_H_OFFSET != '':
-                    hardware += ("SCREEN_OFFSETH=") + str(HW_H_OFFSET) + chr(10)
+                    hardware += chr(10) + ('SCREEN_OFFSETH=') + str(HW_H_OFFSET)
 
                 if HW_V_OFFSET != '':
-                    hardware += ("SCREEN_OFFSETV=") + str(HW_V_OFFSET) + chr(10)
+                    hardware += chr(10) + ('SCREEN_OFFSETV=') + str(HW_V_OFFSET)
 
                 if z3_ram != 0:
-                    hardware += ("Z3_RAM=") + str(z3_ram) + chr(10)
+                    hardware += chr(10) + ('Z3_RAM=') + str(z3_ram)
 
                 # custom controls
-                custom_file = "customcontrols/" + sub_path
-                custom_text = ""
+                custom_file = 'customcontrols/' + sub_path
+                custom_text = ''
 
                 # remove any items which are not amiberry custom settings
                 if os.path.isfile(custom_file) == True:
@@ -566,32 +566,32 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
 
                     for this_line in customsettings_content:
                       if this_line.find('amiberry_custom') > -1 and '\n' in this_line:
-                        custom_text += chr(9) + chr(9) + this_line
+                        custom_text += chr(9) + chr(9) + chr(9) + this_line
                       elif this_line.find('amiberry_custom') > -1 and not '\n' in this_line:
-                        custom_text += chr(9) + chr(9) + this_line + chr(10)
+                        custom_text += chr(9) + chr(9) + chr(9) + this_line + chr(10)
 
                 # external libraries (eg. xpk, required for Dungeon Master)
-                extra_libs = "False"
-                if check_list("WHD_Libraries.txt", sub_path) is True:
-                    extra_libs = "True"
+                extra_libs = 'False'
+                if check_list('WHD_Libraries.txt', sub_path) is True:
+                    extra_libs = 'True'
 
                 # generate XML
-                XML += chr(9)+ '<game filename="' + text_utils.left(this_file,len(this_file) - 4).replace("&", "&amp;") + '"  sha1="' + ArchiveSHA + '">' + chr(10)
-                XML += chr(9)+ chr(9) + '<name>' + full_game_name.replace("&", "&amp;") + '</name>' + chr(10)
-                XML += chr(9)+ chr(9) + '<subpath>' + sub_path.replace("&", "&amp;") + '</subpath>' + chr(10)
-                XML += chr(9)+ chr(9) + '<variant_uuid>' + UUID + '</variant_uuid>' + chr(10)
-                XML += chr(9)+ chr(9) + '<slave_count>' + str(len(slave_archive.slaves)) + '</slave_count>' + chr(10)
-                XML += chr(9)+ chr(9) + '<slave_default>' + default_slave.replace("&", "&amp;")  + '</slave_default>' + chr(10)
-                XML += chr(9)+ chr(9) + '<slave_libraries>' + extra_libs  + '</slave_libraries>' + chr(10)
+                XML += chr(10) + chr(9)+ '<game filename="' + text_utils.left(this_file,len(this_file) - 4).replace("&", "&amp;") + '" sha1="' + ArchiveSHA + '">' + chr(10)
+                XML += chr(9) + chr(9) + '<name>' + full_game_name.replace("&", "&amp;") + '</name>' + chr(10)
+                XML += chr(9) + chr(9) + '<subpath>' + sub_path.replace("&", "&amp;") + '</subpath>' + chr(10)
+                XML += chr(9) + chr(9) + '<variant_uuid>' + UUID + '</variant_uuid>' + chr(10)
+                XML += chr(9) + chr(9) + '<slave_count>' + str(len(slave_archive.slaves)) + '</slave_count>' + chr(10)
+                XML += chr(9) + chr(9) + '<slave_default>' + default_slave.replace("&", "&amp;")  + '</slave_default>' + chr(10)
+                XML += chr(9) + chr(9) + '<slave_libraries>' + extra_libs  + '</slave_libraries>' + chr(10)
                 XML += SLAVE_XML
-                XML += chr(9)  + chr(9) + '<hardware>'
-                XML += chr(10) + chr(9) + chr(9) + hardware.replace(chr(10), chr(10) + chr(9) + chr(9) )
+                XML += chr(9) + chr(9) + '<hardware>'
+                XML += hardware.replace(chr(10), chr(10) + chr(9) + chr(9) + chr(9))
                 XML += chr(10) + chr(9) + chr(9) + '</hardware>' + chr(10)
 
                 if len(custom_text) > 0:
                     XML += chr(9) + chr(9) + '<custom_controls>' + chr(10) + custom_text + chr(9) + chr(9) + '</custom_controls>' + chr(10)
 
-                XML += chr(9)+ '</game>' + chr(10)
+                XML += chr(9)+ '</game>'
 
                 COMPLETE_MSG += "Scanned: " + full_game_name + chr(10)
 

@@ -666,7 +666,7 @@ for snippet_file in os.listdir(snippet_dir):
 
 # return a string and delete the fake root
 XML_OLD = etree.tostring(snipoldroot).decode()
-XML_OLD = XML_OLD.replace('<root>', '').replace('</root>', '')
+XML_OLD = XML_OLD.replace('<root>', '').replace('</root>', '').replace('<root />', '')
 
 if len(snippet_text) > 0:
    XML += chr(10) + snippet_text + chr(9)

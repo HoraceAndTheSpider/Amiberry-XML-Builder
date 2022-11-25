@@ -531,7 +531,7 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                     hardware += ('SCREEN_AUTOHEIGHT=') + HW_AUTO_HEIGHT + chr(10)
 
                 if HW_WIDTH != '720' or HW_AUTO_HEIGHT == 'FALSE':
-                    hardware += chr(10) + ('SCREEN_WIDTH=') + HW_WIDTH
+                    hardware += ('SCREEN_WIDTH=') + HW_WIDTH + chr(10)
 
                 # H_CENTER only if there's no H_OFFSET
                 if HW_H_CENTER == 'SMART' and HW_H_OFFSET != '':

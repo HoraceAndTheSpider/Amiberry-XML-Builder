@@ -36,3 +36,5 @@ NinjaWarriors
 Odyssey
 OutRun
 OutRunNTSC
+Pandora
+PhantomFighter

@@ -12,3 +12,5 @@ WormsDCAGA12MB
 WormsDCAGA8MB
 PinballDreams
 PinballDreamsNTSC
+DesertStrike
+DesertStrike512k

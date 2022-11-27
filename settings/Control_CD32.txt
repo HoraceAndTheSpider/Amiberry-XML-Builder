@@ -10,3 +10,5 @@ WingCommanderCD32
 WormsDCAGA
 WormsDCAGA12MB
 WormsDCAGA8MB
+PinballDreams
+PinballDreamsNTSC

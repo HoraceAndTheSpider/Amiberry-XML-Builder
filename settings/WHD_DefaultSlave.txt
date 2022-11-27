@@ -1,1 +1,4 @@
 1497-WHDL Workbench31_1.Slave
+Legend_v1.2_Mindscape_1100 LegendMindscape.Slave
+FourCrystalsOfTrazere_v1.2 FourCrystalsOfTrazere.Slave
+FourCrystalsOfTrazere_v1.2_NTSC FourCrystalsOfTrazereNTSC.Slave

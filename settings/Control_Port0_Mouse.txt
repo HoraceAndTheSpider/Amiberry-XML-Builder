@@ -481,12 +481,9 @@ Patrician
 Perihelion
 PersonalNightmare
 PGATourGolf
-PinballDreams
 PinballFntsies
 PinballFntsiesAGA
-PinballFntsiesCD32
 PinballIllusionsAGA
-PinballIllusionsCD32
 PoliceQuest
 PoliceQuestNTSC
 PoliceQuest2

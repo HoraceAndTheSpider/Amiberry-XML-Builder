@@ -483,7 +483,6 @@ PersonalNightmare
 PGATourGolf
 PinballFntsies
 PinballFntsiesAGA
-PinballIllusionsAGA
 PoliceQuest
 PoliceQuestNTSC
 PoliceQuest2

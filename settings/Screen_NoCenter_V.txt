@@ -5,5 +5,10 @@ JamesPond2
 JamesPond2AGA
 Pang
 PrimeMover
+ShadowFighter
+ShadowFighterAGA
+Speedball
+SpeedballNTSC
+SurfNinjasAGA
 TestDrive2
 TestDrive2&DataDisks

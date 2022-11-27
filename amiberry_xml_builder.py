@@ -303,8 +303,8 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                 # Amiberry 3.2+: HEIGHT can be any value yet let's stick to the following
                 # values to keep things tidy and easy to maintain.
                 # Possible values: 400, 432, 480, 512, 524, 540, 568
-                # default: 568
-                listheights = ['400', '432', '480', '512', '524', '540']
+                # default: AUTOHEIGHT
+                listheights = ['400', '432', '480', '512', '524', '540', '568']
                 HW_HEIGHT = ''
 
                 for possibleheight in listheights:

@@ -111,6 +111,7 @@ SoldierOfLight
 SpaceHarrier
 SpaceHarrierNTSC
 SpaceHarrier2
+StreetFighter
 StreetFighter2
 Strider
 Strider2

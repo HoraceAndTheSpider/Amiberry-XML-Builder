@@ -8,5 +8,10 @@ JamesPond2 15
 JamesPond2AGA 15
 Pang 17
 PrimeMover 18
+ShadowFighter 20
+ShadowFighterAGA 20
+Speedball 2
+SpeedballNTSC 2
+SurfNinjasAGA 18
 TestDrive2 18
 TestDrive2&DataDisks 18

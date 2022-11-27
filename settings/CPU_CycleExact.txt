@@ -14,4 +14,3 @@ OperationWolf
 Overlander
 SirFredTheLegend
 SoldierOfLight
-SpaceHarrier2

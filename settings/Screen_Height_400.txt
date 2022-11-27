@@ -348,6 +348,8 @@ RailroadTycoon
 RailroadTycoonDe
 RailroadTycoonFr
 RainbowIslands
+Rambo3
+Rambo3NTSC
 Realms
 RealmsOfArkania
 RedStormRising
@@ -355,6 +357,7 @@ Resolution101
 Reunion
 RingsOfMedusa
 Risk
+RoadBlasters
 RoadRash
 RobinHoodLegendQuest
 RocketRanger
@@ -362,11 +365,13 @@ RocketRangerCensored
 RocketRangerNTSC
 Rogue
 RunningMan
+SaintDragon
 SecretOfMonkeyIsland
 SecretOfMonkeyIslandDe
 SecretOfMonkeyIslandEs
 SecretOfMonkeyIslandFr
 SecretOfMonkeyIslandIt
+SeymourGoesToHollywood
 Shadowgate
 ShaqFu
 ShaqFuAGA
@@ -385,6 +390,7 @@ SimonTheSorcerer
 SimonTheSorcererAGA
 Simulcra
 SirFredTheLegend
+SpaceHarrier2
 SpaceQuest
 SpaceQuestNTSC
 SpaceQuest2
@@ -405,6 +411,8 @@ StarCrusader
 StarCrusaderAGA
 SuperOffRoad
 SuperOffRoadNTSC
+SuperSkweek1MB
+SuperSkweek512KB
 SurfNinjasAGA
 Targhan
 TarghanFast

@@ -9,6 +9,7 @@ AdvantageTennis
 AkiraCD32
 AlienSyndrome
 AlienSyndromeNTSC
+AlphaWaves
 Arachnophobia
 ArcherMacleansPool
 Archipelagos
@@ -481,6 +482,7 @@ WorldCircuit
 WorldGames
 WorldTourGolf
 Wreckers
+Xenomorph
 XIt
 ZakMcKracken
 ZakMcKrackenDe

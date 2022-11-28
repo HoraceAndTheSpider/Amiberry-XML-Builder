@@ -46,6 +46,7 @@ Paperboy2
 PoolOfRadiance
 RevengeOfDefender
 Rockford
+SideWinderArcadia
 Soldier2000
 StarRay
 StarRayNoIntro

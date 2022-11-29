@@ -409,8 +409,6 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                 HW_BLITS = ""
                 if check_list("Chipset_ImmediateBlitter.txt", sub_path) is True:
                     HW_BLITS = "IMMEDIATE"
-                if  check_list("Chipset_NormalBlitter.txt", sub_path) is True:
-                    HW_BLITS = "NORMAL"
 
                 # fast copper
                 # Default: False
@@ -421,27 +419,16 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                 # =======================================
                 # CPU SETTINGS
 
-                # clock speed
-                # Default: 14
+                # clock speed (MHz)
+                # Default: 7 for non-AGA / 14 for AGA
                 HW_SPEED = ""
-                if check_list("CPU_ClockSpeed_7.txt", sub_path) is True:
-                    HW_SPEED = "7"
                 if check_list("CPU_ClockSpeed_25.txt", sub_path) is True:
                     HW_SPEED = "25"
                 if check_list("CPU_ClockSpeed_Max.txt", sub_path) is True:
                     HW_SPEED = "MAX"
 
                 # cpu model
-                # Default: 68020
-                HW_CPU = ""
-                if check_list("CPU_68000.txt", sub_path) is True:
-                    HW_CPU = "68000"
-                if check_list("CPU_68010.txt", sub_path) is True:
-                    HW_CPU = "68010"
-                    HW_24BIT = "FALSE"
-                if check_list("CPU_68040.txt", sub_path) is True:
-                    HW_CPU = "68040"
-                    HW_24BIT = "FALSE"
+                # Default: 68000 for non-AGA / 68020 for AGA
 
                 # 24 bit addressing
                 # Default: True / you can set Z3 separately
@@ -453,7 +440,7 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                 # available only for 68000 CPU
                 # Default: False
                 HW_CPUEXACT = ""
-                if check_list("CPU_CycleExact.txt", sub_path) is True and HW_CPU == "68000":
+                if check_list("CPU_CycleExact.txt", sub_path) is True:
                     HW_CPUEXACT = "TRUE"
 
                 # JIT Cache
@@ -481,9 +468,6 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
 
                 if HW_SPEED != '':
                     hardware += chr(10) + ('CLOCK=') + HW_SPEED
-
-                if HW_CPU != '':
-                    hardware += chr(10) + ('CPU=') + HW_CPU
 
                 if HW_24BIT != '':
                     hardware += chr(10) + ('CPU_24BITADDRESSING=') + HW_24BIT

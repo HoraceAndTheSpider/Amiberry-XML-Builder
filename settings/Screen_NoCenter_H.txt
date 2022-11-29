@@ -4,6 +4,8 @@ BodyBlowsGalacticAGA
 Cabal
 CapitalPunishmentAGA
 CapitalPunishmentAGACD
+DesertStrike
+DesertStrike512k
 MasterAxe
 RoboCop2
 Stardust

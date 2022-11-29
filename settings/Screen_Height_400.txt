@@ -34,6 +34,11 @@ ATrain&ConstrSet512k
 AventuresDeMoktarFr
 B17FlyingFortress
 Backlash
+BadDudes
+BadDudesChipNTSC
+BadDudesNTSC
+BadDudesVsDragonNinja
+BadDudesVsDragonNinjaChip
 BadLands
 BalanceOfPower
 BalanceOfPower1990Ed
@@ -69,6 +74,7 @@ BuggyBoy
 BurningRubber
 BurningRubber2MB
 BurningRubberAGA
+Cabal
 CaliforniaGames
 CaliforniaGames2
 Campaign

@@ -1,4 +1,10 @@
 AlphaWaves
+BadDudes
+BadDudesChipNTSC
+BadDudesNTSC
+BadDudesVsDragonNinja
+BadDudesVsDragonNinjaChip
+Brat
 Cabal
 CrazyCars
 CrazyCars2

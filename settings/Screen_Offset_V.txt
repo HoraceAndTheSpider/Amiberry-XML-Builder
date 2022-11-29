@@ -1,3 +1,8 @@
+BadDudes 18
+BadDudesChipNTSC 18
+BadDudesNTSC 18
+BadDudesVsDragonNinja 18
+BadDudesVsDragonNinjaChip 18
 BatmanTheMovie1Disk 20
 BatmanTheMovie2Disk 20
 BugBash 18

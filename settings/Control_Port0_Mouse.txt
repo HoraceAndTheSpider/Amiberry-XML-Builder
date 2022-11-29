@@ -547,9 +547,6 @@ SimCity512KB
 SimCityNTSC
 SimonTheSorcerer
 SimonTheSorcererAGA
-SlamTiltAGA2MB
-SlamTiltDemoAGA
-SlamTiltAGA
 SpaceCrusade
 SpaceCrusade&VoyageBeyond
 SpaceHulk

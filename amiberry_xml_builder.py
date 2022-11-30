@@ -456,6 +456,8 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                 if this_file.find("_CD32") > -1:
                     HW_CHIPSET = "AGA"
                     use_cd32_pad = True
+                if check_list('Chipset_AGA.txt',sub_path) is True:
+                    HW_CHIPSET = 'AGA'
 
                 # ================================
                 # building hardware section

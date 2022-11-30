@@ -6,6 +6,8 @@ BadDudesVsDragonNinja
 BadDudesVsDragonNinjaChip
 Brat
 Cabal
+CaptainBlood
+ColonizationAGA
 CrazyCars
 CrazyCars2
 Cybernoid

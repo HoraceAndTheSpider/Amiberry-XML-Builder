@@ -4,6 +4,7 @@ BadDudesNTSC
 BadDudesVsDragonNinja
 BadDudesVsDragonNinjaChip
 BugBash
+CaliforniaGames
 FullContact
 JamesPond
 JamesPond2

@@ -7,6 +7,7 @@ BatmanTheMovie1Disk 20
 BatmanTheMovie2Disk 20
 BugBash 18
 BluesBrothers 20
+CaliforniaGames 19
 FullContact 17
 JamesPond 17
 JamesPond2 15

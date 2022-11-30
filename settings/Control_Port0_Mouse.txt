@@ -194,7 +194,6 @@ DuneGr
 DuneIt
 DungeonMaster
 DungeonMaster2
-DungeonMaster2AGA
 DungeonQuest
 Elvira
 ElviraDe

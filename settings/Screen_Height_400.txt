@@ -138,7 +138,6 @@ DrDoomsRevengeNTSC2Disk
 DuckTales
 Dune2
 DungeonMaster
-DungeonMaster2AGA
 DungeonQuest
 Dyter07
 ElviraArcade

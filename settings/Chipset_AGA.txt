@@ -1,3 +1,9 @@
 DungeonMaster
 DungeonMaster2
 DynamiteDux
+EnemyTempestOfViolence
+EnemyTempestOfViolenceDe
+EnemyTOVEasyPlay
+EnemyTOVEasyPlayDe
+HudsonHawk
+Immortal

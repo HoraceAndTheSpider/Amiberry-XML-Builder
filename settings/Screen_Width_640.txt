@@ -35,10 +35,14 @@ GeishaFr
 Godfather
 GoldenAxe
 GoldenAxeNTSC
+Indianapolis500
+IndyHeat
 JaguarXJ220Files
 JaguarXJ220FilesChip
 JaguarXJ220Image
 JaguarXJ220ImageChip
+Joe&MacCavemanNinja
+Joe&MacCavemanNinjaFast
 KillingGameShow
 Lemmings21MB
 Lemmings2512KB

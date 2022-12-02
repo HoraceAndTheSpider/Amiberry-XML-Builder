@@ -1,4 +1,4 @@
-Scanned file log: 2022-11-30 at 03:00:03
+Scanned file log: 2022-12-02 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -581,7 +581,7 @@ Skipped: Megademo_v1.01_Zeus.lha
 Skipped: Megademo_v1.0_Acme.lha
 Skipped: Megademo_v1.0_ArcadiaTeam.lha
 Skipped: Megademo_v1.0_Avenger.lha
-Scanned: Megademo Brainstorm
+Skipped: Megademo_v1.0_Brainstorm.lha
 Skipped: Megademo_v1.0_Budbrain.lha
 Skipped: Megademo_v1.0_Cult.lha
 Skipped: Megademo_v1.0_Dexion.lha
@@ -2373,6 +2373,7 @@ Skipped: DizzysExcellentAdventures_v1.0_2502.lha
 Skipped: Dogfight_v1.02_1293.lha
 Skipped: DogsOfWar_v1.3_3008.lha
 Skipped: DogsOfWar_v2.0_3008.lha
+Scanned: Dogs Of War
 Skipped: DojoDan_v1.1_2503.lha
 Skipped: Doman_v1.4_Pl.lha
 Skipped: DarkSeed_v1.5_Fr.lha
@@ -3475,8 +3476,12 @@ Skipped: KickOff2CompetitionVersion_v1.07.lha
 Skipped: KickOff2CompetitionVersion_v1.08.lha
 Skipped: KickOff2CompetitionVersion_v1.09a.lha
 Skipped: KickOff2FinalWhistleCompetitionVersion_v1.03.lha
+Scanned: Kick Off 2 - Final Whistle (Competition Version)
 Skipped: KickOff2FinalWhistle_v1.03_0166.lha
 Skipped: KickOff2FinalWhistle_v1.03_De_2739.lha
+Scanned: Kick Off 2 - The Final Whistle
+Scanned: Kick Off 2 Final Whistle (Deutsch)
+Scanned: Kick Off 2 Final Whistle (Francais)
 Skipped: KickOff2PlusWorldCup90_v1.07_0168.lha
 Skipped: KickOff2PlusWorldCup90_v1.07_De_0689.lha
 Skipped: KickOff2PlusWorldCup90_v1.07_Fr.lha
@@ -3507,6 +3512,8 @@ Skipped: KingsQuest5_v1.3_It.lha
 Skipped: Knightmare_v1.1_0966.lha
 Skipped: KillingCloud_v1.0_3031.lha
 Skipped: KillingCloud_v1.0_NTSC_3019.lha
+Skipped: KillingCloud_v2.1_3031.lha
+Skipped: KillingCloud_v2.1_NTSC_3019.lha
 Scanned: Killing Cloud
 Scanned: Killing Cloud (NTSC)
 Skipped: KillingGameShow_v1.2.lha
@@ -6230,7 +6237,7 @@ Skipped: Wolfchild_v1.2_0411.lha
 Skipped: Wolfpack_v1.0_0255.lha
 Skipped: WonderboyInMonsterland_v1.1.lha
 Skipped: Wonderboy_v1.1.lha
-Scanned: Wonderboy
+Skipped: Wonderboy_v1.2.lha
 Skipped: WonderDog_v1.0_1201.lha
 Skipped: WonderDog_v1.2_1201.lha
 Skipped: Wonderland_v1.0_0277.lha
@@ -6526,6 +6533,7 @@ Skipped: AmipssstDemo-WHDL.lha
 Skipped: AmiPuzzlePL-WHDL.lha
 Skipped: AmiSaberMini-WHDL.lha
 Skipped: Amishion-WHDL.lha
+Scanned: Ami Tower
 Skipped: Amitron-WHDL.lha
 Skipped: AmiwaleFR-M2-WHDL.lha
 Skipped: AmoebaInvaders-WHDL.lha
@@ -6811,6 +6819,7 @@ Skipped: BoxingMasters-WHDL.lha
 Skipped: Boxworld1-WHDL.lha
 Skipped: Boxworld2-WHDL.lha
 Skipped: Boxx1-WHDL.lha
+Scanned: Boxx 1remake
 Skipped: Boxx2-WHDL.lha
 Skipped: Boxx3-WHDL.lha
 Skipped: BradStallionSexOlympics-WHDL.lha
@@ -7203,6 +7212,7 @@ Skipped: FruitPanic-WHDL.lha
 Skipped: FruitSalad-WHDL.lha
 Skipped: Fullspeed-WHDL.lha
 Skipped: Funtris-WHDL.lha
+Scanned: Funtris 96
 Skipped: Furball-WHDL.lha
 Skipped: FutureCombat2-WHDL.lha
 Skipped: DynatechDE-WHDL.lha
@@ -9465,6 +9475,7 @@ Skipped: YuppiRevengeDE-WHDL.lha
 Skipped: Zack-WHDL.lha
 Skipped: ZakletaWyspaPL-WHDL.lha
 Skipped: Zalycon-WHDL.lha
+Scanned: Zaptris
 Skipped: Zarcan-WHDL.lha
 Skipped: Zardoz-WHDL.lha
 Skipped: ZdislavHeroGalaxy3D-WHDL.lha
@@ -9626,6 +9637,7 @@ Skipped: BlazingGunsDemo-WHDL.lha
 Skipped: BlockOffDemo-WHDL.lha
 Skipped: BlueThunderDemo-WHDL.lha
 Skipped: BombJackOtherDemo-WHDL.lha
+Scanned: Capacitor Revenge Demo
 Skipped: CastlevaniaAGAdemo-WHDL.lha
 Skipped: ChaosGuns2016Demo-WHDL.lha
 Skipped: ChipsRemakeDemo-WHDL.lha
@@ -9686,6 +9698,7 @@ Skipped: PlatformNobodyDemo-WHDL.lha
 Skipped: Pong4kDemoCD32-WHDL.lha
 Skipped: ProjectHorizonDemo-WHDL.lha
 Skipped: ProjectQuestDemo-WHDL.lha
+Scanned: Walker Early Demo
 Skipped: ProjektLilaDemo-WHDL.lha
 Skipped: PutterDemo-WHDL.lha
 Skipped: QuasaurusXDemo-WHDL.lha
@@ -9743,6 +9756,7 @@ Skipped: TurboSprintAGAdemo-WHDL.lha
 Skipped: Turrican2AGAdemo-WHDL.lha
 Skipped: Turrican2AGAdemoW3-WHDL.lha
 Skipped: UnderCoverDemo-WHDL.lha
+Scanned: Uridium 1 Demo
 Skipped: WarpgateDemo-WHDL.lha
 Skipped: WolfShackDemo-WHDL.lha
 Skipped: Wonderboy1Demo-WHDL.lha

@@ -7,3 +7,7 @@ EnemyTOVEasyPlay
 EnemyTOVEasyPlayDe
 HudsonHawk
 Immortal
+KingsQuestEnhanced
+KingsQuestEnhancedMT32
+PoliceQuest2
+Powermonger

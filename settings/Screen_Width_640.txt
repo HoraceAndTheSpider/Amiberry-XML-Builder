@@ -63,7 +63,9 @@ LemmingsNewYear9192
 LemmingsXmasDemo1991
 LemmingsXmasDemo1992
 Menace
+Mystical
 NinjaWarriors
+NoExit
 Odyssey
 OhNoMoreLemmings
 OhNoMoreLemmingsNTSC
@@ -75,6 +77,7 @@ Popeye2
 POW
 ProjectX
 ProjectXSE
+ProPowerBoatSimulator
 QuestOfAgravain
 Rambo3
 Rambo3NTSC

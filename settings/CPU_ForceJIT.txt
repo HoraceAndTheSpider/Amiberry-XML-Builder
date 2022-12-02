@@ -1,9 +1,2 @@
-F15StrikeEagle2
-F16CombatPilot
-F19StealthFighter
-FA18Interceptor
 Immortal
-MiG29Fulcrum
-MiG29MSuperFulcrum
-Mig29SovietFighter
 TZer0DemoAGA

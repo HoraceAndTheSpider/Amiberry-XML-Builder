@@ -309,6 +309,7 @@ MiniGolf
 MiniGolfPlus
 Moebius
 MoonShineRacers
+Mystical
 Nam19651975
 Neuromancer
 Neuronics
@@ -329,6 +330,7 @@ OutRun
 OutRunNTSC
 OverlordRowan
 PacificIslands
+Pandora
 Paradroid90
 Paradroid901MB
 Patrician
@@ -349,6 +351,7 @@ PortsOfCall
 POW
 Prehistorik
 Prophecy1VikingChild
+ProPowerBoatSimulator
 ProTennisTour
 QuestForGlory
 QuestForGlory2

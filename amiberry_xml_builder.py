@@ -434,7 +434,10 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                 # Default: True / you can set Z3 separately
 
                 # compatible CPU
-                # Defalult: True
+                # Default: True
+                HW_CPUCOMP = ''
+                if check_list('CPU_NoCompatible.txt', sub_path) is True:
+                    HW_CPUCOMP = 'FALSE'
 
                 # CPU cycle exact
                 # available only for 68000 CPU
@@ -474,11 +477,14 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                 if HW_24BIT != '':
                     hardware += chr(10) + ('CPU_24BITADDRESSING=') + HW_24BIT
 
-                if HW_FASTCOPPER != '':
-                    hardware += chr(10) + ('FAST_COPPER=') + HW_FASTCOPPER
+                if HW_CPUCOMP != '':
+                    hardware += chr(10) + ('CPU_COMPATIBLE=') + HW_CPUCOMP
 
                 if HW_CPUEXACT != '':
                     hardware += chr(10) + ('CPU_EXACT=') + HW_CPUEXACT
+
+                if HW_FASTCOPPER != '':
+                    hardware += chr(10) + ('FAST_COPPER=') + HW_FASTCOPPER
 
                 if HW_JIT != '':
                     hardware += chr(10) + ('JIT=') + HW_JIT

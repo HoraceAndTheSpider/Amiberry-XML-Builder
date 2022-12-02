@@ -187,6 +187,8 @@ Gobliins2Es
 Gobliins2Fr
 Gobliins2It
 Goblins3
+GoldenAxe
+GoldenAxeNTSC
 GoldRush
 Gunship
 Gunship2000
@@ -214,6 +216,7 @@ IndianaJonesLastCrusAdvFr
 IndianaJonesLastCrusAdvIt
 IndianaJonesTempleOfDoom
 IndyJonesLastCrusAdvNTSC
+Indianapolis500
 Infestation
 Intact15MB
 Interphase
@@ -225,6 +228,7 @@ ItCameFromTheDesertGr
 ItCameFromTheDesertIt
 ItCameFromTheDesert2
 ItCameFromTheDesert2It
+JamesPond
 JimmyWhitesSnooker
 JohnMaddenFootball
 Journey

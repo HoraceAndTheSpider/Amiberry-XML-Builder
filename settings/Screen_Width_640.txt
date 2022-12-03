@@ -79,9 +79,12 @@ ProjectX
 ProjectXSE
 ProPowerBoatSimulator
 QuestOfAgravain
+RailroadTycoon
+RailroadTycoonDe
+RailroadTycoonFr
 Rambo3
 Rambo3NTSC
-RevengeOfTheMutantCamels
+RevengeOfMutantCamels
 RevengeOfMutantCamelsNTSC
 RoadBlasters
 RoadRash
@@ -92,9 +95,12 @@ SWOS9697
 SeymourGoesToHollywood
 ShadowFighter
 ShadowFighterAGA
+Shadowgate
 ShockWave
 SideWinderArcadia
+Skidz
 Skweek
+SonShuShi
 SpaceHarrier
 SpaceHarrierNTSC
 SuperSkweek1MB

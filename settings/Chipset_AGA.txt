@@ -26,3 +26,5 @@ SuperSkidMarksFYEdLMCD
 SuperSkidMarksCD
 SuperSkidMarksLowMem
 SuperSkidMarksLMCD
+VenusTheFlytrap
+WildCupSoccer

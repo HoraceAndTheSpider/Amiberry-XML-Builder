@@ -105,6 +105,7 @@ SpaceHarrier
 SpaceHarrierNTSC
 SuperSkweek1MB
 SuperSkweek512KB
+TheatreOfDeath
 WhoFramedRogerRabbit
 WhoFramedRogerRabbitPR
 WizNLiz

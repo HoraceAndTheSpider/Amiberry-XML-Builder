@@ -1,6 +1,5 @@
 3DPool
 BlackViperAGA
-BlackViperCD32
 BloodnetAGA
 CapitalPunishmentAGA
 CapitalPunishmentAGACD
@@ -11,7 +10,7 @@ ColonizationAGA
 DreamWebAGA
 DreamWebAGADe
 FearsAGA
-FearsCD32
+FIFAInternationalSoccer
 Hunter
 HunterDe
 HunterFr
@@ -27,4 +26,5 @@ SuprStrtFtr2TrboAGA
 ThemePark
 ThemeParkAGA
 UFOEnemyUnknownAGA
-UFOEnemyUnknownCD32
+WingCommander
+WingCommanderDe

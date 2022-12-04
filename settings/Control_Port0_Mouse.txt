@@ -619,8 +619,6 @@ WeenTheProphecyDe
 WeenTheProphecyEs
 WeenTheProphecyFr
 WeenTheProphecyIt
-WingCommander
-WingCommanderDe
 Wings
 Wolfpack
 Wonderland

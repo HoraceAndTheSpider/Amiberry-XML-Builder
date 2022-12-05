@@ -10,3 +10,11 @@ SuperSkidMarksFYEdLMCD
 SuperSkidMarksCD
 SuperSkidMarksLowMem
 SuperSkidMarksLMCD
+SuperSkidmarks
+SuperSkidmarks+CD
+SuperSkidmarks+LMCD
+SuperSkidmarksFYEdCD
+SuperSkidmarksFYEdLMCD
+SuperSkidmarksCD
+SuperSkidmarksLowMem
+SuperSkidmarksLMCD

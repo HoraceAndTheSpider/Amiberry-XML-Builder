@@ -52,6 +52,7 @@ Pirates
 ProTennisTour2
 PsychoSanta
 PuttySquadAGA
+RiskyWoods
 RoadkillAGA
 RoadkillCD32
 RoadkillCD32NoIntro

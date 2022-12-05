@@ -74,6 +74,16 @@ SuperSkidMarksCD
 SuperSkidMarksLowMem
 SuperSkidMarksLMCD
 SuperSkidMarksLowMemCD32
+SuperSkidmarks
+SuperSkidmarks+CD
+SuperSkidmarks+LMCD
+SuperSkidmarksFYEdCD
+SuperSkidmarksFYEdLMCD
+SuperSkidmarksCD32
+SuperSkidmarksLowMemCD32
+SuperSkidmarksCD
+SuperSkidmarksLowMem
+SuperSkidmarksLMCD
 Switchblade2
 TanksFurry
 TennisChamps

@@ -98,6 +98,10 @@ ShadowFighterAGA
 Shadowgate
 ShockWave
 SideWinderArcadia
+SimCity
+SimCity12
+SimCity512KB
+SimCityNTSC
 Skidz
 Skweek
 SonShuShi

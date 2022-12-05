@@ -480,6 +480,9 @@ Whizz
 WhoFramedRogerRabbit
 WhoFramedRogerRabbitPR
 Windwalker
+WingCommander
+WingCommanderDe
+WingCommanderCD32
 Wings
 WingsOfFury
 WingsOfFuryChip

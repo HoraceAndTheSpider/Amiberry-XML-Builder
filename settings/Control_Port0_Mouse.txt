@@ -225,6 +225,8 @@ F29Retaliator
 FA18Interceptor
 Falcon
 FateGatesOfDawn
+FateGatesOfDawnDe
+FateGatesOfDawnUncensored
 FearsAGA
 FearsCD32
 FlightOfTheAmazonQueen

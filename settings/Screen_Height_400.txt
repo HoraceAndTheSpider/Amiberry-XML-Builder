@@ -159,6 +159,8 @@ F15StrikeEagle2
 FA18Interceptor
 FaeryTaleAdventure
 FateGatesOfDawn
+FateGatesOfDawnDe
+FateGatesOfDawnUncensored
 FlightOfTheAmazonQueen
 FlinkCD32
 Flipit&Magnose

@@ -25,6 +25,8 @@ EnemyTempestOfViolence
 EnemyTempestOfViolenceDe
 EnemyTOVEasyPlay
 EnemyTOVEasyPlayDe
+FatmanCapedConsumer
+FatmanCapedConsumerAGA
 Fire&Forget
 FullContact
 GalacticEmpire

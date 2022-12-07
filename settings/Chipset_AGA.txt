@@ -18,14 +18,6 @@ SimCity512KB
 SimCityNTSC
 Skweek
 Striker
-SuperSkidMarks
-SuperSkidMarks+CD
-SuperSkidMarks+LMCD
-SuperSkidMarksFYEdCD
-SuperSkidMarksFYEdLMCD
-SuperSkidMarksCD
-SuperSkidMarksLowMem
-SuperSkidMarksLMCD
 SuperSkidmarks
 SuperSkidmarks+CD
 SuperSkidmarks+LMCD

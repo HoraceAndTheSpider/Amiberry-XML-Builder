@@ -1,10 +1,9 @@
 AlienBreed2
 AlienBreed2AGA
 AlienFishFinger
+BlobzAGA
 DeluxePacman
 DeluxePacmanAGA
-FearsAGA
-FearsCD32
 FightinSpiritAGA
 JimPower
 Kingpin
@@ -16,9 +15,6 @@ NaughtyOnes
 Obsession
 PrimeMover
 RevengeOfMutantCamels2
-StarTrek25thAnnivAGA
-StarTrek25thAnnivAGADe
-StarTrek25thAnnivAGAFr
 TZer0DemoAGA
 Worms
 Worms2MB

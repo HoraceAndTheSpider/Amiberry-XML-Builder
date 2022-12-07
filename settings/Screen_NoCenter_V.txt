@@ -3,6 +3,7 @@ BadDudesChipNTSC
 BadDudesNTSC
 BadDudesVsDragonNinja
 BadDudesVsDragonNinjaChip
+BlobzAGA
 BugBash
 CaliforniaGames
 FateGatesOfDawn

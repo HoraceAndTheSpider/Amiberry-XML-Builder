@@ -9,7 +9,6 @@ CivilizationAGADe
 ColonizationAGA
 DreamWebAGA
 DreamWebAGADe
-FearsAGA
 FIFAInternationalSoccer
 Hunter
 HunterDe
@@ -22,6 +21,9 @@ LionheartDemo1MB
 Nicky2
 RedZone
 RedZoneNTSC
+StarTrek25thAnnivAGA
+StarTrek25thAnnivAGADe
+StarTrek25thAnnivAGAFr
 SuprStrtFtr2TrboAGA
 ThemePark
 ThemeParkAGA

@@ -1,3 +1,4 @@
+Cadaver&ThePayoff
 DesertStrike
 DesertStrike512k
 Flashback
@@ -25,6 +26,7 @@ PinballFntsiesCD32Chip
 SlamTiltAGA
 SlamTiltAGA2MB
 SlamTiltDemoAGA
+SuperStreetFighter2DXAGA
 SuprStrtFtr2TrboAGA
 SyndicateCD32
 WingCommander
@@ -33,3 +35,5 @@ WingCommanderCD32
 WormsDCAGA
 WormsDCAGA12MB
 WormsDCAGA8MB
+XTremeRacingAGA
+XTremeRacing&DataDisksAGA

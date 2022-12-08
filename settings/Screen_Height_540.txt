@@ -1,4 +1,5 @@
 ApanoSin
+ApanoSinDe
 Damage
 DamagePreview
 DeluxeGalaga
@@ -9,6 +10,5 @@ ManchesterUnitedEurope23
 ProjectX
 ProjectXSE
 ProjectXSECD32
-TurboRaketti2
 TurboRaketti2Fi
 WarmUp

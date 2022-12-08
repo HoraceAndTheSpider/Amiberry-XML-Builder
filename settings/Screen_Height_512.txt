@@ -9,11 +9,11 @@ BaseJumpers
 BaseJumpersCD32
 BattleSquadron
 BattleSquadronDemo
+BattleSquadronNTSC
 BombPacCD32
 BombPacCD32AGA
-CaptainPlanet&Planeteers
-CaptainPlanetA600Pack
 CaptainPlanet
+CaptainPlanetA600Pack
 CardiaxxTeam17
 Carnage
 CharlieJCool
@@ -29,6 +29,7 @@ CrystalKingdomDizzy
 Cyberpunks
 Cytron
 DimosQuest
+DragonsLair
 DragonsLairEscapeDemoNTSC
 DragonsLairEscapeFast
 DragonsLairEscapeSlow

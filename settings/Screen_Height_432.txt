@@ -20,7 +20,6 @@ EmeraldMine
 EscapeFromColditz
 FantasyWorldDizzy
 FireAndIce
-Fire&Ice
 Fire&IceXmasDemo
 GemStoneLegend
 HATE

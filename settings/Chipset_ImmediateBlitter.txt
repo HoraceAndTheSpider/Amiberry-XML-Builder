@@ -44,9 +44,6 @@ Settlers
 SettlersFr
 Simulcra
 Sqrxz
-Sqrxz2
-Sqrxz3
-Sqrxz4
 StarCrusader
 StarCrusaderAGA
 SuperCars2Disk

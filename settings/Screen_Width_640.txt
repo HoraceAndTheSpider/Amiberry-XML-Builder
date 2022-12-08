@@ -14,6 +14,7 @@ Cybernoid
 Cybernoid2
 DonkTheSamuraiDuck
 DonkTheSamuraiDuckAGA
+DragonsLair
 DragonsLairEscapeDemoNTSC
 DragonsLairEscapeFast
 DragonsLairEscapeSlow

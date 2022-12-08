@@ -4,6 +4,7 @@
 1869AGA
 1869AGADe
 4DSportsBoxing
+A10TankKiller2Disk
 A10TankKiller3Disk
 AdvantageTennis
 AkiraCD32
@@ -58,8 +59,8 @@ BATDe
 BATFr
 BATIt
 BattleChess
-BattleChess2
 BattleChessCD32
+BattleChess2
 BillsTomatoGame
 BiplaneDuel
 BlackCauldron
@@ -78,8 +79,8 @@ Cabal
 CaliforniaGames
 CaliforniaGames2
 Campaign
-Campaign2
 Campaign&DataDisk
+Campaign2
 CaptainBlood
 CarrierCommand
 CastleOfDrBrain
@@ -135,6 +136,7 @@ DrDoomsRevenge1Disk
 DrDoomsRevengeNTSC2Disk
 DuckTales
 Dune2
+Dune2It
 DungeonMaster
 DungeonQuest
 Dyter07
@@ -179,7 +181,6 @@ GeishaDe
 GeishaEs
 GeishaFr
 GeminiWing
-GianaSistersSE
 Gobliiins
 Gobliins2
 Gobliins2De
@@ -241,6 +242,8 @@ KGBFr
 KillingCloud
 KingOfChicago
 KingsQuest
+KingsQuestEnhanced
+KingsQuestEnhancedMT32
 KingsQuest2
 KingsQuest3
 KingsQuest4
@@ -253,8 +256,6 @@ KingsQuest5MT32
 KingsQuest6
 KingsQuest6De
 KingsQuest6Fr
-KingsQuestEnhanced
-KingsQuestEnhancedMT32
 KnightsOfTheSky
 Kristal
 Kult
@@ -267,10 +268,10 @@ LegendOfKyrandiaDe
 LegendOfKyrandiaFr
 LegendOfKyrandiaIt
 LeisureSuitLarry
+LeisureSuitLarryEnhanced
 LeisureSuitLarry2
 LeisureSuitLarry3
 LeisureSuitLarry5
-LeisureSuitLarryEnhanced
 Links
 LittleComputerPeople
 Logical
@@ -303,8 +304,9 @@ Mercenary3
 MetalMasters
 MicroProseGolf
 MidnightResistance
-MightAndMagic3
 Might&Magic2
+Might&Magic3
+Might&Magic3De
 MiniGolf
 MiniGolfPlus
 Moebius
@@ -405,6 +407,9 @@ Simulcra
 SirFredTheLegend
 SpaceHarrier2
 SpaceQuest
+SpaceQuestEnhanced
+SpaceQuestEnhanced512k
+SpaceQuestEnhancedMT32
 SpaceQuestNTSC
 SpaceQuest2
 SpaceQuest3
@@ -415,9 +420,6 @@ SpaceQuest4De
 SpaceQuest4DeMT32
 SpaceQuest4NTSC
 SpaceQuest4NTSCMT32
-SpaceQuestEnhanced
-SpaceQuestEnhanced512k
-SpaceQuestEnhancedMT32
 SpaceRacer
 SpaceRacerFr
 StarCrusader
@@ -490,6 +492,7 @@ WingsOfFuryFast
 WinterGames
 WinterOlympics
 Wizardry6BaneCosmicForg
+Wizardry6BaneCosmicForgDe
 Wolfpack
 Wonderland
 WoodysWorld

@@ -11,4 +11,5 @@ GloomAGA
 GloomCD32
 Gunship2000AGA
 StarCrusaderAGA
+SuprStrtFtr2TrboAGA
 TZer0DemoAGA

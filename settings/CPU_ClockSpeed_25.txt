@@ -24,7 +24,6 @@ RedZoneNTSC
 StarTrek25thAnnivAGA
 StarTrek25thAnnivAGADe
 StarTrek25thAnnivAGAFr
-SuprStrtFtr2TrboAGA
 ThemePark
 ThemeParkAGA
 UFOEnemyUnknownAGA

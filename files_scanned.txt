@@ -1,4 +1,4 @@
-Scanned file log: 2022-12-07 at 03:00:03
+Scanned file log: 2022-12-09 at 03:00:04
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -1708,6 +1708,7 @@ Skipped: Cadaver&CadaverThePayoff_v2.2_0900.lha
 Skipped: Cadaver&ThePayoff_v2.3_0900.lha
 Skipped: Cadaver&ThePayoff_v2.4_0900.lha
 Skipped: Cadaver&ThePayoff_v3.0_0900.lha
+Scanned: Cadaver & The Payoff
 Skipped: CadaverDemos_v1.0.lha
 Skipped: CadaverDemos_v1.1.lha
 Skipped: CadaverDemos_v1.2.lha
@@ -2579,9 +2580,9 @@ Skipped: FantasyFlyer_v1.0.lha
 Skipped: FateGatesOfDawn_v1.0_De_0544.lha
 Skipped: FateGatesOfDawn_v1.1_2842.lha
 Skipped: FateGatesOfDawn_v1.1_Uncensored.lha
-Scanned: Fate - Gates Of Dawn
-Scanned: Fate Gates Of Dawn (Deutsch)
-Scanned: Fate Gates Of Dawn Uncensored
+Skipped: FateGatesOfDawn_v1.2_2842.lha
+Skipped: FateGatesOfDawn_v1.2_De_0544.lha
+Skipped: FateGatesOfDawn_v1.2_Uncensored.lha
 Skipped: FatmanTheCapedConsumer_v1.1_0943.lha
 Skipped: FatmanTheCapedConsumer_v1.1_AGA_0480.lha
 Skipped: Fears_v3.4_AGA_1288.lha
@@ -2674,18 +2675,18 @@ Skipped: Flashback_v3.4_LowMem_Fr_1736.lha
 Skipped: Flashback_v3.4_LowMem_It.lha
 Skipped: Flashback_v3.4_LowMem_Pl.lha
 Skipped: Flashback_v3.4_Pl.lha
-Scanned: Flashback
-Scanned: Flashback (Czech)
-Scanned: Flashback (Deutsch)
-Scanned: Flashback (Francais)
-Scanned: Flashback (Italiano)
-Scanned: Flashback Low Mem
-Scanned: Flashback Low Mem (Czech)
-Scanned: Flashback Low Mem (Deutsch)
-Scanned: Flashback Low Mem (Francais)
-Scanned: Flashback Low Mem (Italiano)
-Scanned: Flashback Low Mem (Polski)
-Scanned: Flashback (Polski)
+Skipped: Flashback_v3.5_1163.lha
+Skipped: Flashback_v3.5_Cz.lha
+Skipped: Flashback_v3.5_De_0064.lha
+Skipped: Flashback_v3.5_Fr_1736.lha
+Skipped: Flashback_v3.5_It.lha
+Skipped: Flashback_v3.5_LowMem_1163.lha
+Skipped: Flashback_v3.5_LowMem_Cz.lha
+Skipped: Flashback_v3.5_LowMem_De_0064.lha
+Skipped: Flashback_v3.5_LowMem_Fr_1736.lha
+Skipped: Flashback_v3.5_LowMem_It.lha
+Skipped: Flashback_v3.5_LowMem_Pl.lha
+Skipped: Flashback_v3.5_Pl.lha
 Skipped: FliesAttackOnEarth_v1.0.lha
 Skipped: FliesAttackOnEarth_v1.0_De_3036.lha
 Skipped: FlightOfTheAmazonQueen_v1.0_0971.lha

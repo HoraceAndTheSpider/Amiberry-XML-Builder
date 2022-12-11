@@ -38,6 +38,8 @@ LordsOfTheRisingSun
 LordsOfWar
 Millennium22
 NeverMind
+NewYorkWarriors512KB
+NewYorkWarriors1MB
 NorthAndSouthImage
 NorthAndSouthFiles
 OperationJupiterFr

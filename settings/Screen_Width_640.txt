@@ -67,6 +67,8 @@ LemmingsXmasDemo1991
 LemmingsXmasDemo1992
 Menace
 Mystical
+NewYorkWarriors512KB
+NewYorkWarriors1MB
 NinjaWarriors
 NoExit
 Odyssey

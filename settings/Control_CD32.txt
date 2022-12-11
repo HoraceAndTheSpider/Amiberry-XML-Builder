@@ -14,6 +14,8 @@ FlashbackLowMemIt
 GloomCD32
 Heimdall2CD32
 MidnightResistance
+NorthAndSouthImage
+NorthAndSouthFiles
 PinballDreams
 PinballDreamsNTSC
 PinballFntsies

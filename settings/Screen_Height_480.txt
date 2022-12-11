@@ -37,8 +37,6 @@ MaxKnight
 Minskies
 MortonStrikesBack
 MortonStrikesBackAGA
-NewYorkWarriors1MB
-NewYorkWarriors512KB
 NightbreedAction
 Oscar
 OscarAGA

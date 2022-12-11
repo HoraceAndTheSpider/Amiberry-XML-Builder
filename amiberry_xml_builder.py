@@ -369,7 +369,7 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
 
                 # NTSC
                 HW_NTSC = ""
-                if check_list("Screen_ForceNTSC.txt", sub_path) is True:
+                if check_list("Chipset_ForceNTSC.txt", sub_path) is True:
                      HW_NTSC = "TRUE"       
                 elif this_file.find("NTSC") > -1:
                      HW_NTSC = "TRUE" 

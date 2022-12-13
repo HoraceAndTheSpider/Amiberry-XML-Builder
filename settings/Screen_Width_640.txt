@@ -102,6 +102,7 @@ ShadowFighter
 ShadowFighterAGA
 Shadowgate
 ShockWave
+SideWinder
 SideWinderArcadia
 SimCity
 SimCity12

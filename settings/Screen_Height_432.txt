@@ -1,7 +1,6 @@
 AlienBreed3DAGA
 AlienBreed3DCD32
 AlienBreed3DNoMusicAGA
-ArabianNightsCD32
 Arkanoid
 ArkanoidNTSC
 BeyondTheIcePalace
@@ -47,6 +46,7 @@ Paperboy2
 PoolOfRadiance
 RevengeOfDefender
 Rockford
+SideWinder
 SideWinderArcadia
 Soldier2000
 StarRay

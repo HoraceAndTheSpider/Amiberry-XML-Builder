@@ -1,3 +1,10 @@
+BrutalFootball
+BrutalFootballAGA
+BrutalFootballCD32
+BubbleAndSqueak
+BubbleAndSqueakAGA
+BubbleAndSqueakCD32
+Cabal
 Cadaver&ThePayoff
 DesertStrike
 DesertStrike512k

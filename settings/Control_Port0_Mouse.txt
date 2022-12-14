@@ -212,10 +212,8 @@ ExploraFr
 Explora2Fr
 Explora3Fr
 EyeOfTheBeholder
-EyeOfTheBeholderAGA
 EyeOfTheBeholderDe
 EyeOfTheBeholder2
-EyeOfTheBeholder2AGA
 EyeOfTheBeholder2De
 F15StrikeEagle2
 F29Retaliator

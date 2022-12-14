@@ -7,6 +7,7 @@
 A10TankKiller2Disk
 A10TankKiller3Disk
 AdvantageTennis
+Akira
 AkiraCD32
 AlienSyndrome
 AlienSyndromeNTSC
@@ -150,10 +151,8 @@ Enlightenment
 Exolon
 Extase
 EyeOfTheBeholder
-EyeOfTheBeholderAGA
 EyeOfTheBeholderDe
 EyeOfTheBeholder2
-EyeOfTheBeholder2AGA
 EyeOfTheBeholder2De
 F15StrikeEagle2
 FA18Interceptor

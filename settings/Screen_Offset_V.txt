@@ -1,3 +1,5 @@
+AlienBreed 18
+AlienBreedSpecialEdition 18
 BadDudes 18
 BadDudesChipNTSC 18
 BadDudesNTSC 18

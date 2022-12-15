@@ -1,3 +1,12 @@
+1943
+AladdinAGA
+AlienBreedTA
+AlienBreedTAAGA
+AlienBreedTACD32
+AlienStorm
+ArabianNights
+ArabianNights512k
+AventuresDeMoktarFr
 BrutalFootball
 BrutalFootballAGA
 BrutalFootballCD32
@@ -35,6 +44,7 @@ PinballFntsiesCD32Chip
 SlamTiltAGA
 SlamTiltAGA2MB
 SlamTiltDemoAGA
+StreetFighter2
 SuperStreetFighter2DXAGA
 SuprStrtFtr2TrboAGA
 SyndicateCD32

@@ -1,6 +1,8 @@
 3DPool
 3DWorldTennis
 AlienBash2
+AlienBreed
+AlienBreedSpecialEdition
 Atomix
 AttackOfTheGreenSmellyAliens
 BansheeAGA

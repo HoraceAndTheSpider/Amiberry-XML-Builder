@@ -1,4 +1,4 @@
-Scanned file log: 2022-12-14 at 03:00:04
+Scanned file log: 2022-12-16 at 03:00:04
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -1040,6 +1040,8 @@ Skipped: AirSupport_v1.2_NTSC_1325.lha
 Skipped: Akira_v1.1.lha
 Skipped: Akira_v1.2.lha
 Skipped: Akira_v1.2_CD32.lha
+Scanned: Akira
+Scanned: Akira [CD32]
 Skipped: Aladdin_v1.7_AGA_0420.lha
 Skipped: Aladdin_v1.8_AGA_0420.lha
 Skipped: Albedo_v1.0_Fr.lha
@@ -1259,6 +1261,7 @@ Skipped: ApacheFlight_v1.0.lha
 Skipped: ApanoSin_v1.3.lha
 Skipped: ApanoSin_v1.3_De.lha
 Skipped: APB_v1.1_Files_1708.lha
+Scanned: Assassin
 Skipped: Assassin_v1.2_1214.lha
 Skipped: Astaroth_v1.0_1321.lha
 Skipped: Astate_v1.0_2823.lha
@@ -1913,6 +1916,7 @@ Skipped: Coala_v1.0_0242.lha
 Skipped: Coala_v1.0_AGA_0242.lha
 Skipped: Coala_v2.0_0242.lha
 Skipped: Coala_v2.0_AGA_0242.lha
+Skipped: Cobra_v1.0.lha
 Skipped: CodeNameIceman_v1.5_0468.lha
 Skipped: CogansRun_v1.0_0469.lha
 Skipped: ColonelsBequest_v2.2_0796.lha
@@ -2317,7 +2321,7 @@ Skipped: Dragonstone_V1.0_CD32.lha
 Skipped: Dragonstone_v1.2_0471.lha
 Skipped: DragonStrike_v1.1_1479.lha
 Skipped: DragonStrike_v1.1_NTSC_1479.lha
-Scanned: Dragon Strike (NTSC)
+Skipped: DragonStrike_v1.2_NTSC_1479.lha
 Skipped: DragonTiles2_v1.0.lha
 Skipped: DragonTiles_v1.0.lha
 Skipped: DragonTiles_v1.0_AGA.lha
@@ -2417,7 +2421,9 @@ Skipped: EcoPhantoms_v1.0_2471.lha
 Skipped: EcoPhantoms_v1.1_2471.lha
 Skipped: Eco_v1.1_1139.lha
 Skipped: EddTheDuck2_v1.1.lha
+Scanned: Edd the Duck 2 - Back with a Quack
 Skipped: EddTheDuck_v1.1_0650.lha
+Scanned: Edd The Duck
 Skipped: EishockeyManager_v1.0_De_0472.lha
 Skipped: EksperymentDelfin_v1.1_Pl.lha
 Skipped: ElectronicPool_v1.0.lha
@@ -3112,7 +3118,7 @@ Skipped: HellfireAttack_v1.0.lha
 Skipped: Hellraider_v1.0.lha
 Skipped: HellRaisers_v1.0.lha
 Skipped: HellrunMachine_v1.0.lha
-Scanned: Hellrun Machine
+Skipped: HellrunMachine_v1.1_2035.lha
 Skipped: HelterSkelter_v1.3_2071.lha
 Skipped: HeroesOfTheLance_v1.01_0778.lha
 Skipped: HeroQuest&ReturnOfTheWitchLord_v1.3a_0127&0508.lha
@@ -4584,6 +4590,7 @@ Skipped: Powerplay_v1.1_Fr.lha
 Skipped: Powerplay_v1.1_Gr.lha
 Skipped: Powerstyx_v1.1.lha
 Scanned: Power
+Skipped: Power_v1.2_1284.lha
 Skipped: POW_v1.1.lha
 Skipped: POW_v1.2_0080.lha
 Skipped: PPHammer_v2.1_2036.lha
@@ -5073,10 +5080,10 @@ Skipped: Swords&Galleons_v1.0.lha
 Skipped: SonShuShi_v1.2_2513.lha
 Skipped: Settlers_v1.6_0143.lha
 Skipped: Settlers_v1.6_Fr_2378.lha
-Scanned: Settlers
-Scanned: Settlers (Francais)
-Scanned: Settlers Low Mem
-Scanned: Settlers Low Mem (Francais)
+Skipped: Settlers_v1.7_0143.lha
+Skipped: Settlers_v1.7_Fr_2378.lha
+Skipped: Settlers_v1.7_LowMem_0143.lha
+Skipped: Settlers_v1.7_LowMem_Fr_2378.lha
 Skipped: SevenCitiesOfGold_v1.1_0908.lha
 Skipped: SevenCitiesOfGold_v1.1_NTSC_0908.lha
 Skipped: SevenCitiesOfGold_v2.0_NTSC_0908.lha
@@ -5113,8 +5120,8 @@ Skipped: SideWinder2_v1.0_1561.lha
 Skipped: SideWinder_v0.1_Arcadia.lha
 Skipped: SideWinder_v1.2.lha
 Skipped: Siedler_v1.6_De_0401.lha
-Scanned: Siedler (Deutsch)
-Scanned: Siedler Low Mem (Deutsch)
+Skipped: Siedler_v1.7_De_0401.lha
+Skipped: Siedler_v1.7_LowMem_De_0401.lha
 Skipped: SierraSoccer_v1.01_1539.lha
 Skipped: SilentService2_v2.1b_NTSC_0949.lha
 Skipped: SilentService_v1.1_0402.lha
@@ -5494,6 +5501,7 @@ Skipped: Soldier2000_v1.2.lha
 Skipped: SoldierOfLight_v1.1_2001.lha
 Skipped: SolidGold_v1.01.lha
 Skipped: SolidGold_v1.02.lha
+Scanned: Solid Gold
 Skipped: SolNegro_v1.0.lha
 Skipped: SolNegro_v1.1.lha
 Skipped: SolomonsKey2_v1.0.lha
@@ -6068,6 +6076,8 @@ Skipped: VenomWing_v2.0.lha
 Skipped: VenomWing_v2.0a.lha
 Skipped: VenusTheFlytrap_v1.2.lha
 Skipped: VenusTheFlytrap_v1.2_NoIntro_1985.lha
+Scanned: Venus The Flytrap
+Scanned: Venus The Flytrap (No Intro)
 Skipped: VerteidigerDerKrone2_v1.1_CD32_De.lha
 Skipped: VerteidigerDerKrone2_v1.2_CD32_De.lha
 Skipped: Veteran_v1.0_2970.lha
@@ -8338,7 +8348,7 @@ Skipped: Aardvark-WHDL.lha
 Skipped: Aardvarks-WHDL.lha
 Skipped: AB3D2MOD-WHDL.lha
 Skipped: AB3D2MOD2022AGA-WHDL.lha
-Scanned: A B 3 D 2 MODAGA
+Skipped: AB3D2MODAGA-WHDL.lha
 Skipped: AB3D2ORI2022AGA-WHDL.lha
 Skipped: AB3D2ORI2022AGA.lha
 Skipped: Alehop-WHDL.lha
@@ -9443,7 +9453,7 @@ Skipped: WizzyQuest-WHDL.lha
 Skipped: Wobbler-WHDL.lha
 Skipped: WolfPacAGA-WHDL.lha
 Skipped: Wonderland-WHDL.lha
-Scanned: Wood Block
+Skipped: Woodblock-WHDL.lha
 Skipped: Woodblocks-WHDL.lha
 Skipped: WoodenBall-WHDL.lha
 Skipped: Wooglies-WHDL.lha
@@ -9720,7 +9730,7 @@ Skipped: MinkyDemo-WHDL.lha
 Skipped: MonkeyLadDemo-WHDL.lha
 Skipped: MrMochiDemo-WHDL.lha
 Skipped: NinjFeratuDemo-WHDL.lha
-Scanned: Pinball Dreams 2demo
+Skipped: PinballDreams2demo-WHDL.lha
 Skipped: PlatformDemo-WHDL.lha
 Skipped: PlatformNeesoDemo-WHDL.lha
 Skipped: PlatformNobodyDemo-WHDL.lha

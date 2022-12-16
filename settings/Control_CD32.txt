@@ -11,6 +11,8 @@ AllTerrainRacing
 Anarchy
 ArabianNights
 ArabianNights512k
+Assassin
+AssassinSpecialEdition
 AventuresDeMoktarFr
 Baal
 BansheeAGA

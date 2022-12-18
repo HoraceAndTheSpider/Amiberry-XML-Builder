@@ -1,8 +1,6 @@
 AlienBreed
 AlienBreedSpecialEdition
 BadDudes
-BadDudesChipNTSC
-BadDudesNTSC
 BadDudesVsDragonNinja
 BadDudesVsDragonNinjaChip
 BlobzAGA

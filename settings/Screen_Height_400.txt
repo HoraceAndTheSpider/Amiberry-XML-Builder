@@ -37,8 +37,6 @@ AventuresDeMoktarFr
 B17FlyingFortress
 Backlash
 BadDudes
-BadDudesChipNTSC
-BadDudesNTSC
 BadDudesVsDragonNinja
 BadDudesVsDragonNinjaChip
 BadLands

@@ -1,7 +1,3 @@
-joyport1_amiberry_custom_none_x=Joy2 Up
-joyport0_amiberry_custom_none_a=Right Shift
-joyport0_amiberry_custom_none_x=Joy1 Up
-joyport0_amiberry_custom_none_dpup=Cursor Up
-joyport0_amiberry_custom_none_dpdown=Cursor Down
-joyport0_amiberry_custom_none_dpleft=Cursor Left
-joyport0_amiberry_custom_none_dpright=Cursor Down
+joyport1_amiberry_custom_none_b=Joy2 Up
+joyport1_amiberry_custom_none_start=Help
+joyport0_amiberry_custom_none_b=Joy1 Up

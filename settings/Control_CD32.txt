@@ -132,8 +132,16 @@ MetalLaw
 MiamiChase
 MidnightResistance
 MythSystem3
+NewZealandStory
+NinjaRemix
+NinjaWarriors
 NorthAndSouthImage
+NorthAndSouthImageNTSC
 NorthAndSouthFiles
+NorthAndSouthFilesNTSC
+OneStepBeyond
+Oscar
+OscarAGA
 PinballDreams
 PinballDreamsNTSC
 PinballFntsies

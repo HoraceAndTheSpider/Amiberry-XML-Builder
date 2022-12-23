@@ -1,4 +1,4 @@
-Scanned file log: 2022-12-21 at 03:00:04
+Scanned file log: 2022-12-23 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -1301,7 +1301,7 @@ Skipped: BabyJoInGoingHome_v1.1_2291.lha
 Skipped: BabylonianTwinsDemo_v1.1.lha
 Skipped: Backlash_v1.0_1118.lha
 Skipped: BackToTheFuturePart2_v1.2_0005.lha
-Scanned: Back To The Future Part II
+Skipped: BackToTheFuturePart2_v1.3_0005.lha
 Skipped: BackToTheFuturePart3_v1.3.lha
 Skipped: BackToTheFuturePart3_v1.3_0265.lha
 Skipped: BackToTheFuturePart3_v1.3_NTSC_1171.lha
@@ -2316,6 +2316,7 @@ Skipped: DragonsLairEscapeFromSingesCastleDemo_v1.0_NTSC.lha
 Skipped: DragonsLairEscapeFromSingesCastle_v1.2a_Fast_0980.lha
 Skipped: DragonsLairEscapeFromSingesCastle_v1.2a_Slow_0980.lha
 Skipped: DragonsLair_v1.2a_1360.lha
+Scanned: Dragons Of Flame
 Skipped: DragonSpirit_v1.2_1545.lha
 Skipped: DragonSpirit_v1.3_1545.lha
 Skipped: Dragonstone_V1.0_CD32.lha
@@ -3229,8 +3230,8 @@ Skipped: IanBothamsCricket_v1.0.lha
 Skipped: IceRunner_v1.0.lha
 Skipped: IK+_v1.8_2063.lha
 Skipped: IK+_v1.8_CD32.lha
-Scanned: IK+
-Scanned: IK + [CD32]
+Skipped: IK+_v1.9_2063.lha
+Skipped: IK+_v1.9_CD32.lha
 Skipped: IkariWarriors_v2.01_0771.lha
 Skipped: IkariWarriors_v2.0_0771.lha
 Skipped: ILudicrus_v1.0.lha
@@ -6466,6 +6467,8 @@ Skipped: Turrican2_v0.2_AGA_NTSC_Build_v10.lha
 Skipped: Turrican2_v0.2_AGA_NTSC_Build_v11.lha
 Skipped: Turrican2_v0.2_AGA_NTSC_Build_v8.lha
 Skipped: Turrican2_v0.2_AGA_NTSC_Build_v9.lha
+Scanned: Turrican 2 [AGA]
+Scanned: Turrican 2 [AGA] (NTSC)
 Skipped: Ultima6_v1.2_0294.lha
 Skipped: Ultima6_v1.2_NTSC.lha
 Skipped: UNSquadron_v1.2_Hack_by_Earok.lha
@@ -7050,6 +7053,7 @@ Skipped: CricketCrazy-WHDL.lha
 Skipped: CricketMasters-WHDL.lha
 Skipped: CrimeTime-WHDL.lha
 Skipped: CriticalHit-WHDL.lha
+Scanned: Croaker
 Skipped: Croins-WHDL.lha
 Skipped: Cropky-WHDL.lha
 Skipped: CrossCountry-WHDL.lha
@@ -7136,8 +7140,8 @@ Skipped: DayTentacleAGA-WHDL.lha
 Skipped: DayTentacleFRAGA-WHDL.lha
 Skipped: DeadHead-WHDL.lha
 Skipped: Deadline-WHDL.lha
-Scanned: Dead Metal 1/ Dead Metal 11
-Scanned: Dead Metal 2
+Skipped: DeadMetal1-WHDL.lha
+Skipped: DeadMetal2-WHDL.lha
 Skipped: DeathAngel-WHDL.lha
 Skipped: Deathbots-WHDL.lha
 Skipped: DeathGloryExtDE-WHDL.lha
@@ -7295,6 +7299,7 @@ Skipped: Escape-WHDL.lha
 Skipped: Escape1-WHDL.lha
 Skipped: Escape2-WHDL.lha
 Skipped: EscapeAdv-WHDL.lha
+Scanned: Escape Limbo
 Skipped: EscapeTharkan-WHDL.lha
 Skipped: Espionage-WHDL.lha
 Skipped: EswatSunteam-WHDL.lha
@@ -8052,6 +8057,7 @@ Skipped: MrBrownstone-WHDL.lha
 Skipped: MrDig-WHDL.lha
 Skipped: MrMunkFluidland-WHDL.lha
 Skipped: MrPoker-WHDL.lha
+Scanned: Mr Poo Journey-NE
 Skipped: MrSharkRacingDemo-WHDL.lha
 Skipped: MrTomatoPL-WHDL.lha
 Skipped: MrUFO-WHDL.lha
@@ -8682,8 +8688,8 @@ Skipped: SantaRocks-WHDL.lha
 Skipped: SantaRudolph-WHDL.lha
 Skipped: SantaRun-WHDL.lha
 Skipped: SantaRunAGA-WHDL.lha
-Scanned: Santas Present Drop 1
-Scanned: Santas Present Drop 2
+Skipped: SantasPresentDrop1-WHDL.lha
+Skipped: SantasPresentDrop2-WHDL.lha
 Skipped: SaperPL-WHDL.lha
 Skipped: Sardonic-WHDL.lha
 Skipped: SauceryAGA-WHDL.lha
@@ -8794,6 +8800,7 @@ Skipped: SimLifeFR-WHDL.lha
 Skipped: DieOdysseeDE-WHDL.lha
 Skipped: Digit-WHDL.lha
 Skipped: Dilemma-WHDL.lha
+Scanned: Dino Run-NE
 Skipped: Diplomacy-WHDL.lha
 Skipped: DiplomacyAvalon-WHDL.lha
 Skipped: DirtyCash-WHDL.lha
@@ -8958,6 +8965,7 @@ Skipped: Speedworm-WHDL.lha
 Skipped: Spherix-WHDL.lha
 Skipped: Spider-WHDL.lha
 Skipped: Spidertronic-WHDL.lha
+Scanned: Spike Dislike
 Skipped: Spinbrix-WHDL.lha
 Skipped: Spinworld-WHDL.lha
 Skipped: SpitfireAssault-WHDL.lha
@@ -9455,6 +9463,7 @@ Skipped: Wonderland-WHDL.lha
 Skipped: Woodblock-WHDL.lha
 Skipped: Woodblocks-WHDL.lha
 Skipped: WoodenBall-WHDL.lha
+Scanned: Wood Puzzle
 Skipped: Wooglies-WHDL.lha
 Skipped: Workaholic-WHDL.lha
 Skipped: Workoholic-WHDL.lha
@@ -9786,6 +9795,7 @@ Skipped: SchutzeMike2ZombieDemo-WHDL.lha
 Skipped: ScorpionAlexKiddDemo-WHDL.lha
 Skipped: ScorpionPhoenixWrightDemo-WHDL.lha
 Skipped: ScorpionZeldaDemo-WHDL.lha
+Scanned: Settle World Demo
 Skipped: ShadowsSergothDemo-WHDL.lha
 Skipped: SilvermanDemo-WHDL.lha
 Skipped: SlipStreamAGAdemo-WHDL.lha

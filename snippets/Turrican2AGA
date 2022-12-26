@@ -1,0 +1,49 @@
+	<game filename="Turrican2AGA" sha1="2007d7728bf5623cdbe646a0d719579d1004332b">
+		<name>Turrican 2 AGA</name>
+		<subpath>Turrican2AGA</subpath>
+		<variant_uuid>62424759-db58-4d20-b9ee-1ef7f45c79f3</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>Turrican2AGA.slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>Turrican2AGA.slave</filename>
+			<datapath>Data</datapath>
+			<custom>
+			</custom>
+		</slave>
+		<hardware>
+			CHIPSET=AGA
+			PRIMARY_CONTROL=JOYSTICK
+			PORT0=CD32
+			PORT1=CD32
+			SCREEN_AUTOHEIGHT=FALSE
+			SCREEN_HEIGHT=456
+			SCREEN_WIDTH=720
+			SCREEN_CENTERH=SMART
+			SCREEN_CENTERV=SMART
+		</hardware>
+	</game>
+	<game filename="Turrican2AGA_NTSC" sha1="8df8930449a1a076fbbd16b2c9f667c2c901cef7">
+		<name>Turrican 2 AGA</name>
+		<subpath>Turrican2AGANTSC</subpath>
+		<variant_uuid>3f448a55-eff2-4347-8cb9-5da8faf0a959</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>Turrican2AGA.slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>Turrican2AGA.slave</filename>
+			<datapath>Data</datapath>
+			<custom>
+			</custom>
+		</slave>
+		<hardware>
+			CHIPSET=AGA
+			NTSC=TRUE
+			PRIMARY_CONTROL=JOYSTICK
+			PORT0=CD32
+			PORT1=CD32
+			SCREEN_AUTOHEIGHT=TRUE
+			SCREEN_CENTERH=SMART
+			SCREEN_CENTERV=SMART
+		</hardware>
+	</game>

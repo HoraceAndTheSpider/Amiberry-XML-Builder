@@ -5,7 +5,6 @@ Cabal
 CapitalPunishmentAGA
 CapitalPunishmentAGACD
 DesertStrike
-DesertStrike512k
 FateGatesOfDawn
 FateGatesOfDawnDe
 FateGatesOfDawnUncensored

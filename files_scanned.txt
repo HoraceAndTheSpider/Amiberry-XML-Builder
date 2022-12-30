@@ -1,4 +1,4 @@
-Scanned file log: 2022-12-23 at 03:00:03
+Scanned file log: 2022-12-30 at 03:00:04
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -2238,6 +2238,7 @@ Skipped: DesertStrike_v2.3_0112.lha
 Skipped: DesertStrike_v3.1_0112.lha
 Skipped: DesertStrike_v3.3_0112.lha
 Skipped: DesertStrike_v3.3_512k_0112.lha
+Skipped: DesertStrike_v4.0_0112.lha
 Skipped: Destroyer_v1.0_0318.lha
 Skipped: Detonator_v1.0.lha
 Skipped: Detroit_v1.0_1861.lha
@@ -2316,7 +2317,7 @@ Skipped: DragonsLairEscapeFromSingesCastleDemo_v1.0_NTSC.lha
 Skipped: DragonsLairEscapeFromSingesCastle_v1.2a_Fast_0980.lha
 Skipped: DragonsLairEscapeFromSingesCastle_v1.2a_Slow_0980.lha
 Skipped: DragonsLair_v1.2a_1360.lha
-Scanned: Dragons Of Flame
+Skipped: DragonsOfFlame_v1.0_0985.lha
 Skipped: DragonSpirit_v1.2_1545.lha
 Skipped: DragonSpirit_v1.3_1545.lha
 Skipped: Dragonstone_V1.0_CD32.lha
@@ -2503,6 +2504,7 @@ Skipped: Erbe_v1.0_De.lha
 Skipped: Erik_v1.0.lha
 Skipped: EscapeFromColditz_v1.2_0214.lha
 Skipped: EscapeFromColditz_v1.3_0214.lha
+Skipped: EscapeFromColditz_v1.4_0214.lha
 Skipped: EscapeFromThePlanetOfTheRobotMonsters_v1.5_0477.lha
 Skipped: EscapeFromThePlanetOfTheRobotMonsters_v1.6_0477.lha
 Skipped: Eskadra_v1.1_Pl.lha
@@ -3157,6 +3159,7 @@ Skipped: Historyline_v1.5_1569.lha
 Skipped: Historyline_v1.5_De_0336.lha
 Skipped: Historyline_v1.5_Fr.lha
 Skipped: HitchhikersGuideToTheGalaxy_v1.0.lha
+Skipped: Hoi_v1.0_0962.lha
 Skipped: HoleInOne&DataDisks_v1.1.lha
 Skipped: HoleInOne_v1.1.lha
 Skipped: HolidayMaker_v1.1_CDTV_De.lha
@@ -3583,6 +3586,7 @@ Skipped: KidChaos_v1.1b_CD32.lha
 Skipped: KidGloves2_v1.2.lha
 Skipped: KidGloves_v1.2_1372.lha
 Skipped: KidGloves_v1.3_1372.lha
+Skipped: KidGloves_v2.0_1372.lha
 Skipped: Kikstart2_v1.1.lha
 Skipped: Kikugi_v1.0.lha
 Skipped: Killerball_v1.1_2565.lha
@@ -4203,6 +4207,7 @@ Skipped: Nebulus2_v1.4_1713.lha
 Skipped: Nebulus_v1.3_0361.lha
 Skipped: Nebulus_v1.5_0361.lha
 Skipped: Necronom_v1.1_0542.lha
+Skipped: Necronom_v1.2_0542.lha
 Skipped: Neighbours_v1.0_1978.lha
 Skipped: Netherworld_v1.5_2033.lha
 Skipped: Neuromancer_v2.0_2604.lha
@@ -4573,6 +4578,7 @@ Skipped: Populous_v1.1_0069.lha
 Skipped: Populous_v1.2_0069.lha
 Skipped: Populous_v1.2_NTSC_0070.lha
 Skipped: Portal_v1.1.lha
+Skipped: Portal_v2.0_NTSC_1971.lha
 Skipped: PortesDuTemps_v1.2_Fr.lha
 Skipped: PortsOfCall_v1.1_2489.lha
 Skipped: PortsOfCall_v1.1_De.lha
@@ -5225,6 +5231,7 @@ Skipped: Sorefist_v1.0.lha
 Skipped: SpaceAce2_v1.1_0931.lha
 Skipped: SpaceAceDemo_v1.0.lha
 Skipped: SpaceAce_v1.1_0085.lha
+Skipped: SpaceAce_v1.2_0085.lha
 Skipped: SpaceAssault_v1.0.lha
 Skipped: Spaceball_v1.1_2675.lha
 Skipped: Spaceball_v1.3_2675.lha
@@ -5314,6 +5321,7 @@ Skipped: Starblaze_v1.0_0731.lha
 Skipped: StarControl_v1.0.lha
 Skipped: StarCrusader_v1.0_AGA_2349.lha
 Skipped: Stardust_v1.5_2102.lha
+Skipped: Stardust_v1.6_2102.lha
 Skipped: Starflight_v1.0_0855.lha
 Skipped: Starglider2_v1.2.1.lha
 Skipped: Starglider2_v2.0_3000.lha
@@ -5340,6 +5348,7 @@ Skipped: StarWars_v2.0_0403.lha
 Skipped: StarWays_v1.0_2678.lha
 Skipped: SteelEmpire_v1.1_1659.lha
 Skipped: Steel_v1.1_1981.lha
+Skipped: Steel_v1.2_1981.lha
 Skipped: StegTheSlug_v1.1_2271.lha
 Skipped: Steigar_v1.0.lha
 Skipped: Stellar7_v1.0_De_0732.lha
@@ -6467,8 +6476,8 @@ Skipped: Turrican2_v0.2_AGA_NTSC_Build_v10.lha
 Skipped: Turrican2_v0.2_AGA_NTSC_Build_v11.lha
 Skipped: Turrican2_v0.2_AGA_NTSC_Build_v8.lha
 Skipped: Turrican2_v0.2_AGA_NTSC_Build_v9.lha
-Scanned: Turrican 2 [AGA]
-Scanned: Turrican 2 [AGA] (NTSC)
+Skipped: Turrican2_v1.0_AGA.lha
+Skipped: Turrican2_v1.0_AGA_NTSC.lha
 Skipped: Ultima6_v1.2_0294.lha
 Skipped: Ultima6_v1.2_NTSC.lha
 Skipped: UNSquadron_v1.2_Hack_by_Earok.lha
@@ -7051,9 +7060,10 @@ Skipped: CribbageBasic-WHDL.lha
 Skipped: CribbageKing-WHDL.lha
 Skipped: CricketCrazy-WHDL.lha
 Skipped: CricketMasters-WHDL.lha
+Skipped: Crimbo-WHDL.lha
 Skipped: CrimeTime-WHDL.lha
 Skipped: CriticalHit-WHDL.lha
-Scanned: Croaker
+Skipped: Croaker-WHDL.lha
 Skipped: Croins-WHDL.lha
 Skipped: Cropky-WHDL.lha
 Skipped: CrossCountry-WHDL.lha
@@ -7299,7 +7309,7 @@ Skipped: Escape-WHDL.lha
 Skipped: Escape1-WHDL.lha
 Skipped: Escape2-WHDL.lha
 Skipped: EscapeAdv-WHDL.lha
-Scanned: Escape Limbo
+Skipped: EscapeLimbo-WHDL.lha
 Skipped: EscapeTharkan-WHDL.lha
 Skipped: Espionage-WHDL.lha
 Skipped: EswatSunteam-WHDL.lha
@@ -8009,6 +8019,8 @@ Skipped: MobstersCity-WHDL.lha
 Skipped: ModSurfer-WHDL.lha
 Skipped: MoebiusGoatlizard-WHDL.lha
 Skipped: MoebiusGoatlizardDX-WHDL.lha
+Skipped: MoebiusGoatlizardDX500-WHDL.lha
+Skipped: MoebiusGoatlizardTR-WHDL.lha
 Skipped: MomoSpaceDemo-WHDL.lha
 Skipped: Monaco-WHDL.lha
 Skipped: Mondial90SimIT-WHDL.lha
@@ -8057,7 +8069,7 @@ Skipped: MrBrownstone-WHDL.lha
 Skipped: MrDig-WHDL.lha
 Skipped: MrMunkFluidland-WHDL.lha
 Skipped: MrPoker-WHDL.lha
-Scanned: Mr Poo Journey-NE
+Skipped: MrPooJourney-WHDL.lha
 Skipped: MrSharkRacingDemo-WHDL.lha
 Skipped: MrTomatoPL-WHDL.lha
 Skipped: MrUFO-WHDL.lha
@@ -8800,7 +8812,8 @@ Skipped: SimLifeFR-WHDL.lha
 Skipped: DieOdysseeDE-WHDL.lha
 Skipped: Digit-WHDL.lha
 Skipped: Dilemma-WHDL.lha
-Scanned: Dino Run-NE
+Skipped: DinoRun-WHDL.lha
+Skipped: DinoRunBB-WHDL.lha
 Skipped: Diplomacy-WHDL.lha
 Skipped: DiplomacyAvalon-WHDL.lha
 Skipped: DirtyCash-WHDL.lha
@@ -8965,7 +8978,7 @@ Skipped: Speedworm-WHDL.lha
 Skipped: Spherix-WHDL.lha
 Skipped: Spider-WHDL.lha
 Skipped: Spidertronic-WHDL.lha
-Scanned: Spike Dislike
+Skipped: SpikeDislike-WHDL.lha
 Skipped: Spinbrix-WHDL.lha
 Skipped: Spinworld-WHDL.lha
 Skipped: SpitfireAssault-WHDL.lha
@@ -9463,7 +9476,7 @@ Skipped: Wonderland-WHDL.lha
 Skipped: Woodblock-WHDL.lha
 Skipped: Woodblocks-WHDL.lha
 Skipped: WoodenBall-WHDL.lha
-Scanned: Wood Puzzle
+Skipped: WoodPuzzle-WHDL.lha
 Skipped: Wooglies-WHDL.lha
 Skipped: Workaholic-WHDL.lha
 Skipped: Workoholic-WHDL.lha
@@ -9795,7 +9808,7 @@ Skipped: SchutzeMike2ZombieDemo-WHDL.lha
 Skipped: ScorpionAlexKiddDemo-WHDL.lha
 Skipped: ScorpionPhoenixWrightDemo-WHDL.lha
 Skipped: ScorpionZeldaDemo-WHDL.lha
-Scanned: Settle World Demo
+Skipped: SettleWorldDemo-WHDL.lha
 Skipped: ShadowsSergothDemo-WHDL.lha
 Skipped: SilvermanDemo-WHDL.lha
 Skipped: SlipStreamAGAdemo-WHDL.lha
@@ -10004,3 +10017,5 @@ Skipped: BarbarianPlus_v0.lha
 Skipped: GreySlayer_v0.lha
 Snippet added: DevilsTemple_v3.0_1222
 Snippet added: DevilsTemple_v3.5_1211
+Snippet added: Turrican2AGA
+Snippet added: Turrican2AGA_NTSC

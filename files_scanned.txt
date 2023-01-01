@@ -1,4 +1,4 @@
-Scanned file log: 2022-12-30 at 03:00:04
+Scanned file log: 2023-01-01 at 15:54:25
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -1342,6 +1342,8 @@ Skipped: BardsTale2_v1.0_0046.lha
 Skipped: BardsTale3_v1.01_0300.lha
 Skipped: BardsTale_v1.2_0010.lha
 Skipped: BardsTale_v1.2_NTSC_1978.lha
+Scanned: Bard's Tale - Tales of the Unknown
+Scanned: Bards Tale (NTSC)
 Skipped: BarGames_v1.0_2947.lha
 Skipped: BarGames_v1.1_2947.lha
 Skipped: BAT2_v1.1_De_0434.lha
@@ -5181,6 +5183,7 @@ Skipped: Skidmarks_v1.2_AGA_0204.lha
 Skipped: Skidoo_v1.0.lha
 Skipped: Skidz_v1.0.lha
 Skipped: SkiOrDie_v1.0_1258.lha
+Scanned: Ski Or Die
 Skipped: Skrull_v1.0_1709.lha
 Skipped: Skull&Crossbones_v1.3_0285.lha
 Skipped: Skweek_v1.2_2401.lha
@@ -9831,6 +9834,7 @@ Skipped: TinyLittleSlugDemo-WHDL.lha
 Skipped: TurboSprintAGAdemo-WHDL.lha
 Skipped: Turrican2AGAdemo-WHDL.lha
 Skipped: Turrican2AGAdemoW3-WHDL.lha
+Scanned: Ufo Atak Demo
 Skipped: UnderCoverDemo-WHDL.lha
 Skipped: Uridium1Demo-WHDL.lha
 Skipped: WarpgateDemo-WHDL.lha
@@ -10017,5 +10021,3 @@ Skipped: BarbarianPlus_v0.lha
 Skipped: GreySlayer_v0.lha
 Snippet added: DevilsTemple_v3.0_1222
 Snippet added: DevilsTemple_v3.5_1211
-Snippet added: Turrican2AGA
-Snippet added: Turrican2AGA_NTSC

@@ -1,4 +1,3 @@
-DungeonMaster
 KingsQuestEnhanced
 KingsQuestEnhancedMT32
 PoliceQuest2

@@ -5,7 +5,6 @@ EnemyTempestOfViolence
 EnemyTempestOfViolenceDe
 EnemyTOVEasyPlay
 EnemyTOVEasyPlayDe
-HudsonHawk
 Immortal
 KingsQuestEnhanced
 KingsQuestEnhancedMT32

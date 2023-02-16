@@ -1,4 +1,4 @@
-Scanned file log: 2023-02-15 at 21:40:15
+Scanned file log: 2023-02-16 at 21:06:37
 Scanned: 1001 Stolen Ideas
 Scanned: 1001 Stolen Ideas
 Scanned: 242
@@ -6460,7 +6460,7 @@ Scanned: Eye Of The Beholder [AGA]
 Scanned: First Samurai A 1200 Version
 Scanned: Flying Shark SE
 Scanned: Formula 1 3D
-Scanned: 
+Scanned: From Lights to Flag ( Demo)
 Scanned: Ghost Battle
 Scanned: Giana II - Arther and Martha in Future World (Hack by Earok)
 Scanned: Giana Sisters Special Edition
@@ -6533,6 +6533,7 @@ Scanned: Turrican 2 [AGA]
 Scanned: Turrican 2 [AGA] (NTSC)
 Scanned: Turrican 2 [AGA]
 Scanned: Turrican 2 [AGA] (NTSC)
+Scanned: Turrican 2 [AGA]
 Scanned: Ultima VI - The False Prophet
 Scanned: Ultima 6 (NTSC)
 Scanned: U.N. Squadron (Hack by Earok)

@@ -1,4 +1,4 @@
-Scanned file log: 2023-02-22 at 03:00:03
+Scanned file log: 2023-02-24 at 03:00:04
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -44,6 +44,7 @@ Skipped: AFewTunes_v1.0_Crusaders.lha
 Skipped: Alchemy_v1.0_Rage.lha
 Skipped: AlfredTheMusicDisk_v1.01_Relay.lha
 Skipped: Algebra_v1.0_DragonStone.lha
+Scanned: All We Need Is Music 5
 Skipped: Aloha_v1.0_Rebels.lha
 Skipped: Alpha&Omega_v1.0_PureMetalCoders.lha
 Skipped: AlternativeReality_v1.0_Suspect.lha
@@ -430,7 +431,7 @@ Skipped: Megademo2_v1.0_NorthStar.lha
 Skipped: Megademo2_v1.0_Scoopex.lha
 Skipped: Megademo2_v1.0_Vision.lha
 Skipped: Megademo2_v1.0_Vortex42.lha
-Scanned: Megademo 2 WOT
+Skipped: Megademo2_v1.0_WingsOfTomorrow.lha
 Skipped: Megademo2_v1.1_Budbrain.lha
 Skipped: Megademo2_v1.1_Rebels.lha
 Skipped: Megademo3_v1.01_NorthStar&Fairlight.lha
@@ -1994,6 +1995,7 @@ Skipped: CrazySue_v1.1.lha
 Skipped: Creatures_v1.1.lha
 Skipped: Creature_v1.1_0846.lha
 Skipped: Creature_v1.2_0846.lha
+Scanned: Cricket Captain
 Skipped: CrimeCity_v1.01.lha
 Skipped: CrimeCity_v1.01_De.lha
 Skipped: CrimeDoesNotPay_v1.0_0364.lha
@@ -6467,6 +6469,7 @@ Skipped: Giana2_v1.02_HardNHeavyHack.lha
 Skipped: GianaSistersSE_v1.2.lha
 Skipped: GreatGianaSisters_v1.7_2945.lha
 Skipped: HeroQuest_v1.2_German_fix_by_Viddi.lha
+Scanned: Hero Quest De Fix
 Skipped: Hugo_v1.0_Es_Spanish_hack_by_K-teto.lha
 Skipped: Hybris_v2.4b3_BETA_1457.lha
 Skipped: JamesPond_v0.1_BETA_1MB.lha

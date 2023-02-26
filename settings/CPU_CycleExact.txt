@@ -4,5 +4,4 @@ BadDudesNTSC
 BadDudesVsDragonNinja
 BadDudesVsDragonNinjaChip
 GhostsNGoblins
-PinkPanther
 SoldierOfLight

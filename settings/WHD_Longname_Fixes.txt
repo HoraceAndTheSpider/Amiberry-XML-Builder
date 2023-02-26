@@ -1,5 +1,3 @@
- & Data Disk| (& Data Disk)
-& Mstr Trcks|(Master Tracks)
 1943|1943 - The Battle of Midway
 20000 Lieues Mers FR|20000 Lieues Mers (Francais)
 3 DConstruction Kit|3D Construction Kit
@@ -996,7 +994,6 @@ Virtual Karting Demo [AGA]|Virtual Karting (Demo) [AGA]
 Viz|Viz - The Game
 Vroom & Data Disk|Vroom (& Data Disk)
 Vroom Multi Player|Vroom (Multi Player)
-Walker Decrunched|Walker (Decrunched)
 Wanderer 3 D|Wanderer 3D
 War Zone Core Design|War Zone (Core Design)
 War Zone Core|War Zone (Core Design)

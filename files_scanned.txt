@@ -1,4 +1,4 @@
-Scanned file log: 2023-03-01 at 03:00:04
+Scanned file log: 2023-03-03 at 03:00:04
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -501,7 +501,7 @@ Skipped: MegaMix2_v1.01_RoyalAmigaForce.lha
 Skipped: MegaMix3_v1.0_RoyalAmigaForce.lha
 Skipped: MegaTraxVol1_v1.0_InnerCity.lha
 Skipped: Melodies_v1.1_Scoopex.lha
-Scanned: Melodies
+Skipped: Melodies_v1.2_Scoopex.lha
 Skipped: MemorialSongs_v1.0_Alcatraz.lha
 Skipped: MentalHangover_v1.2_Scoopex.lha
 Skipped: MerryMelodies_v1.0_Relay.lha

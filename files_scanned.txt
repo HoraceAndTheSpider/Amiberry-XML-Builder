@@ -1,4 +1,4 @@
-Scanned file log: 2023-03-22 at 03:00:04
+Scanned file log: 2023-03-24 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -971,7 +971,7 @@ Skipped: AmigaKarate_v2.1_0045.lha
 Skipped: AmigaKarate_v2.1_NTSC_0045.lha
 Skipped: AmiRobbo_v1.0_Pl.lha
 Skipped: Amnios_v1.3_0423.lha
-Scanned: Amnios (NTSC)
+Skipped: Amnios_v1.3_NTSC.lha
 Skipped: Anarchy_v1.5.lha
 Skipped: A10TankKiller_v2.0_2Disk_1396.lha
 Skipped: A10TankKiller_v2.0_3Disk.lha
@@ -1648,8 +1648,8 @@ Skipped: BodyBlows_v1.3_Fast_1147.lha
 Skipped: BodyBlows_v2.0_1147.lha
 Skipped: BodyBlows_v2.0_AGA_1322.lha
 Skipped: BodyBlows_v2.0_Fast_1147.lha
-Scanned: Body Blows
-Scanned: Body Blows [AGA]
+Skipped: BodyBlows_v2.1_1147.lha
+Skipped: BodyBlows_v2.1_AGA_1322.lha
 Skipped: BomberBob_v1.0_1628.lha
 Skipped: BomberBob_v1.1_1628.lha
 Skipped: BombFusion_v1.0.lha
@@ -1772,7 +1772,7 @@ Skipped: Cardiaxx_v2.1_ElectronicZoo_1601.lha
 Skipped: Cardiaxx_v2.1_Team17_2362.lha
 Skipped: CardinalOfTheKremlin_v1.0.lha
 Skipped: CardinalOfTheKremlin_v1.01.lha
-Scanned: Carl Lewis Challenge (NTSC)
+Skipped: CarlLewisChallenge_v1.1_NTSC.lha
 Skipped: Carlos_v1.0_2299.lha
 Skipped: Carlos_v1.1_2299.lha
 Skipped: Carlos_v1.2_2229.lha
@@ -2332,9 +2332,9 @@ Skipped: DragonsBreath_v2.1_It.lha
 Skipped: DragonScape_v1.1.lha
 Skipped: DragonsKingdomDemo_v1.0.lha
 Skipped: DragonsLair&EscapeFromSingesCastle_v1.2a_Fast_1360&0980.lha
-Scanned: Dragons Lair & Escape Fst (NTSC)
+Skipped: DragonsLair&EscapeFromSingesCastle_v1.2a_Fast_NTSC.lha
 Skipped: DragonsLair&EscapeFromSingesCastle_v1.2a_Slow_1360&0980.lha
-Scanned: Dragons Lair & Escape Slw (NTSC)
+Skipped: DragonsLair&EscapeFromSingesCastle_v1.2a_Slow_NTSC.lha
 Skipped: DragonsLair2_v1.0_0059.lha
 Skipped: DragonsLair3_v1.0a_0649.lha
 Skipped: DragonsLairEscapeFromSingesCastleDemo_v1.0_NTSC.lha
@@ -4334,7 +4334,7 @@ Skipped: Obitus_v1.2.lha
 Skipped: Obitus_v1.3.lha
 Skipped: Obitus_v1.4.lha
 Skipped: Obitus_v1.5.lha
-Scanned: Obitus (NTSC)
+Skipped: Obitus_v1.5_NTSC.lha
 Skipped: Obliterator_v1.2_0706.lha
 Skipped: Obliterator_v1.3_0706.lha
 Skipped: Oblivion_v1.0.lha
@@ -6009,8 +6009,8 @@ Skipped: TurboRaketti2_v1.0_Fi.lha
 Skipped: TurboTrax_v1.1_Arcane_1MB_0156.lha
 Skipped: TurboTrax_v1.1_Arcane_512KB_0156.lha
 Skipped: Turbo_v1.0.lha
-Scanned: TVSports Basketball 2223
-Scanned: TVSports Basketball 2223 (Italiano)
+Skipped: TVSportsBasketball2223_v1.3.lha
+Skipped: TVSportsBasketball2223_v1.3_It.lha
 Skipped: TVSportsBasketball_v1.0_2122.lha
 Skipped: TVSportsBasketball_v1.3_2122.lha
 Skipped: TVSportsBoxing_v1.0_0755.lha

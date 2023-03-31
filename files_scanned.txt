@@ -1,4 +1,4 @@
-Scanned file log: 2023-03-29 at 03:00:05
+Scanned file log: 2023-03-31 at 03:00:05
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -989,6 +989,8 @@ Skipped: AceBall_v1.0_Pl.lha
 Skipped: AceBall_v1.0_Pl_AGA.lha
 Skipped: ActionFighter_v1.3.1_1243.lha
 Skipped: AddamsFamily_v1.3_0419.lha
+Skipped: AdidasChampionshipFootball_v1.0_Files.lha
+Skipped: AdidasChampionshipFootball_v1.0_Image.lha
 Scanned: Adidas Champ Football (Files)
 Scanned: Adidas Champ Football (Image)
 Skipped: Adrenalynn_v1.1a.lha
@@ -1455,6 +1457,7 @@ Skipped: BigNoseTheCaveman_v1.0.lha
 Skipped: BigRun_v1.1_0301.lha
 Skipped: Biing_v1.0_AGA_De_0442.lha
 Skipped: Biing_v1.1_AGA_De_0442.lha
+Scanned: Bill & Teds Excellent Adv
 Skipped: BillsTomatoGame_v2.0_1748.lha
 Skipped: BillsTomatoGame_v2.1_1748.lha
 Skipped: BillsTomatoGame_v2.1_NTSC.lha
@@ -2955,8 +2958,8 @@ Skipped: GhostsNGoblins_v1.4.lha
 Skipped: GhoulsNGhosts_v1.0_2252.lha
 Skipped: GhoulsNGhosts_v1.2_1Disk_1985.lha
 Skipped: GhoulsNGhosts_v1.2_2Disk_2252.lha
-Scanned: Ghouls NGhosts (1 Disk)
-Scanned: Ghouls NGhosts (2 Disk)
+Skipped: GhoulsNGhosts_v1.3_1Disk_1985.lha
+Skipped: GhoulsNGhosts_v1.3_2Disk_2252.lha
 Skipped: GloomDemo_v1.0_AGA.lha
 Skipped: GloomDemo_v1.1_AGA.lha
 Skipped: Gloom_v1.2_AGA_0124.lha
@@ -3495,7 +3498,7 @@ Skipped: JudgeDredd_v1.1.lha
 Skipped: Jug_v1.0.lha
 Skipped: JumpingJackSon_v1.41_1040.lha
 Skipped: JumpingJackSon_v2.0_1040.lha
-Scanned: Jump Machine
+Skipped: JumpMachine_v1.0.lha
 Skipped: Knightmare_v1.1_Konami.lha
 Skipped: Knightmare_v2.0_0966.lha
 Skipped: Knightmare_v2.1_0966.lha
@@ -5076,6 +5079,8 @@ Skipped: Scorpion_v1.2.lha
 Skipped: Scorpion_v1.3_2615.lha
 Skipped: Scrabble_v1.0.lha
 Skipped: ScrambleSpirits_v1.0_1955.lha
+Scanned: Screaming Wings (Files)
+Scanned: Screaming Wings (Image)
 Skipped: ScrollingWalls_v1.0.lha
 Skipped: ScubaDiver_v1.0_AGA.lha
 Skipped: SDI_v1.0_Cinemaware_1266.lha
@@ -5343,8 +5348,8 @@ Skipped: SpellboundDizzy_v1.0_2142.lha
 Skipped: SpellBound_v1.0_0783.lha
 Skipped: SpellBound_v1.0_Psygnosis_0783.lha
 Skipped: Spellbound_v1.1_LanderSoftware.lha
-Scanned: Spell Bound Psygnosis (Files)
-Scanned: Spell Bound Psygnosis (Image)
+Skipped: SpellBound_v1.3_Psygnosis_Files_0783.lha
+Skipped: SpellBound_v1.3_Psygnosis_Image_0783.lha
 Skipped: SpellfireTheSorcerer_v1.1_0231.lha
 Skipped: SperisLegacy_v1.1_AGA_1337.lha
 Skipped: SperisLegacy_v1.1_CD32.lha
@@ -6022,6 +6027,7 @@ Skipped: TVSportsBasketball2223_v1.3.lha
 Skipped: TVSportsBasketball2223_v1.3_It.lha
 Skipped: TVSportsBasketball_v1.0_2122.lha
 Skipped: TVSportsBasketball_v1.3_2122.lha
+Scanned: TVSports Basketball (Italiano)
 Skipped: TVSportsBoxing_v1.0_0755.lha
 Skipped: TVSportsFootball_v1.03_0407.lha
 Skipped: Twintris_v1.1.lha
@@ -6572,6 +6578,7 @@ Skipped: WonderboyInMonsterlandSE_v1.1_Hack_by_Earok.lha
 Skipped: WonderDogSE_v1.0_Hack_by_Earok.lha
 Skipped: Worthy_v1.0.lha
 Skipped: Xenon2Audio_v0.2b_BETA.lha
+Scanned: Xevious [AGA]
 Skipped: Ziriax_v1.3b_Ross_Ultimate_Edition.lha
 Skipped: Ziriax_v1.3_UltimateEdition_Ross.lha
 Skipped: Zool_v3.1_AGA_BETA.lha

@@ -1,4 +1,4 @@
-Scanned file log: 2023-04-05 at 03:00:05
+Scanned file log: 2023-04-07 at 03:00:05
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -1459,7 +1459,7 @@ Skipped: Biing_v1.0_AGA_De_0442.lha
 Skipped: Biing_v1.1_AGA_De_0442.lha
 Skipped: Bill&TedsExcellentAdventure_v1.0.lha
 Skipped: Bill&TedsExcellentAdventure_v1.1.lha
-Scanned: Bill & Teds Excellent Adv (NTSC)
+Skipped: Bill&TedsExcellentAdventure_v1.2_NTSC.lha
 Skipped: BillsTomatoGame_v2.0_1748.lha
 Skipped: BillsTomatoGame_v2.1_1748.lha
 Skipped: BillsTomatoGame_v2.1_NTSC.lha
@@ -2156,9 +2156,9 @@ Skipped: DanDare3_v1.2_2257.lha
 Skipped: DangerFreak_v1.0_0975.lha
 Skipped: DangerFreak_v1.1_0975.lha
 Skipped: DangerousStreets_v1.2_AGA_1020.lha
-Scanned: Dangerous Streets
-Scanned: Dangerous Streets [AGA]
-Scanned: Dangerous Streets [CD32]
+Skipped: DangerousStreets_v1.3_1019.lha
+Skipped: DangerousStreets_v1.3_AGA_1020.lha
+Skipped: DangerousStreets_v1.3_CD32.lha
 Skipped: Darius+_v1.0.lha
 Skipped: Darius+_v1.1_2303.lha
 Skipped: DarkCastle_v1.01_1459.lha
@@ -3015,6 +3015,7 @@ Skipped: GordianTomb_v1.0.lha
 Skipped: Gotcha_v1.0_Prestige.lha
 Skipped: GraemeSounessSoccerManager_v1.0.lha
 Skipped: GraemeSounessVectorSoccer_v1.1_1700.lha
+Scanned: Graffiti Man
 Skipped: GrahamGoochSecondInnings_v1.0.lha
 Skipped: GrahamGoochWorldClassCricketSpecialEdition_v1.0.lha
 Skipped: GrahamGoochWorldClassCricket_v1.0.lha
@@ -3348,7 +3349,7 @@ Skipped: International3DTennis_v1.0_1609.lha
 Skipped: International3DTennis_v1.1_1609.lha
 Skipped: InternationalIceHockey_v1.0_0665.lha
 Skipped: InternationalNinjaRabbits_v1.1.lha
-Scanned: Int Soccer Challenge
+Skipped: InternationalSoccerChallenge_v1.0_0866.lha
 Skipped: InternationalSoccer_v1.0_2429.lha
 Skipped: ImpossibleMission2025_v2.0-B_AGA_1833.lha
 Skipped: IndianaJones&TheLastCrusadeAdventure_v1.4_1990.lha
@@ -3836,7 +3837,7 @@ Skipped: LionheartDemo_v1.2.lha
 Skipped: LionheartDemo_v1.2_1MB.lha
 Skipped: Lionheart_v2.2_0845.lha
 Skipped: Lionheart_v2.3_0845.lha
-Scanned: Lionheart
+Skipped: Lionheart_v2.4_0845.lha
 Skipped: LiquidKids_v1.1_Files.lha
 Skipped: LiquidKids_v1.1_Image.lha
 Skipped: LiquidKids_v1.2_Files.lha
@@ -3935,10 +3936,11 @@ Skipped: MurdersInSpace_v1.3a_Files_2344.lha
 Skipped: MurdersInSpace_v1.3a_Image_2344.lha
 Skipped: MurdersInSpace_v1.3_Files_2344.lha
 Skipped: MurdersInSpace_v1.3_Image_2344.lha
-Scanned: Murders In Space Es (Files)
-Scanned: Murders In Space Es (Image)
-Scanned: Murders In Space (Files)
-Scanned: Murders In Space (Image)
+Skipped: MurdersInSpace_v1.4_Es_Files.lha
+Skipped: MurdersInSpace_v1.4_Es_Image.lha
+Skipped: MurdersInSpace_v1.4_Files_2344.lha
+Skipped: MurdersInSpace_v1.4_Image_2344.lha
+Scanned: Murders In Venice
 Skipped: Murder_v1.4_0136.lha
 Skipped: MutantLeagueHockey_v1.0_AGA.lha
 Skipped: MysteriousWorlds_v1.05_1588.lha
@@ -4163,7 +4165,7 @@ Skipped: Millennium22_v1.4_0537.lha
 Skipped: Mindbender_v1.0_2034.lha
 Skipped: Mindfighter_v1.0.lha
 Skipped: Mindroll_v1.1_0538.lha
-Scanned: Mindroll
+Skipped: Mindroll_v1.2_0538.lha
 Skipped: Mindshadow_v1.0_2546.lha
 Skipped: MindWalker_v0.9.lha
 Skipped: MindWalker_v0.9_NTSC_0951.lha
@@ -4269,8 +4271,8 @@ Skipped: NavySeals_v1.4_1251.lha
 Skipped: NavySeals_v2.0_1251.lha
 Skipped: NavySeals_v2.1_1251.lha
 Skipped: Nebulus2_v1.4_1713.lha
-Scanned: Nebulus 2 (Files)
-Scanned: Nebulus 2 (Image)
+Skipped: Nebulus2_v1.5_Files_1713.lha
+Skipped: Nebulus2_v1.5_Image_1713.lha
 Skipped: Nebulus_v1.3_0361.lha
 Skipped: Nebulus_v1.5_0361.lha
 Skipped: Necronom_v1.1_0542.lha
@@ -5086,7 +5088,7 @@ Skipped: SASCombatSimulator_v1.4_2205.lha
 Skipped: Satan_v1.3.lha
 Skipped: Savage_v1.0_0028.lha
 Skipped: Scapeghost_v1.0.lha
-Scanned: Scary Mutant Space Aliens
+Skipped: ScaryMutantSpaceAliensFromMars_v1.0_1549.lha
 Skipped: SchmutzigeErbe_v1.0_De.lha
 Skipped: SchwarzeAuge_v1.2_De_0806.lha
 Skipped: SciFi_v1.0_2464.lha
@@ -5097,8 +5099,8 @@ Skipped: Scrabble_v1.0.lha
 Skipped: ScrambleSpirits_v1.0_1955.lha
 Skipped: ScreamingWings_v1.0_Files_3021.lha
 Skipped: ScreamingWings_v1.0_Image_3021.lha
-Scanned: Screaming Wings (Files)
-Scanned: Screaming Wings (Image)
+Skipped: ScreamingWings_v1.1_Files_3021.lha
+Skipped: ScreamingWings_v1.1_Image_3021.lha
 Skipped: ScrollingWalls_v1.0.lha
 Skipped: ScubaDiver_v1.0_AGA.lha
 Skipped: SDI_v1.0_Cinemaware_1266.lha
@@ -5198,9 +5200,9 @@ Skipped: Shadoworlds_v1.1_0030.lha
 Skipped: ShadowSorcerer_v1.0_DeFrIt.lha
 Skipped: ShadowSorcerer_v1.1_0275.lha
 Skipped: ShadowSorcerer_v1.1_DeFrIt.lha
-Scanned: Shadow Sorcerer
-Scanned: Shadow Sorcerer De Fr (Italiano)
-Scanned: Shadow Sorcerer (Espanol)
+Skipped: ShadowSorcerer_v1.2_0275.lha
+Skipped: ShadowSorcerer_v1.2_DeFrIt.lha
+Skipped: ShadowSorcerer_v1.2_Es.lha
 Skipped: ShadowWarriors_v1.1_0830.lha
 Skipped: ShadowWarriors_v2.1a_0830.lha
 Skipped: ShadowWarriors_v2.1_0830.lha
@@ -5944,7 +5946,7 @@ Skipped: TimeRunners29_v1.0_2737.lha
 Skipped: TimeRunners30_v1.0_2738.lha
 Skipped: TimeRunnersSeries_v1.0.lha
 Skipped: TimeRunner_v1.0_2984.lha
-Scanned: Time Runner
+Skipped: TimeRunner_v1.1_2984.lha
 Skipped: TimeScanner_v1.0_1060.lha
 Skipped: TimesOfLore_v1.2_2777.lha
 Skipped: TimeSoldier_v1.3.lha

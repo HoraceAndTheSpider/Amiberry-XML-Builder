@@ -401,7 +401,7 @@ SimCityNTSC
 SimonTheSorcerer
 SimonTheSorcererAGA
 Simulcra
-SirFredTheLegend
+SirFred
 SpaceHarrier2
 SpaceQuest
 SpaceQuestEnhanced

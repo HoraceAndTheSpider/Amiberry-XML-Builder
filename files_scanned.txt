@@ -1,4 +1,4 @@
-Scanned file log: 2023-04-12 at 03:00:04
+Scanned file log: 2023-04-14 at 03:00:04
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -1848,7 +1848,7 @@ Skipped: Cattivik_v1.0_2752.lha
 Skipped: CaveMania_v1.2_2220.lha
 Skipped: Centurion_v1.0_NTSC_1945.lha
 Skipped: Century_v1.0_0640.lha
-Scanned: Challenge Foot (Francais)
+Skipped: ChallengeFoot_v1.0_Fr.lha
 Skipped: ChamberOfTheSciMutantPriestess_v1.1b.lha
 Skipped: ChamberOfTheSciMutantPriestess_v1.1b_NTSC_3037.lha
 Skipped: ChamberOfTheSciMutantPriestess_v1.2_NTSC_3037.lha
@@ -2276,6 +2276,7 @@ Skipped: DesertStrike_v3.1_0112.lha
 Skipped: DesertStrike_v3.3_0112.lha
 Skipped: DesertStrike_v3.3_512k_0112.lha
 Skipped: DesertStrike_v4.0_0112.lha
+Scanned: Desert Strike - Return to the Gulf
 Skipped: Destroyer_v1.0_0318.lha
 Skipped: Detector_v1.0.lha
 Skipped: Detonator_v1.0.lha
@@ -2562,8 +2563,8 @@ Skipped: EspanaTheGames92_v1.2_1327.lha
 Skipped: ESWAT_v2.0_Files_2577.lha
 Skipped: ESWAT_v2.0_Image_2577.lha
 Skipped: ETsRugbyLeague_v1.0.lha
-Scanned: Eureka Maths 4 Eme 3 Eme (Francais)
-Scanned: Eureka Maths 6 Eme 5 Eme (Francais)
+Skipped: EurekaMaths4Eme3Eme_v1.0_Fr.lha
+Skipped: EurekaMaths6Eme5Eme_v1.0_Fr.lha
 Skipped: EuropeanChampionship1992_v1.01_0478.lha
 Skipped: EuropeanChampions_v1.2_Ocean_2569.lha
 Skipped: EuropeanFootballChamp_v1.0_1672.lha
@@ -3250,7 +3251,7 @@ Skipped: Hoverforce_v2.1_NTSC_2867.lha
 Skipped: Hoversprint_v1.0_2109.lha
 Skipped: HoyleVolume3_v1.0_2085.lha
 Skipped: HoyleVolume3_v1.1_2085.lha
-Scanned: Hoyle Volume 3
+Skipped: HoyleVolume3_v1.2.lha
 Skipped: HuckleberryHound_v1.1.lha
 Skipped: HudsonHawk_v1.5_1035.lha
 Skipped: Hugo1_v1.0_Dk.lha
@@ -4283,8 +4284,8 @@ Skipped: NavySeals_v2.1_1251.lha
 Skipped: Nebulus2_v1.4_1713.lha
 Skipped: Nebulus2_v1.5_Files_1713.lha
 Skipped: Nebulus2_v1.5_Image_1713.lha
-Scanned: Nebulus 2 (Files)
-Scanned: Nebulus 2 (Image)
+Skipped: Nebulus2_v1.6_Files_1713.lha
+Skipped: Nebulus2_v1.6_Image_1713.lha
 Skipped: Nebulus_v1.3_0361.lha
 Skipped: Nebulus_v1.5_0361.lha
 Skipped: Necronom_v1.1_0542.lha
@@ -4534,10 +4535,10 @@ Skipped: PGATourGolf&TournamentCourseDisk_v1.01_0891.lha
 Skipped: PGATourGolf&TournamentCourseDisk_v1.02_0891&0892.lha
 Skipped: PGATourGolf_v1.01_0891.lha
 Skipped: PGATourGolf_v1.02_0891.lha
-Scanned: Phalanx 2
+Skipped: Phalanx2_v1.0_2709.lha
 Skipped: Phalanx_v1.1.lha
 Skipped: Phalanx_v1.1_2708.lha
-Scanned: Phalanx
+Skipped: Phalanx_v1.2_2708.lha
 Skipped: Phantasie3_v1.1_1186.lha
 Skipped: Phantasie_v1.0_1185.lha
 Skipped: Phantasm_v1.1_2972.lha
@@ -4775,7 +4776,7 @@ Skipped: PinballWizard_v1.0.lha
 Skipped: PinballWizard_v1.0_Prerelease.lha
 Skipped: Pinkie_v1.2b_1774.lha
 Skipped: PinkPanther_v1.0_0236.lha
-Scanned: Pink Panther
+Skipped: PinkPanther_v1.1_0236.lha
 Skipped: Pinomania_v1.0.lha
 Skipped: PipeDream_v1.0.lha
 Skipped: Prison_v1.0_0416.lha
@@ -5261,7 +5262,7 @@ Skipped: SinkOrSwim_v1.1_512KB.lha
 Skipped: SinkOrSwim_v1.2_1065.lha
 Skipped: SinkOrSwim_v1.2_512k_1065.lha
 Skipped: SirFredTheLegend_v1.0_1652.lha
-Scanned: Sir Fred
+Skipped: SirFred_v1.3_1652.lha
 Skipped: Sixiang_v1.0_2757.lha
 Skipped: Sixiang_v1.1_2757.lha
 Skipped: Sixiang_v1.1_AltVersion.lha
@@ -5407,8 +5408,8 @@ Skipped: Spirilon_v1.0_AGA.lha
 Skipped: SpiritOfAdventure_v1.2_De_1Disk.lha
 Skipped: SpiritOfAdventure_v1.2_De_3Disk.lha
 Skipped: SpiritOfExcalibur_v1.01_NTSC_2852.lha
-Scanned: Spirit Of Excalibur
-Scanned: Spirit Of Excalibur (NTSC)
+Skipped: SpiritOfExcalibur_v1.02_1586.lha
+Skipped: SpiritOfExcalibur_v1.02_NTSC_2852.lha
 Skipped: SpittingImage_v1.0.lha
 Skipped: SpittingImage_v1.1_3026.lha
 Skipped: Spot_v0.1_Arcadia.lha
@@ -5463,6 +5464,7 @@ Skipped: Stellar7_v1.0_De_0732.lha
 Skipped: Stellar7_v1.0_NTSC_2026.lha
 Skipped: StirCrazyFeaturingBobo_v1.0.lha
 Skipped: StoneAge_v1.1.lha
+Scanned: Stone Age
 Skipped: StoriaAncestrale_v1.0.lha
 Skipped: Stormball_v1.1_0404.lha
 Skipped: Stormball_v1.2_0404.lha
@@ -5936,7 +5938,7 @@ Skipped: ThunderJaws_v1.4_Files_0293.lha
 Skipped: ThunderJaws_v1.4_Image_0293.lha
 Skipped: ThunderStrike_v1.1_0406.lha
 Skipped: TieBreak_v1.0.lha
-Scanned: Tie-Break
+Skipped: TieBreak_v1.1_2637.lha
 Skipped: TigerRoad_v1.3.lha
 Skipped: TimeAndMagik_v1.0.lha
 Skipped: TimeBandit_v1.0.lha
@@ -6220,9 +6222,9 @@ Skipped: VegasGambler_v1.0a.lha
 Skipped: VengeanceOfExcalibur_v1.01_2499.lha
 Skipped: VengeanceOfExcalibur_v1.01_De_2499.lha
 Skipped: VengeanceOfExcalibur_v1.01_Fr_2499.lha
-Scanned: Vengeance Of Excalibur
-Scanned: Vengeance Of Excalibur (Deutsch)
-Scanned: Vengeance Of Excalibur (Francais)
+Skipped: VengeanceOfExcalibur_v1.02_2499.lha
+Skipped: VengeanceOfExcalibur_v1.02_De_2499.lha
+Skipped: VengeanceOfExcalibur_v1.02_Fr_2499.lha
 Skipped: VenomWing_v1.1.lha
 Skipped: VenomWing_v2.0.lha
 Skipped: VenomWing_v2.0a.lha
@@ -6584,6 +6586,7 @@ Skipped: MrMenOlympics_v1.1.lha
 Skipped: MsPacMan_v1.0.lha
 Skipped: Netherworld_v1.5_2033_BETA.lha
 Skipped: Neutralizer2Demo_v0.1_BETA.lha
+Scanned: Nibbler Super Extra
 Skipped: NibbyNibble_v1.0.lha
 Skipped: NightWalk_v1.0_BETA.lha
 Skipped: NinjaGaiden2_v0.1_BETA.lha

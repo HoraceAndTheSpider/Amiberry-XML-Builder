@@ -1,4 +1,4 @@
-Scanned file log: 2023-04-19 at 03:00:04
+Scanned file log: 2023-04-21 at 03:00:04
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -1628,7 +1628,7 @@ Skipped: BCKid_v1.5_0435.lha
 Skipped: BeachVolley_v1.0_1249.lha
 Skipped: Beam_v1.0_1304.lha
 Skipped: BeastBusters_v1.1_1012.lha
-Scanned: Beast Busters
+Skipped: BeastBusters_v1.2_1012.lha
 Skipped: Beastlord_v1.01_2452.lha
 Skipped: Beastlord_v1.02_2452.lha
 Skipped: Beavers_v1.1_2575.lha
@@ -2570,7 +2570,7 @@ Skipped: ETsRugbyLeague_v1.0.lha
 Skipped: EurekaMaths4Eme3Eme_v1.0_Fr.lha
 Skipped: EurekaMaths6Eme5Eme_v1.0_Fr.lha
 Skipped: EuropeanChampionship1992_v1.01_0478.lha
-Scanned: European Championship 1992
+Skipped: EuropeanChampionship1992_v1.02_0478.lha
 Skipped: EuropeanChampions_v1.2_Ocean_2569.lha
 Skipped: EuropeanFootballChamp_v1.0_1672.lha
 Skipped: EuropeanSpaceSimulator_v1.0_1375.lha

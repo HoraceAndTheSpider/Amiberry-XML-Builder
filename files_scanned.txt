@@ -1,4 +1,4 @@
-Scanned file log: 2023-04-26 at 03:00:04
+Scanned file log: 2023-04-28 at 03:00:05
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -2434,6 +2434,7 @@ Skipped: DayOfThePharaoh_v1.1_2052.lha
 Skipped: DayOfThePharaoh_v1.1_De_0315.lha
 Skipped: DayOfTheViper_v1.0_0454.lha
 Skipped: DaysOfThunder_v1.1_0285.lha
+Scanned: Days Of Thunder
 Skipped: Drakkhen_v1.3_Fr_Image_2558.lha
 Skipped: Drakkhen_v1.3_Image_0769.lha
 Skipped: Drakkhen_v1.3_NTSC_Files_1843.lha

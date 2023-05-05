@@ -1,4 +1,4 @@
-Scanned file log: 2023-05-03 at 03:00:04
+Scanned file log: 2023-05-05 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 242_v1.1_Fairlight&VirtualDreams.lha
@@ -4066,9 +4066,9 @@ Skipped: Moonstone_v1.6_0360.lha
 Skipped: MotorMassacre_v1.0_1089.lha
 Skipped: MUDS_v1.3.lha
 Skipped: MaxRally_v1.1.lha
-Scanned: Max Rally
-Scanned: Max Rally [AGA]
-Scanned: Max Rally Low Mem
+Skipped: MaxRally_v1.2.lha
+Skipped: MaxRally_v1.2_AGA.lha
+Skipped: MaxRally_v1.2_LowMem.lha
 Skipped: Maya_v1.4_1742.lha
 Skipped: Maya_v1.4_Es.lha
 Skipped: Maya_v1.4_Es_Fast.lha
@@ -5734,7 +5734,7 @@ Skipped: ShaqFu_v1.1_AGA_1761.lha
 Skipped: SharkeysMoll_v1.2_2133.lha
 Skipped: SharkeysMoll_v1.3_2133.lha
 Skipped: SheFox_v1.3_0383.lha
-Scanned: She-Fox
+Skipped: SheFox_v1.4_0383.lha
 Skipped: ShermanM4_v1.2.lha
 Skipped: Shinobi_v1.4_1054.lha
 Skipped: Shinobi_v1.4_NTSC_2354.lha
@@ -6031,8 +6031,8 @@ Skipped: TomLandryStrategyFootball_v1.0.lha
 Skipped: TommyGun_v1.1.lha
 Skipped: TotalEclipse_v1.0_2255.lha
 Skipped: TotalEclipse_v1.0_NTSC_1973.lha
-Scanned: Total Eclipse
-Scanned: Total Eclipse (NTSC)
+Skipped: TotalEclipse_v1.1_2255.lha
+Skipped: TotalEclipse_v1.1_NTSC_1973.lha
 Skipped: TotalFootball_v1.3_0154.lha
 Skipped: TotalRecall_v1.1_Files_1770.lha
 Skipped: TotalRecall_v1.1_Image_1769.lha
@@ -6096,6 +6096,7 @@ Skipped: TurboCup_v1.2_Fr_2409.lha
 Skipped: TurboCup_v1.3.lha
 Skipped: TurboCup_v1.3_Fr_2409.lha
 Skipped: TurboOutRun_v1.2_1064.lha
+Scanned: Turbo Raketti 2
 Skipped: TurboRaketti2_v1.0_Fi.lha
 Skipped: TurboTrax_v1.1_Arcane_1MB_0156.lha
 Skipped: TurboTrax_v1.1_Arcane_512KB_0156.lha
@@ -6278,7 +6279,7 @@ Skipped: VirtualKarting_v1.2_AGA_1059.lha
 Skipped: Virus_v1.0_0004.lha
 Skipped: VitalLight_v1.1.lha
 Skipped: Vixen_v1.3_0993.lha
-Scanned: Vixen
+Skipped: Vixen_v1.4_0993.lha
 Skipped: Viz_v1.0.lha
 Skipped: Volfied_v1.2_1418.lha
 Skipped: VoodooNightmare_v1.1_2556.lha

@@ -1,4 +1,4 @@
-Scanned file log: 2023-05-17 at 03:00:04
+Scanned file log: 2023-05-19 at 03:00:04
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -93,7 +93,7 @@ Skipped: BeyondJustice_v1.0_Dexion.lha
 Skipped: BeyondTheFuture_v1.0_Union_AGA.lha
 Skipped: BigBusiness_v1.0_DefJam.lha
 Skipped: BigTimeSensuality_v1.4_Axis_AGA.lha
-Scanned: Big Time Sensuality [AGA]
+Skipped: BigTimeSensuality_v1.5_Axis_AGA.lha
 Skipped: Birthday_v1.0_Turnips.lha
 Skipped: BlackEnergy_v1.0_Hardline.lha
 Skipped: BlackNWhite_v1.2_Pentagon.lha
@@ -2177,8 +2177,8 @@ Skipped: Darius+_v1.1_2303.lha
 Skipped: DarkCastle_v1.01_1459.lha
 Skipped: DarkCastle_v1.02.lha
 Skipped: DarkCastle_v1.02_NTSC_1459.lha
-Scanned: Dark Castle
-Scanned: Dark Castle (NTSC)
+Skipped: DarkCastle_v1.03.lha
+Skipped: DarkCastle_v1.03_NTSC_1459.lha
 Skipped: DarkCentury_v1.0_0244.lha
 Skipped: DarkCentury_v1.1_0244.lha
 Skipped: DarkFusion_v1.0_2163.lha
@@ -6213,6 +6213,7 @@ Skipped: Ultima4_v1.1_1390.lha
 Skipped: Ultima4_v1.1_NTSC_1390.lha
 Skipped: Ultima5_v1.2_0785.lha
 Skipped: Ultima5_v1.3_0785.lha
+Scanned: Ultima V - Warriors of Destiny
 Skipped: Ultima6_v1.1_0294.lha
 Skipped: UltimateBodyBlows_v1.1_CD32.lha
 Skipped: UltimateGolf_v1.2_2129.lha
@@ -6376,8 +6377,8 @@ Skipped: WeirdDreams_v1.0_2100.lha
 Skipped: WeirdDreams_v2.1_2100.lha
 Skipped: Welltris_v1.0_1622.lha
 Skipped: WembleyInternationalSoccer_v1.0.lha
-Scanned: Wembley International Soccer
-Scanned: Wembley International Soccer [AGA]
+Skipped: WembleyInternationalSoccer_v1.01.lha
+Skipped: WembleyInternationalSoccer_v1.01_AGA_1704.lha
 Skipped: WembleyInternationalSoccer_v1.0_AGA_1704.lha
 Skipped: WembleyRugbyLeague_v1.0_1673.lha
 Skipped: WesternGames_v1.0_0790.lha
@@ -6459,6 +6460,7 @@ Skipped: Wizkid_v1.0_1449.lha
 Skipped: Wizkid_v1.1_1449.lha
 Skipped: Wizkid_v1.2_1449.lha
 Skipped: Wizkid_v1.3_1449.lha
+Scanned: Wizkid
 Skipped: WizNLiz_v2.1_0749.lha
 Skipped: Wolfchild_v1.1_0411.lha
 Skipped: Wolfchild_v1.2_0411.lha

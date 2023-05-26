@@ -1,4 +1,4 @@
-Scanned file log: 2023-05-24 at 03:00:03
+Scanned file log: 2023-05-26 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -1501,6 +1501,7 @@ Skipped: BlazingThunder_v1.2_2082.lha
 Skipped: BlinkysScarySchool_v1.1_0437.lha
 Skipped: BlinkysScarySchool_v1.2_0437.lha
 Skipped: Blobz_v1.0_AGA.lha
+Scanned: Blockbuster (NTSC)
 Skipped: BlockOut_v1.2_0208.lha
 Skipped: BlockOut_v1.4_0208.lha
 Skipped: BlockShock_v1.0.lha
@@ -1903,6 +1904,8 @@ Skipped: ChuckRock2_v3.0_CD32.lha
 Skipped: ChuckRock2_v3.1_0282.lha
 Skipped: ChuckRock2_v3.1_CD32.lha
 Skipped: ChuckRock_v1.1_CD32.lha
+Scanned: Chuck Rock
+Scanned: Chuck Rock [CD32]
 Skipped: ChuckYeagersAdvancedFlightTrainer2_v1.0_0670.lha
 Skipped: CircusAttractions_v1.0_1Disk_1689.lha
 Skipped: CircusAttractions_v1.0_2Disk_0450.lha
@@ -3323,7 +3326,9 @@ Skipped: Ilyad_v1.2_1944.lha
 Skipped: Immortal_v2.1_0340.lha
 Skipped: Immortal_v3.0_0340.lha
 Skipped: Impact95_v1.1.lha
+Scanned: Impact 95
 Skipped: Impact_v1.1_2462.lha
+Scanned: Impact
 Skipped: Imperium_v1.2_0341.lha
 Skipped: Impossamole_v1.3a_0063.lha
 Skipped: ImpossibleMission2025_v2.0-B_1107.lha
@@ -4658,11 +4663,11 @@ Skipped: Plan9FromOuterSpace_v1.2a.lha
 Skipped: Plan9FromOuterSpace_v1.3_3023.lha
 Skipped: Pod_v1.0.lha
 Skipped: Pod_v1.1.lha
-Scanned: Poker Nights & Data Disks
+Skipped: PokerNights&DataDisks_v1.2.lha
 Skipped: PokerNights&DataDisk_v1.1.lha
 Skipped: PokerNights_v1.0_De.lha
 Skipped: PokerNights_v1.1.lha
-Scanned: Poker Nights
+Skipped: PokerNights_v1.2.lha
 Skipped: PoliceQuest2_v1.0_1849.lha
 Skipped: PoliceQuest3_v1.2.lha
 Skipped: PoliceQuest3_v1.2_De.lha
@@ -5106,6 +5111,7 @@ Skipped: Switchblade2_v1.6_1725.lha
 Skipped: Switchblade2_v1.7_1725.lha
 Skipped: Switchblade_v1.3_1101.lha
 Skipped: SWIV_v1.7_0038.lha
+Scanned: SWIV
 Skipped: Swooper_v1.0.lha
 Skipped: Sword&TheRose_v1.2.lha
 Skipped: SwordOfAragon_v1.0_2277.lha
@@ -5689,7 +5695,7 @@ Skipped: SurfNinjas_v1.0_AGA_1291.lha
 Skipped: SurfNinjas_v1.1_AGA_1291.lha
 Skipped: SurfNinjas_v1.1_CD32.lha
 Skipped: SuspiciousCargo_v1.0_0148.lha
-Scanned: Suspicious Cargo
+Skipped: SuspiciousCargo_v2.0_0148.lha
 Skipped: Swap_v1.0.lha
 Skipped: Swap_v1.0_Fr_2146.lha
 Skipped: SpaceQuest3_v2.0_De_0579.lha

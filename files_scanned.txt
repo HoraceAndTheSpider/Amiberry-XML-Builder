@@ -1,4 +1,4 @@
-Scanned file log: 2023-06-14 at 03:00:04
+Scanned file log: 2023-06-16 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -5536,6 +5536,8 @@ Skipped: Striker_v1.0_1075.lha
 Skipped: StripPoker2+&DataDisk1_v1.1_0584&0784.lha
 Skipped: StripPoker2+_v1.1_0584.lha
 Skipped: StripPoker2_v1.1_1022.lha
+Scanned: Strip Poker 3 & Data Disks
+Scanned: Strip Poker 3
 Skipped: StripPoker_v1.2.lha
 Skipped: StripPot_v1.1_AGA.lha
 Skipped: StripPot_v1.1_CD32.lha

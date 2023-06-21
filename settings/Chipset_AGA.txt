@@ -5,7 +5,6 @@ EnemyTempestOfViolence
 EnemyTempestOfViolenceDe
 EnemyTOVEasyPlay
 EnemyTOVEasyPlayDe
-Immortal
 KingsQuestEnhanced
 KingsQuestEnhancedMT32
 PoliceQuest2

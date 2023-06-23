@@ -1,4 +1,4 @@
-Scanned file log: 2023-06-21 at 03:00:04
+Scanned file log: 2023-06-23 at 03:00:05
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -1320,7 +1320,7 @@ Skipped: BabyJoInGoingHome_v1.1_2291.lha
 Skipped: BabylonianTwinsDemo_v1.1.lha
 Skipped: Backlash_v1.0_1118.lha
 Skipped: BackToTheFuturePart2_v1.2_0005.lha
-Scanned: Back To The Future Part II
+Skipped: BackToTheFuturePart2_v1.3a_0005.lha
 Skipped: BackToTheFuturePart2_v1.3_0005.lha
 Skipped: BackToTheFuturePart3_v1.3.lha
 Skipped: BackToTheFuturePart3_v1.3_0265.lha
@@ -3328,7 +3328,7 @@ Skipped: ILudicrus_v1.0.lha
 Skipped: Ilyad_v1.2_1944.lha
 Skipped: Immortal_v2.1_0340.lha
 Skipped: Immortal_v3.0_0340.lha
-Scanned: Immortal
+Skipped: Immortal_v3.1_0340.lha
 Skipped: Impact95_v1.1.lha
 Skipped: Impact95_v1.2.lha
 Skipped: Impact_v1.1_2462.lha
@@ -3864,7 +3864,7 @@ Skipped: Leviathan_v1.0.lha
 Skipped: LicenceToKill_v1.2_0772.lha
 Skipped: Life&Death_v1.2_1126.lha
 Skipped: LightCorridor_v1.0_0526.lha
-Scanned: Light Corridor
+Skipped: LightCorridor_v2.0_0526.lha
 Skipped: LightRacer_v1.0_De.lha
 Skipped: Limes&Napoleon_v1.0.lha
 Skipped: Limes&Napoleon_v1.1_2983.lha
@@ -4348,6 +4348,7 @@ Skipped: NewZealandStory_v2.4_1180.lha
 Skipped: NewZealandStory_v2.5_1180.lha
 Skipped: NewZealandStory_v2.6_1180.lha
 Skipped: NibbyNibble_v1.0.lha
+Scanned: Nibby Nibble
 Skipped: NickFaldosChampionshipGolf_v2.1b_1164.lha
 Skipped: NickFaldosChampionshipGolf_v2.1b_CD32.lha
 Skipped: Nicky2_v1.1.lha
@@ -5333,7 +5334,7 @@ Skipped: SkiOrDie_v1.0_1258.lha
 Skipped: SkiOrDie_v1.1_1258.lha
 Skipped: Skrull_v1.0_1709.lha
 Skipped: Skull&Crossbones_v1.3_0285.lha
-Scanned: Skull & Crossbones
+Skipped: Skull&Crossbones_v1.3_0385.lha
 Skipped: Skweek_v1.2_2401.lha
 Skipped: Skyblaster_v1.0_2047.lha
 Skipped: SkyChase_v1.2_2610.lha

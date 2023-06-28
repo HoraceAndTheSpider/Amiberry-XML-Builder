@@ -4,4 +4,7 @@ BadDudesNTSC
 BadDudesVsDragonNinja
 BadDudesVsDragonNinjaChip
 GhostsNGoblins
+HostageNTSC
+Hostages
+OperationJupiterFr
 SoldierOfLight

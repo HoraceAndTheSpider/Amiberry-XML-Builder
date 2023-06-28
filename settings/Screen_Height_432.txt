@@ -22,6 +22,7 @@ FireAndIce
 Fire&IceXmasDemo
 GemStoneLegend
 HATE
+HostageNTSC
 Hostages
 JamesPond2
 JamesPond2AGA

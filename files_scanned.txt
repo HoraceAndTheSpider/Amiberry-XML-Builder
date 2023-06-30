@@ -1,4 +1,4 @@
-Scanned file log: 2023-06-28 at 03:00:04
+Scanned file log: 2023-06-30 at 03:00:04
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -1948,6 +1948,7 @@ Skipped: Coala_v1.0_AGA_0242.lha
 Skipped: Coala_v2.0_0242.lha
 Skipped: Coala_v2.0_AGA_0242.lha
 Skipped: Cobra_v1.0.lha
+Scanned: Cobra
 Skipped: CodeNameIceman_v1.5_0468.lha
 Skipped: CogansRun_v1.0_0469.lha
 Skipped: ColonelsBequest_v2.2_0796.lha
@@ -5891,7 +5892,7 @@ Skipped: Tex12_v1.0_It.lha
 Skipped: TexPiomboCaldoPart1_v1.0_It.lha
 Skipped: TexPiomboCaldoPart2_v1.0_It.lha
 Skipped: TFX_v1.0_AGA.lha
-Scanned: TFXAGA
+Skipped: TFX_v2.0_AGA.lha
 Skipped: TheatreOfDeath_v1.1_0254.lha
 Skipped: TheirFinestHour&Missions_v1.1_0037&1369.lha
 Skipped: TheirFinestHour_v1.1_0037.lha

@@ -4,6 +4,7 @@ BodyBlowsGalacticAGA
 Cabal
 CapitalPunishmentAGA
 CapitalPunishmentAGACD
+ChambersOfShaolin
 DesertStrike
 FateGatesOfDawn
 FateGatesOfDawnDe

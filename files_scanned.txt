@@ -1,4 +1,4 @@
-Scanned file log: 2023-07-05 at 03:00:04
+Scanned file log: 2023-07-07 at 03:00:04
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -1980,6 +1980,7 @@ Skipped: ConanTheCimmerian_v1.1_2657.lha
 Skipped: ConflictEurope_v1.1.lha
 Skipped: ConflictEurope_v1.1_Fr_2648.lha
 Skipped: ConflictMiddleEastPoliticalSimulator_v1.0.lha
+Scanned: Conflict - The Middle East Simulation
 Skipped: Corporation&Missions_v1.4_3Disk_0107&0266.lha
 Skipped: Corporation_v1.4_1Disk_0107.lha
 Skipped: Corporation_v1.4_2Disk_0107.lha
@@ -2001,6 +2002,7 @@ Skipped: CovertAction_v1.0_1834.lha
 Skipped: CovertAction_v1.0_De_0310.lha
 Skipped: CrackDown_v1.2.1.lha
 Skipped: Crack_v1.0_0057.lha
+Scanned: Crack
 Skipped: CrashGarrett_v1.0_NTSC_1373.lha
 Skipped: CrazyCars2_v1.1_0311.lha
 Skipped: CrazyCars2_v1.2_0311.lha
@@ -2447,6 +2449,7 @@ Skipped: DawnPatrol_v1.0_1614.lha
 Skipped: DawnPatrol_v1.0_De_0314.lha
 Skipped: DayOfThePharaoh_v1.1_2052.lha
 Skipped: DayOfThePharaoh_v1.1_De_0315.lha
+Scanned: Day Of The Viper
 Skipped: DayOfTheViper_v1.0_0454.lha
 Skipped: DaysOfThunder_v1.1_0285.lha
 Skipped: DaysOfThunder_v2.0_0285.lha
@@ -4201,6 +4204,7 @@ Skipped: Midwinter_v2.2_De_0358.lha
 Skipped: Midwinter_v2.2_Fr_2553.lha
 Skipped: MiG29Fulcrum_v1.0_1045.lha
 Skipped: MiG29MSuperFulcrum_v1.0.lha
+Scanned: MiG-29M Super Fulcrum
 Skipped: MiG29SovietFighter_v1.3_0535.lha
 Skipped: Might&Magic2_v1.01_0990.lha
 Skipped: Might&Magic3_v1.2_2346.lha
@@ -5422,6 +5426,7 @@ Skipped: SpaceQuest3_v1.2b_0292.lha
 Skipped: SpaceQuest3_v1.2b_De_0579.lha
 Skipped: SpaceQuest3_v1.2b_De_MT32_0579.lha
 Skipped: SpaceQuest_v1.2_NTSC_1484.lha
+Scanned: Space Quest (NTSC)
 Skipped: SpaceRacer_v1.0_0580.lha
 Skipped: SpaceRacer_v1.0_Fr_2408.lha
 Skipped: SpaceRacer_v1.1_0580.lha
@@ -6534,6 +6539,7 @@ Skipped: WorldClassRugby_v1.0_2131.lha
 Skipped: WorldClassSoccer_v1.2.lha
 Skipped: WorldCricket_v1.0.lha
 Skipped: WorldCup90_v1.0.lha
+Skipped: WorldCup90_v1.1.lha
 Scanned: World Cup 90
 Skipped: WorldCupUSA94_v1.0_0163.lha
 Skipped: WorldDarts_v0.1_Arcadia.lha
@@ -6722,7 +6728,7 @@ Skipped: Turrican2_v1.0_AGA_NTSC.lha
 Skipped: Turrican2_v1.15_AGA.lha
 Skipped: Turrican2_v1.15_AGA_NTSC.lha
 Skipped: Turrican2_v1.18_AGA.lha
-Scanned: Turrican 2 [AGA]
+Skipped: Turrican2_v1.19_AGA.lha
 Skipped: Ultima6_v1.2_0294.lha
 Skipped: Ultima6_v1.2_NTSC.lha
 Skipped: UNSquadron_v1.2_Hack_by_Earok.lha

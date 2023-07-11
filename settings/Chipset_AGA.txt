@@ -9,7 +9,6 @@ KingsQuestEnhanced
 KingsQuestEnhancedMT32
 PoliceQuest2
 Powermonger
-Savage
 SimCity
 SimCity12
 SimCity512KB

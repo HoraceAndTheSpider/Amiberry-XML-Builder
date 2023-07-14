@@ -1,4 +1,4 @@
-Scanned file log: 2023-07-12 at 03:00:05
+Scanned file log: 2023-07-14 at 03:00:05
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -1262,8 +1262,8 @@ Skipped: ATrain_v1.4_Pl.lha
 Skipped: AttackOfTheGreenSmellyAliensFromPlanet27b6_v1.0.lha
 Skipped: AufschwungOst_v1.1_De.lha
 Skipped: AuntArcticAdventure_v1.0_1757.lha
-Scanned: Aunt Arctic Adventure
-Scanned: Aunt Arctic Adventure (Deutsch)
+Skipped: AuntArcticAdventure_v2.0_1757.lha
+Skipped: AuntArcticAdventure_v2.0_De.lha
 Skipped: AustraloPiticusMechanicus_v1.0a_0809.lha
 Skipped: AustraloPiticusMechanicus_v2.0_0809.lha
 Skipped: AutoDuel_v1.0_0916.lha
@@ -5166,7 +5166,7 @@ Skipped: SASCombatSimulator_v1.3_2205.lha
 Skipped: SASCombatSimulator_v1.4_2205.lha
 Skipped: Satan_v1.3.lha
 Skipped: Savage_v1.0_0028.lha
-Scanned: Savage
+Skipped: Savage_v1.1_0028.lha
 Skipped: Scapeghost_v1.0.lha
 Skipped: ScaryMutantSpaceAliensFromMars_v1.0_1549.lha
 Skipped: SchmutzigeErbe_v1.0_De.lha
@@ -5571,9 +5571,9 @@ Skipped: Stryx_v1.1_0733.lha
 Skipped: Stryx_v1.2_0733.lha
 Skipped: STUNRunner_v1.0.lha
 Skipped: StuntCarRacerTNT_v1.3.lha
-Scanned: Stunt Car Racer - The New Tracks
+Skipped: StuntCarRacerTNT_v1.4.lha
 Skipped: StuntCarRacer_v1.3_0222.lha
-Scanned: Stunt Car Racer
+Skipped: StuntCarRacer_v1.4_0222.lha
 Skipped: StuntTrackRacer_v1.0_1142.lha
 Skipped: StuntTrackRacer_v1.0_NTSC_1142.lha
 Skipped: SubBattleSimulator_v1.0_NTSC_1458.lha
@@ -6698,7 +6698,7 @@ Skipped: Outlands&DizzyDice_v0.8_BETA.lha
 Skipped: Outlands&DizzyDice_v1.0_BETA.lha
 Skipped: Outlands_v1.0_BETA.lha
 Skipped: PacMan_v1.0.lha
-Scanned: Pengo
+Skipped: Pengo_v1.0.lha
 Skipped: Pengo_v1.0_BETA.lha
 Skipped: PokerNights&DataDisk_v1.1.lha
 Skipped: Populous&DataDisks_v1.2_BETA_0069&1217.lha
@@ -6740,6 +6740,7 @@ Skipped: Turrican2_v1.15_AGA.lha
 Skipped: Turrican2_v1.15_AGA_NTSC.lha
 Skipped: Turrican2_v1.18_AGA.lha
 Skipped: Turrican2_v1.19_AGA.lha
+Scanned: Turrican 2 [AGA]
 Skipped: Ultima6_v1.2_0294.lha
 Skipped: Ultima6_v1.2_NTSC.lha
 Skipped: UNSquadron_v1.2_Hack_by_Earok.lha

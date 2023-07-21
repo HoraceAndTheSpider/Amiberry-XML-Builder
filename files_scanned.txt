@@ -1,4 +1,4 @@
-Scanned file log: 2023-07-19 at 03:00:04
+Scanned file log: 2023-07-21 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -598,7 +598,7 @@ Skipped: NeuralAssault_v1.1_Rage.lha
 Skipped: NewAge_v1.0_RamJam.lha
 Skipped: NewtronsMusicBox_v1.0_Orix.lha
 Skipped: Nexus7_v1.1_Andromeda_AGA.lha
-Scanned: Nexus 7 [AGA] (Fast)
+Skipped: Nexus7_v1.2_Andromeda_AGA_Fast.lha
 Skipped: NightshadesHarmony_v1.0_Ecstacy.lha
 Skipped: NoBrainNoPain_v1.0_FlashProduction.lha
 Skipped: NoBrainNoPain_v1.0_Paradise.lha
@@ -4851,8 +4851,8 @@ Skipped: Profezia_v1.0_It_2375.lha
 Skipped: ProjectXBonusLevel_v1.0.lha
 Skipped: ProjectXSE_v1.5_0927.lha
 Skipped: ProjectXSE_v1.5_CD32.lha
-Scanned: Project-X Special Edition
-Scanned: Project X - Special Edition [CD32]
+Skipped: ProjectXSE_v1.6_0927.lha
+Skipped: ProjectXSE_v1.6_CD32.lha
 Skipped: ProjectXv2_v1.3_0289.lha
 Skipped: ProjectXv2_v1.4.1_0289.lha
 Skipped: ProjectXv2_v1.4_0289.lha
@@ -6723,7 +6723,7 @@ Skipped: SuperCars2_v0.86_AGA.lha
 Skipped: SuperCars2_v0.87_AGA.lha
 Skipped: SuperCars2_v0.88_AGA.lha
 Skipped: SuperCars2_v0.89_AGA.lha
-Scanned: Super Cars 2 [AGA]
+Skipped: SuperCars2_v0.90_AGA.lha
 Skipped: SuperGemZ_v1.0.lha
 Skipped: SuperHangOn_v1.5_Hack_by_Earok.lha
 Skipped: SuperMonacoGP_v1.2_BETA.lha

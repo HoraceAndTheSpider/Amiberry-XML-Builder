@@ -1,4 +1,4 @@
-Scanned file log: 2023-07-26 at 03:00:04
+Scanned file log: 2023-07-28 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -3466,7 +3466,7 @@ Skipped: IndoorSports_v1.1.lha
 Skipped: IndyHeat_v1.1.lha
 Skipped: IndyHeat_v1.21_2436.lha
 Skipped: InertiaDrive_v1.0.lha
-Scanned: Inertia Drive Alt
+Skipped: InertiaDrive_v1.0_Alt.lha
 Skipped: Infection_v1.0.lha
 Skipped: JewelsOfDarkness_v1.0.lha
 Skipped: JimmysFantasticJourney_v1.1.lha
@@ -4714,7 +4714,7 @@ Skipped: PoolsOfDarkness_v1.1.lha
 Skipped: PoolsOfDarkness_v1.1_De.lha
 Skipped: Pool_v1.0_2177.lha
 Skipped: Popeye2_v1.1.lha
-Scanned: Popeye 2
+Skipped: Popeye2_v1.2.lha
 Skipped: Populous&DataDisks_v1.1_0069&1217.lha
 Skipped: Populous&DataDisks_v1.2_0069&1217.lha
 Skipped: Populous&DataDisks_v1.3_0069&1217.lha
@@ -6651,7 +6651,8 @@ Skipped: Armalyte_v1.3_BETA.lha
 Skipped: Atlantyda_v1.1_Pl.lha
 Skipped: Boppin_v1.0.lha
 Skipped: BuggyBoy_v1.3_BETA_0465.lha
-Scanned: Castlevania [AGA]
+Scanned: Castlevania Demo [AGA]
+Skipped: Castlevania_v1.2_AGA.lha
 Skipped: Citadel_v1.3_RemonsteredEdition.lha
 Skipped: Citadel_v1.4_RemonsteredEdition.lha
 Skipped: Cobra_v1.0.lha

@@ -1,4 +1,4 @@
-Scanned file log: 2023-08-02 at 03:00:04
+Scanned file log: 2023-08-04 at 03:00:04
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -4335,7 +4335,7 @@ Skipped: NaughtyOnes_v1.1.lha
 Skipped: NaughtyOnes_v1.1_AGA_1715.lha
 Skipped: NaughtyOnes_v1.1_CD32.lha
 Skipped: NavyMoves_v1.2_2428.lha
-Scanned: Navy Moves (Espanol)
+Skipped: NavyMoves_v1.2_Es.lha
 Skipped: NavySeals_v1.4_1251.lha
 Skipped: NavySeals_v2.0_1251.lha
 Skipped: NavySeals_v2.1_1251.lha

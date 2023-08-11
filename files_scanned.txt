@@ -1,4 +1,4 @@
-Scanned file log: 2023-08-09 at 03:00:04
+Scanned file log: 2023-08-11 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -597,10 +597,10 @@ Skipped: NegativeFX_v1.0_Reality.lha
 Skipped: NeuralAssault_v1.1_Rage.lha
 Skipped: NewAge_v1.0_RamJam.lha
 Skipped: NewtronsMusicBox_v1.0_Orix.lha
-Scanned: Nexus 7 [AGA]
+Skipped: Nexus7_v1.1_Andromeda.lha
 Skipped: Nexus7_v1.1_Andromeda_AGA.lha
 Skipped: Nexus7_v1.2_Andromeda_AGA_Fast.lha
-Scanned: Nexus 7 [AGA] (Fast)
+Skipped: Nexus7_v1.3_Andromeda_AGA_Fast.lha
 Skipped: NightshadesHarmony_v1.0_Ecstacy.lha
 Skipped: NoBrainNoPain_v1.0_FlashProduction.lha
 Skipped: NoBrainNoPain_v1.0_Paradise.lha
@@ -1118,7 +1118,7 @@ Skipped: Aliex_v2.0_2961.lha
 Skipped: AllanBordersCricket_v1.0.lha
 Skipped: AlloAllo_v1.0.lha
 Skipped: AlloAllo_v1.1_1005.lha
-Scanned: ATR - All Terrain Racing (Xmas Demo)
+Skipped: AllTerrainRacingXmasDemo_v1.2.lha
 Skipped: AllTerrainRacingXmasDemo_v1.3.lha
 Skipped: AllTerrainRacing_v1.2.lha
 Skipped: AllTerrainRacing_v1.4.lha
@@ -5853,8 +5853,8 @@ Skipped: Simulman10_v1.0_It.lha
 Skipped: Simulman11_v1.0_It.lha
 Skipped: SwordsOfTwilight_v1.0_0972.lha
 Skipped: Sword_v1.0.lha
-Scanned: Sword
-Scanned: Sword (512Kb)
+Skipped: Sword_v1.1.lha
+Skipped: Sword_v1.1_512k.lha
 Skipped: SyndicateAmericanRevolt_v2.2.lha
 Skipped: SyndicateAmericanRevolt_v2.3.lha
 Skipped: SyndicateAmericanRevolt_v2.6.lha
@@ -6096,7 +6096,7 @@ Skipped: TimeRunner_v1.0_2984.lha
 Skipped: TimeRunner_v1.1_2984.lha
 Skipped: TimeScanner_v1.0_1060.lha
 Skipped: TimesOfLore_v1.2_2777.lha
-Scanned: Time Soldier
+Skipped: TimeSoldier_v1.3.1.lha
 Skipped: TimeSoldier_v1.3.lha
 Skipped: Time_v1.1.lha
 Skipped: Time_v1.1_De_1697.lha

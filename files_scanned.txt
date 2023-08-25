@@ -1,4 +1,4 @@
-Scanned file log: 2023-08-23 at 03:00:04
+Scanned file log: 2023-08-25 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -4698,8 +4698,8 @@ Skipped: Pipeline_v1.1_Nomad.lha
 Skipped: Pipeline_v1.1_Oracle.lha
 Skipped: PipeMania_v1.0_0220.lha
 Skipped: PiratesGold_v2.2_CD32.lha
-Scanned: Pirates Gold [CD32] (Deutsch)
-Scanned: Pirates Gold [CD32] (Francais)
+Skipped: PiratesGold_v2.2_CD32_De.lha
+Skipped: PiratesGold_v2.2_CD32_Fr.lha
 Skipped: Pirates_v1.4_0552.lha
 Skipped: PitFighter_v1.1_0196.lha
 Skipped: Pixie&Dixie_v1.0.lha
@@ -5463,6 +5463,7 @@ Skipped: SpaceQuest3_v1.2b_0292.lha
 Skipped: SpaceQuest3_v1.2b_De_0579.lha
 Skipped: SpaceQuest3_v1.2b_De_MT32_0579.lha
 Skipped: SpaceQuest_v1.2_NTSC_1484.lha
+Scanned: Space Quest (NTSC)
 Skipped: SpaceQuest_v1.3_NTSC_1484.lha
 Skipped: SpaceRacer_v1.0_0580.lha
 Skipped: SpaceRacer_v1.0_Fr_2408.lha

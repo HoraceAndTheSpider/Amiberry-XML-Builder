@@ -1,4 +1,4 @@
-Scanned file log: 2023-08-30 at 03:00:05
+Scanned file log: 2023-09-01 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -3272,7 +3272,9 @@ Skipped: Historyline_v1.5_Fr.lha
 Skipped: HitchhikersGuideToTheGalaxy_v1.0.lha
 Skipped: Hoi_v1.0_0962.lha
 Skipped: HoleInOne&DataDisks_v1.1.lha
+Scanned: Hole In One (& Data Disks)
 Skipped: HoleInOne_v1.1.lha
+Scanned: Hole In One
 Skipped: HolidayMaker_v1.1_CDTV_De.lha
 Skipped: HolidayMaker_v1.1_De.lha
 Skipped: HollywoodPokerPro_v1.3_2506.lha
@@ -6223,6 +6225,7 @@ Skipped: TVSportsBasketball_v1.3_It.lha
 Skipped: TVSportsBoxing_v1.0_0755.lha
 Skipped: TVSportsFootball_v1.03_0407.lha
 Skipped: Twintris_v1.1.lha
+Scanned: Twintris
 Skipped: TwinTurbos_v1.0.lha
 Skipped: TwinWorld_v1.1_1294.lha
 Skipped: TwinWorld_v1.2_1294.lha
@@ -6711,7 +6714,7 @@ Skipped: Hybris_v2.4b3_BETA_1457.lha
 Skipped: JamesPond_v0.1_BETA_1MB.lha
 Skipped: JetsonsLegendOfRobotopia_v1.1.lha
 Skipped: JoanOfArc_v0.1.lha
-Scanned: Karate Champ
+Skipped: KarateChamp_v1.0.lha
 Skipped: Knightmare_v1.1_Konami.lha
 Skipped: LastActionHero_v1.1_Hack_by_AmigaLive.lha
 Skipped: LastActionHero_v1.2_Hack_by_AmigaLive.lha

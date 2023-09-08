@@ -1,4 +1,4 @@
-Scanned file log: 2023-09-06 at 03:00:04
+Scanned file log: 2023-09-08 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -561,7 +561,7 @@ Skipped: MusicDisk2_v1.0_FantasyForce.lha
 Skipped: MusicDisk2_v1.0_IKS.lha
 Skipped: MusicDisk2_v1.0_Vega.lha
 Skipped: MusicDisk3_v1.0_DMob.lha
-Scanned: Music Disk 3 Vega
+Skipped: MusicDisk3_v1.0_Vega.lha
 Skipped: MusicDisk4_v1.0_DMob.lha
 Skipped: MusicDisk4_v1.0_Vega.lha
 Skipped: MusicDisk6_v1.0_RamJam.lha

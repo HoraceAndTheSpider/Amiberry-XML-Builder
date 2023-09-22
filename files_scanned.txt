@@ -1,4 +1,4 @@
-Scanned file log: 2023-09-20 at 03:00:04
+Scanned file log: 2023-09-22 at 03:00:04
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -6773,7 +6773,7 @@ Skipped: SuperCars2_v0.87_AGA.lha
 Skipped: SuperCars2_v0.88_AGA.lha
 Skipped: SuperCars2_v0.89_AGA.lha
 Skipped: SuperCars2_v0.90_AGA.lha
-Scanned: Super Cars 2 [AGA]
+Skipped: SuperCars2_v0.91_AGA.lha
 Skipped: SuperGemZ_v1.0.lha
 Skipped: SuperHangOn_v1.5_Hack_by_Earok.lha
 Skipped: SuperMonacoGP_v1.2_BETA.lha

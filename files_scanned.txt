@@ -1,4 +1,4 @@
-Scanned file log: 2023-09-27 at 03:00:04
+Scanned file log: 2023-09-29 at 03:00:04
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -1657,7 +1657,7 @@ Skipped: Beavers_v2.0_2575.lha
 Skipped: Beavers_v2.0_CD32.lha
 Skipped: BirdsOfPrey_v1.1_0101.lha
 Skipped: Bismarck_v1.0_2563&2702.lha
-Scanned: Bismarck En Fr (Deutsch)
+Skipped: Bismarck_v1.1_EnFrDe_2563&2702.lha
 Skipped: Bivouac_v1.1_Fr.lha
 Skipped: Bivouac_v1.2_Fr.lha
 Skipped: BlackCauldron_v1.2_2057.lha

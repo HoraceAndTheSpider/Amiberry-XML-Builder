@@ -1,4 +1,4 @@
-Scanned file log: 2023-10-04 at 03:00:04
+Scanned file log: 2023-10-06 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -6674,6 +6674,8 @@ Skipped: ZanyGolf_v1.1_NTSC_1482.lha
 Skipped: Zarathrusta_v1.2_1501.lha
 Skipped: Zaxxon_v1.1_1MB.lha
 Skipped: Zaxxon_v1.1_512KB.lha
+Scanned: Zaxxon
+Scanned: Zaxxon (512Kb)
 Skipped: ZaZelaznaBrama_v1.1_Pl.lha
 Skipped: Zeewolf2_v5.00_0608.lha
 Skipped: Zeewolf_v5.03_0414.lha

@@ -1,4 +1,4 @@
-Scanned file log: 2023-10-11 at 03:00:03
+Scanned file log: 2023-10-13 at 03:00:04
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -6139,6 +6139,7 @@ Skipped: TitusTheFox_v2.3_0226.lha
 Skipped: Toki_v2.3a_0040.lha
 Skipped: Toki_v2.3_0040.lha
 Skipped: Tolteka_v1.0.lha
+Scanned: Tolteka
 Skipped: Tom&Jerry2_v1.1_2229.lha
 Skipped: Tom&Jerry2_v1.2_2229.lha
 Skipped: Tom&JerryHuntingHighAndLow_v1.1_1305.lha

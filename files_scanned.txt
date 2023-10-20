@@ -1,4 +1,4 @@
-Scanned file log: 2023-10-18 at 03:00:04
+Scanned file log: 2023-10-20 at 03:00:04
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -1537,6 +1537,7 @@ Skipped: Blueberry_v1.0_De.lha
 Skipped: BlueBerry_v1.1_De.lha
 Skipped: BlueBerry_v1.1_Es.lha
 Skipped: BlueBerry_v1.1_Fr.lha
+Scanned: Blue Boy
 Skipped: BluesBrothers_v1.2_3081.lha
 Skipped: BluesBrothers_v1.3_3081.lha
 Skipped: BluesBrothers_v1.4_3081.lha
@@ -1576,6 +1577,8 @@ Skipped: Breach2_v1.0_1195.lha
 Skipped: Breach2_v1.1_1195.lha
 Skipped: Breach_v1.0_1487.lha
 Skipped: Breach_v1.0_NTSC_1487.lha
+Scanned: Breach
+Scanned: Breach (NTSC)
 Skipped: BreakOutRevolution_v1.0_AGA.lha
 Skipped: BreathlessDemo_v1.1.lha
 Skipped: BreathlessDemo_v1.1_AGA.lha
@@ -2270,7 +2273,7 @@ Skipped: DrDoomsRevenge_v1.1_1Disk_2501.lha
 Skipped: DrFruit_v1.0.lha
 Skipped: DungeonsOfAvalon2_v1.0_1957.lha
 Skipped: DefendersOfTheEarth_v1.2_0456.lha
-Scanned: Defender Acid
+Skipped: Defender_v1.0_Acid.lha
 Skipped: Defender_v1.0_Ratsoft.lha
 Skipped: DefenseurDeLaCouronne2_v1.1_CD32_Fr.lha
 Skipped: DefenseurDeLaCouronne2_v1.2_CD32_Fr.lha
@@ -2594,20 +2597,6 @@ Skipped: Enlightenment_v1.0_1948.lha
 Skipped: Entity_v1.2_1735.lha
 Skipped: Entity_v1.2_NoIntro_1735.lha
 Skipped: Epic&MissionDisk_v1.3_1819.lha
-Skipped: Epic_v1.3_1819.lha
-Skipped: Epic_v2.0_1819.lha
-Skipped: Epic_v2.0_1MB_1820.lha
-Skipped: Erbe_v1.0_De.lha
-Skipped: Erik_v1.0.lha
-Skipped: EscapeFromColditz_v1.2_0214.lha
-Skipped: EscapeFromColditz_v1.3_0214.lha
-Skipped: EscapeFromColditz_v1.4a_0214.lha
-Skipped: EscapeFromColditz_v1.4_0214.lha
-Skipped: EscapeFromThePlanetOfTheRobotMonsters_v1.5_0477.lha
-Skipped: EscapeFromThePlanetOfTheRobotMonsters_v1.6_0477.lha
-Skipped: Eskadra_v1.1_Pl.lha
-Skipped: EskimoGames_v1.0_0232.lha
-Skipped: EspanaTheGames92_v1.2_1327.lha
 Skipped: ESWAT_v2.0_Files_2577.lha
 Skipped: ESWAT_v2.0_Image_2577.lha
 Skipped: ETsRugbyLeague_v1.0.lha
@@ -2636,8 +2625,23 @@ Skipped: Explora2_v1.2_Fr_2662.lha
 Skipped: Elvira2_v1.4_2242.lha
 Skipped: EmeraldMine_v1.0_1525.lha
 Skipped: EnemyTempestOfViolence_v1.1_EasyPlay.lha
+Skipped: Epic_v1.3_1819.lha
 Skipped: ESWAT_v1.0_2577.lha
 Skipped: Explora3_v1.2_Fr_2676.lha
+Skipped: Epic_v2.0_1819.lha
+Skipped: Epic_v2.0_1MB_1820.lha
+Skipped: Erbe_v1.0_De.lha
+Skipped: Erik_v1.0.lha
+Skipped: EscapeFromColditz_v1.2_0214.lha
+Skipped: EscapeFromColditz_v1.3_0214.lha
+Skipped: EscapeFromColditz_v1.4a_0214.lha
+Skipped: EscapeFromColditz_v1.4_0214.lha
+Scanned: Escape Robot Monsters (NTSC)
+Skipped: EscapeFromThePlanetOfTheRobotMonsters_v1.5_0477.lha
+Skipped: EscapeFromThePlanetOfTheRobotMonsters_v1.6_0477.lha
+Skipped: Eskadra_v1.1_Pl.lha
+Skipped: EskimoGames_v1.0_0232.lha
+Skipped: EspanaTheGames92_v1.2_1327.lha
 Skipped: FutureWars_v4.3-B_De_0506.lha
 Skipped: FutureWars_v4.3-B_Es_2506.lha
 Skipped: FutureWars_v4.3-B_It.lha
@@ -6695,7 +6699,7 @@ Skipped: ApidyaSpecialEdition_v1.1_Hack_by_Earok.lha
 Skipped: Area88_v1.2_Hack_by_Earok.lha
 Skipped: Armalyte_v1.3_BETA.lha
 Skipped: Atlantyda_v1.1_Pl.lha
-Scanned: Bagman
+Skipped: Bagman_v1.0.lha
 Skipped: Boppin_v1.0.lha
 Skipped: BuggyBoy_v1.3_BETA_0465.lha
 Skipped: CastlevaniaDemo_v1.2_AGA.lha

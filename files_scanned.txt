@@ -1,4 +1,4 @@
-Scanned file log: 2023-11-01 at 03:00:04
+Scanned file log: 2023-11-03 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -6718,6 +6718,7 @@ Skipped: FirstSamurai_v1.6_A1200Version_NONAGA.lha
 Skipped: FlyingSharkSpecialEdition_v1.0_Hack_by_Earok.lha
 Skipped: FormulaOne3D_v1.0.lha
 Skipped: FromLightsToFlag_v0.lha
+Scanned: Galaxian
 Skipped: Galaxian_v1.0_BETA.lha
 Skipped: GhostBattle_v1.3.lha
 Skipped: Giana2_v1.02_HardNHeavyHack.lha

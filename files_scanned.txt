@@ -1,4 +1,4 @@
-Scanned file log: 2023-11-08 at 03:00:04
+Scanned file log: 2023-11-10 at 03:00:04
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -243,7 +243,7 @@ Skipped: EndOfMisery_v1.0_Sagazity.lha
 Skipped: Engine_v1.0_Ramses_AGA.lha
 Skipped: Enigma_v1.3_Phenomena.lha
 Skipped: EnjoyTheSilents_v1.0_Silents.lha
-Scanned: Eon
+Skipped: Eon_v1.0_BlackLotus.lha
 Skipped: Epilepsia_v1.0_Amnesia.lha
 Skipped: Erazorhead_v1.0_Razor1911.lha
 Skipped: EssentialBeats3_v1.0_Quote.lha
@@ -2640,8 +2640,8 @@ Skipped: EscapeFromColditz_v1.4_0214.lha
 Skipped: EscapeFromThePlanetOfTheRobotMonsters_v1.3_NTSC.lha
 Skipped: EscapeFromThePlanetOfTheRobotMonsters_v1.5_0477.lha
 Skipped: EscapeFromThePlanetOfTheRobotMonsters_v1.6_0477.lha
-Scanned: Escape Robot Monsters
-Scanned: Escape Robot Monsters (NTSC)
+Skipped: EscapeFromThePlanetOfTheRobotMonsters_v1.7_0477.lha
+Skipped: EscapeFromThePlanetOfTheRobotMonsters_v1.7_NTSC.lha
 Skipped: Eskadra_v1.1_Pl.lha
 Skipped: EskimoGames_v1.0_0232.lha
 Skipped: EspanaTheGames92_v1.2_1327.lha
@@ -6726,6 +6726,7 @@ Skipped: Galaxian_v1.0_BETA.lha
 Skipped: GhostBattle_v1.3.lha
 Skipped: Giana2_v1.02_HardNHeavyHack.lha
 Skipped: GianaSistersSE_v1.2.lha
+Scanned: Gods
 Skipped: GreatGianaSisters_v1.7_2945.lha
 Skipped: HeroQuest_v1.2_German_fix_by_Viddi.lha
 Skipped: HeroQuest_v1.2_German_fix_by_Viddi_v2.lha

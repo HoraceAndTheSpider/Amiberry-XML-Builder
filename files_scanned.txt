@@ -1,4 +1,4 @@
-Scanned file log: 2023-11-15 at 03:00:04
+Scanned file log: 2023-11-17 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -1328,7 +1328,7 @@ Skipped: Burntime_v1.2_2266.lha
 Skipped: Burntime_v1.2_AGA_2213.lha
 Skipped: Burntime_v1.2_AGA_De_2348.lha
 Skipped: Burntime_v1.2_De_0446.lha
-Scanned: Butcher Hill
+Skipped: ButcherHill_v1.0.1.lha
 Skipped: ButcherHill_v1.0.lha
 Skipped: B17FlyingFortressDemo_v1.0.lha
 Skipped: B17FlyingFortress_v1.0_1196.lha
@@ -2024,7 +2024,7 @@ Skipped: CovertAction_v1.0_De_0310.lha
 Skipped: CrackDown_v1.2.1.lha
 Skipped: Crack_v1.0_0057.lha
 Skipped: Crack_v1.1_0057.lha
-Scanned: Crash Garrett
+Skipped: CrashGarrett_v1.0_1373.lha
 Skipped: CrashGarrett_v1.0_NTSC_1373.lha
 Skipped: CrazyCars2_v1.1_0311.lha
 Skipped: CrazyCars2_v1.2_0311.lha
@@ -4361,7 +4361,7 @@ Skipped: Nam19651975_v1.0.lha
 Skipped: NarcoPolice_v1.1.lha
 Skipped: NarcoPolice_v1.2.lha
 Skipped: Narc_v1.0_1256.lha
-Scanned: Nathan Never (Italiano)
+Skipped: NathanNever_v1.0.1_It_2667.lha
 Skipped: NathanNever_v1.0_It_2667.lha
 Skipped: NaughtyOnes_v1.1.lha
 Skipped: NaughtyOnes_v1.1_AGA_1715.lha
@@ -6169,10 +6169,10 @@ Skipped: TotalEclipse_v1.0_NTSC_1973.lha
 Skipped: TotalEclipse_v1.1_2255.lha
 Skipped: TotalEclipse_v1.1_NTSC_1973.lha
 Skipped: TotalFootball_v1.3_0154.lha
-Scanned: Total Recall (Image)
+Skipped: TotalRecall_v1.0_Image_1769.lha
 Skipped: TotalRecall_v1.1_Files_1770.lha
 Skipped: TotalRecall_v1.1_Image_1769.lha
-Scanned: Total Recall (Files)
+Skipped: TotalRecall_v1.2_Files_1770.lha
 Skipped: TournamentGolf_v1.0_1278.lha
 Skipped: TowerOfBabel_v2.0_1056.lha
 Skipped: TowerOfSouls_v1.0_AGA_2212.lha
@@ -6789,7 +6789,7 @@ Skipped: Snakes_v0.9.lha
 Skipped: StoriaAncestrale_v0.9g.lha
 Skipped: StuntCarRacerTNT_v1.4_BETA.lha
 Skipped: StuntCarRacer_v1.4_BETA_0222.lha
-Scanned: Super Bagman
+Skipped: SuperBagman_v1.0.lha
 Skipped: SuperCars2_v0.85_AGA.lha
 Skipped: SuperCars2_v0.86_AGA.lha
 Skipped: SuperCars2_v0.87_AGA.lha

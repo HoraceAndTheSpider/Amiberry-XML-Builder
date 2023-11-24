@@ -1,4 +1,4 @@
-Scanned file log: 2023-11-22 at 03:00:04
+Scanned file log: 2023-11-24 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -2027,8 +2027,8 @@ Skipped: Crack_v1.0_0057.lha
 Skipped: Crack_v1.1_0057.lha
 Skipped: CrashGarrett_v1.0_1373.lha
 Skipped: CrashGarrett_v1.0_NTSC_1373.lha
-Scanned: Crash Garrett
-Scanned: Crash Garrett (NTSC)
+Skipped: CrashGarrett_v1.1.lha
+Skipped: CrashGarrett_v1.1_NTSC_1373.lha
 Skipped: CrazyCars2_v1.1_0311.lha
 Skipped: CrazyCars2_v1.2_0311.lha
 Skipped: CrazyCars2_v1.3_0311.lha
@@ -3197,6 +3197,7 @@ Skipped: HalleyProject_v1.0_2519.lha
 Skipped: HammerBoy_v1.1_1349.lha
 Skipped: Hammerfist_v1.1.lha
 Skipped: Hammerfist_v1.2_1358.lha
+Scanned: Hammerfist
 Skipped: Hanse_v1.01_De.lha
 Skipped: HaraldHaardtand_v1.1_Dk.lha
 Skipped: HaraldHaardtand_v1.2_Dk.lha
@@ -4131,6 +4132,7 @@ Skipped: ManFromTheCouncil_v1.0_2599.lha
 Skipped: ManiacMansion_v1.5_Es.lha
 Skipped: MarvinsMarvellousAdventure_v1.01_CD32.lha
 Skipped: MaxRally_v1.0.lha
+Skipped: MaydaySquad_v2.0_Fr.lha
 Skipped: MegaBlast_v1.0.lha
 Skipped: MFTanks_v1.0.lha
 Skipped: MicroMachines_v1.1_0357.lha
@@ -4155,22 +4157,6 @@ Skipped: Maya_v1.4_Fr.lha
 Skipped: Maya_v1.4_Fr_Fast.lha
 Skipped: MaydaySquadHeroes_v1.0_2219.lha
 Skipped: MaydaySquad_v2.0_2219.lha
-Skipped: MaydaySquad_v2.0_Fr.lha
-Skipped: McDonaldLandV2_v1.5.lha
-Skipped: McDonaldLand_v1.4.1_0970.lha
-Skipped: McDonaldLand_v1.5_0970.lha
-Skipped: MeanArenas_v1.0b.lha
-Skipped: MeanArenas_v1.0b_CD32.lha
-Skipped: MeanMachine_v1.3.lha
-Skipped: MeanStreets_v1.2.lha
-Skipped: MeanStreets_v1.2_De.lha
-Skipped: MeanStreets_v1.2_Fr.lha
-Skipped: MegaBall_v1.02.lha
-Skipped: MegaBall_v1.02_1MB.lha
-Skipped: MegaBall_v1.02_AGA.lha
-Skipped: MegaBall_v1.03.lha
-Skipped: MegaBall_v1.03_1MB.lha
-Skipped: MegaBall_v1.03_AGA.lha
 Skipped: MegaLoMania_v1.7_0272.lha
 Skipped: MegaLoMania_v1.7_De_0076.lha
 Skipped: MegaLoMania_v1.7_Fr_1741.lha
@@ -4337,6 +4323,22 @@ Skipped: MaupitiIsland_v1.6_2070.lha
 Skipped: MaupitiIsland_v1.6_De_1362.lha
 Skipped: MaupitiIsland_v1.6_Es.lha
 Skipped: MaupitiIsland_v1.6_Fr_2039.lha
+Skipped: McDonaldLandV2_v1.5.lha
+Skipped: McDonaldLand_v1.4.1_0970.lha
+Skipped: McDonaldLand_v1.5_0970.lha
+Skipped: MeanArenas_v1.0b.lha
+Skipped: MeanArenas_v1.0b_CD32.lha
+Skipped: MeanMachine_v1.3.lha
+Skipped: MeanStreets_v1.2.lha
+Skipped: MeanStreets_v1.2_De.lha
+Skipped: MeanStreets_v1.2_Fr.lha
+Scanned: Mean Streets (NTSC)
+Skipped: MegaBall_v1.02.lha
+Skipped: MegaBall_v1.02_1MB.lha
+Skipped: MegaBall_v1.02_AGA.lha
+Skipped: MegaBall_v1.03.lha
+Skipped: MegaBall_v1.03_1MB.lha
+Skipped: MegaBall_v1.03_AGA.lha
 Skipped: NoExcuses_v0801.1_2456.lha
 Skipped: NoExit_v1.0_2841.lha
 Skipped: NorthAndSouth_v1.7_Files_0194.lha
@@ -5670,6 +5672,8 @@ Skipped: SuperGrandPrix_v1.0_2145.lha
 Skipped: SuperGridRunner_v1.0.lha
 Skipped: SuperHangOn_v1.5_0816.lha
 Skipped: SuperHangOn_v1.6_0816.lha
+Scanned: Super Hang-On
+Scanned: Super Hang On (NTSC)
 Skipped: SuperheroDemo_v1.0.lha
 Skipped: SuperLoopz_v1.0_AGA.lha
 Skipped: Superman_v1.0.lha
@@ -6729,6 +6733,7 @@ Skipped: FirstSamurai_v1.6_A1200Version_NONAGA.lha
 Skipped: FlyingSharkSpecialEdition_v1.0_Hack_by_Earok.lha
 Skipped: FormulaOne3D_v1.0.lha
 Skipped: Frogger_v1.21.lha
+Scanned: Frogger
 Skipped: FromLightsToFlag_v0.lha
 Skipped: Galaxian_v1.0.lha
 Skipped: Galaxian_v1.0_BETA.lha
@@ -6826,7 +6831,7 @@ Skipped: Ultima6_v1.2_0294.lha
 Skipped: Ultima6_v1.2_NTSC.lha
 Skipped: UNSquadron_v1.2_Hack_by_Earok.lha
 Skipped: UntouchablesSpecialEdition_v2.0_Hack_by_Earok.lha
-Scanned: Winterland Mega Lo Mania
+Skipped: WinterlandMegaLoMania_v1.7.lha
 Skipped: WinterlandMegaLoMania_v1.7_v1.0.lha
 Skipped: WipeOut_v1.0_0161_Abaddon.lha
 Skipped: WonderboyInMonsterlandSE_v1.1_Hack_by_Earok.lha

@@ -1,4 +1,4 @@
-Scanned file log: 2023-11-29 at 03:00:04
+Scanned file log: 2023-12-01 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -1116,7 +1116,7 @@ Skipped: AlienFires2199AD_v1.0_NTSC_2356.lha
 Skipped: AlienFishFinger_v1.0.lha
 Skipped: AlienFishFinger_v1.1.lha
 Skipped: AlienLegion_v1.0.lha
-Scanned: Alien Legion
+Skipped: AlienLegion_v1.01_2859.lha
 Skipped: AlienStorm_v1.4_0096.lha
 Skipped: AlienSyndrome_v1.2_2353.lha
 Skipped: AlienSyndrome_v1.2_NTSC_2353.lha
@@ -2107,10 +2107,10 @@ Skipped: CaliforniaGames2_v1.2_1567.lha
 Skipped: CaliforniaGames_v1.0_1445.lha
 Skipped: CaliforniaGames_v1.1_1445.lha
 Skipped: Campaign&DataDisk_v1.1.lha
-Scanned: Campaign (& Data Disk)
+Skipped: Campaign&DataDisk_v1.2.lha
 Skipped: Campaign2_v1.2.lha
 Skipped: Campaign_v1.1.lha
-Scanned: Campaign
+Skipped: Campaign_v1.2.lha
 Skipped: CandyPuzzle_v1.0_CD32.lha
 Skipped: CannonFodder2AlienLevels_v1.0.lha
 Skipped: CannonFodder2_v1.12_0104.lha
@@ -3254,6 +3254,7 @@ Skipped: Hellraider_v1.0.lha
 Skipped: HellRaisers_v1.0.lha
 Skipped: HellrunMachine_v1.0.lha
 Skipped: HellrunMachine_v1.1_2035.lha
+Scanned: Hellrun Machine
 Skipped: HelterSkelter_v1.3_2071.lha
 Skipped: HeroesOfTheLance_v1.01_0778.lha
 Skipped: HeroQuest&ReturnOfTheWitchLord_v1.3a_0127&0508.lha
@@ -6100,7 +6101,7 @@ Skipped: TieBreak_v1.1_2637.lha
 Skipped: TigerRoad_v1.3.lha
 Skipped: TimeAndMagik_v1.0.lha
 Skipped: TimeBandit_v1.0.lha
-Scanned: Time Bandit
+Skipped: TimeBandit_v1.1.lha
 Skipped: TimeLock_v1.1.lha
 Skipped: TimeMachine_v1.1_0974.lha
 Skipped: TimeMachine_v1.2_0974.lha
@@ -6198,8 +6199,8 @@ Skipped: TRacer_v1.0.lha
 Skipped: Tracker_v1.1a_0743.lha
 Skipped: Traders_v1.20.lha
 Skipped: Traders_v1.20_De_1584.lha
-Scanned: Traders (Deutsch)
-Scanned: Traders (NTSC)
+Skipped: Traders_v1.21_De_1584.lha
+Skipped: Traders_v1.21_NTSC.lha
 Skipped: TrainedAssassin_v1.1.lha
 Skipped: Transarctica_v1.4_0744.lha
 Skipped: Transarctica_v1.4_AGA.lha
@@ -6728,7 +6729,7 @@ Skipped: Castlevania_v1.2_AGA.lha
 Skipped: Citadel_v1.3_RemonsteredEdition.lha
 Skipped: Citadel_v1.4_RemonsteredEdition.lha
 Skipped: Cobra_v1.0.lha
-Scanned: Crimbo [AGA]
+Skipped: Crimbo_v1.0_AGA.lha
 Skipped: DeepCore_v1.0_CD32_BETA.lha
 Skipped: DeepCore_v1.2_BETA.lha
 Skipped: DownAtTheTrolls_v0.8.lha
@@ -6741,7 +6742,7 @@ Skipped: FlyingSharkSpecialEdition_v1.0_Hack_by_Earok.lha
 Skipped: FormulaOne3D_v1.0.lha
 Skipped: Frogger_v1.21.lha
 Skipped: Frogger_v1.22.lha
-Scanned: Frogger
+Skipped: Frogger_v1.23.lha
 Skipped: FromLightsToFlag_v0.lha
 Skipped: Galaxian_v1.0.lha
 Skipped: Galaxian_v1.0_BETA.lha

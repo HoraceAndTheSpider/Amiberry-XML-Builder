@@ -1,4 +1,4 @@
-Scanned file log: 2023-12-06 at 03:00:04
+Scanned file log: 2023-12-08 at 03:00:04
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -2865,7 +2865,7 @@ Skipped: Formula1GrandPrix_v1.0.lha
 Skipped: FormulaOneGrandPrix_v1.0_3Disk.lha
 Skipped: FormulaOneGrandPrix_v1.0_4Disk_0325.lha
 Skipped: FoundationsWaste_v1.1_2759.lha
-Scanned: Foundation's Waste
+Skipped: FoundationsWaste_v1.2.lha
 Skipped: FourCrystalsOfTrazere_v1.2_NTSC.lha
 Skipped: FractionAction_v1.0.lha
 Skipped: FractionAction_v1.01.lha
@@ -3952,7 +3952,7 @@ Skipped: Llamatron_v1.1_1MB.lha
 Skipped: Llamatron_v1.1_512KB.lha
 Skipped: Locomotion_v1.0.lha
 Skipped: Locomotion_v1.1.lha
-Scanned: Locomotion Kingsoft (Deutsch)
+Skipped: Locomotion_v1.1_Kingsoft_De.lha
 Skipped: Logical_v1.1_0529.lha
 Skipped: Logical_v1.1_CDTV.lha
 Skipped: Logical_v1.2_0529.lha

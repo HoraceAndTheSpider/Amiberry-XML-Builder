@@ -1,4 +1,4 @@
-Scanned file log: 2023-12-27 at 03:00:03
+Scanned file log: 2023-12-29 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -1848,6 +1848,7 @@ Skipped: Conqueror_v1.1_1275.lha
 Skipped: Corporation&Missions_v1.4_2Disk_0107&0266.lha
 Skipped: CosmicPirate_v1.1.lha
 Skipped: CrashGarrett_v1.0.lha
+Skipped: CrazySueGoesOn_v1.1.lha
 Skipped: CrossbowTheLegendOfWilliamTell_v1.2.lha
 Skipped: CrystalHammer_v1.1_V2.lha
 Skipped: CurseOfRa_v1.2.lha
@@ -2041,21 +2042,6 @@ Skipped: CrazyCars_v1.3_2959.lha
 Skipped: CrazySeasons_v1.0.lha
 Skipped: CrazyShot_v1.1_2404.lha
 Skipped: CrazyShot_v1.2_2404.lha
-Skipped: CrazySueGoesOn_v1.1.lha
-Skipped: CrazySue_v1.1.lha
-Skipped: Creatures_v1.1.lha
-Skipped: Creature_v1.1_0846.lha
-Skipped: Creature_v1.2_0846.lha
-Skipped: CricketCaptain_v1.0_1244.lha
-Skipped: CrimeCity_v1.01.lha
-Skipped: CrimeCity_v1.01_De.lha
-Skipped: CrimeDoesNotPay_v1.0_0364.lha
-Skipped: CrimeWave_v1.1.lha
-Skipped: CrimeWave_v1.2_2942.lha
-Skipped: Croak2_v1.0.lha
-Skipped: Croak_v1.0.lha
-Skipped: CroisierePourUnCadavre_v2.1-B_Fr_1827.lha
-Skipped: CroisierePourUnCadavre_v2.2_Fr_1827.lha
 Skipped: CrossCheck_v1.0.lha
 Skipped: Crown_v1.0_1090.lha
 Skipped: CruiseForACorpse_v2.1-B_0108.lha
@@ -2067,6 +2053,11 @@ Skipped: CruiseForACorpse_v2.2_De_0676.lha
 Skipped: CruiseForACorpse_v2.2_Es.lha
 Skipped: CruiseForACorpse_v2.2_It.lha
 Skipped: CruiseForACorpse_v2.2_NTSC.lha
+Scanned: Cruise For A Corpse
+Scanned: Cruise For A Corpse (Deutsch)
+Scanned: Cruise For A Corpse (Espanol)
+Scanned: Cruise For A Corpse (Italiano)
+Scanned: Cruise For A Corpse (NTSC)
 Skipped: CruncherFactory_v1.1.lha
 Skipped: CrystalDragon_v1.3_1830.lha
 Skipped: CrystalDragon_v1.3_De.lha
@@ -2166,6 +2157,21 @@ Skipped: Cytron_v1.02_0110.lha
 Skipped: Cytron_v1.02_NTSC.lha
 Skipped: Cytron_v1.1_0110.lha
 Skipped: Cytron_v1.1_NTSC.lha
+Skipped: CrazySue_v1.1.lha
+Skipped: Creatures_v1.1.lha
+Skipped: Creature_v1.1_0846.lha
+Skipped: Creature_v1.2_0846.lha
+Skipped: CricketCaptain_v1.0_1244.lha
+Skipped: CrimeCity_v1.01.lha
+Skipped: CrimeCity_v1.01_De.lha
+Skipped: CrimeDoesNotPay_v1.0_0364.lha
+Skipped: CrimeWave_v1.1.lha
+Skipped: CrimeWave_v1.2_2942.lha
+Skipped: Croak2_v1.0.lha
+Skipped: Croak_v1.0.lha
+Skipped: CroisierePourUnCadavre_v2.1-B_Fr_1827.lha
+Skipped: CroisierePourUnCadavre_v2.2_Fr_1827.lha
+Scanned: Croisiere Pour Un Cadavre (Francais)
 Skipped: Driller_v1.0_2256.lha
 Skipped: Driller_v2.0_2256.lha
 Skipped: Driller_v2.1_2256.lha
@@ -3641,6 +3647,7 @@ Skipped: Katakis_v2.0_2Disk_0347.lha
 Skipped: Kathedrale_v1.0_De_0518.lha
 Skipped: KeefTheThief_v1.0_NTSC_1460.lha
 Skipped: KellyX_v1.0_1133.lha
+Scanned: Kelly X
 Skipped: KennedyApproach_v1.01_1506.lha
 Skipped: KennedyApproach_v1.02_1506.lha
 Skipped: KeysToMaramon_v1.0.lha
@@ -6431,6 +6438,7 @@ Skipped: Virocop_v1.0_1836.lha
 Skipped: Virocop_v1.3_AGA_1920.lha
 Skipped: Virocop_v1.4_AGA_1920.lha
 Skipped: Virocop_v1.5_AGA_1920.lha
+Scanned: Virocop [AGA]
 Skipped: Vermeer_v1.0_De_0693.lha
 Skipped: VirtualKarting2Demo_v1.0_AGA.lha
 Skipped: VoyageursDuTemps_v4.3-B_Fr_2384.lha
@@ -6504,6 +6512,7 @@ Skipped: WarZone_v2.0_CoreDesign_0598.lha
 Skipped: Watchtower_v1.0_AGA_1071.lha
 Skipped: Watchtower_v1.1_AGA_1071.lha
 Skipped: Watchtower_v1.2_AGA_1071.lha
+Scanned: Waterloo
 Skipped: Waterloo_v1.1_1938.lha
 Skipped: Waxworks_v1.1_2274.lha
 Skipped: Waxworks_v1.1_De.lha
@@ -6543,6 +6552,7 @@ Skipped: Whirligig_v1.0_2913.lha
 Skipped: WhiteDeath_v1.0_2461.lha
 Skipped: Whizz_v1.2_0409.lha
 Skipped: Whizz_v1.2_AGA_0803.lha
+Scanned: Whizz [AGA]
 Skipped: WhoFramedRogerRabbit_v1.0.lha
 Skipped: WhoFramedRogerRabbit_v2.0_0160.lha
 Skipped: WhoFramedRogerRabbit_v2.0_PreRelease.lha
@@ -10373,7 +10383,7 @@ Skipped: SceneTalk7_v1.0_Mystic.lha
 Skipped: SceneTalk8_v1.0_Mystic.lha
 Skipped: StolenData07_v1.0_Anarchy&FlashProductions.lha
 Skipped: StolenData08_v1.0_Anarchy.lha
-Scanned: Stolen Data 09
+Skipped: StolenData09_v1.0_Anarchy.lha
 Skipped: StolenData10_v1.0_Anarchy.lha
 Skipped: Upstream01_v1.0_Frogs.lha
 Skipped: VisualIntensity1_v1.0_Dual4Mat.lha

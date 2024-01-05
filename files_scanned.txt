@@ -1,4 +1,4 @@
-Scanned file log: 2024-01-03 at 03:00:04
+Scanned file log: 2024-01-05 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -333,7 +333,7 @@ Skipped: HymnsFromTheBible3_v1.0_Arcane.lha
 Skipped: Ice_v1.0_Silents.lha
 Skipped: Ilex_v1.0_Mystic_AGA.lha
 Skipped: Ilyad_v1.0_Alcatraz_AGA.lha
-Scanned: Imaginations
+Skipped: Imaginations_v1.0_Defiance.lha
 Skipped: ImperialTunes2_v1.0_Parasite.lha
 Skipped: ImperialTunes_v1.0_Parasite.lha
 Skipped: Impulse2_v1.1_Tilt.lha
@@ -412,7 +412,7 @@ Skipped: Muzzax5_v1.0_Byterapers.lha
 Skipped: Muzzax6_v1.0_Byterapers.lha
 Skipped: Muzzax7_v1.0_Byterapers.lha
 Skipped: MyRoom_v1.0_Celebrandil.lha
-Scanned: Made In Croatia
+Skipped: MadeInCroatia_v1.0_Binary.lha
 Skipped: Madness2_v1.0_Anarchy.lha
 Skipped: Madness_v1.0_Anarchy.lha
 Skipped: MaestroJamsVol1_v1.0_Kefrens.lha
@@ -1872,6 +1872,7 @@ Skipped: CaveMania_v1.2_2220.lha
 Skipped: Centurion_v1.0_NTSC_1945.lha
 Skipped: Century_v1.0_0640.lha
 Skipped: ChallengeFoot_v1.0_Fr.lha
+Scanned: Challenger
 Skipped: ChamberOfTheSciMutantPriestess_v1.1b.lha
 Skipped: ChamberOfTheSciMutantPriestess_v1.1b_NTSC_3037.lha
 Skipped: ChamberOfTheSciMutantPriestess_v1.2_NTSC_3037.lha
@@ -5665,11 +5666,11 @@ Skipped: SuicideMission_v1.0_1518.lha
 Skipped: SummerCamp_v1.1_2276.lha
 Skipped: SummerChallenge_v1.1.lha
 Skipped: SummerGames&SummerGames2_v1.0.lha
-Scanned: Summer Games & Summer Games II
+Skipped: SummerGames&SummerGames2_v1.1_2895&2896.lha
 Skipped: SummerGames2_v1.0.lha
-Scanned: Summer Games 2
+Skipped: SummerGames2_v1.1_2896.lha
 Skipped: SummerGames_v1.0.lha
-Scanned: Summer Games
+Skipped: SummerGames_v1.1_2895.lha
 Skipped: SummerOlympiad_v1.1.lha
 Skipped: Supaplex_v1.2_1902.lha
 Skipped: SuperCars2_v1.0_0224.lha

@@ -1,4 +1,4 @@
-Scanned file log: 2024-01-10 at 03:00:03
+Scanned file log: 2024-01-12 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -3106,7 +3106,7 @@ Skipped: GraffitiMan_v1.0_2168.lha
 Skipped: GrahamGoochSecondInnings_v1.0.lha
 Skipped: GrahamGoochWorldClassCricketSpecialEdition_v1.0.lha
 Skipped: GrahamGoochWorldClassCricket_v1.0.lha
-Scanned: Graham Gooch World Class Cricket
+Skipped: GrahamGoochWorldClassCricket_v1.1.lha
 Skipped: GreatCourts_v2.3_2605.lha
 Skipped: GreatGianaSisters_v1.5.1_2945.lha
 Skipped: GreatGianaSisters_v1.6_2945.lha
@@ -5093,6 +5093,7 @@ Skipped: Renaissance_v1.01_2415.lha
 Skipped: Renegade3_v1.0b.lha
 Skipped: Renegades_v1.0.lha
 Skipped: Renegade_v1.2.lha
+Scanned: Renegade
 Skipped: Resolution101_v1.0.lha
 Skipped: Resolution101_v2.1_0221.lha
 Skipped: ReturnOfTheJedi_v2.0_2152.lha
@@ -6849,7 +6850,7 @@ Skipped: SuperCars2_v0.91_AGA.lha
 Skipped: SuperGemZ_v1.0.lha
 Skipped: SuperHangOn_v1.5_Hack_by_Earok.lha
 Skipped: SuperMonacoGP_v1.2_BETA.lha
-Scanned: Tetris [AGA]
+Skipped: Tetris_v1.0_AGA.lha
 Skipped: TFX_v1.1_AGA_BETA.lha
 Skipped: Tinyus_v1.0_BETA.lha
 Skipped: Tony&FriendsInKelloggsLand_v1.0_Hack_by_Earok.lha

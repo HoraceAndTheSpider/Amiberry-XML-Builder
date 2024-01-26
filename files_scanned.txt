@@ -1,4 +1,4 @@
-Scanned file log: 2024-01-24 at 03:00:04
+Scanned file log: 2024-01-26 at 03:00:04
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -2260,7 +2260,7 @@ Skipped: DeathOrGlory_v1.0_De.lha
 Skipped: DeathSword_v1.0_NTSC.lha
 Skipped: DeathTrap_v1.0_1021.lha
 Skipped: DebutPlanetSimulation_v1.1.lha
-Scanned: Debut Planet Simulation
+Skipped: DebutPlanetSimulation_v1.2.lha
 Skipped: DecimalDungeon_v1.0.lha
 Skipped: Deconstruction_v1.0_AGA.lha
 Skipped: Deconstruction_v1.1_AGA.lha
@@ -2435,7 +2435,7 @@ Skipped: DungeonsOfAvalon_v1.0_1956.lha
 Skipped: DungeonsOfAvalon_v1.1_1956.lha
 Skipped: Dux_v1.0.lha
 Skipped: DylanDogTheMurderers_v1.3.lha
-Scanned: Dylan Dog - The Murderers
+Skipped: DylanDogTheMurderers_v2.0.lha
 Skipped: DynaBlaster_v1.2_0664.lha
 Skipped: DynaBlaster_v1.3_0664.lha
 Skipped: DynaBlaster_v1.4_0664.lha
@@ -4157,6 +4157,7 @@ Skipped: MarvinsMarvellousAdventure_v1.01_CD32.lha
 Skipped: MaxRally_v1.0.lha
 Skipped: MaydaySquad_v2.0_Fr.lha
 Skipped: MegaBlast_v1.0.lha
+Skipped: Mercenary_v1.2_0955.lha
 Skipped: MFTanks_v1.0.lha
 Skipped: MicroMachines_v1.1_0357.lha
 Skipped: Millenium_v1.3_NTSC_2027.lha
@@ -4191,26 +4192,11 @@ Skipped: MegaTyphoon_v1.1.lha
 Skipped: MegaTyphoon_v1.2.lha
 Skipped: MegaTyphoon_v1.3.lha
 Skipped: Menace_v1.2_0823.lha
+Scanned: Menace
 Skipped: MentalImage1_v1.0.lha
 Skipped: MentalImage2_v1.2.1.lha
 Skipped: Mentor_v1.1_Pl.lha
 Skipped: Mercenary3_v1.2_0356.lha
-Skipped: Mercenary_v1.2_0955.lha
-Skipped: Mercs_v1.1_1668.lha
-Skipped: MervTheMerciless_v1.0.lha
-Skipped: MetalGear_v1.1.lha
-Skipped: MetalLaw_v1.0.lha
-Skipped: MetalLaw_v2.0.lha
-Skipped: MetalMasters_v1.0_0534.lha
-Skipped: MetalMasters_v1.1_0534.lha
-Skipped: MetalMutant_v1.4.lha
-Skipped: MetalMutant_v1.4_De.lha
-Skipped: MetalMutant_v1.4_Fr.lha
-Skipped: MetalWarrior_v1.0.lha
-Skipped: MetroCross_v1.0.lha
-Skipped: MetroCross_v1.1.lha
-Skipped: Mewilo_v1.0_De.lha
-Skipped: Mewilo_v1.0_Fr.lha
 Skipped: Moonwalker_v1.0.lha
 Skipped: MoreLemmings_v1.0.lha
 Skipped: Morph_v1.0_1148.lha
@@ -4362,6 +4348,21 @@ Skipped: MegaBall_v1.02_AGA.lha
 Skipped: MegaBall_v1.03.lha
 Skipped: MegaBall_v1.03_1MB.lha
 Skipped: MegaBall_v1.03_AGA.lha
+Skipped: Mercs_v1.1_1668.lha
+Skipped: MervTheMerciless_v1.0.lha
+Skipped: MetalGear_v1.1.lha
+Skipped: MetalLaw_v1.0.lha
+Skipped: MetalLaw_v2.0.lha
+Skipped: MetalMasters_v1.0_0534.lha
+Skipped: MetalMasters_v1.1_0534.lha
+Skipped: MetalMutant_v1.4.lha
+Skipped: MetalMutant_v1.4_De.lha
+Skipped: MetalMutant_v1.4_Fr.lha
+Skipped: MetalWarrior_v1.0.lha
+Skipped: MetroCross_v1.0.lha
+Skipped: MetroCross_v1.1.lha
+Skipped: Mewilo_v1.0_De.lha
+Skipped: Mewilo_v1.0_Fr.lha
 Skipped: NoExcuses_v0801.1_2456.lha
 Skipped: NoExit_v1.0_2841.lha
 Skipped: NorthAndSouth_v1.7_Files_0194.lha
@@ -5511,7 +5512,7 @@ Skipped: SpacePanicDemo_v1.1_De.lha
 Skipped: SpacePanic_v1.0_De.lha
 Skipped: SpacePilot89_v1.1.lha
 Skipped: Spaceport_v1.0.lha
-Scanned: Spaceport
+Skipped: Spaceport_v1.0_0578.lha
 Skipped: SpaceQuest2_v1.0.lha
 Skipped: SpaceQuest3_v1.2b_0292.lha
 Skipped: SpaceQuest3_v1.2b_De_0579.lha

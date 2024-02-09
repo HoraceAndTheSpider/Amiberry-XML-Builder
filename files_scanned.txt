@@ -1,4 +1,4 @@
-Scanned file log: 2024-02-07 at 03:00:03
+Scanned file log: 2024-02-09 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -1587,6 +1587,7 @@ Skipped: Breach_v1.0_NTSC_1487.lha
 Skipped: Breach_v1.1.lha
 Skipped: Breach_v1.1_NTSC_1487.lha
 Skipped: BreakOutRevolution_v1.0_AGA.lha
+Scanned: Breakthru
 Skipped: BreathlessDemo_v1.1.lha
 Skipped: BreathlessDemo_v1.1_AGA.lha
 Skipped: Breathless_v1.1_AGA_0178.lha

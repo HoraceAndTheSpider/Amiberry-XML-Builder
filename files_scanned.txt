@@ -1,4 +1,4 @@
-Scanned file log: 2024-02-14 at 03:00:03
+Scanned file log: 2024-02-16 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -79,6 +79,7 @@ Skipped: BangingRaves_v1.0_Intuition.lha
 Skipped: BardInABox_v1.01_Academy.lha
 Skipped: BassoContinuo_v1.0_Fury.lha
 Skipped: BassOMatic_v1.0_Crusaders.lha
+Scanned: Batman Rises
 Skipped: BatmanVuelve_v1.0_BatmanGroup.lha
 Skipped: Baygon_v1.2_MelonDezign_AGA.lha
 Skipped: BBSIntro_v1.0_Taurus.lha
@@ -124,8 +125,8 @@ Skipped: CallItWotYaWant_v1.0_Magic.lha
 Skipped: CanIPlayWithMadness_v1.0_Defcon1.lha
 Skipped: CapricornOne_v1.0_Cydonia.lha
 Skipped: CapturedDreams_v1.0_BlackLotus_AGA.lha
-Scanned: Captured Dreams [AGA]
-Scanned: Captured Dreams [AGA] Dec
+Skipped: CapturedDreams_v1.1_BlackLotus_AGA.lha
+Skipped: CapturedDreams_v1.1_BlackLotus_AGA_Decrunched.lha
 Skipped: Cebit89_v1.0_Exact.lha
 Skipped: Cebit90_v1.0_RedSectorInc.lha
 Skipped: Celebration_v1.0_It.lha
@@ -1590,6 +1591,7 @@ Skipped: Breach_v1.1.lha
 Skipped: Breach_v1.1_NTSC_1487.lha
 Skipped: BreakOutRevolution_v1.0_AGA.lha
 Skipped: Breakthru_v1.0.lha
+Scanned: Break Thru
 Skipped: BreathlessDemo_v1.1.lha
 Skipped: BreathlessDemo_v1.1_AGA.lha
 Skipped: Breathless_v1.1_AGA_0178.lha
@@ -2369,7 +2371,7 @@ Skipped: Dominium_v1.0.lha
 Skipped: DonaldDucksPlayground_v1.0.lha
 Skipped: DonaldsAlphabetChase_v1.0_2067.lha
 Skipped: DonkeyKong_v1.0.lha
-Scanned: Donkey Kong Bignonia
+Skipped: DonkeyKong_v1.0_Bignonia.lha
 Skipped: DonkTheSamuraiDuck_v1.2_0647.lha
 Skipped: DonkTheSamuraiDuck_v1.2_AGA_0647.lha
 Skipped: Doodlebug_v1.2.lha
@@ -5823,13 +5825,13 @@ Skipped: SimonTheSorcerer_v1.4_AGA_0898.lha
 Skipped: SimonTheSorcerer_v1.4_AGA_De_0726.lha
 Skipped: SimonTheSorcerer_v1.4_AGA_Fr_2692.lha
 Skipped: SimonTheSorcerer_v1.4_AGA_It.lha
-Scanned: Super Street Fighter 2 (DX) [AGA]
+Skipped: SuperStreetFighter2DX_v1.2_AGA.lha
 Skipped: SuperStreetFighter2Turbo_v1.1_AGA_0735.lha
 Skipped: SuperStreetFighter2Turbo_v1.1_CD32.lha
 Skipped: SuperStreetFighter2_v1.1_0147.lha
 Skipped: SuperStreetFighter2_v1.1_AGA.lha
-Scanned: Super Street Fighter 2 - The New Challengers
-Scanned: Super Street Fighter 2 [AGA]
+Skipped: SuperStreetFighter2_v1.2_0147.lha
+Skipped: SuperStreetFighter2_v1.2_AGA.lha
 Skipped: SuperTennisChamps&DataDisks_v1.1.lha
 Skipped: SuperTennisChamps_v1.1.lha
 Skipped: SuperTetris_v1.0_2646.lha
@@ -6787,7 +6789,7 @@ Skipped: FormulaOne3D_v1.0.lha
 Skipped: Frogger_v1.21.lha
 Skipped: Frogger_v1.22.lha
 Skipped: Frogger_v1.23.lha
-Scanned: Frogger
+Skipped: Frogger_v1.24.lha
 Skipped: FromLightsToFlag_v0.lha
 Skipped: Galaxian_v1.0.lha
 Skipped: Galaxian_v1.0_BETA.lha
@@ -6882,7 +6884,7 @@ Skipped: Turrican2_v1.15_AGA_NTSC.lha
 Skipped: Turrican2_v1.18_AGA.lha
 Skipped: Turrican2_v1.19_AGA.lha
 Skipped: Turrican2_v1.20_AGA.lha
-Scanned: Turrican 2 [AGA]
+Skipped: Turrican2_v1.21_AGA.lha
 Skipped: Ultima6_v1.2_0294.lha
 Skipped: Ultima6_v1.2_NTSC.lha
 Skipped: UNSquadron_v1.2_Hack_by_Earok.lha

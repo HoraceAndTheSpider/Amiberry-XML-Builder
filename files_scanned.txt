@@ -1,4 +1,4 @@
-Scanned file log: 2024-02-28 at 03:00:03
+Scanned file log: 2024-03-01 at 03:00:04
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -3315,6 +3315,7 @@ Skipped: HiredGuns_v1.0_1114.lha
 Skipped: HiredGuns_v1.0_1MB_1114.lha
 Skipped: HiredGuns_v1.0_512KB_1114.lha
 Skipped: HiredGuns_v1.0_512k_1114.lha
+Scanned: Historia Interminable 2 (Espanol)
 Skipped: Historyline_v1.5_1569.lha
 Skipped: Historyline_v1.5_De_0336.lha
 Skipped: Historyline_v1.5_Fr.lha
@@ -5635,6 +5636,7 @@ Skipped: StirCrazyFeaturingBobo_v1.0.lha
 Skipped: StoneAge_v1.1.lha
 Skipped: StoneAge_v1.2_3033.lha
 Skipped: StoriaAncestrale_v1.0.lha
+Scanned: Storia Infinita 2 (Italiano)
 Skipped: Stormball_v1.1_0404.lha
 Skipped: Stormball_v1.2_0404.lha
 Skipped: Stormlord_v1.2_0874.lha
@@ -6376,6 +6378,7 @@ Skipped: UltimateRide_v1.0_2306.lha
 Skipped: UltimateXTremeRacing_v1.1_AGA_CD.lha
 Skipped: UMS2NationsAtWar_v1.0_2137.lha
 Skipped: UnderPressure_v1.0.lha
+Scanned: Unendliche Geschicte 2 (Deutsch)
 Skipped: Uninvited_v1.0.lha
 Skipped: Uninvited_v1.1.lha
 Skipped: UniversalMilitarySimulator_v1.0_0753.lha

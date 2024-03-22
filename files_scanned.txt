@@ -1,4 +1,4 @@
-Scanned file log: 2024-03-20 at 03:00:03
+Scanned file log: 2024-03-22 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -3640,7 +3640,7 @@ Skipped: Kristal_v1.2_NTSC_1194.lha
 Skipped: Kristal_v1.3_0024.lha
 Skipped: Kristal_v1.3_De.lha
 Skipped: Kristal_v1.3_NTSC_1194.lha
-Scanned: Krogharr Demo
+Skipped: KrogharrDemo_v1.0.lha
 Skipped: KrustysSuperFunHouse_v1.2_1599.lha
 Skipped: KryptonEgg_v1.0_1578.lha
 Skipped: Kult_v1.1b_0661.lha
@@ -6834,7 +6834,7 @@ Skipped: MetagalacticLlamas_v1.0.lha
 Skipped: MetalGear_v1.0.lha
 Skipped: MoebiusGoatlizard_v0.1.lha
 Skipped: MonkeyBusiness_v1.0.lha
-Scanned: Moon Patrol
+Skipped: MoonPatrol_v1.0.lha
 Skipped: MotorolaInvaders2_v1.0_AGA.lha
 Skipped: MrMenOlympics_v1.1.lha
 Skipped: MsPacMan_v1.0.lha

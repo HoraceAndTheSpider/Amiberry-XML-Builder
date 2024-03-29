@@ -1,4 +1,4 @@
-Scanned file log: 2024-03-27 at 03:00:03
+Scanned file log: 2024-03-29 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -167,6 +167,7 @@ Skipped: Cuzco_v1.0_Oxygene_AGA.lha
 Skipped: CyberSounds_v1.0_Bastards.lha
 Skipped: DecibelOverload_v1.0_CueX.lha
 Skipped: Demo_v1.0_Mute101.lha
+Skipped: DigitalConcert_v1.0_FlashProduction.lha
 Skipped: DOS_v1.1_Andromeda.lha
 Skipped: DOS_v1.2_Andromeda.lha
 Skipped: DoTheBartman_v1.0_FreeHand.lha
@@ -194,6 +195,7 @@ Skipped: Darktro_v1.0_Darkness.lha
 Skipped: DayOfReckoning_v1.0_Digital.lha
 Skipped: DeadlyJammin2_v1.0_Deathstar.lha
 Skipped: DecayingParadise_v1.0_Andromeda.lha
+Scanned: De Profundis
 Skipped: DerrynHinchDemo_v1.0_Decay.lha
 Skipped: DesertDream_v1.2_Kefrens.lha
 Skipped: Despair_v1.0_LSD.lha
@@ -207,19 +209,6 @@ Skipped: DigitalConcert3_v1.0_FlashProduction.lha
 Skipped: DigitalConcert4_v1.1_FlashProduction.lha
 Skipped: DigitalConcert5_v1.0_FlashProduction.lha
 Skipped: DigitalConcert6_v1.1_FlashProduction.lha
-Skipped: DigitalConcert_v1.0_FlashProduction.lha
-Skipped: DigitalInnovation_v1.0_Anarchy.lha
-Skipped: DigitalMusicArt_v1.0_Wildfire.lha
-Skipped: DigitalNoises_v1.0_RamJam.lha
-Skipped: DigitalSounds1_v1.0_Warfalcons.lha
-Skipped: Dirt_v1.4_Mystic_AGA.lha
-Skipped: DiscoFever_v1.0_IpecElite.lha
-Skipped: DivineInspiration_v1.0_Goldfire.lha
-Skipped: DizzyTunes2_v1.0_Noiseless&Spaceballs.lha
-Skipped: DizzyTunes_v1.0_Silents&Noiseless.lha
-Skipped: DogsCogs_v1.1_NerveAxis_AGA.lha
-Skipped: DonMartinMusicDisk_v1.0_Hypnosis.lha
-Skipped: DontPanic_v1.0_LSD.lha
 Skipped: Deepcore_v1.0_Balance.lha
 Skipped: Deformations_v1.0_Deform.lha
 Skipped: DejaVu_v1.1_Anarchy.lha
@@ -233,6 +222,18 @@ Skipped: DemoDisk_v1.0_Subway.lha
 Skipped: DemonDownload_v1.0_Silents.lha
 Skipped: DemonsAreForever_v1.0_DOC.lha
 Skipped: DemonsRage_v1.01_NerveAxis.lha
+Skipped: DigitalInnovation_v1.0_Anarchy.lha
+Skipped: DigitalMusicArt_v1.0_Wildfire.lha
+Skipped: DigitalNoises_v1.0_RamJam.lha
+Skipped: DigitalSounds1_v1.0_Warfalcons.lha
+Skipped: Dirt_v1.4_Mystic_AGA.lha
+Skipped: DiscoFever_v1.0_IpecElite.lha
+Skipped: DivineInspiration_v1.0_Goldfire.lha
+Skipped: DizzyTunes2_v1.0_Noiseless&Spaceballs.lha
+Skipped: DizzyTunes_v1.0_Silents&Noiseless.lha
+Skipped: DogsCogs_v1.1_NerveAxis_AGA.lha
+Skipped: DonMartinMusicDisk_v1.0_Hypnosis.lha
+Skipped: DontPanic_v1.0_LSD.lha
 Skipped: Epilepsia2_v1.0_Amnesia.lha
 Skipped: EargasmTunes_v1.00a_Silents.lha
 Skipped: Earwig_v1.0_Infect.lha
@@ -1059,6 +1060,7 @@ Skipped: ACSYSDemo_v1.11_AGA.lha
 Skipped: AfterBurner_v1.0_0095.lha
 Skipped: AirSupport_v1.1_NTSC_1325.lha
 Skipped: AlienBash_v1.0.lha
+Skipped: AlienBreed3D_v1.3_CD32.lha
 Skipped: AlienBreed_v1.3_0998.lha
 Skipped: AllNewWorldOfLemmings_v1.0_AGA_0625.lha
 Skipped: Ambermoon_v2.0.lha
@@ -1099,6 +1101,8 @@ Skipped: AlienBash2_v1.2.lha
 Skipped: AlienBreed2_v1.4_0278.lha
 Skipped: AlienBreed2_v1.4_AGA_0044.lha
 Skipped: AlienBreed2_v1.5_0278.lha
+Scanned: Alien Breed II - The Horror Continues
+Scanned: Alien Breed II - The Horror Continues [AGA]
 Skipped: AlienBreed3D2_v1.1_AGA_0280.lha
 Skipped: AlienBreed3DDemoLatestDemo_v1.0_AGA.lha
 Skipped: AlienBreed3DDemoPlayableDemo_v1.0_AGA.lha
@@ -1108,19 +1112,6 @@ Skipped: AlienBreed3D_v1.2_CD32.lha
 Skipped: AlienBreed3D_v1.2_NoMusic_AGA_0624.lha
 Skipped: AlienBreed3D_v1.2_NoMusic_CD32.lha
 Skipped: AlienBreed3D_v1.3_AGA_0624.lha
-Skipped: AlienBreed3D_v1.3_CD32.lha
-Skipped: AlienBreed3D_v1.3_NoMusic_AGA_0624.lha
-Skipped: AlienBreed3D_v1.3_NoMusic_CD32.lha
-Skipped: AlienBreedSpecialEdition_v1.0_0615.lha
-Skipped: AlienBreedStory_v1.1_0998.lha
-Skipped: AlienBreedTowerAssault11_v1.2_2331.lha
-Skipped: AlienBreedTowerAssault11_v1.2_AGA_2331.lha
-Skipped: AlienBreedTowerAssault_v1.2_0279.lha
-Skipped: AlienBreedTowerAssault_v1.2_AGA_0279.lha
-Skipped: AlienBreedTowerAssault_v1.2_CD32.lha
-Skipped: AlienBreedTowerAssault_v1.3_2331.lha
-Skipped: AlienBreedTowerAssault_v1.3_AGA_2331.lha
-Skipped: AlienBreedTowerAssault_v1.3_CD32.lha
 Skipped: AlienBreed_v2.3a_0998.lha
 Skipped: AlienDrugLords_v1.0_1004.lha
 Skipped: AlienFires2199AD_v1.0_NTSC_2356.lha
@@ -1325,6 +1316,18 @@ Skipped: AsterixOperationHinkelstein_v2.0_De_0630.lha
 Skipped: AstroMarineCorps_v1.2.lha
 Skipped: AstroMarineCorps_v1.21.lha
 Skipped: Atax_v1.0_0950.lha
+Skipped: AlienBreed3D_v1.3_NoMusic_AGA_0624.lha
+Skipped: AlienBreed3D_v1.3_NoMusic_CD32.lha
+Skipped: AlienBreedSpecialEdition_v1.0_0615.lha
+Skipped: AlienBreedStory_v1.1_0998.lha
+Skipped: AlienBreedTowerAssault11_v1.2_2331.lha
+Skipped: AlienBreedTowerAssault11_v1.2_AGA_2331.lha
+Skipped: AlienBreedTowerAssault_v1.2_0279.lha
+Skipped: AlienBreedTowerAssault_v1.2_AGA_0279.lha
+Skipped: AlienBreedTowerAssault_v1.2_CD32.lha
+Skipped: AlienBreedTowerAssault_v1.3_2331.lha
+Skipped: AlienBreedTowerAssault_v1.3_AGA_2331.lha
+Skipped: AlienBreedTowerAssault_v1.3_CD32.lha
 Skipped: BundesligaManagerProfessional_v1.02_De.lha
 Skipped: BunnyBricks_v1.2_0211.lha
 Skipped: BunnyBricks_v1.2_Fast_0211.lha
@@ -2772,6 +2775,7 @@ Skipped: FlugDerAmazonQueen_v1.0_De.lha
 Skipped: FourCrystalsOfTrazere_v1.2.lha
 Skipped: FrightNight_v1.0.lha
 Skipped: FullContact_v1.4_2246.lha
+Skipped: FullMetalPlanete_v1.7_Image_NTSC_1204.lha
 Skipped: FutureWars_v4.3-B_1570.lha
 Skipped: FighterDuelPro_v1.0_NTSC_0946.lha
 Skipped: FightingSoccer_v1.0_NTSC.lha
@@ -2936,20 +2940,6 @@ Skipped: FullMetalPlanete_v1.6_Image_NTSC_1204.lha
 Skipped: FullMetalPlanete_v1.7_Files_0656.lha
 Skipped: FullMetalPlanete_v1.7_Files_NTSC_1204.lha
 Skipped: FullMetalPlanete_v1.7_Image_0656.lha
-Skipped: FullMetalPlanete_v1.7_Image_NTSC_1204.lha
-Skipped: Funturatum_v1.1_Pl.lha
-Skipped: FuryOfTheFurries_v1.0_1347.lha
-Skipped: FuryOfTheFurries_v1.0_CD32.lha
-Skipped: Fusion_v1.0_0331.lha
-Skipped: Fusion_v1.1_0331.lha
-Skipped: FussballTotal_v1.1_De_2135.lha
-Skipped: FutureBasketball_v1.2_1253.lha
-Skipped: FutureBikeSimulator_v2.0_2149.lha
-Skipped: FutureClassicsCollection_v1.0.lha
-Skipped: FutureShock_v1.1.lha
-Skipped: FutureTank_v1.0.lha
-Skipped: FutureWars_v4.0_1570.lha
-Skipped: FutureWars_v4.0_De_0506.lha
 Skipped: FantasyWorldDizzy_v1.1_0120.lha
 Skipped: Fascination_v1.1.lha
 Skipped: Fascination_v1.1_De.lha
@@ -2991,6 +2981,20 @@ Skipped: FireAndIce_v3.3_0502.lha
 Skipped: FireAndIce_v3.4_0502.lha
 Skipped: FireAndIce_v3.4_CD32.lha
 Skipped: Fireblaster_v1.0_1627.lha
+Skipped: Funturatum_v1.1_Pl.lha
+Skipped: FuryOfTheFurries_v1.0_1347.lha
+Skipped: FuryOfTheFurries_v1.0_CD32.lha
+Skipped: Fusion_v1.0_0331.lha
+Skipped: Fusion_v1.1_0331.lha
+Scanned: Fusion
+Skipped: FussballTotal_v1.1_De_2135.lha
+Skipped: FutureBasketball_v1.2_1253.lha
+Skipped: FutureBikeSimulator_v2.0_2149.lha
+Skipped: FutureClassicsCollection_v1.0.lha
+Skipped: FutureShock_v1.1.lha
+Skipped: FutureTank_v1.0.lha
+Skipped: FutureWars_v4.0_1570.lha
+Skipped: FutureWars_v4.0_De_0506.lha
 Skipped: GridStart_v1.1_1470.lha
 Skipped: GridStart_v1.1_AltVersion.lha
 Skipped: GuardianAngel_v1.0_2173.lha
@@ -3237,6 +3241,7 @@ Skipped: HardBall_v1.0_0490.lha
 Skipped: HardDrivin2_v2.01.lha
 Skipped: HardDrivin_v2.04_0126.lha
 Skipped: HardDrivin_v2.04_1239.lha
+Scanned: Hard Drivin'
 Skipped: HardNHeavy_v1.02_1631.lha
 Skipped: HardNHeavy_v1.03_1631.lha
 Skipped: HareRaisingHavoc_v1.0_NTSC_2043.lha
@@ -5290,6 +5295,7 @@ Skipped: SecondSamurai_v1.2a_0721.lha
 Skipped: SecondSamurai_v1.2a_AGA_1624.lha
 Skipped: SecondSamurai_v1.2_0721.lha
 Skipped: SecondSamurai_v1.2_AGA_1624.lha
+Scanned: Second Samurai
 Skipped: SecondSamurai_v1.3a_AGA_1624.lha
 Skipped: SecondSamurai_v1.3_0721.lha
 Skipped: SecondsOut_v1.1_2760.lha

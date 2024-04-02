@@ -1,4 +1,4 @@
-Problem file log: 2024-04-02 at 20:33:18
+Problem file log: 2024-04-02 at 20:46:12
 Could not read LHA archive: 100MostRememberedGamesOnThe64_v1.01_PerhkanSundell&RonBirk.lha
 Could not read LHA archive: 100MostRememberedGamesOnThe64_v1.01_Perh�kanSundell&RonBirk.lha
 Could not read LHA archive: Worthy_v1.0-2.lha

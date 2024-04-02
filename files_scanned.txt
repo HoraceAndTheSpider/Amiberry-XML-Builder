@@ -1,4 +1,4 @@
-Scanned file log: 2024-03-29 at 03:00:03
+Scanned file log: 2024-04-02 at 20:33:18
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -195,7 +195,7 @@ Skipped: Darktro_v1.0_Darkness.lha
 Skipped: DayOfReckoning_v1.0_Digital.lha
 Skipped: DeadlyJammin2_v1.0_Deathstar.lha
 Skipped: DecayingParadise_v1.0_Andromeda.lha
-Scanned: De Profundis
+Skipped: DeProfundis_v1.0_Lemon&Deadliners&Oxygene.lha
 Skipped: DerrynHinchDemo_v1.0_Decay.lha
 Skipped: DesertDream_v1.2_Kefrens.lha
 Skipped: Despair_v1.0_LSD.lha
@@ -1101,8 +1101,8 @@ Skipped: AlienBash2_v1.2.lha
 Skipped: AlienBreed2_v1.4_0278.lha
 Skipped: AlienBreed2_v1.4_AGA_0044.lha
 Skipped: AlienBreed2_v1.5_0278.lha
-Scanned: Alien Breed II - The Horror Continues
-Scanned: Alien Breed II - The Horror Continues [AGA]
+Skipped: AlienBreed2_v1.6_0278.lha
+Skipped: AlienBreed2_v1.6_AGA_0044.lha
 Skipped: AlienBreed3D2_v1.1_AGA_0280.lha
 Skipped: AlienBreed3DDemoLatestDemo_v1.0_AGA.lha
 Skipped: AlienBreed3DDemoPlayableDemo_v1.0_AGA.lha
@@ -2986,7 +2986,7 @@ Skipped: FuryOfTheFurries_v1.0_1347.lha
 Skipped: FuryOfTheFurries_v1.0_CD32.lha
 Skipped: Fusion_v1.0_0331.lha
 Skipped: Fusion_v1.1_0331.lha
-Scanned: Fusion
+Skipped: Fusion_v1.2_0331.lha
 Skipped: FussballTotal_v1.1_De_2135.lha
 Skipped: FutureBasketball_v1.2_1253.lha
 Skipped: FutureBikeSimulator_v2.0_2149.lha
@@ -3241,7 +3241,7 @@ Skipped: HardBall_v1.0_0490.lha
 Skipped: HardDrivin2_v2.01.lha
 Skipped: HardDrivin_v2.04_0126.lha
 Skipped: HardDrivin_v2.04_1239.lha
-Scanned: Hard Drivin'
+Skipped: HardDrivin_v3.0_0126.lha
 Skipped: HardNHeavy_v1.02_1631.lha
 Skipped: HardNHeavy_v1.03_1631.lha
 Skipped: HareRaisingHavoc_v1.0_NTSC_2043.lha
@@ -5295,7 +5295,7 @@ Skipped: SecondSamurai_v1.2a_0721.lha
 Skipped: SecondSamurai_v1.2a_AGA_1624.lha
 Skipped: SecondSamurai_v1.2_0721.lha
 Skipped: SecondSamurai_v1.2_AGA_1624.lha
-Scanned: Second Samurai
+Skipped: SecondSamurai_v1.3a_0721.lha
 Skipped: SecondSamurai_v1.3a_AGA_1624.lha
 Skipped: SecondSamurai_v1.3_0721.lha
 Skipped: SecondsOut_v1.1_2760.lha

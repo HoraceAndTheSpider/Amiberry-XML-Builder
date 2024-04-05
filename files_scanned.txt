@@ -1,4 +1,4 @@
-Scanned file log: 2024-04-03 at 03:00:03
+Scanned file log: 2024-04-05 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -10448,6 +10448,8 @@ Skipped: Zine09_v1.0_Brainstorm.lha
 Skipped: Zine10_v1.0_Brainstorm.lha
 Skipped: BarbarianPlus_v0.lha
 Skipped: Bloodwych-BookOfSkulls_v1.0beta.lha
+Scanned: 
+Scanned: 
 Skipped: GreySlayer_v0.lha
 Snippet added: DevilsTemple_v3.0_1222
 Snippet added: DevilsTemple_v3.5_1211

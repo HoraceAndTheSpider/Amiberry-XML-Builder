@@ -422,6 +422,8 @@ for file2 in Path(input_directory + "/").glob('**/*.lha'):
                 # clock speed (MHz)
                 # Default: 7 for non-AGA / 14 for AGA
                 HW_SPEED = ""
+                if check_list("CPU_ClockSpeed_14.txt", sub_path) is True:
+                    HW_SPEED = "14"
                 if check_list("CPU_ClockSpeed_25.txt", sub_path) is True:
                     HW_SPEED = "25"
                 if check_list("CPU_ClockSpeed_Max.txt", sub_path) is True:

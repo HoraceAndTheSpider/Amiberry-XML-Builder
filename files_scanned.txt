@@ -1,4 +1,4 @@
-Scanned file log: 2024-04-10 at 03:00:03
+Scanned file log: 2024-04-12 at 03:00:02
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -924,6 +924,7 @@ Skipped: WorldsWave_v1.0_Subway.lha
 Skipped: Xenon2MusicRip_v1.0_RedSectorInc.lha
 Skipped: XPose_v1.1_Silents.lha
 Skipped: ZenerDrive_v1.0_Altair.lha
+Scanned: Zener Drive
 Skipped: ZillionDreams_v1.0_Reflex.lha
 Skipped: 3DPool_v1.2_0621.lha
 Skipped: 1000ccTurbo_v1.0.lha
@@ -1038,7 +1039,7 @@ Skipped: AdventuresOfRobinHood_v1.1.lha
 Skipped: AdventuresOfWillyBeamish_v1.2_1814.lha
 Skipped: AfricanRaiders01_v1.01_1169.lha
 Skipped: AfterBurner_v1.0_Activision_0095.lha
-Scanned: After Burner (NTSC)
+Skipped: AfterBurner_v1.4a_NTSC_0947.lha
 Skipped: AfterBurner_v1.4_NTSC_0947.lha
 Skipped: AfterBurner_v1.4_Sega_0947.lha
 Skipped: AfterTheWar_v1.3_1084.lha
@@ -6343,6 +6344,8 @@ Skipped: TopWrestling_v1.1.lha
 Skipped: TornadoGroundAttack_v1.0.lha
 Skipped: Tornado_v1.1_0807.lha
 Skipped: Tornado_v1.1_AGA.lha
+Scanned: Tornado
+Scanned: Tornado [AGA]
 Skipped: TorvakTheWarrior_v1.3_1796.lha
 Skipped: TorvakTheWarrior_v1.4_1796.lha
 Skipped: TotalCarnage_v1.1_AGA_1926.lha

@@ -1,4 +1,4 @@
-Scanned file log: 2024-04-17 at 03:00:03
+Scanned file log: 2024-04-19 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -6359,8 +6359,8 @@ Skipped: Turrican2_v2.2_0029.lha
 Skipped: Turrican2_v2.2_CDTV.lha
 Skipped: Turrican3Demo_v1.0.lha
 Skipped: Turrican3_v1.5_2633.lha
-Scanned: Turrican 3 (Files)
-Scanned: Turrican 3 (Image)
+Skipped: Turrican3_v1.6_Files_2633.lha
+Skipped: Turrican3_v1.6_Image_2633.lha
 Skipped: TurricanDemo_v1.0.lha
 Skipped: Turrican_v2.0_0092.lha
 Skipped: Turrican_v2.0_CDTV.lha

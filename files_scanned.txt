@@ -1,4 +1,4 @@
-Scanned file log: 2024-04-24 at 03:00:03
+Scanned file log: 2024-04-26 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -3184,8 +3184,8 @@ Skipped: Globdule_v2.0_0183.lha
 Skipped: Globdule_v2.0_NTSC.lha
 Skipped: Globdule_v2.1-B_0183.lha
 Skipped: Globdule_v2.1-B_NTSC.lha
-Scanned: Globdule
-Scanned: Globdule (NTSC)
+Skipped: Globdule_v2.2_0183.lha
+Skipped: Globdule_v2.2_NTSC.lha
 Skipped: Globulus_v1.1.lha
 Skipped: Globulus_v2.0.lha
 Skipped: Globulus_v2.1.lha
@@ -3833,9 +3833,9 @@ Skipped: Lancaster_v1.0_2885.lha
 Skipped: Lancelot_v1.0_0216.lha
 Skipped: LandsitzVonMortville_v1.1a_De.lha
 Skipped: LandsitzVonMortville_v2.0_De.lha
-Scanned: Larrie Crysys
-Scanned: Larrie Kingsoft
-Scanned: Larrie Kingsoft
+Skipped: Larrie_v1.0_Crysys.lha
+Skipped: Larrie_v1.0_Kingsoft.lha
+Skipped: Larrie_v1.0_kingsoft.lha
 Skipped: LaserSquad_v2.4_1907.lha
 Skipped: LaserSquad_v2.4_It.lha
 Skipped: LaserSquad_v2.4_NTSC_1908.lha
@@ -4779,6 +4779,7 @@ Skipped: PiratesGold_v2.2_CD32_Fr.lha
 Skipped: Pirates_v1.4_0552.lha
 Skipped: PitFighter_v1.1_0196.lha
 Skipped: Pixie&Dixie_v1.0.lha
+Scanned: Pizza Connection
 Skipped: PizzaConnection_v1.0_De.lha
 Skipped: Plague_v1.0.lha
 Skipped: Plague_v1.1.lha
@@ -6870,7 +6871,7 @@ Skipped: Outlands_v1.0_BETA.lha
 Skipped: PacMan_v1.0.lha
 Skipped: Pengo_v1.0.lha
 Skipped: Pengo_v1.0_BETA.lha
-Scanned: Phoenix
+Skipped: Phoenix_v1.0.lha
 Skipped: PokerNights&DataDisk_v1.1.lha
 Skipped: Populous&DataDisks_v1.2_BETA_0069&1217.lha
 Skipped: Populous_v1.2_0069_BETA.lha

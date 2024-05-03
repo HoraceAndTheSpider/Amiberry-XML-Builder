@@ -1,4 +1,4 @@
-Scanned file log: 2024-05-01 at 03:00:03
+Scanned file log: 2024-05-03 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -3836,8 +3836,8 @@ Skipped: LandsitzVonMortville_v2.0_De.lha
 Skipped: Larrie_v1.0_Crysys.lha
 Skipped: Larrie_v1.0_Kingsoft.lha
 Skipped: Larrie_v1.0_kingsoft.lha
-Scanned: Larrie Crysys
-Scanned: Larrie Kingsoft
+Skipped: Larrie_v1.1_Crysys.lha
+Skipped: Larrie_v1.1_Kingsoft.lha
 Skipped: LaserSquad_v2.4_1907.lha
 Skipped: LaserSquad_v2.4_It.lha
 Skipped: LaserSquad_v2.4_NTSC_1908.lha
@@ -4120,7 +4120,7 @@ Skipped: Magician_v1.0_2417.lha
 Skipped: MagicJohnsonsBasketball_v1.0.lha
 Skipped: MagicJohnsonsFastBreak_v0.1_Arcadia.lha
 Skipped: MagiclandDizzy_v1.5_1145.lha
-Scanned: Magicland Dizzy
+Skipped: MagiclandDizzy_v1.6_1145.lha
 Skipped: MagicMarble_v1.0.lha
 Skipped: MagicMarble_v1.1_2188.lha
 Skipped: MagicMarble_v1.2_2188.lha
@@ -6875,7 +6875,7 @@ Skipped: PacMan_v1.0.lha
 Skipped: Pengo_v1.0.lha
 Skipped: Pengo_v1.0_BETA.lha
 Skipped: Phoenix_v1.0.lha
-Scanned: Phoenix [AGA]
+Skipped: Phoenix_v1.0_AGA.lha
 Skipped: PokerNights&DataDisk_v1.1.lha
 Skipped: Populous&DataDisks_v1.2_BETA_0069&1217.lha
 Skipped: Populous_v1.2_0069_BETA.lha

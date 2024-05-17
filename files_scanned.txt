@@ -1,4 +1,4 @@
-Scanned file log: 2024-05-15 at 03:00:02
+Scanned file log: 2024-05-17 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -6841,6 +6841,7 @@ Skipped: JetsonsLegendOfRobotopia_v1.1.lha
 Skipped: JoanOfArc_v0.1.lha
 Skipped: KarateChamp_v1.0.lha
 Skipped: KingAndBalloon_v0.9.lha
+Scanned: King And Balloon
 Skipped: Knightmare_v1.1_Konami.lha
 Skipped: LastActionHero_v1.1_Hack_by_AmigaLive.lha
 Skipped: LastActionHero_v1.2_Hack_by_AmigaLive.lha

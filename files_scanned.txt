@@ -1,4 +1,4 @@
-Scanned file log: 2024-05-22 at 03:00:03
+Scanned file log: 2024-05-24 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -1238,9 +1238,9 @@ Skipped: ArcadeFruitMachine_v1.0.lha
 Skipped: ArcadePool_v3.0_0298.lha
 Skipped: ArcadePool_v3.0_AGA_0298.lha
 Skipped: ArcadePool_v3.0_CD32.lha
-Scanned: Arcade Pool
-Scanned: Arcade Pool [AGA]
-Scanned: Arcade Pool [CD32]
+Skipped: ArcadePool_v3.1_0298.lha
+Skipped: ArcadePool_v3.1_AGA_0298.lha
+Skipped: ArcadePool_v3.1_CD32.lha
 Skipped: ArcadeSnooker_v1.1_AGA.lha
 Skipped: ArcadeTriviaQuiz_v1.2_0936.lha
 Skipped: ArcherMacLeansBillardAmericain_v1.2.lha
@@ -2979,7 +2979,7 @@ Skipped: Fire&IceXmasDemo_v1.0.lha
 Skipped: Fire&Ice_v2.2_0502.lha
 Skipped: Fire&Ice_v2.2_CD32.lha
 Skipped: FireAndBrimstone_v1.2_3012.lha
-Scanned: Fire And Brimstone
+Skipped: FireAndBrimstone_v1.3_3012.lha
 Skipped: FireAndIce_v3.0_0502.lha
 Skipped: FireAndIce_v3.0_CD32.lha
 Skipped: FireAndIce_v3.2_CD32.lha
@@ -4780,12 +4780,15 @@ Skipped: PinballHazard_v1.1.lha
 Skipped: Pipeline_v1.1_Nomad.lha
 Skipped: Pipeline_v1.1_Oracle.lha
 Skipped: PipeMania_v1.0_0220.lha
+Scanned: Pirates Gold [CD32]
+Scanned: Pirates Gold [CD32] (Deutsch)
+Scanned: Pirates Gold [CD32] (Francais)
 Skipped: PiratesGold_v2.2_CD32.lha
 Skipped: PiratesGold_v2.2_CD32_De.lha
 Skipped: PiratesGold_v2.2_CD32_Fr.lha
 Skipped: Pirates_v1.4_0552.lha
-Scanned: Pirates
-Scanned: Pirates [CD32]
+Skipped: Pirates_v1.5_0552.lha
+Skipped: Pirates_v1.5_CD32.lha
 Skipped: PitFighter_v1.1_0196.lha
 Skipped: Pixie&Dixie_v1.0.lha
 Skipped: PizzaConnection_v1.0.lha
@@ -5782,7 +5785,7 @@ Skipped: Scorpio_v1.0.lha
 Skipped: SecretOfMonkeyIsland_v3.4_1625.lha
 Skipped: Seelenturm_v1.0_AGA_De.lha
 Skipped: SensibleTrainSpotting_v1.0.lha
-Scanned: SWOS 2020
+Skipped: SensibleWorldOfSoccer2020_v2.3.lha
 Skipped: SensibleWorldOfSoccer9596EuropeanChampions_v1.7_1825.lha
 Skipped: SensibleWorldOfSoccer9798_v2.2.lha
 Skipped: Sentinel_v1.01_3025.lha
@@ -5901,7 +5904,7 @@ Skipped: SensibleWorldOfSoccer1617_v1.7.lha
 Skipped: SensibleWorldOfSoccer1617_v2.0.lha
 Skipped: SensibleWorldOfSoccer1617_v2.1.lha
 Skipped: SensibleWorldOfSoccer1617_v2.2.lha
-Scanned: SWOS 1617
+Skipped: SensibleWorldOfSoccer1617_v2.3.lha
 Skipped: SensibleWorldOfSoccer2020_v1.7.lha
 Skipped: SensibleWorldOfSoccer2020_v2.0.lha
 Skipped: SensibleWorldOfSoccer2020_v2.1.lha
@@ -5912,12 +5915,12 @@ Skipped: SensibleWorldOfSoccer9596_v1.7_1755.lha
 Skipped: SensibleWorldOfSoccer9596_v2.0_1755.lha
 Skipped: SensibleWorldOfSoccer9596_v2.1_1755.lha
 Skipped: SensibleWorldOfSoccer9596_v2.2_1755.lha
-Scanned: SWOS 9596
+Skipped: SensibleWorldOfSoccer9596_v2.3_1755.lha
 Skipped: SensibleWorldOfSoccer9697_v1.7_0842.lha
 Skipped: SensibleWorldOfSoccer9697_v2.0_0842.lha
 Skipped: SensibleWorldOfSoccer9697_v2.1_0842.lha
 Skipped: SensibleWorldOfSoccer9697_v2.2_0842.lha
-Scanned: SWOS 9697
+Skipped: SensibleWorldOfSoccer9697_v2.3_0842.lha
 Skipped: SensibleWorldOfSoccer9798_v1.7.lha
 Skipped: SensibleWorldOfSoccer9798_v2.0.lha
 Skipped: SensibleWorldOfSoccer9798_v2.1.lha
@@ -6008,13 +6011,13 @@ Skipped: ShadowOfTheBeast2_v1.3a_1359.lha
 Skipped: ShadowOfTheBeast2_v1.3a_NTSC.lha
 Skipped: ShadowOfTheBeast2_v1.4_1359.lha
 Skipped: ShadowOfTheBeast2_v1.4_NTSC.lha
-Scanned: SWOS 9798
+Skipped: SensibleWorldOfSoccer9798_v2.3.lha
 Skipped: SensibleWorldOfSoccer98_v2.1.lha
 Skipped: SensibleWorldOfSoccer98_v2.2.lha
-Scanned: SWOS 98
+Skipped: SensibleWorldOfSoccer98_v2.3.lha
 Skipped: SensibleWorldOfSoccerv11_v2.1_0201.lha
 Skipped: SensibleWorldOfSoccerv11_v2.2_0201.lha
-Scanned: SWOSv 11
+Skipped: SensibleWorldOfSoccerv11_v2.3_0201.lha
 Skipped: SensibleWorldOfSoccerWorldCup98_v1.7.lha
 Skipped: SensibleWorldOfSoccerWorldCup98_v2.0.lha
 Skipped: SensibleWorldOfSoccer_v1.7_0840.lha
@@ -6023,23 +6026,23 @@ Skipped: SensibleWorldOfSoccer_v2.1_0840.lha
 Skipped: SensibleWorldOfSoccer_v2.1_De.lha
 Skipped: SensibleWorldOfSoccer_v2.2_0840.lha
 Skipped: SensibleWorldOfSoccer_v2.2_De.lha
-Scanned: SWOS
-Scanned: SWOSDe
+Skipped: SensibleWorldOfSoccer_v2.3_0840.lha
+Skipped: SensibleWorldOfSoccer_v2.3_De.lha
 Skipped: SensibleWorldOfSoccer2021_v1.7.lha
 Skipped: SensibleWorldOfSoccer2021_v2.0.lha
 Skipped: SensibleWorldOfSoccer2021_v2.1.lha
 Skipped: SensibleWorldOfSoccer2021_v2.2.lha
-Scanned: SWOS 2021
+Skipped: SensibleWorldOfSoccer2021_v2.3.lha
 Skipped: SensibleWorldOfSoccer2122_v2.1.lha
 Skipped: SensibleWorldOfSoccer2122_v2.2.lha
-Scanned: SWOS 2122
+Skipped: SensibleWorldOfSoccer2122_v2.3.lha
 Skipped: SensibleWorldOfSoccer2223_v2.1.lha
 Skipped: SensibleWorldOfSoccer2223_v2.2.lha
-Scanned: SWOS 2223
+Skipped: SensibleWorldOfSoccer2223_v2.3.lha
 Skipped: SensibleWorldOfSoccer2324_v2.1.lha
-Scanned: SWOS 2324
+Skipped: SensibleWorldOfSoccer2324_v2.3.lha
 Skipped: SensibleWorldOfSoccer9596EuropeanChampionsEdition_v2.1_1825.lha
-Scanned: SWOS 9596 ECE
+Skipped: SensibleWorldOfSoccer9596EuropeanChampionsEdition_v2.3_1825.lha
 Skipped: TetrisPro_v1.0.1.lha
 Skipped: TetrisPro_v1.0.2.lha
 Skipped: Tetris_v1.1_Infogrames.lha

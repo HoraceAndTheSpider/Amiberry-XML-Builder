@@ -1,4 +1,4 @@
-Scanned file log: 2024-05-29 at 03:00:03
+Scanned file log: 2024-05-31 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -6875,7 +6875,7 @@ Skipped: LCDDreams_v1.0_Fast.lha
 Skipped: Legion_v1.1a_BETA.lha
 Skipped: Liberation_v1.0_0617.lha
 Skipped: Liberation_v1.0_CD32.lha
-Scanned: Lord Of The Rings Vol 1
+Skipped: LordOfTheRingsVolume1_v1.0.lha
 Skipped: LostTreasuresOfInfocom_v1.0.lha
 Skipped: MagicPockets_v3.0_NTSC.lha
 Skipped: MariaRenardsRevenge_v1.2_AGA.lha

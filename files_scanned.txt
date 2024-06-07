@@ -1,4 +1,4 @@
-Scanned file log: 2024-06-05 at 03:00:03
+Scanned file log: 2024-06-07 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -3617,6 +3617,7 @@ Skipped: Jet&SceneryDisk12_v1.0.lha
 Skipped: Jet&SceneryDisk13_v1.0.lha
 Skipped: Jet&SceneryDisk14_v1.0.lha
 Skipped: JetSetWilly2_v0501.1_1115.lha
+Scanned: Jet Set Willy II
 Skipped: JetsonsLegendOfRobotopia_v1.0.lha
 Skipped: JetsonsTheComputerGame_v1.0_2270.lha
 Skipped: Jetstrike_v1.1.lha
@@ -4173,6 +4174,7 @@ Skipped: ManiacMansion_v1.6_Fr_2376.lha
 Skipped: ManiacMansion_v1.6_It.lha
 Skipped: Maniax_v2.0.lha
 Skipped: ManicMiner_v0501.2_1116.lha
+Scanned: Manic Miner
 Skipped: Manix_v1.1_2533.lha
 Skipped: Manix_v2.0_2533.lha
 Skipped: ManoirDeMortvielle_v1.1a_Fr_2148.lha
@@ -6457,9 +6459,9 @@ Skipped: UltimateGolf_v1.2_2129.lha
 Skipped: UltimateGolf_v1.3a_2129.lha
 Skipped: Universe_v1.4_AltVersion.lha
 Skipped: Universe_v1.4_CD32.lha
-Scanned: Universe
-Scanned: Universe Alt
-Scanned: Universe [CD32]
+Skipped: Universe_v1.5_0894.lha
+Skipped: Universe_v1.5_AltVersion.lha
+Skipped: Universe_v1.5_CD32.lha
 Skipped: Unreal_v1.2_0033.lha
 Skipped: Unreal_v1.2_NTSC.lha
 Skipped: Unreal_v1.2_NTSC_1952.lha
@@ -6831,7 +6833,7 @@ Skipped: Boppin_v1.0.lha
 Skipped: BuggyBoy_v1.3_BETA_0465.lha
 Skipped: CastlevaniaDemo_v1.2_AGA.lha
 Skipped: Castlevania_v1.2_AGA.lha
-Scanned: Castlevania [AGA]
+Skipped: Castlevania_v1.2_AGA_June2024.lha
 Skipped: Citadel_v1.3_RemonsteredEdition.lha
 Skipped: Citadel_v1.4_RemonsteredEdition.lha
 Skipped: Cobra_v1.0.lha

@@ -1,4 +1,4 @@
-Scanned file log: 2024-06-12 at 03:00:02
+Scanned file log: 2024-06-14 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -3203,7 +3203,7 @@ Skipped: GrandMonsterSlam_v2.0_1Disk_1688.lha
 Skipped: GrandMonsterSlam_v2.0_2Disk_1917.lha
 Skipped: GrandMonsterSlam_v2.1_1Disk_1688.lha
 Skipped: GrandMonsterSlam_v2.1_2Disk_1917.lha
-Scanned: Grand National
+Skipped: GrandNational_v1.0_2361.lha
 Skipped: GrandPrix5002_v1.0_Fr.lha
 Skipped: GrandPrixCircuit_v1.0_0008.lha
 Skipped: GrandPrixMaster_v1.0_2216.lha
@@ -5872,9 +5872,9 @@ Skipped: SuperStreetFighter2_v1.1_AGA.lha
 Skipped: SuperStreetFighter2_v1.2_0147.lha
 Skipped: SuperStreetFighter2_v1.2_AGA.lha
 Skipped: SuperTennisChamps&DataDisks_v1.1.lha
-Scanned: Super Tennis Champs (& Data Disks)
+Skipped: SuperTennisChamps&DataDisks_v1.2_1153.lha
 Skipped: SuperTennisChamps_v1.1.lha
-Scanned: Super Tennis Champs
+Skipped: SuperTennisChamps_v1.2_1153.lha
 Skipped: SuperTetris_v1.0_2646.lha
 Skipped: SuperTwintris_v1.0.lha
 Skipped: Supremacy_v1.1_1384.lha

@@ -1,4 +1,4 @@
-Scanned file log: 2024-06-19 at 03:00:03
+Scanned file log: 2024-06-21 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -6339,9 +6339,9 @@ Skipped: TubeWarriors_v1.0_AGA.lha
 Skipped: TubularWorlds_v1.0_1MB.lha
 Skipped: TubularWorlds_v1.0_512KB.lha
 Skipped: TubularWorlds_v1.0_AGA.lha
-Scanned: Tubular Worlds
-Scanned: Tubular Worlds (512Kb)
-Scanned: Tubular Worlds [AGA]
+Skipped: TubularWorlds_v1.1.lha
+Skipped: TubularWorlds_v1.1_512k.lha
+Skipped: TubularWorlds_v1.1_AGA.lha
 Skipped: TurboCup_v1.2.lha
 Skipped: TurboCup_v1.2_Fr_2409.lha
 Skipped: TurboCup_v1.3.lha
@@ -6873,6 +6873,7 @@ Skipped: Gods_v3.2_0666_ControllableJump.lha
 Skipped: GreatGianaSisters_v1.7_2945.lha
 Skipped: HeroQuest_v1.2_German_fix_by_Viddi.lha
 Skipped: HeroQuest_v1.2_German_fix_by_Viddi_v2.lha
+Scanned: Highway Hawks
 Skipped: Hugo_v1.0_Es_Spanish_hack_by_K-teto.lha
 Skipped: Hybris_v2.4b3_BETA_1457.lha
 Skipped: JamesPond_v0.1_BETA_1MB.lha

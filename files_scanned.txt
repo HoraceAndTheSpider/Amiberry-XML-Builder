@@ -1,4 +1,4 @@
-Scanned file log: 2024-06-26 at 03:00:03
+Scanned file log: 2024-06-28 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -2898,7 +2898,7 @@ Skipped: Formula13D_v1.0_2985.lha
 Skipped: Formula1GrandPrix_v1.0.lha
 Skipped: FormulaOneGrandPrix_v1.0_3Disk.lha
 Skipped: FormulaOneGrandPrix_v1.0_4Disk_0325.lha
-Scanned: Fortress Underground
+Skipped: FortressUnderground_v1.0.lha
 Skipped: FoundationsWaste_v1.1_2759.lha
 Skipped: FoundationsWaste_v1.2.lha
 Skipped: FourCrystalsOfTrazere_v1.2_NTSC.lha
@@ -2971,6 +2971,7 @@ Skipped: FinalFight_v1.6_1MB_1329.lha
 Skipped: FinalFight_v1.6_512k_1329.lha
 Skipped: FinalFight_v1.7_1329.lha
 Skipped: FinalFight_v1.7_512k_1329.lha
+Scanned: Final Trip
 Skipped: Fire!_v1.0.lha
 Skipped: Fire&Forget2_v1.1_0482.lha
 Skipped: Fire&Forget2_v1.2_0482.lha
@@ -10511,6 +10512,7 @@ Skipped: Zine09_v1.0_Brainstorm.lha
 Skipped: Zine10_v1.0_Brainstorm.lha
 Skipped: BarbarianPlus_v0.lha
 Skipped: Bloodwych-BookOfSkulls_v1.0beta.lha
+Scanned: 
 Skipped: EOB1-AGA-MAP-1.09.lha
 Skipped: EOB2-AGA-MAP-V1.05.lha
 Skipped: GreySlayer_v0.lha

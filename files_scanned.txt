@@ -1,4 +1,4 @@
-Scanned file log: 2024-07-03 at 03:00:03
+Scanned file log: 2024-07-05 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -2599,8 +2599,8 @@ Skipped: Elvira_v1.3_Fr_1751.lha
 Skipped: Elvira_v1.3_NTSC.lha
 Skipped: Embryo_v1.0_2265.lha
 Skipped: Embryo_v1.0_De.lha
-Scanned: Embryo (Francais)
-Scanned: Embryo Hr
+Skipped: Embryo_v1.0_Fr_2265.lha
+Skipped: Embryo_v1.0_Hr_2265.lha
 Skipped: EmeraldMine2_v0.91b_1520.lha
 Skipped: EmeraldMine3_v1.1.lha
 Skipped: EmeraldMines_v1.0_CD.lha
@@ -6980,7 +6980,7 @@ Skipped: WipeOut_v1.0_0161_Abaddon.lha
 Skipped: WonderboyInMonsterlandSE_v1.1_Hack_by_Earok.lha
 Skipped: WonderDogSE_v1.0_Hack_by_Earok.lha
 Skipped: Worthy_v1.0.lha
-Scanned: Wrath Of The Demon SCX
+Skipped: WrathOfTheDemon_v1.01_Scoopex.lha
 Skipped: Xenon2Audio_v0.2b_BETA.lha
 Skipped: Xevious_v1.0_AGA.lha
 Skipped: Ziriax_v1.3b_Ross_Ultimate_Edition.lha

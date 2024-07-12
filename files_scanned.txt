@@ -1,4 +1,4 @@
-Scanned file log: 2024-07-10 at 03:00:03
+Scanned file log: 2024-07-12 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -6869,7 +6869,7 @@ Skipped: Frogger_v1.22.lha
 Skipped: Frogger_v1.23.lha
 Skipped: Frogger_v1.24.lha
 Skipped: FromLightsToFlag_v0.lha
-Scanned: Galaga
+Skipped: Galaga_v1.0.lha
 Skipped: Galaxian_v1.0.lha
 Skipped: Galaxian_v1.0_BETA.lha
 Skipped: GhostBattle_v1.3.lha

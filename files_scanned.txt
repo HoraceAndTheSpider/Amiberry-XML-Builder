@@ -1,4 +1,4 @@
-Scanned file log: 2024-08-07 at 03:00:02
+Scanned file log: 2024-08-09 at 03:00:02
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -1004,6 +1004,8 @@ Skipped: Amnios_v1.3_NTSC.lha
 Skipped: Anarchy_v1.5.lha
 Skipped: A10TankKiller_v2.0_2Disk_1396.lha
 Skipped: A10TankKiller_v2.0_3Disk.lha
+Scanned: A 320 Airbus Edition Europa
+Scanned: A 320 Airbus
 Skipped: Aaargh!_v0.1_Arcadia.lha
 Skipped: Aaargh!_v1.0a_0511.lha
 Skipped: AbandonedPlaces2_v2.0.lha
@@ -2146,7 +2148,7 @@ Skipped: Cedric_v2.1_CD32.lha
 Skipped: Cedric_v2.2.lha
 Skipped: Cedric_v2.2_CD32.lha
 Skipped: CelticLegends_v1.4_1281.lha
-Scanned: Centerbase
+Skipped: Centerbase_v1.0_2785.lha
 Skipped: CenterCourt2_v1.0_AGA.lha
 Skipped: CenterCourt2_v1.1_AGA.lha
 Skipped: CenterCourt_v1.0_2765.lha
@@ -2656,7 +2658,7 @@ Skipped: EuroSoccer_v1.01_2905.lha
 Skipped: EvilDawn_v1.0.lha
 Skipped: EvilDawn_v1.1.lha
 Skipped: EvilsDoomDemo_v1.0.lha
-Scanned: Evils Doom Demo [AGA]
+Skipped: EvilsDoomDemo_v1.0_AGA.lha
 Skipped: EvolutionCryser_v1.0.lha
 Skipped: Excalibur_v1.0_2688.lha
 Skipped: Executioner_v1.1.lha
@@ -3093,7 +3095,7 @@ Skipped: Gloom_v1.3.1_CD32.lha
 Skipped: Gloom_v1.4_1330.lha
 Skipped: Gloom_v1.4_AGA_0124.lha
 Skipped: Gloom_v1.4_CD32.lha
-Scanned: Glubble
+Skipped: Glubble_v1.0.lha
 Skipped: GNius_v1.1_0895.lha
 Skipped: GnomeAlone_v1.0.lha
 Skipped: GnomeRanger_v1.0.lha
@@ -3547,7 +3549,7 @@ Skipped: IslandOfLostHope_v1.1_1318.lha
 Skipped: Indianapolis500_v2.0_0686.lha
 Skipped: Indianapolis500_v2.1_0686.lha
 Skipped: Indianapolis500_v3.0_0686.lha
-Scanned: Indian Mission (Deutsch)
+Skipped: IndianMission_v1.0_De.lha
 Skipped: IndianMission_v1.0_Fr.lha
 Skipped: Indigo_v1.1_Files.lha
 Skipped: Indigo_v1.1_Image.lha
@@ -4185,7 +4187,7 @@ Skipped: MarbleMadness_v2.3_0013.lha
 Skipped: MariasXmasBox_v1.0.lha
 Skipped: MarvinsMarvellousAdventure_v1.01_AGA_1152.lha
 Skipped: MagicLines_v1.0_1732.lha
-Scanned: Magic Serpent
+Skipped: MagicSerpent_v1.0.lha
 Skipped: ManFromTheCouncil_v1.0_2599.lha
 Skipped: ManiacMansion_v1.5_Es.lha
 Skipped: MarvinsMarvellousAdventure_v1.01_CD32.lha
@@ -4398,7 +4400,7 @@ Skipped: MetroCross_v1.0.lha
 Skipped: MetroCross_v1.1.lha
 Skipped: Mewilo_v1.0_De.lha
 Skipped: Mewilo_v1.0_Fr.lha
-Scanned: Magic Serpent [CDTV]
+Skipped: MagicSerpent_v1.0_CDTV.lha
 Skipped: Magnatron_v1.2.lha
 Skipped: MajorMotion_v1.0_1756.lha
 Skipped: Manager_v1.02_1310.lha
@@ -5675,7 +5677,7 @@ Skipped: Steel_v1.1_1981.lha
 Skipped: Steel_v1.2_1981.lha
 Skipped: StegTheSlug_v1.1_2271.lha
 Skipped: Steigar_v1.0.lha
-Scanned: Steigar
+Skipped: Steigar_v1.1_2120.lha
 Skipped: Stellar7_v1.0_De_0732.lha
 Skipped: Stellar7_v1.0_NTSC_2026.lha
 Skipped: StirCrazyFeaturingBobo_v1.0.lha
@@ -6896,7 +6898,7 @@ Skipped: JoanOfArc_v0.1.lha
 Skipped: KarateChamp_v1.0.lha
 Skipped: KingAndBalloon_v0.9.lha
 Skipped: KingAndBalloon_v0.92.lha
-Scanned: King And Balloon
+Skipped: KingAndBalloon_v0.94.lha
 Skipped: Knightmare_v1.1_Konami.lha
 Skipped: LastActionHero_v1.1_Hack_by_AmigaLive.lha
 Skipped: LastActionHero_v1.2_Hack_by_AmigaLive.lha
@@ -6944,14 +6946,14 @@ Skipped: RealmOfTheTrolls_v0.8.lha
 Skipped: RickDangerous_v1.2_AGA.lha
 Skipped: RogueDeclanZero_v1.0.lha
 Skipped: Scramble_v1.0.lha
-Scanned: Shadow Fighter [AGA] No Jump
+Skipped: ShadowFighter_v1.0_AGA_No_jump_by_ztronzo.lha
 Skipped: ShadowWarriors_v1.2_BETA_0830.lha
 Skipped: Smash_v1.0.lha
 Skipped: Snakes_v0.9.lha
 Skipped: StoriaAncestrale_v0.9g.lha
 Skipped: StuntCarRacerTNT_v1.4_BETA.lha
 Skipped: StuntCarRacer_v1.4_BETA_0222.lha
-Scanned: Summer Olympix [CD32]
+Skipped: SummerOlympix_v1.0_CD32_BETA.lha
 Skipped: SuperBagman_v1.0.lha
 Skipped: SuperCars2_v0.85_AGA.lha
 Skipped: SuperCars2_v0.86_AGA.lha

@@ -1,4 +1,4 @@
-Scanned file log: 2024-08-14 at 03:00:03
+Scanned file log: 2024-08-16 at 03:00:02
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -1005,9 +1005,9 @@ Skipped: Anarchy_v1.5.lha
 Skipped: A10TankKiller_v2.0_2Disk_1396.lha
 Skipped: A10TankKiller_v2.0_3Disk.lha
 Skipped: A320AirbusEditionEuropa_v1.1.lha
-Scanned: A 320 Airbus Edition Europa
+Skipped: A320AirbusEditionEuropa_v1.2.lha
 Skipped: A320Airbus_v1.1.lha
-Scanned: A 320 Airbus
+Skipped: A320Airbus_v1.2.lha
 Skipped: Aaargh!_v0.1_Arcadia.lha
 Skipped: Aaargh!_v1.0a_0511.lha
 Skipped: AbandonedPlaces2_v2.0.lha
@@ -1090,7 +1090,7 @@ Skipped: Akira_v1.2.lha
 Skipped: Akira_v1.2_CD32.lha
 Skipped: Akira_v1.3.lha
 Skipped: Akira_v1.3_CD32.lha
-Scanned: Aladdins Magic Lamp
+Skipped: AladdinsMagicLamp_v1.0.lha
 Skipped: Aladdin_v1.7_AGA_0420.lha
 Skipped: Aladdin_v1.8_AGA_0420.lha
 Skipped: Albedo_v1.0_Fr.lha

@@ -1,4 +1,4 @@
-Scanned file log: 2024-08-21 at 03:00:02
+Scanned file log: 2024-08-23 at 03:00:02
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -1006,7 +1006,7 @@ Skipped: A10TankKiller_v2.0_2Disk_1396.lha
 Skipped: A10TankKiller_v2.0_3Disk.lha
 Skipped: A320AirbusEditionEuropa_v1.1.lha
 Skipped: A320AirbusEditionEuropa_v1.2.lha
-Scanned: A 320 Airbus Edition USA
+Skipped: A320AirbusEditionUSA_v1.0.lha
 Skipped: A320Airbus_v1.1.lha
 Skipped: A320Airbus_v1.2.lha
 Skipped: Aaargh!_v0.1_Arcadia.lha
@@ -1241,7 +1241,7 @@ Skipped: ArabianNights_v2.0_512k_1454.lha
 Skipped: ArabianNights_v2.0_CD32.lha
 Skipped: Arachnophobia_v1.0.lha
 Skipped: ArcadeFruitMachine_v1.0.lha
-Scanned: Arcade Fruit Machine
+Skipped: ArcadeFruitMachine_v1.1.lha
 Skipped: ArcadePool_v3.0_0298.lha
 Skipped: ArcadePool_v3.0_AGA_0298.lha
 Skipped: ArcadePool_v3.0_CD32.lha
@@ -3307,10 +3307,10 @@ Skipped: Heimdall_v2.2_0234.lha
 Skipped: Heimdall_v2.2_De.lha
 Skipped: Heimdall_v2.2_Es.lha
 Skipped: Heimdall_v2.2_Fr.lha
-Scanned: Heimdall
-Scanned: Heimdall (Deutsch)
-Scanned: Heimdall (Espanol)
-Scanned: Heimdall (Francais)
+Skipped: Heimdall_v2.3_0234.lha
+Skipped: Heimdall_v2.3_De.lha
+Skipped: Heimdall_v2.3_Es.lha
+Skipped: Heimdall_v2.3_Fr.lha
 Skipped: Hellbent_v1.0_1119.lha
 Skipped: HellfireAttack_v1.0.lha
 Skipped: Hellraider_v1.0.lha
@@ -6977,6 +6977,7 @@ Skipped: SuperGemZ_v1.0.lha
 Skipped: SuperHangOn_v1.5_Hack_by_Earok.lha
 Skipped: SuperMonacoGP_v1.2_BETA.lha
 Skipped: Tetris_v1.0_AGA.lha
+Scanned: Tetris [AGA]
 Skipped: TFX_v1.1_AGA_BETA.lha
 Skipped: Tinyus_v1.0_BETA.lha
 Skipped: Tony&FriendsInKelloggsLand_v1.0_Hack_by_Earok.lha

@@ -1,4 +1,4 @@
-Scanned file log: 2024-08-28 at 03:00:03
+Scanned file log: 2024-08-30 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -1006,13 +1006,13 @@ Skipped: A10TankKiller_v2.0_2Disk_1396.lha
 Skipped: A10TankKiller_v2.0_3Disk.lha
 Skipped: A320AirbusEditionEuropa_v1.1.lha
 Skipped: A320AirbusEditionEuropa_v1.2.lha
-Scanned: A 320 Airbus Edition Europa
+Skipped: A320AirbusEditionEuropa_v1.3.lha
 Skipped: A320AirbusEditionUSA_v1.0.lha
-Scanned: A 320 Airbus Edition USA
-Scanned: A 320 Airbus Vol 2
+Skipped: A320AirbusEditionUSA_v1.1.lha
+Skipped: A320AirbusVol2_v1.1_1592.lha
 Skipped: A320Airbus_v1.1.lha
 Skipped: A320Airbus_v1.2.lha
-Scanned: A 320 Airbus
+Skipped: A320Airbus_v1.3.lha
 Skipped: Aaargh!_v0.1_Arcadia.lha
 Skipped: Aaargh!_v1.0a_0511.lha
 Skipped: AbandonedPlaces2_v2.0.lha
@@ -1538,6 +1538,7 @@ Skipped: BlackViper_v1.1.lha
 Skipped: BlackViper_v1.1_AGA.lha
 Skipped: BlackViper_v1.1_CD32.lha
 Skipped: BladesOfSteel_v1.0.lha
+Scanned: Blades Of Steel
 Skipped: BladeWarrior_v1.3_2201.lha
 Skipped: BladeWarrior_v2.0_2201.lha
 Skipped: Blade_v1.0_1801.lha
@@ -4307,6 +4308,7 @@ Skipped: MightyBombJack_v1.3_0536.lha
 Skipped: MikeReadsComputerPopQuiz_v1.0_0867.lha
 Skipped: MikeTheMagicDragon_v1.0_3072.lha
 Skipped: MikroMortalTennis_v1.0.lha
+Scanned: Mikro Mortal Tennis
 Skipped: Millenium_v1.4_NTSC_2027.lha
 Skipped: Millennium22_v1.3_0537.lha
 Skipped: Millennium22_v1.4_0537.lha
@@ -5145,7 +5147,7 @@ Skipped: RealmOfTheTrolls_v1.2_2Disk.lha
 Skipped: RealmsOfArkania_v1.2_0616.lha
 Skipped: Realms_v1.3_1497.lha
 Skipped: Rebellion_v1.0.lha
-Scanned: Rectangle
+Skipped: Rectangle_v1.0.lha
 Skipped: Red41Demo_v1.0.lha
 Skipped: RedBaron_v2.1.lha
 Skipped: RedBaron_v2.1_1595.lha
@@ -6373,6 +6375,9 @@ Skipped: TubularWorlds_v1.0_AGA.lha
 Skipped: TubularWorlds_v1.1.lha
 Skipped: TubularWorlds_v1.1_512k.lha
 Skipped: TubularWorlds_v1.1_AGA.lha
+Scanned: Tubular Worlds
+Scanned: Tubular Worlds (512Kb)
+Scanned: Tubular Worlds [AGA]
 Skipped: TurboCup_v1.2.lha
 Skipped: TurboCup_v1.2_Fr_2409.lha
 Skipped: TurboCup_v1.3.lha

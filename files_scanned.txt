@@ -1,4 +1,4 @@
-Scanned file log: 2024-09-04 at 03:00:02
+Scanned file log: 2024-09-06 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -225,7 +225,7 @@ Skipped: DemonsRage_v1.01_NerveAxis.lha
 Skipped: DigitalInnovation_v1.0_Anarchy.lha
 Skipped: DigitalMusicArt_v1.0_Wildfire.lha
 Skipped: DigitalNoises_v1.0_RamJam.lha
-Scanned: Digital Noize 2
+Skipped: DigitalNoize2_v1.0_TheEvilForces.lha
 Skipped: DigitalSounds1_v1.0_Warfalcons.lha
 Skipped: Dirt_v1.4_Mystic_AGA.lha
 Skipped: DiscoFever_v1.0_IpecElite.lha
@@ -542,7 +542,7 @@ Skipped: MiseryDentro2_v1.0_Tristar&RedSectorInc.lha
 Skipped: Mixolydian_v1.0_EndOfCentury1999.lha
 Skipped: MobileDestinationUnknown_v1.1_Spaceballs.lha
 Skipped: MoinJungs_v1.0_DoctorMabuseOrgasmCrackings.lha
-Scanned: Moments [AGA]
+Skipped: Moments_v1.0_AGA_OldBulls.lha
 Skipped: Monolith_v1.01_Megawatts.lha
 Skipped: Monoxide_v1.0_Vanish.lha
 Skipped: MorbidVisions2_v1.0_Carillon&Cyberiad.lha
@@ -2159,7 +2159,7 @@ Skipped: Cedric_v2.1.lha
 Skipped: Cedric_v2.1_CD32.lha
 Skipped: Cedric_v2.2.lha
 Skipped: Cedric_v2.2_CD32.lha
-Scanned: Celtic Heart
+Skipped: CelticHeart_v1.0.lha
 Skipped: CelticLegends_v1.4_1281.lha
 Skipped: Centerbase_v1.0_2785.lha
 Skipped: Centerbase_v1.1_2785.lha
@@ -2407,6 +2407,7 @@ Skipped: DonkTheSamuraiDuck_v1.2_0647.lha
 Skipped: DonkTheSamuraiDuck_v1.2_AGA_0647.lha
 Skipped: Doodlebug_v1.2.lha
 Skipped: Doodlebug_v1.3_1862.lha
+Skipped: Doody_v1.0.lha
 Scanned: Doody
 Skipped: Doofus_v1.1_0648.lha
 Skipped: DoubleAgent_v1.0.lha

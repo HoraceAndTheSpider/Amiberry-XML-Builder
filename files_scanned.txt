@@ -1,4 +1,4 @@
-Scanned file log: 2024-09-06 at 03:00:03
+Scanned file log: 2024-09-07 at 22:43:05
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -2408,7 +2408,7 @@ Skipped: DonkTheSamuraiDuck_v1.2_AGA_0647.lha
 Skipped: Doodlebug_v1.2.lha
 Skipped: Doodlebug_v1.3_1862.lha
 Skipped: Doody_v1.0.lha
-Scanned: Doody
+Skipped: Doody_v1.1.lha
 Skipped: Doofus_v1.1_0648.lha
 Skipped: DoubleAgent_v1.0.lha
 Skipped: DoubleDragon2_v1.5_0768.lha
@@ -3414,6 +3414,8 @@ Skipped: Hugo_v1.1_Se.lha
 Skipped: HumanKillingMachine_v1.1.lha
 Skipped: Humans2_v1.01_1036.lha
 Skipped: Humans2_v1.01_De_0510.lha
+Scanned: Humans 2 - Jurassic Levels
+Scanned: Humans 2 (Deutsch)
 Skipped: Humans3_v1.1_AGA_2382.lha
 Skipped: Humans_v1.5_CD32.lha
 Skipped: Humans_v1.6-B_1888.lha
@@ -10563,5 +10565,6 @@ Skipped: Cecconoid_v1.0.lha
 Skipped: EOB1-AGA-MAP-1.09.lha
 Skipped: EOB2-AGA-MAP-V1.05.lha
 Skipped: GreySlayer_v0.lha
+Scanned: Roguecraft
 Snippet added: DevilsTemple_v3.0_1222
 Snippet added: DevilsTemple_v3.5_1211

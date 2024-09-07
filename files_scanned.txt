@@ -1,4 +1,4 @@
-Scanned file log: 2024-09-07 at 22:43:05
+Scanned file log: 2024-09-07 at 22:46:28
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -3414,8 +3414,8 @@ Skipped: Hugo_v1.1_Se.lha
 Skipped: HumanKillingMachine_v1.1.lha
 Skipped: Humans2_v1.01_1036.lha
 Skipped: Humans2_v1.01_De_0510.lha
-Scanned: Humans 2 - Jurassic Levels
-Scanned: Humans 2 (Deutsch)
+Skipped: Humans2_v1.6-B_1036.lha
+Skipped: Humans2_v1.6-B_De_0510.lha
 Skipped: Humans3_v1.1_AGA_2382.lha
 Skipped: Humans_v1.5_CD32.lha
 Skipped: Humans_v1.6-B_1888.lha

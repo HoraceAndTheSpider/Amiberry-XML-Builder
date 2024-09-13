@@ -1,4 +1,4 @@
-Scanned file log: 2024-09-11 at 03:00:02
+Scanned file log: 2024-09-13 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -5386,7 +5386,7 @@ Skipped: SecretOfTheSilverBlades_v1.0.lha
 Skipped: SecretOfTheSilverBlades_v1.1.lha
 Skipped: Seek&Destroy_v1.1_0252.lha
 Skipped: Seek&Destroy_v1.1_AGA_0252.lha
-Skipped: Seelenturm_v1.1_AGA_De.lha
+Skipped: Seelenturm_v1.0_AGA_De.lha
 Skipped: SensibleGolf_v1.2_0200.lha
 Skipped: SensibleGolf_v1.3_0200.lha
 Skipped: SensibleGolf_v1.4_0200.lha
@@ -5828,7 +5828,7 @@ Skipped: SuperSkidmarksFarmYardEdition_v2.2_LowMem_CD.lha
 Skipped: SuperSkidmarks_v1.0_CD32.lha
 Skipped: Scorpio_v1.0.lha
 Skipped: SecretOfMonkeyIsland_v3.4_1625.lha
-Skipped: Seelenturm_v1.0_AGA_De.lha
+Skipped: Seelenturm_v1.1_AGA_De.lha
 Skipped: SensibleTrainSpotting_v1.0.lha
 Skipped: SensibleWorldOfSoccer2020_v2.3.lha
 Skipped: SensibleWorldOfSoccer9596EuropeanChampions_v1.7_1825.lha
@@ -6355,7 +6355,7 @@ Skipped: TreasureIslandDizzy_v1.3_CD32.lha
 Skipped: TreasuresOfTheSavageFrontier_v1.0_NTSC_0992.lha
 Skipped: TreasureTrap_v1.01_1731.lha
 Skipped: TrexWarrior_v1.0.lha
-Scanned: Trex Warrior - 22nd Century Gladiator
+Skipped: TrexWarrior_v1.1_3056.lha
 Skipped: TrianGO_v1.1_1909.lha
 Skipped: TrickyQuikyGames_v1.0_De.lha
 Skipped: TripleX_v1.0_2048.lha

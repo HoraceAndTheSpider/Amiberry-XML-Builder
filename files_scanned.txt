@@ -1,4 +1,4 @@
-Scanned file log: 2024-09-18 at 03:00:02
+Scanned file log: 2024-09-20 at 03:00:02
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -4030,8 +4030,8 @@ Skipped: LiquidKids_v1.2_Image.lha
 Skipped: LiquidKids_v1.3_Files.lha
 Skipped: LiquidKids_v1.3_Image.lha
 Skipped: LittleComputerPeople_v1.2_0913.lha
-Scanned: Little Princess 2
-Scanned: Little Princess
+Skipped: LittlePrincess2_v1.1.lha
+Skipped: LittlePrincess_v1.0.lha
 Skipped: LittlePuffInDragonland_v1.0.lha
 Skipped: LittleRedRidingHood_v1.0.lha
 Skipped: LiveAndLetDie_v1.1_2187.lha
@@ -6574,7 +6574,7 @@ Skipped: Vigilante_v1.1_1188.lha
 Skipped: Vindex_v1.0_2806.lha
 Skipped: Vindicators_v1.1_0158.lha
 Skipped: Violator_v2.0.lha
-Scanned: Violator
+Skipped: Violator_v2.1_2658.lha
 Skipped: Virocop_v1.0-B_1836.lha
 Skipped: Virocop_v1.0b_1836.lha
 Skipped: Virocop_v1.0_1836.lha
@@ -6717,6 +6717,7 @@ Skipped: WonderDog_v1.1_1201.lha
 Skipped: WorldGames_v1.0_0604.lha
 Skipped: WildWestWorld_v1.4_De_0601.lha
 Skipped: WildWheels_v1.1_2654.lha
+Scanned: Willy The Kid (Deutsch)
 Skipped: WillyTheKid_v1.0_De.lha
 Skipped: WindInTheWillows_v1.0_2998.lha
 Skipped: WindowWizard_v1.0_Files_2649.lha
@@ -6725,6 +6726,7 @@ Skipped: WindSurfWilly_v1.3_2879.lha
 Skipped: WindSurfWilly_v1.3_Fast_2879.lha
 Skipped: WindSurfWilly_v1.3_Fr_2878.lha
 Skipped: WindSurfWilly_v1.3_Fr_Fast_2878.lha
+Skipped: Windwalker_v1.01_NTSC_1391.lha
 Scanned: Windwalker (NTSC)
 Skipped: Windwalker_v1.0_1391.lha
 Skipped: Windwalker_v1.0_NTSC_1391.lha

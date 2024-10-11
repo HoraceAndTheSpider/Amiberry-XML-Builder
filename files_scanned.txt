@@ -1,4 +1,4 @@
-Scanned file log: 2024-10-09 at 03:00:02
+Scanned file log: 2024-10-11 at 03:00:02
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -5298,10 +5298,10 @@ Skipped: RobinHoodLegendQuest_v1.1.lha
 Skipped: RobinsonsRequiem_v1.2.lha
 Skipped: RobinsonsRequiem_v1.2_AGA_1866.lha
 Skipped: RoboCop2_v1.2_1220.lha
-Scanned: Robo Cop 2 (NTSC)
+Skipped: RoboCop2_v1.2_NTSC.lha
 Skipped: RoboCop3_v1.3_0979.lha
 Skipped: RoboCop3_v1.3_NTSC_0978.lha
-Scanned: Robo Cop (NTSC)
+Skipped: RoboCop_v1.1_NTSC.lha
 Skipped: RoboCop_v1.2_2066.lha
 Skipped: RoboSport_v1.0_2592.lha
 Skipped: Roboter_v1.0_De.lha
@@ -6393,6 +6393,9 @@ Skipped: Trog_v1.0.lha
 Skipped: TroisPetitsCochonsSAmusement_v1.0_Fr.lha
 Skipped: Trolls_v1.2_AGA_0996.lha
 Skipped: Trolls_v1.3_CD32.lha
+Skipped: Trolls_v2.0.lha
+Skipped: Trolls_v2.0_AGA_0155.lha
+Skipped: Trolls_v2.0_CD32.lha
 Scanned: Trolls
 Scanned: Trolls [AGA]
 Scanned: Trolls [CD32]

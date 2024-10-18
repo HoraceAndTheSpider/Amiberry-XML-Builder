@@ -1,4 +1,4 @@
-Scanned file log: 2024-10-16 at 03:00:03
+Scanned file log: 2024-10-18 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -3422,8 +3422,8 @@ Skipped: Humans2_v1.01_De_0510.lha
 Skipped: Humans2_v1.6-B_1036.lha
 Skipped: Humans2_v1.6-B_De_0510.lha
 Skipped: Humans3_v1.1_AGA_2382.lha
-Scanned: Humans 3 - Evolution - Lost In Time [AGA]
-Scanned: Humans 3 [CD32]
+Skipped: Humans3_v1.2_AGA_2382.lha
+Skipped: Humans3_v1.2_CD32.lha
 Skipped: Humans_v1.5_CD32.lha
 Skipped: Humans_v1.6-B_1888.lha
 Skipped: Humans_v1.6-B_De_0509.lha
@@ -6778,7 +6778,7 @@ Skipped: Wizkid_v1.2_1449.lha
 Skipped: Wizkid_v1.3_1449.lha
 Skipped: Wizkid_v1.4_1449.lha
 Skipped: WizNLiz_v2.1_0749.lha
-Scanned: Wiz 'n' Liz
+Skipped: WizNLiz_v2.2_0749.lha
 Skipped: Wolfchild_v1.1_0411.lha
 Skipped: Wolfchild_v1.2_0411.lha
 Skipped: Wolfpack_v1.0_0255.lha

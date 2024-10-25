@@ -1,4 +1,4 @@
-Scanned file log: 2024-10-23 at 03:00:03
+Scanned file log: 2024-10-25 at 03:00:02
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -59,7 +59,7 @@ Skipped: AnarchyAnnouncetro_v1.0_Silents&Anarchy.lha
 Skipped: AnarchyParty1991Slideshow_v1.0_Razor1911.lha
 Skipped: AnarchyPartySlideshow_v1.0_Quartz.lha
 Skipped: Animatunes_v1.0_NewGenerationCrew_AGA.lha
-Scanned: Animatunes [AGA]
+Skipped: Animatunes_v1.1_NewGenerationCrew_AGA.lha
 Skipped: Animotion_v1.01_Phenomena.lha
 Skipped: Animotion_v1.02_Phenomena.lha
 Skipped: Announce_v1.0_Lemon.lha
@@ -4503,6 +4503,7 @@ Skipped: NibbyNibble_v1.1.lha
 Skipped: NickFaldosChampionshipGolf_v2.1b_1164.lha
 Skipped: NickFaldosChampionshipGolf_v2.1b_CD32.lha
 Skipped: Nicky2_v1.1.lha
+Scanned: Nicky 2
 Skipped: NickyBoom_v1.2_1516.lha
 Skipped: NigelMansellsGrandPrix_v1.1_1102.lha
 Skipped: NigelMansellsWorldChampionship_v1.3_0137.lha
@@ -5279,6 +5280,8 @@ Skipped: RuffNTumble_v2.3_0199.lha
 Skipped: RuffNTumble_v2.5_0199.lha
 Skipped: RuffNTumble_v2.7_0199.lha
 Skipped: RuffNTumble_v2.7_512k_0199.lha
+Scanned: Ruff 'N' Tumble
+Scanned: Ruff NTumble (512Kb)
 Skipped: RugbyTheWorldCup_v1.2_0258.lha
 Skipped: RugbyTheWorldCup_v1.2_EarlyBuild_3730.lha
 Skipped: RunningMan_v1.0_0382.lha
@@ -5306,8 +5309,8 @@ Skipped: RoboCop3_v1.3_0979.lha
 Skipped: RoboCop3_v1.3_NTSC_0978.lha
 Skipped: RoboCop_v1.1_NTSC.lha
 Skipped: RoboCop_v1.2_2066.lha
-Scanned: RoboCop
-Scanned: Robo Cop (NTSC)
+Skipped: RoboCop_v1.3_2066.lha
+Skipped: RoboCop_v1.3_NTSC.lha
 Skipped: RoboSport_v1.0_2592.lha
 Skipped: Roboter_v1.0_De.lha
 Skipped: Robotnic_v1.0_2161.lha
@@ -5557,6 +5560,7 @@ Skipped: Sleepwalker_v1.2_ComicRelief_0291.lha
 Skipped: Sliders_v1.1.lha
 Skipped: SlightlyMagic_v1.0_2174.lha
 Skipped: SlySpySecretAgent_v1.1_1259.lha
+Scanned: Smarty & The Nasty Gluttons
 Skipped: SmartyAndTheNastyGluttons_v1.0.lha
 Skipped: SmashTV_v1.0_2293.lha
 Skipped: Smash_v1.0.lha
@@ -6473,6 +6477,8 @@ Skipped: Turrican2_v2.1-B_0029.lha
 Skipped: Turrican2_v2.1-B_CDTV.lha
 Skipped: Turrican2_v2.2_0029.lha
 Skipped: Turrican2_v2.2_CDTV.lha
+Scanned: Turrican II - The Final Fight
+Scanned: Turrican 2 [CDTV]
 Skipped: Turrican3Demo_v1.0.lha
 Skipped: Turrican3_v1.5_2633.lha
 Skipped: Turrican3_v1.6_Files_2633.lha
@@ -6932,8 +6938,8 @@ Skipped: DonkeyKong_v1.0.lha
 Skipped: DownAtTheTrolls_v0.8.lha
 Skipped: ElevatorAction_v1.0.lha
 Skipped: ElevatorAction_v1.0_AGA.lha
-Scanned: Elevator Action ECS
-Scanned: Elevator Action OCS
+Skipped: ElevatorAction_v1.0_ECS.lha
+Skipped: ElevatorAction_v1.0_OCS.lha
 Skipped: EyeOfTheBeholder2_v0.1_AGA.lha
 Skipped: EyeOfTheBeholder2_v0.3_AGA.lha
 Skipped: EyeOfTheBeholder_v0.2_AGA.lha

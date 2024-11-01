@@ -1,4 +1,4 @@
-Scanned file log: 2024-10-30 at 03:00:02
+Scanned file log: 2024-11-01 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -2133,6 +2133,7 @@ Skipped: ChaosStrikesBack&GermanUtilityDisk_v1.21.lha
 Skipped: ChariotsOfWrath_v1.0_2804.lha
 Skipped: CharlieJCool_v1.2.lha
 Skipped: CharlieJCool_v1.2_AGA.lha
+Scanned: Charly
 Skipped: Charon5_v1.0_2685.lha
 Skipped: ChaseHQ2_v1.4_1246.lha
 Skipped: ChaseHQ_v1.0_0212.lha
@@ -6933,6 +6934,7 @@ Skipped: BuggyBoy_v1.3_BETA_0465.lha
 Skipped: CastlevaniaDemo_v1.2_AGA.lha
 Skipped: Castlevania_v1.2_AGA.lha
 Skipped: Castlevania_v1.2_AGA_June2024.lha
+Scanned: Castlevania [AGA]
 Skipped: Citadel_v1.3_RemonsteredEdition.lha
 Skipped: Citadel_v1.4_RemonsteredEdition.lha
 Skipped: Cobra_v1.0.lha

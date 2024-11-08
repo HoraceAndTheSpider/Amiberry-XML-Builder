@@ -1,4 +1,4 @@
-Scanned file log: 2024-11-06 at 03:00:03
+Scanned file log: 2024-11-08 at 03:00:02
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -350,7 +350,7 @@ Skipped: InfiniteDreams_v1.0_Lunatics.lha
 Skipped: InFullAffect_v1.0_Wildfire.lha
 Skipped: Innership_v1.0_Pussy.lha
 Skipped: Innervision_v1.0_Dreamdealers.lha
-Scanned: Inside The Machine
+Skipped: InsideTheMachine_v1.0_Desire.lha
 Skipped: InspirationIsGone_v1.0_Kefrens.lha
 Skipped: InspirationIsNone_v1.0_Anarchy.lha
 Skipped: Interference_v1.0_Sanity.lha

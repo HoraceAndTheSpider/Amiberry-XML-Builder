@@ -1,4 +1,4 @@
-Scanned file log: 2024-11-20 at 03:00:03
+Scanned file log: 2024-11-22 at 03:00:02
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -2168,6 +2168,8 @@ Skipped: Cedric_v2.1.lha
 Skipped: Cedric_v2.1_CD32.lha
 Skipped: Cedric_v2.2.lha
 Skipped: Cedric_v2.2_CD32.lha
+Scanned: Cedric
+Scanned: Cedric [CD32]
 Skipped: CelticHeart_v1.0.lha
 Skipped: CelticLegends_v1.4_1281.lha
 Skipped: Centerbase_v1.0_2785.lha
@@ -3469,6 +3471,7 @@ Skipped: Ilyad_v1.2_1944.lha
 Skipped: Immortal_v2.1_0340.lha
 Skipped: Immortal_v3.0_0340.lha
 Skipped: Immortal_v3.1_0340.lha
+Scanned: Immortal
 Skipped: Impact95_v1.1.lha
 Skipped: Impact95_v1.2.lha
 Skipped: Impact_v1.1_2462.lha
@@ -3611,6 +3614,7 @@ Skipped: JimPower_v3.0-B_0068.lha
 Skipped: JimPower_v3.0_0068.lha
 Skipped: JimPower_v3.1_0068.lha
 Skipped: JimPower_v3.2_0068.lha
+Scanned: Jim Power - In Mutant Planet
 Skipped: Jinks_v1.0_0973.lha
 Skipped: Jinxter_v1.0.lha
 Skipped: JoakimVonAnkaSkattsoekaren_v1.1_Se.lha
@@ -4268,6 +4272,7 @@ Skipped: MegaTwins_v1.4.1.lha
 Skipped: MegaTyphoon_v1.1.lha
 Skipped: MegaTyphoon_v1.2.lha
 Skipped: MegaTyphoon_v1.3.lha
+Scanned: Mega Typhoon
 Skipped: Menace_v1.2_0823.lha
 Skipped: Menace_v1.3_0823.lha
 Skipped: MentalImage1_v1.0.lha
@@ -4553,6 +4558,7 @@ Skipped: Netherworld_v1.5_2033.lha
 Skipped: Neuromancer_v2.0_2604.lha
 Skipped: Neuromancer_v3.0_2604.lha
 Skipped: Neuromancer_v3.1_2604.lha
+Skipped: Neuromancer_v3.2_2604.lha
 Scanned: Neuromancer
 Skipped: Neuronics_v1.0.lha
 Skipped: NeverEndingStory2_v1.4.lha
@@ -4573,6 +4579,9 @@ Skipped: Oscar_v2.3_1228.lha
 Skipped: Oscar_v2.3_AGA_1095.lha
 Skipped: Oscar_v2.3_CD32.lha
 Skipped: Oscar_v2.3_CD32_NTSC.lha
+Scanned: Oscar
+Scanned: Oscar [AGA]
+Scanned: Oscar [CD32]
 Skipped: OsWALDOfTheIceFloes_v1.0.lha
 Skipped: OsWALDOfTheIceFloes_v1.0_NTSC.lha
 Skipped: Oswald_v1.1_Dk.lha
@@ -4923,6 +4932,8 @@ Skipped: PrawoKrwi_v1.0_AGA_Pl.lha
 Skipped: PrawoKrwi_v2.0_AGA_Pl.lha
 Skipped: PrawoKrwi_v2.1_AGA_Pl.lha
 Skipped: Predator2_v1.1.lha
+Scanned: Predator 2
+Scanned: Predator 2 (NTSC)
 Skipped: Predator_v1.0.lha
 Skipped: PrehistoricTale_v1.1.lha
 Skipped: Prehistorik_v1.3_0557.lha
@@ -6807,6 +6818,7 @@ Skipped: Wonderboy_v1.2.lha
 Skipped: Wonderboy_v2.0.lha
 Skipped: WonderDog_v1.0_1201.lha
 Skipped: WonderDog_v1.2_1201.lha
+Scanned: Wonder Dog
 Skipped: Wonderland_v1.0_0277.lha
 Skipped: WoodysWorld_v1.0_2182.lha
 Skipped: WorldChampionshipBoxingManager_v1.0.lha
@@ -6898,7 +6910,7 @@ Skipped: ZOut_v3.4_0609.lha
 Skipped: ZOut_v3.5_0609.lha
 Skipped: Zyconix_v1.0.lha
 Skipped: Zyconix_v1.1_1057.lha
-Scanned: Zyconix
+Skipped: Zyconix_v1.2_1057.lha
 Skipped: Zynaps_v1.0_0879.lha
 Skipped: ZakMcKracken_v1.2_0965.lha
 Skipped: ZakMcKracken_v1.2_De_0413.lha

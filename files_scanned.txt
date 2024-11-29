@@ -1,4 +1,4 @@
-Scanned file log: 2024-11-27 at 03:00:03
+Scanned file log: 2024-11-29 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -1790,7 +1790,7 @@ Skipped: Cyberblast_v1.1_1383.lha
 Skipped: Cybercon3_v1.7_0243.lha
 Skipped: CyberCop_v1.0.lha
 Skipped: CyberEmpires_v1.1.lha
-Scanned: Cyber Empires (NTSC)
+Skipped: CyberEmpires_v1.1_NTSC.lha
 Skipped: CyberGames_v1.0.lha
 Skipped: Cabal_v1.2a_0638.lha
 Skipped: Cabal_v1.3_0638.lha
@@ -2200,8 +2200,8 @@ Skipped: Cybernoid_v1.3_1088.lha
 Skipped: CyberPunks2Demo_v1.1_AGA.lha
 Skipped: Cyberpunks_v1.2_0365.lha
 Skipped: Cyberpunks_v1.3_0365.lha
-Scanned: Cybersphere Plus
-Scanned: Cybersphere
+Skipped: CyberspherePlus_v1.0.lha
+Skipped: Cybersphere_v1.0.lha
 Skipped: CyberWorld_v1.0_2603.lha
 Skipped: Cyberzerk_v1.0.lha
 Skipped: Cycles_v1.0_1018.lha
@@ -2555,6 +2555,7 @@ Skipped: DesertStrike_v3.3_0112.lha
 Skipped: DesertStrike_v3.3_512k_0112.lha
 Skipped: DesertStrike_v4.0_0112.lha
 Skipped: DesertStrike_v4.1_0112.lha
+Scanned: Desert Strike - Return to the Gulf
 Skipped: Destroyer_v1.0_0318.lha
 Skipped: Detector_v1.0.lha
 Skipped: Detonator_v1.0.lha
@@ -3085,7 +3086,7 @@ Skipped: GalaxyForce2_v1.4_0485.lha
 Skipped: GaldregonsDomain_v1.1.lha
 Skipped: GameOfHarmony_v1.0.lha
 Skipped: GearWorks_v1.0.lha
-Scanned: Gear Works (NTSC)
+Skipped: GearWorks_v1.0_NTSC_1028.lha
 Skipped: GeeBeeAirRally_v1.1.lha
 Skipped: Geisha_v1.3.lha
 Skipped: Geisha_v1.3_De.lha
@@ -4025,6 +4026,7 @@ Skipped: LesManleyInSearchForTheKing_v1.3_2671.lha
 Skipped: LEssentialMathsNiveau6eme_v1.0_Fr.lha
 Skipped: LethalWeapon_v1.3_0814.lha
 Skipped: LethalWeapon_v2.0_0814.lha
+Scanned: Lethal Weapon
 Skipped: LethalXcess_v1.3_0814.lha
 Skipped: LethalZone_v1.2_2321.lha
 Skipped: Lettrix_v1.0_De.lha
@@ -4564,6 +4566,7 @@ Skipped: Neuromancer_v3.0_2604.lha
 Skipped: Neuromancer_v3.1_2604.lha
 Skipped: Neuromancer_v3.2_2604.lha
 Skipped: Neuromancer_v3.3_2604.lha
+Scanned: Neuromancer
 Skipped: Neuronics_v1.0.lha
 Skipped: NeverEndingStory2_v1.4.lha
 Skipped: NeverMind_v1.0_1507.lha
@@ -5226,7 +5229,7 @@ Skipped: Reunion_v1.2_AGA_De_0568.lha
 Skipped: Reunion_v1.2_De_0569.lha
 Skipped: Revelation_v1.1_1903.lha
 Skipped: RevengeOfDefender_v1.0.lha
-Scanned: Revenge Of Defender (NTSC)
+Skipped: RevengeOfDefender_v1.0_NTSC.lha
 Skipped: RevengeOfTheMutantCamels2_v1.01.lha
 Skipped: RevengeOfTheMutantCamels_v1.0.lha
 Skipped: RevengeOfTheMutantCamels_v1.0_NTSC.lha
@@ -5806,7 +5809,7 @@ Skipped: Subwar2050_v1.3_CD32.lha
 Skipped: SuicideMission_v1.0_1518.lha
 Skipped: SummerCamp_v1.1_2276.lha
 Skipped: SummerChallenge_v1.1.lha
-Scanned: Summer Challenge (NTSC)
+Skipped: SummerChallenge_v1.1_NTSC.lha
 Skipped: SummerGames&SummerGames2_v1.0.lha
 Skipped: SummerGames&SummerGames2_v1.1_2895&2896.lha
 Skipped: SummerGames2_v1.0.lha

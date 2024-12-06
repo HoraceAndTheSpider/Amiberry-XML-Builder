@@ -1,4 +1,4 @@
-Scanned file log: 2024-12-04 at 03:00:02
+Scanned file log: 2024-12-06 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -1979,6 +1979,7 @@ Skipped: ChuckRock_v1.1_CD32.lha
 Skipped: ChuckRock_v1.2_0767.lha
 Skipped: ChuckRock_v1.2_CD32.lha
 Skipped: ChuckYeagersAdvancedFlightTrainer2_v1.0_0670.lha
+Scanned: Chuck Yeager's Advanced Flight Trainer 2.0
 Skipped: CircusAttractions_v1.0_1Disk_1689.lha
 Skipped: CircusAttractions_v1.0_2Disk_0450.lha
 Skipped: CircusAttractions_v1.1a_0450.lha
@@ -2657,6 +2658,7 @@ Skipped: EmpireSoccer94_v1.1_0844.lha
 Skipped: EmpireStrikesBack_v1.2_1235.lha
 Skipped: EnchantedLand_v1.2.lha
 Skipped: EnchantedLand_v1.3_3063.lha
+Scanned: Enchanted Land
 Skipped: Encounter_v1.2_0651.lha
 Skipped: Enemy2MissingInAction_v1.1.lha
 Skipped: Enemy2MissingInAction_v1.1_De.lha
@@ -5491,6 +5493,7 @@ Skipped: ShadowOfTheBeast_v2.3_1357.lha
 Skipped: ShadowOfTheBeast_v2.4_1357.lha
 Skipped: ShadowOfTheBeast_v2.5_1357.lha
 Skipped: ShadowOfTheBeast_v2.6_1357.lha
+Scanned: Shadow Of The Beast (NTSC)
 Skipped: Shadoworlds_v1.0_0030.lha
 Skipped: Shadoworlds_v1.1_0030.lha
 Skipped: ShadowSorcerer_v1.0_DeFrIt.lha
@@ -7045,6 +7048,7 @@ Skipped: Pengo_v1.0_BETA.lha
 Skipped: Phoenix_v1.0.lha
 Skipped: Phoenix_v1.0_AGA.lha
 Skipped: PokerNights&DataDisk_v1.1.lha
+Scanned: Pooyan
 Skipped: Populous&DataDisks_v1.2_BETA_0069&1217.lha
 Skipped: Populous_v1.2_0069_BETA.lha
 Skipped: ProjectXSE2017_v1.5_Hack_by_Earok.lha

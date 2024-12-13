@@ -1,4 +1,4 @@
-Scanned file log: 2024-12-11 at 03:00:02
+Scanned file log: 2024-12-13 at 03:00:02
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -1669,8 +1669,8 @@ Skipped: BuckRogers25cCountdownToDoomsday_v1.2_1994.lha
 Skipped: BuckRogers25cCountdownToDoomsday_v1.2_De_0445.lha
 Skipped: BuckRogers_v1.2_De_0445.lha
 Skipped: BuckRogers_v1.2_NTSC_1994.lha
-Scanned: Buck Rogers (Deutsch)
-Scanned: Buck Rogers (NTSC)
+Skipped: BuckRogers_v1.3_De_0445.lha
+Skipped: BuckRogers_v1.3_NTSC_1994.lha
 Skipped: BuffaloBillsWildWestShow_v1.3.lha
 Skipped: BugBash_v1.1.lha
 Skipped: BugBomber_v1.0_1579.lha
@@ -4737,7 +4737,7 @@ Skipped: PacMan87_v1.0.lha
 Skipped: Pacman87_v1.1.lha
 Skipped: Pacman87_v1.2.lha
 Skipped: PacMania_v1.0_1117.lha
-Scanned: Pac-Mania
+Skipped: PacMania_v1.1_1117.lha
 Skipped: Paladin2_v1.0_2113.lha
 Skipped: Paladin_v1.0_2982.lha
 Skipped: Paladin_v1.1_2982.lha
@@ -7014,7 +7014,7 @@ Skipped: KarateChamp_v1.0.lha
 Skipped: KingAndBalloon_v0.9.lha
 Skipped: KingAndBalloon_v0.92.lha
 Skipped: KingAndBalloon_v0.94.lha
-Scanned: Kings Bounty FV
+Skipped: KingsBounty_v1.0_FasterVersion.lha
 Skipped: Knightmare_v1.1_Konami.lha
 Skipped: LastActionHero_v1.1_Hack_by_AmigaLive.lha
 Skipped: LastActionHero_v1.2_Hack_by_AmigaLive.lha

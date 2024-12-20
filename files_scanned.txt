@@ -1,4 +1,4 @@
-Scanned file log: 2024-12-18 at 03:00:03
+Scanned file log: 2024-12-20 at 03:00:02
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -3327,7 +3327,7 @@ Skipped: HATE_v1.0_1930.lha
 Skipped: Hawkeye_v1.0.lha
 Skipped: Hawkeye_v1.1_1963.lha
 Skipped: HeadOverHeels_v1.0_1674.lha
-Scanned: Head Over Heels
+Skipped: HeadOverHeels_v1.1_1674.lha
 Skipped: HeartOfChina_v1.1_De_1869.lha
 Skipped: HeartOfTheDragon_v1.1_3Disk.lha
 Skipped: HeartOfTheDragon_v1.1_4Disk_2267.lha

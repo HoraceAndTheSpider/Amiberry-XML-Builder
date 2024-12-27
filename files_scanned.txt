@@ -1,4 +1,4 @@
-Scanned file log: 2024-12-25 at 03:00:03
+Scanned file log: 2024-12-27 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -6155,7 +6155,7 @@ Skipped: SensibleWorldOfSoccer2223_v2.2.lha
 Skipped: SensibleWorldOfSoccer2223_v2.3.lha
 Skipped: SensibleWorldOfSoccer2324_v2.1.lha
 Skipped: SensibleWorldOfSoccer2324_v2.3.lha
-Scanned: SWOS 2425
+Skipped: SensibleWorldOfSoccer2425_v2.3.lha
 Skipped: SensibleWorldOfSoccer9596EuropeanChampionsEdition_v2.1_1825.lha
 Skipped: SensibleWorldOfSoccer9596EuropeanChampionsEdition_v2.3_1825.lha
 Skipped: TetrisPro_v1.0.1.lha
@@ -6963,7 +6963,7 @@ Skipped: Aladdin_v1.8_AGA_0420.lha
 Skipped: Alien3_v2.2.lha
 Skipped: AllTerrainRacingXmasDemo_v1.3.lha
 Skipped: Amidar_v1.0.lha
-Scanned: Ami Robbo 2 Demo
+Skipped: AmiRobbo2Demo_v1.0.lha
 Skipped: AnotherWorldLostLevel_v1.1_Hack_by_Earok.lha
 Skipped: ApidyaSpecialEdition_v1.1_Hack_by_Earok.lha
 Skipped: Area88_v1.2_Hack_by_Earok.lha

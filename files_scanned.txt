@@ -1,4 +1,4 @@
-Scanned file log: 2025-01-08 at 03:00:02
+Scanned file log: 2025-01-10 at 03:00:02
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -2709,7 +2709,7 @@ Skipped: Exile_v1.1_AGA_0885.lha
 Skipped: Exile_v1.1_CD32.lha
 Skipped: Exile_v1.3_0032.lha
 Skipped: Exile_v1.4_0032.lha
-Scanned: Exodus 3010
+Skipped: Exodus3010_v1.0.lha
 Skipped: Exodus3010_v1.0_De_1605.lha
 Skipped: Exolon_v1.3_0015.lha
 Skipped: Explora2_v1.2_Fr_2662.lha

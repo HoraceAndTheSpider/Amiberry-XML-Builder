@@ -1,4 +1,4 @@
-Scanned file log: 2025-01-15 at 03:00:02
+Scanned file log: 2025-01-17 at 03:00:02
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -6976,6 +6976,7 @@ Skipped: BuggyBoy_v1.3_BETA_0465.lha
 Skipped: CastlevaniaDemo_v1.2_AGA.lha
 Skipped: Castlevania_v1.2_AGA.lha
 Skipped: Castlevania_v1.2_AGA_December2024.lha
+Scanned: Castlevania [AGA]
 Skipped: Castlevania_v1.2_AGA_June2024.lha
 Skipped: Castlevania_v1.2_AGA_October2024.lha
 Skipped: Citadel_v1.3_RemonsteredEdition.lha

@@ -1,4 +1,4 @@
-Scanned file log: 2025-01-29 at 03:00:03
+Scanned file log: 2025-01-31 at 03:00:02
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -1171,6 +1171,8 @@ Skipped: APB_v1.2a_1240.lha
 Skipped: APB_v1.2_1240.lha
 Skipped: Apidya_v2.05_Audios_2465.lha
 Skipped: Apidya_v2.05_Kaiko_0764.lha
+Scanned: Apidya (Audios)
+Scanned: Apidya (Kaiko)
 Skipped: Apocalypse_v1.0_1813.lha
 Skipped: AppleHunt_v1.0.lha
 Skipped: Apprentice_v1.3_2288.lha
@@ -3120,7 +3122,7 @@ Skipped: Gettysburg_v1.0_1937.lha
 Skipped: GhostBattle_v1.2.lha
 Skipped: GhostBattle_v1.3.lha
 Skipped: GhostBattle_v1.4.lha
-Scanned: Ghost Battle
+Skipped: GhostBattle_v1.5.lha
 Skipped: Ghostbusters2_v1.4.1_1029.lha
 Skipped: Ghostbusters2_v1.4.1_NTSC_1208.lha
 Skipped: GhostChaser_v1.0.lha
@@ -4359,11 +4361,11 @@ Skipped: MikeTheMagicDragon_v1.0_3072.lha
 Skipped: MikroMortalTennis_v1.0.lha
 Skipped: MikroMortalTennis_v1.1.lha
 Skipped: Millenium_v1.4_NTSC_2027.lha
-Scanned: Millenium (Deutsch)
-Scanned: Millenium (NTSC)
+Skipped: Millenium_v1.5_De.lha
+Skipped: Millenium_v1.5_NTSC_2027.lha
 Skipped: Millennium22_v1.3_0537.lha
 Skipped: Millennium22_v1.4_0537.lha
-Scanned: Millennium 2.2
+Skipped: Millennium22_v1.5_0537.lha
 Skipped: Mindbender_v1.0_2034.lha
 Skipped: Mindfighter_v1.0.lha
 Skipped: Mindroll_v1.1_0538.lha

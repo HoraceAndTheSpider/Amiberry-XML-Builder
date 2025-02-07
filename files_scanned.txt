@@ -1,4 +1,4 @@
-Scanned file log: 2025-02-05 at 03:00:02
+Scanned file log: 2025-02-07 at 03:00:02
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -1429,7 +1429,7 @@ Skipped: BardsTale_v1.4_NTSC_1978.lha
 Skipped: BarGames_v1.0_2947.lha
 Skipped: BarGames_v1.1_2947.lha
 Skipped: BAT2_v1.1_De_0434.lha
-Scanned: BA T 2 (Espanol)
+Skipped: BAT2_v1.1_Es.lha
 Skipped: BAT2_v1.1_Fr_1635.lha
 Skipped: BatmanCapedCrusader_v1.1_0050.lha
 Skipped: BatmanCapedCrusader_v1.2_0050.lha
@@ -6423,7 +6423,7 @@ Skipped: Traders_v1.21_NTSC.lha
 Skipped: TrainedAssassin_v1.1.lha
 Skipped: Transarctica_v1.4_0744.lha
 Skipped: Transarctica_v1.4_AGA.lha
-Scanned: Transarctica (Espanol)
+Skipped: Transarctica_v1.4_Es.lha
 Skipped: Transplant_v1.01.lha
 Skipped: Transworld_v1.0_De_2837.lha
 Skipped: TrapRunner_v1.0.lha
@@ -7146,7 +7146,7 @@ Skipped: Zool_v3.1_AGA_BETA.lha
 Skipped: Zool_v3.2_BETA.lha
 Skipped: Abduction-WHDL.lha
 Skipped: ABreakingDuoNextAGA-WHDL.lha
-Scanned: Absolute Zero [AGA]
+Skipped: AbsoluteZeroAGA-WHDL.lha
 Skipped: AbusimbelProfanation-WHDL.lha
 Skipped: AbusimbelProfanationSP-WHDL.lha
 Skipped: AbuSimbelTFA-WHDL.lha
@@ -7606,7 +7606,7 @@ Skipped: CasinoTrumpCastle2-WHDL.lha
 Skipped: CastleDanger-WHDL.lha
 Skipped: CastleHackDemo-WHDL.lha
 Skipped: Castles1Northern-WHDL.lha
-Scanned: Castlevania [AGA]
+Skipped: CastlevaniaAGA-WHDL.lha
 Skipped: Cat2-WHDL.lha
 Skipped: Catapults-WHDL.lha
 Skipped: CavernsPalle-WHDL.lha
@@ -9267,6 +9267,7 @@ Skipped: Riamel-WHDL.lha
 Skipped: RickyDangerous-WHDL.lha
 Skipped: Ricochet2-WHDL.lha
 Skipped: RightWay-WHDL.lha
+Scanned: Ring Around World
 Skipped: RingsZon-WHDL.lha
 Skipped: RingWorm-WHDL.lha
 Skipped: RiseOfTheRobotsSECD32-WHDL.lha
@@ -9801,6 +9802,7 @@ Skipped: TacticalManager2-WHDL.lha
 Skipped: TaekwondoMasterAGAPL-WHDL.lha
 Skipped: Tag-WHDL.lha
 Skipped: TajemnicaPL-WHDL.lha
+Scanned: Tale Evil
 Skipped: TalesGorluth1-WHDL.lha
 Skipped: Talmino1AGA-WHDL.lha
 Skipped: Talmino2-WHDL.lha
@@ -10358,7 +10360,7 @@ Skipped: BackboneRealityDemo-WHDL.lha
 Skipped: BackboneTutorialDemo-WHDL.lha
 Skipped: BeatsFireFFAGA-WHDL.lha
 Skipped: BeatsFireFFECS-WHDL.lha
-Scanned: Better Dead Zed Demo
+Skipped: BetterDeadZedDemo-WHDL.lha
 Skipped: BigEndCD32Demo-WHDL.lha
 Skipped: BlackDawn2TechoMageDemo-WHDL.lha
 Skipped: BlackDawnRebirthDemo-WHDL.lha
@@ -10392,7 +10394,7 @@ Skipped: FlyingShark2022demo-WHDL.lha
 Skipped: FtypeDemo-WHDL.lha
 Skipped: FurtumSacrumDarkDemo-WHDL.lha
 Skipped: FurtumSacrumDemo-WHDL.lha
-Scanned: Galactic Plague Demo
+Skipped: GalacticPlagueDemo-WHDL.lha
 Skipped: GermzDemo-WHDL.lha
 Skipped: GilbertDemo-WHDL.lha
 Skipped: GolfExcellenceAGAdemo-WHDL.lha
@@ -10407,7 +10409,7 @@ Skipped: HyboriaAGADemoEarly-WHDL.lha
 Skipped: InvanoidDemo-WHDL.lha
 Skipped: InviyyaDemo-WHDL.lha
 Skipped: JackalDemo-WHDL.lha
-Scanned: Joy Killing Demo
+Skipped: JoyKillingDemo-WHDL.lha
 Skipped: KCMdemo-WHDL.lha
 Skipped: KungFuMasterDemo-WHDL.lha
 Skipped: LegacyDemo-WHDL.lha
@@ -10458,7 +10460,7 @@ Skipped: SilvermanDemo-WHDL.lha
 Skipped: SlipStreamAGAdemo-WHDL.lha
 Skipped: SonicHedgehogDemo-WHDL.lha
 Skipped: Spheroiddemo-WHDL.lha
-Scanned: Steel Rain [AGA]demo
+Skipped: SteelRainAGAdemo-WHDL.lha
 Skipped: StreetsRageDemo-WHDL.lha
 Skipped: StreetsRageDemoEarly-WHDL.lha
 Skipped: SuperDeliveryBoyDemo-WHDL.lha

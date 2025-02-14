@@ -1,4 +1,4 @@
-Scanned file log: 2025-02-12 at 03:00:03
+Scanned file log: 2025-02-14 at 03:00:02
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -3059,6 +3059,7 @@ Skipped: FutureWars_v4.0_1570.lha
 Skipped: FutureWars_v4.0_De_0506.lha
 Skipped: GridStart_v1.1_1470.lha
 Skipped: GridStart_v1.1_AltVersion.lha
+Scanned: Grimblood
 Skipped: GuardianAngel_v1.0_2173.lha
 Skipped: Guardian_v1.0_AGA_0835.lha
 Skipped: Guardian_v1.0_CD32.lha
@@ -5100,7 +5101,7 @@ Skipped: PowerDrive_v1.0_1658.lha
 Skipped: Powerdrome_v1.0_0140.lha
 Skipped: PowermongerWW1Edition_v1.0_0614.lha
 Skipped: Powermonger_v1.3_0081.lha
-Scanned: Powermonger
+Skipped: Powermonger_v1.4_0081.lha
 Skipped: PowerPinball_v1.1.lha
 Skipped: PowerPinball_v1.1_CDTV.lha
 Skipped: Powerplay_v1.1_0856.lha
@@ -6843,6 +6844,7 @@ Skipped: Wizkid_v1.1_1449.lha
 Skipped: Wizkid_v1.2_1449.lha
 Skipped: Wizkid_v1.3_1449.lha
 Skipped: Wizkid_v1.4_1449.lha
+Scanned: Wizmo
 Skipped: WizNLiz_v2.1_0749.lha
 Skipped: WizNLiz_v2.21_0749.lha
 Skipped: WizNLiz_v2.2_0749.lha
@@ -9408,6 +9410,7 @@ Skipped: ShaNaNa-WHDL.lha
 Skipped: Shanghai2GR-WHDL.lha
 Skipped: Shanghai93-WHDL.lha
 Skipped: Shanghai98-WHDL.lha
+Scanned: Shanghai 98 [AGA]
 Skipped: Shankara-WHDL.lha
 Skipped: Shapes-WHDL.lha
 Skipped: Shapez-WHDL.lha
@@ -9813,7 +9816,7 @@ Skipped: TankAttack92-WHDL.lha
 Skipped: TankAttack95-WHDL.lha
 Skipped: TankBattle-WHDL.lha
 Skipped: TankCombat-WHDL.lha
-Scanned: Tank Dungeon
+Skipped: TankDungeon-WHDL.lha
 Skipped: TankedUP-WHDL.lha
 Skipped: TankHunter-WHDL.lha
 Skipped: Tankkk-WHDL.lha

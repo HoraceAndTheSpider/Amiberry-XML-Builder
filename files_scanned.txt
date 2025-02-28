@@ -1,4 +1,4 @@
-Scanned file log: 2025-02-26 at 03:00:02
+Scanned file log: 2025-02-28 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -5101,7 +5101,7 @@ Skipped: PowerDrive_v1.0_1658.lha
 Skipped: Powerdrome_v1.0_0140.lha
 Skipped: PowermongerWW1Edition_v1.0_0614.lha
 Skipped: Powermonger_v1.3_0081.lha
-Scanned: Powermonger
+Skipped: Powermonger_v1.4.1_0081.lha
 Skipped: Powermonger_v1.4_0081.lha
 Skipped: PowerPinball_v1.1.lha
 Skipped: PowerPinball_v1.1_CDTV.lha
@@ -7488,7 +7488,7 @@ Skipped: BombX-WHDL.lha
 Skipped: BombXNewLevelFR-WHDL.lha
 Skipped: Bondmine-WHDL.lha
 Skipped: BoneCruncher-WHDL.lha
-Scanned: Boom [AGA]
+Skipped: BoomAGA-WHDL.lha
 Skipped: Boomeraid-WHDL.lha
 Skipped: BoomerangMan-WHDL.lha
 Skipped: BoominEckDemo-WHDL.lha

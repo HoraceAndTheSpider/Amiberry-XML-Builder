@@ -1,4 +1,4 @@
-Scanned file log: 2025-03-05 at 03:00:03
+Scanned file log: 2025-03-07 at 03:00:02
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -10395,7 +10395,7 @@ Skipped: CrazyColumnsDemo-WHDL.lha
 Skipped: CreepingOut-WHDL.lha
 Skipped: CreepingOutDemo-WHDL.lha
 Skipped: CyberPunkAlienCityAGAdemo.lha
-Scanned: Dead Metal 3demo
+Skipped: DeadMetal3demo-WHDL.lha
 Skipped: DeepSilenceDemo-WHDL.lha
 Skipped: DevilsTempleDemo-WHDL.lha
 Skipped: DreamRowanDemo-WHDL.lha
@@ -10411,7 +10411,7 @@ Skipped: FurtumSacrumDarkDemo-WHDL.lha
 Skipped: FurtumSacrumDemo-WHDL.lha
 Skipped: GalacticPlagueDemo-WHDL.lha
 Skipped: GermzDemo-WHDL.lha
-Scanned: Ghosts NGoblins [AGA]demo
+Skipped: GhostsNGoblinsAGAdemo-WHDL.lha
 Skipped: GilbertDemo-WHDL.lha
 Skipped: GolfExcellenceAGAdemo-WHDL.lha
 Skipped: GolfExcellenceECSdemo-WHDL.lha

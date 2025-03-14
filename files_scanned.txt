@@ -1,4 +1,4 @@
-Scanned file log: 2025-03-12 at 03:00:02
+Scanned file log: 2025-03-14 at 03:00:02
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -1039,6 +1039,7 @@ Skipped: AdidasChampionshipFootball_v1.1_Image.lha
 Skipped: Adrenalynn_v1.1a.lha
 Skipped: AdvancedDestroyerSimulator_v1.0_2151.lha
 Skipped: AdvancedFruitMachineSimulator_v1.0_0622.lha
+Scanned: Adv Fruit Machine Sim
 Skipped: AdvancedSkiSimulator_v1.1_0094.lha
 Skipped: AdvancedSkiSimulator_v2.1_0094.lha
 Skipped: AdvantageTennis_v1.0.lha
@@ -4773,6 +4774,8 @@ Skipped: Paperboy_v1.3.lha
 Skipped: Paperboy_v1.4.lha
 Skipped: Paradroid90_v0401.1_1MB_0692.lha
 Skipped: Paradroid90_v0401.1_512KB_0692.lha
+Scanned: Paradroid 90 (1MB)
+Scanned: Paradroid 90512 KB
 Skipped: ParaglidingSimulation_v1.0_2002.lha
 Skipped: Paramax_v1.1.lha
 Skipped: Paramax_v2.0_2184.lha
@@ -6623,8 +6626,8 @@ Skipped: UpScope_v0.1.lha
 Skipped: UpScope_v1.01_Arcadia.lha
 Skipped: Uridium2_v0801.1_1MB_1526.lha
 Skipped: Uridium2_v0801.1_2MB_1526.lha
-Scanned: Uridium 21 MB
-Scanned: Uridium 2 (2MB)
+Skipped: Uridium2_v3.0.0_1MB_0276.lha
+Skipped: Uridium2_v3.0.0_2MB_0276.lha
 Skipped: USSJohnYoung_v1.0.lha
 Skipped: Utopia&NewWorlds_v1.3_0757&2576.lha
 Skipped: Utopia_v1.3_0757.lha
@@ -7230,6 +7233,8 @@ Skipped: Amibox-WHDL.lha
 Skipped: Amicube-WHDL.lha
 Skipped: AmiDonkeyLCDdemo-WHDL.lha
 Skipped: Amiga4096-WHDL.lha
+Scanned: Amiga Biznes 2
+Scanned: Amiga Biznes 22demo
 Skipped: AmigaboyTetrisDemo-WHDL.lha
 Skipped: AmigaBridge-WHDL.lha
 Skipped: AmigaCDFootball-WHDL.lha
@@ -8030,6 +8035,7 @@ Skipped: FightingWarriors-WHDL.lha
 Skipped: Filou-WHDL.lha
 Skipped: FinalChapter-WHDL.lha
 Skipped: FinalConflict-WHDL.lha
+Scanned: Finalb Hangman
 Skipped: FinalMission-WHDL.lha
 Skipped: FinalOdysseyBonus-WHDL.lha
 Skipped: FinalOdysseyECSAGA-WHDL.lha
@@ -8341,6 +8347,7 @@ Skipped: InternationalOpenGolfCD32-WHDL.lha
 Skipped: Interstate1-WHDL.lha
 Skipped: Interstate2-WHDL.lha
 Skipped: InterstellarAGA-WHDL.lha
+Scanned: Int Kopycat
 Skipped: IntruderAlert-WHDL.lha
 Skipped: InvaderCraft-WHDL.lha
 Skipped: InvadersMK2-WHDL.lha
@@ -9132,6 +9139,7 @@ Skipped: MoonbasesAGA-WHDL.lha
 Skipped: MoonbasesAGAFR-WHDL.lha
 Skipped: PixieKingdom-WHDL.lha
 Skipped: PizzaConnectionTeng-WHDL.lha
+Scanned: Pjusk
 Skipped: Plaft-WHDL.lha
 Skipped: PlanetZybex-WHDL.lha
 Skipped: PlasmaBubble-WHDL.lha
@@ -10403,7 +10411,7 @@ Skipped: DeepSilenceDemo-WHDL.lha
 Skipped: DevilsTempleDemo-WHDL.lha
 Skipped: DreamRowanDemo-WHDL.lha
 Skipped: DuckstromaDemo-WHDL.lha
-Scanned: Ecliptic Demo
+Skipped: EclipticDemo-WHDL.lha
 Skipped: EgoWingsDemo-WHDL.lha
 Skipped: EmotiworldDemo-WHDL.lha
 Skipped: EnforcerDemo-WHDL.lha

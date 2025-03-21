@@ -1,4 +1,4 @@
-Scanned file log: 2025-03-19 at 03:00:02
+Scanned file log: 2025-03-21 at 03:00:02
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -9648,7 +9648,7 @@ Skipped: SpeedAGAdemo-WHDL.lha
 Skipped: SpeedBallDillon-WHDL.lha
 Skipped: SpeedBreak-WHDL.lha
 Skipped: SpeedDemo-WHDL.lha
-Scanned: Speed Haste [AGA] 060
+Skipped: SpeedHasteAGA060-WHDL.lha
 Skipped: SpeedRacerFX-WHDL.lha
 Skipped: SpeedRunner-WHDL.lha
 Skipped: SpeedSoftgang-WHDL.lha
@@ -10521,6 +10521,7 @@ Skipped: YoompDemo-WHDL.lha
 Skipped: MonkeyLadDemo-WHDL.lha
 Skipped: MrMochiDemo-WHDL.lha
 Skipped: NinjFeratuDemo-WHDL.lha
+Scanned: Phantasy Star 2 Demo
 Skipped: PinballDreams2demo-WHDL.lha
 Skipped: PlatformDemo-WHDL.lha
 Skipped: PlatformNeesoDemo-WHDL.lha

@@ -1,4 +1,4 @@
-Scanned file log: 2025-04-16 at 03:00:02
+Scanned file log: 2025-04-18 at 03:00:02
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -2205,7 +2205,7 @@ Skipped: CoolWorld_v2.1_1826.lha
 Skipped: CoolWorld_v2.2_1826.lha
 Skipped: Cybernoid2_v1.3_0003.lha
 Skipped: Cybernoid_v1.3_1088.lha
-Scanned: Cybernoid Old Tile Set
+Skipped: Cybernoid_v1.3_OldTileSet.lha
 Skipped: CyberPunks2Demo_v1.1_AGA.lha
 Skipped: Cyberpunks_v1.2_0365.lha
 Skipped: Cyberpunks_v1.3_0365.lha
@@ -3324,7 +3324,7 @@ Skipped: HardDrivin_v2.04_1239.lha
 Skipped: HardDrivin_v3.0_0126.lha
 Skipped: HardNHeavy_v1.02_1631.lha
 Skipped: HardNHeavy_v1.03_1631.lha
-Scanned: Hare Raising Havoc
+Skipped: HareRaisingHavoc_v1.0.lha
 Skipped: HareRaisingHavoc_v1.0_NTSC_2043.lha
 Skipped: Harlequin_v1.3.1_1MB_2029.lha
 Skipped: Harlequin_v1.3.1_512KB_2029.lha

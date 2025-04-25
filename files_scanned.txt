@@ -1,4 +1,4 @@
-Scanned file log: 2025-04-23 at 03:00:03
+Scanned file log: 2025-04-25 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -5158,6 +5158,7 @@ Skipped: QueteDeLOiseauDuTemp_v1.4_Fr_Files_2343.lha
 Skipped: QueteDeLOiseauDuTemp_v1.4_Fr_Image_2343.lha
 Skipped: QueteDeLOiseauDuTemp_v1.5_Fr_Files_2343.lha
 Skipped: QueteDeLOiseauDuTemp_v1.5_Fr_Image_2343.lha
+Scanned: Quicksilva
 Skipped: QuicksilverPinball_v1.2.lha
 Skipped: QuikTheThunderRabbit_v1.2a.lha
 Skipped: QuikTheThunderRabbit_v1.2a_AGA.lha
@@ -6635,6 +6636,8 @@ Skipped: Uridium2_v0801.1_1MB_1526.lha
 Skipped: Uridium2_v0801.1_2MB_1526.lha
 Skipped: Uridium2_v3.0.0_1MB_0276.lha
 Skipped: Uridium2_v3.0.0_2MB_0276.lha
+Scanned: Uridium 21 MB
+Scanned: Uridium 2 (2MB)
 Skipped: USSJohnYoung_v1.0.lha
 Skipped: Utopia&NewWorlds_v1.3_0757&2576.lha
 Skipped: Utopia_v1.3_0757.lha
@@ -7004,8 +7007,8 @@ Skipped: Atlantyda_v1.1_Pl.lha
 Skipped: Bagman_v1.0.lha
 Skipped: Boppin_v1.0.lha
 Skipped: BuggyBoy_v1.3_BETA_0465.lha
-Scanned: Burger Time
-Scanned: Burger Time 68020
+Skipped: BurgerTime_v1.0.lha
+Skipped: BurgerTime_v1.0_68020.lha
 Skipped: CastlevaniaDemo_v1.2_AGA.lha
 Skipped: Castlevania_v1.2_AGA.lha
 Skipped: Castlevania_v1.2_AGA_December2024.lha

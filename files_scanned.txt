@@ -1,4 +1,4 @@
-Scanned file log: 2025-04-30 at 03:00:03
+Scanned file log: 2025-05-02 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -5131,7 +5131,7 @@ Skipped: QBic_v1.1.lha
 Skipped: Qix_v1.0.lha
 Skipped: Qix_v1.0_NTSC.lha
 Skipped: Quadralien_v1.0_0918.lha
-Scanned: Quadralien
+Skipped: Quadralien_v1.1_0918.lha
 Skipped: Quadrel_v1.0_0380.lha
 Skipped: Quartz_v1.1_2020.lha
 Skipped: QuasarWars_v1.0_AGA.lha

@@ -1,4 +1,4 @@
-Scanned file log: 2025-05-07 at 03:00:03
+Scanned file log: 2025-05-09 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -1921,6 +1921,7 @@ Skipped: CaveMania_v1.2_2220.lha
 Skipped: Centurion_v1.0_NTSC_1945.lha
 Skipped: Century_v1.0_0640.lha
 Skipped: ChallengeFoot_v1.0_Fr.lha
+Scanned: Challenge Golf
 Skipped: Challenger_v1.0.1_2704.lha
 Skipped: ChamberOfTheSciMutantPriestess_v1.1b.lha
 Skipped: ChamberOfTheSciMutantPriestess_v1.1b_NTSC_3037.lha
@@ -2743,9 +2744,9 @@ Skipped: Elfmania_v2.0_512k_0114.lha
 Skipped: Elf_v1.0_MicroValue_0863.lha
 Skipped: Elf_v1.2_Ocean_0473.lha
 Skipped: Elf_v1.2_Ocean_NTSC.lha
-Scanned: Elf Ocean En Fr (Deutsch)
-Scanned: Elf Ocean En Fr De (NTSC)
-Scanned: Elf Ocean En Fr (Espanol)
+Skipped: Elf_v1.3_Ocean_EnFrDe_0473.lha
+Skipped: Elf_v1.3_Ocean_EnFrDe_NTSC.lha
+Skipped: Elf_v1.3_Ocean_EnFrEs.lha
 Skipped: Eliminator_v1.1_0770.lha
 Skipped: Eliminator_v1.3_0770.lha
 Skipped: EliteAdvanced_v1.2.lha
@@ -6449,7 +6450,7 @@ Skipped: Transarctica_v1.4_0744.lha
 Skipped: Transarctica_v1.4_AGA.lha
 Skipped: Transarctica_v1.4_Es.lha
 Skipped: Transplant_v1.01.lha
-Scanned: Transputor
+Skipped: Transputor_v1.0_0395.lha
 Skipped: Transworld_v1.0_De_2837.lha
 Skipped: TrapRunner_v1.0.lha
 Skipped: TrapsNTreasures_v1.0.lha
@@ -7066,10 +7067,12 @@ Skipped: HeroQuest_v1.2_German_fix_by_Viddi_v2.lha
 Skipped: HighwayHawks_v1.2_BETA.lha
 Skipped: Hugo_v1.0_Es_Spanish_hack_by_K-teto.lha
 Skipped: Hybris_v2.4b3_BETA_1457.lha
+Scanned: International Karate
 Skipped: JamesPond_v0.1_BETA_1MB.lha
 Skipped: JetsonsLegendOfRobotopia_v1.1.lha
 Skipped: JoanOfArc_v0.1.lha
 Skipped: KarateChamp_v1.0.lha
+Scanned: Karateka
 Skipped: KingAndBalloon_v0.9.lha
 Skipped: KingAndBalloon_v0.92.lha
 Skipped: KingAndBalloon_v0.94.lha
@@ -7119,6 +7122,8 @@ Skipped: ProjectXSE2017_v1.5_Hack_by_Earok.lha
 Skipped: ProjectXv2_v1.4_0289_BETA.lha
 Skipped: ProjectX_v1.4_0886_BETA.lha
 Skipped: RealmOfTheTrolls_v0.8.lha
+Scanned: Renegades Deluxe PD
+Scanned: Renegades PD
 Skipped: RickDangerous_v1.2_AGA.lha
 Skipped: RogueDeclanZero_v1.0.lha
 Skipped: Scramble_v1.0.lha

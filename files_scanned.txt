@@ -1,4 +1,4 @@
-Scanned file log: 2025-05-14 at 03:00:03
+Scanned file log: 2025-05-16 at 03:00:02
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -12,6 +12,8 @@ Skipped: 2Unlimited_v1.1a_Scoopex.lha
 Skipped: 2Unlimited_v1.1_Scoopex.lha
 Skipped: 3DBalls_v1.0_Avenger.lha
 Skipped: 3DDemo2_v1.0_Anarchy.lha
+Scanned: 3 DDemo 3 Complete Edition
+Scanned: 3 DDemo 3 Party Edition
 Skipped: 3DDemo_v1.0_Anarchy.lha
 Skipped: 3DNetAnalyzer_v1.01_DoctorMabuseOrgasmCrackings.lha
 Skipped: 3DNetAnalyzer_v1.0_DoctorMabuseOrgasmCrackings.lha
@@ -848,6 +850,7 @@ Skipped: TurricanMusicShow_v1.0_Spreadpoint.lha
 Skipped: TwilightZone_v1.0_Shining8.lha
 Skipped: Twisted_v1.0_PolkaBrothers_AGA.lha
 Skipped: TympanicMembrane_v1.0_Panacea.lha
+Scanned: Tactical Transmissions
 Skipped: Tag_v1.0_Jetset&SkidRow.lha
 Skipped: Tag_v1.0_Jetset&SkidRow_AGA.lha
 Skipped: Talktime1_v1.0_Essence.lha

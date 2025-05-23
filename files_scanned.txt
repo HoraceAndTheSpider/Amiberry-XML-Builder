@@ -1,4 +1,4 @@
-Scanned file log: 2025-05-21 at 03:00:03
+Scanned file log: 2025-05-23 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -1450,8 +1450,8 @@ Skipped: BattleChess_v1.1_0263.lha
 Skipped: BattleChess_v1.1_CD32.lha
 Skipped: BattleChess_v1.1_CDTV.lha
 Skipped: BattleCommand_v1.2_0858.lha
-Scanned: Battle Command
-Scanned: Battle Command (NTSC)
+Skipped: BattleCommand_v2.0_0858.lha
+Skipped: BattleCommand_v2.0_NTSC_2044.lha
 Skipped: BattleForTheAshes_v1.0_2526.lha
 Skipped: BattleForTheAshes_v1.0_AmigaPower.lha
 Skipped: Battlehawks1942_v1.0_0053.lha

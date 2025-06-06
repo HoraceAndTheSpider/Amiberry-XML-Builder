@@ -1,4 +1,4 @@
-Scanned file log: 2025-06-04 at 03:00:03
+Scanned file log: 2025-06-06 at 03:00:02
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -7069,6 +7069,7 @@ Skipped: Giana2_v1.02_HardNHeavyHack.lha
 Skipped: GianaSistersSE_v1.2.lha
 Skipped: Gods_v3.2_0666_ControllableJump.lha
 Skipped: GreatGianaSisters_v1.7_2945.lha
+Scanned: Gyruss
 Skipped: HeroQuest_v1.2_German_fix_by_Viddi.lha
 Skipped: HeroQuest_v1.2_German_fix_by_Viddi_v2.lha
 Skipped: HighwayHawks_v1.2_BETA.lha

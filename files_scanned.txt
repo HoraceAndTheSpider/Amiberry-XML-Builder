@@ -1,4 +1,4 @@
-Scanned file log: 2025-07-02 at 03:00:02
+Scanned file log: 2025-07-04 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -3664,6 +3664,8 @@ Skipped: JimPower_v3.3_0068.lha
 Skipped: Jinks_v1.0_0973.lha
 Skipped: Jinxter_v1.0.lha
 Skipped: JoakimVonAnkaSkattsoekaren_v1.1_Se.lha
+Skipped: JoanOfArc_v1.0_2793.lha
+Skipped: JoanOfArc_v1.0_NTSC_2318.lha
 Scanned: Joan Of Arc
 Scanned: Joan Of Arc (NTSC)
 Skipped: JockyWilsonsDartsChallenge_v1.1.lha
@@ -3711,6 +3713,8 @@ Skipped: JamesPond3_v2.1_CD32_Fr.lha
 Skipped: JamesPond_v2.1.lha
 Skipped: JamesPond_v2.5.lha
 Skipped: Jaws_v1.0_0512.lha
+Skipped: JeanneDArc_v1.0_De_0345.lha
+Skipped: JeanneDArc_v1.0_Fr.lha
 Scanned: Jeanne DArc (Deutsch)
 Scanned: Jeanne DArc (Francais)
 Skipped: Jet&HawaiianSceneryDisk_v1.0.lha

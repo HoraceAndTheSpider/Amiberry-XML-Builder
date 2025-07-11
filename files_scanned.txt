@@ -1,4 +1,4 @@
-Scanned file log: 2025-07-09 at 03:00:02
+Scanned file log: 2025-07-11 at 03:00:02
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -2493,10 +2493,10 @@ Skipped: DungeonsOfAvalon2_v1.1_1957.lha
 Skipped: DungeonsOfAvalon_v1.0_1956.lha
 Skipped: DungeonsOfAvalon_v1.1_1956.lha
 Skipped: Dux_v1.0.lha
-Scanned: Dylan Dog 01
-Scanned: Dylan Dog 01 (Italiano)
-Scanned: Dylan Dog 02 (Italiano)
-Scanned: Dylan Dog 03 (Italiano)
+Skipped: DylanDog01_v1.01.lha
+Skipped: DylanDog01_v1.01_It.lha
+Skipped: DylanDog02_v1.0_It_2695.lha
+Skipped: DylanDog03_v1.0_It_2696.lha
 Skipped: DylanDogTheMurderers_v1.3.lha
 Skipped: DylanDogTheMurderers_v2.0.lha
 Skipped: DynaBlaster_v1.2_0664.lha
@@ -7038,7 +7038,7 @@ Skipped: ApidyaSpecialEdition_v1.1_Hack_by_Earok.lha
 Skipped: Area88_v1.2_Hack_by_Earok.lha
 Skipped: Armalyte_v1.3_BETA.lha
 Skipped: Atlantyda_v1.1_Pl.lha
-Scanned: Bad Dudes Vs Dragon Ninja [AGA]
+Skipped: BadDudesVsDragonNinja_v1.0_AGA.lha
 Skipped: Bagman_v1.0.lha
 Skipped: Boppin_v1.0.lha
 Skipped: BuggyBoy_v1.3_BETA_0465.lha

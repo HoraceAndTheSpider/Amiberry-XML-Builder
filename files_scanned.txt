@@ -1,4 +1,4 @@
-Scanned file log: 2025-07-16 at 03:00:02
+Scanned file log: 2025-07-18 at 03:00:02
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -2497,9 +2497,9 @@ Skipped: DylanDog01_v1.01.lha
 Skipped: DylanDog01_v1.01_It.lha
 Skipped: DylanDog02_v1.0_It_2695.lha
 Skipped: DylanDog03_v1.0_It_2696.lha
-Scanned: Dylan Dog 04 (Italiano)
-Scanned: Dylan Dog 05 (Italiano)
-Scanned: Dylan Dog 06 (Italiano)
+Skipped: DylanDog04_v1.0_It_2697.lha
+Skipped: DylanDog05_v1.0_It_2698.lha
+Skipped: DylanDog06_v1.0_It_2699.lha
 Skipped: DylanDogTheMurderers_v1.3.lha
 Skipped: DylanDogTheMurderers_v2.0.lha
 Skipped: DynaBlaster_v1.2_0664.lha
@@ -7030,7 +7030,7 @@ Skipped: ZeroGravity_v1.0.lha
 Skipped: Ziriax_v1.2_3001.lha
 Skipped: AbuSimbelProfanation_v1.0_AGA.lha
 Skipped: AbuSimbelProfanation_v1.0_AGA_Es.lha
-Scanned: Abu Simbel Prof [AGA] (Espanol)
+Skipped: AbuSimbelProfanation_v1.2_AGA_Es.lha
 Skipped: AddamsFamily_v1.4_BETA_0419.lha
 Skipped: Aladdin_v1.8_AGA_0420.lha
 Skipped: Alien3_v2.2.lha
@@ -7187,6 +7187,7 @@ Skipped: Tetris_v1.1_AGA.lha
 Skipped: TFX_v1.1_AGA_BETA.lha
 Skipped: Tinyus_v1.0_BETA.lha
 Skipped: Tony&FriendsInKelloggsLand_v1.0_Hack_by_Earok.lha
+Scanned: Track & Field [AGA]
 Skipped: Turrican2_v0.2_AGA_Build_v10.lha
 Skipped: Turrican2_v0.2_AGA_Build_v11.lha
 Skipped: Turrican2_v0.2_AGA_Build_v8.lha

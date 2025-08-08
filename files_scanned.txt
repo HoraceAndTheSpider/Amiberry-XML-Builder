@@ -1,4 +1,4 @@
-Scanned file log: 2025-08-06 at 03:00:02
+Scanned file log: 2025-08-08 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -1474,6 +1474,7 @@ Skipped: BlueMax_v1.0_1013.lha
 Skipped: BodyBlows_v1.2_1147.lha
 Skipped: BonanzaBros_v1.0_0859.lha
 Skipped: Brataccas_v1.0_1189.lha
+Skipped: Breathless_v1.1_AGA_0178.lha
 Skipped: BSSJaneSeymour_v1.2_0177.lha
 Skipped: BubbleAndSqueak_v2.1_CD32.lha
 Skipped: Budokan_v1.2_1215.lha
@@ -1626,6 +1627,8 @@ Skipped: BrainMan_v1.0.lha
 Skipped: BramStokersDracula_v1.0.lha
 Skipped: Brataccas_v1.0_NTSC_1189.lha
 Skipped: Brat_v2.0.lha
+Scanned: Breach & Data Disk
+Scanned: Breach & Data Disk (NTSC)
 Skipped: Breach2_v1.0_1195.lha
 Skipped: Breach2_v1.1_1195.lha
 Skipped: Breach_v1.0_1487.lha
@@ -1637,21 +1640,6 @@ Skipped: Breakthru_v1.0.lha
 Skipped: BreakThru_v1.1.lha
 Skipped: BreathlessDemo_v1.1.lha
 Skipped: BreathlessDemo_v1.1_AGA.lha
-Skipped: Breathless_v1.1_AGA_0178.lha
-Skipped: Breathless_v1.1_AGA_68060_0178.lha
-Skipped: BrianLarasCricket96_v1.0.lha
-Skipped: BrianLarasCricket_v1.0_1225.lha
-Skipped: BrianTheLion_v1.4_0240.lha
-Skipped: BrianTheLion_v1.4_AGA_0843.lha
-Skipped: BrianTheLion_v2.0_0240.lha
-Skipped: BrianTheLion_v2.0_AGA_0843.lha
-Skipped: BridesOfDracula_v1.1_0303.lha
-Skipped: BridesOfDracula_v1.2_0303.lha
-Skipped: BrutalFootball_v1.21_0209.lha
-Skipped: BrutalFootball_v1.21_AGA_1837.lha
-Skipped: BrutalFootball_v1.21_CD32.lha
-Skipped: BrutalPawsOfFury_v1.0_0181.lha
-Skipped: BrutalPawsOfFury_v1.0_CD32.lha
 Skipped: BubbaNStix_v3.0_1323.lha
 Skipped: BubbaNStix_v3.0_CD32.lha
 Skipped: BubbaNStix_v3.1_1323.lha
@@ -1790,6 +1778,20 @@ Skipped: BaseJumpers_v2.2_1799.lha
 Skipped: BaseJumpers_v2.2_CD32.lha
 Skipped: BasketIslandDemo1_v1.1_AGA.lha
 Skipped: BasketIslandDemo2_v1.1_AGA.lha
+Skipped: Breathless_v1.1_AGA_68060_0178.lha
+Skipped: BrianLarasCricket96_v1.0.lha
+Skipped: BrianLarasCricket_v1.0_1225.lha
+Skipped: BrianTheLion_v1.4_0240.lha
+Skipped: BrianTheLion_v1.4_AGA_0843.lha
+Skipped: BrianTheLion_v2.0_0240.lha
+Skipped: BrianTheLion_v2.0_AGA_0843.lha
+Skipped: BridesOfDracula_v1.1_0303.lha
+Skipped: BridesOfDracula_v1.2_0303.lha
+Skipped: BrutalFootball_v1.21_0209.lha
+Skipped: BrutalFootball_v1.21_AGA_1837.lha
+Skipped: BrutalFootball_v1.21_CD32.lha
+Skipped: BrutalPawsOfFury_v1.0_0181.lha
+Skipped: BrutalPawsOfFury_v1.0_CD32.lha
 Skipped: CurseOfRa_v1.2_CDTV.lha
 Skipped: CurseOfRa_v1.3b_1277.lha
 Skipped: CurseOfRa_v1.3b_CDTV.lha
@@ -2347,6 +2349,7 @@ Skipped: DrDoomsRevenge_v1.1_1Disk_2501.lha
 Skipped: DrFruit_v1.0.lha
 Skipped: Dune_v3.0_Es.lha
 Skipped: DungeonsOfAvalon2_v1.0_1957.lha
+Skipped: DylanDogTheMurderers_v1.3.lha
 Skipped: DefendersOfTheEarth_v1.2_0456.lha
 Skipped: Defender_v1.0_Acid.lha
 Skipped: Defender_v1.0_Ratsoft.lha
@@ -2394,6 +2397,19 @@ Skipped: DenverJeFaisDesCouleurs_v1.0_Fr.lha
 Skipped: DGeneration_v2.2_0677.lha
 Skipped: DGeneration_v2.3_AGA_0457.lha
 Skipped: DGeneration_v2.4_CD32.lha
+Scanned: Diabolik 01
+Scanned: Diabolik 01 (Italiano)
+Scanned: Diabolik 02 (Italiano)
+Scanned: Diabolik 03 (Italiano)
+Scanned: Diabolik 04 (Italiano)
+Scanned: Diabolik 05 (Italiano)
+Scanned: Diabolik 06 (Italiano)
+Scanned: Diabolik 07 (Italiano)
+Scanned: Diabolik 08 (Italiano)
+Scanned: Diabolik 09 (Italiano)
+Scanned: Diabolik 10 (Italiano)
+Scanned: Diabolik 11 (Italiano)
+Scanned: Diabolik 12 (Italiano)
 Skipped: DickTracyAdventure_v1.0_2385.lha
 Skipped: DickTracy_v1.0.lha
 Skipped: DieHard2_v1.1_0113.lha
@@ -2502,20 +2518,15 @@ Skipped: DylanDog05_v1.0_It_2698.lha
 Skipped: DylanDog06_v1.0_It_2699.lha
 Skipped: DylanDog07_v1.0_It.lha
 Skipped: DylanDog08_v1.0_It.lha
-Skipped: DylanDogTheMurderers_v1.3.lha
-Skipped: DylanDogTheMurderers_v2.0.lha
-Skipped: DynaBlaster_v1.2_0664.lha
-Skipped: DynaBlaster_v1.3_0664.lha
-Skipped: DynaBlaster_v1.4_0664.lha
-Skipped: DynaBlaster_v1.5_0664.lha
-Skipped: DynaBlaster_v1.6_0664.lha
-Skipped: DynaBlaster_v1.7_0664.lha
-Skipped: DynaBlaster_v1.8_0664.lha
-Skipped: DynamiteDux_v1.0_1183.lha
-Skipped: DynamiteDux_v2.0_1183.lha
-Skipped: Dynamo_v1.3_0995.lha
-Skipped: DynastyWars_v1.1_0862.lha
-Skipped: Dyter07_v1.2.lha
+Scanned: Dylan Dog 09 (Italiano)
+Scanned: Dylan Dog 10 (Italiano)
+Scanned: Dylan Dog 11 (Italiano)
+Scanned: Dylan Dog 12 (Italiano)
+Scanned: Dylan Dog 13 (Italiano)
+Scanned: Dylan Dog 14 (Italiano)
+Scanned: Dylan Dog 15 (Italiano)
+Scanned: Dylan Dog 16 (Italiano)
+Scanned: Dylan Dog 17 (Italiano)
 Skipped: DisposableHero_v1.7_CD32.lha
 Skipped: DisposableHero_v1.7_Fast_1367.lha
 Skipped: DistantArmies_v1.0_2551.lha
@@ -2599,6 +2610,19 @@ Skipped: DungeonMaster_v1.2_0833.lha
 Skipped: DungeonMaster_v1.3_0833.lha
 Skipped: DungeonMaster_v2.0_0833.lha
 Skipped: DungeonQuest_v1.0_0663.lha
+Skipped: DylanDogTheMurderers_v2.0.lha
+Skipped: DynaBlaster_v1.2_0664.lha
+Skipped: DynaBlaster_v1.3_0664.lha
+Skipped: DynaBlaster_v1.4_0664.lha
+Skipped: DynaBlaster_v1.5_0664.lha
+Skipped: DynaBlaster_v1.6_0664.lha
+Skipped: DynaBlaster_v1.7_0664.lha
+Skipped: DynaBlaster_v1.8_0664.lha
+Skipped: DynamiteDux_v1.0_1183.lha
+Skipped: DynamiteDux_v2.0_1183.lha
+Skipped: Dynamo_v1.3_0995.lha
+Skipped: DynastyWars_v1.1_0862.lha
+Skipped: Dyter07_v1.2.lha
 Skipped: Explora_v1.4_Fr.lha
 Skipped: Extase_v1.1_2421.lha
 Skipped: Exterminator_v1.1_1958.lha
@@ -2973,6 +2997,7 @@ Skipped: FootballManagerWorldCupEdition_v1.0_2272.lha
 Skipped: FootballManagerWorldCupEdition_v1.0_De_0483.lha
 Skipped: ForestDumbForever_v1.0_Pl.lha
 Skipped: ForestDumbForever_v1.1_Pl.lha
+Scanned: Forgotten Mine 2 Preview
 Skipped: ForgottenMine_v1.0.lha
 Skipped: ForgottenWorlds_v1.0b_1222.lha
 Skipped: Formula13D_v1.0_2985.lha
@@ -4800,6 +4825,8 @@ Skipped: Pacman87_v1.1.lha
 Skipped: Pacman87_v1.2.lha
 Skipped: PacMania_v1.0_1117.lha
 Skipped: PacMania_v1.1_1117.lha
+Scanned: Paladin & Data Disk
+Scanned: Paladin & Data Disk (NTSC)
 Skipped: Paladin2_v1.0_2113.lha
 Skipped: Paladin_v1.0_2982.lha
 Skipped: Paladin_v1.1_2982.lha
@@ -6624,7 +6651,9 @@ Skipped: TipOff_v2.0_NTSC.lha
 Skipped: TitanicBlinky_v1.1.lha
 Skipped: UltimateRide_v1.0_2306.lha
 Skipped: UltimateXTremeRacing_v1.1_AGA_CD.lha
+Scanned: UMS & Data Disks
 Skipped: UMS2NationsAtWar_v1.0_2137.lha
+Scanned: UMS
 Skipped: UnderPressure_v1.0.lha
 Skipped: UnendlicheGeschichte2_v1.4_De.lha
 Skipped: Uninvited_v1.0.lha
@@ -7055,6 +7084,7 @@ Skipped: CastlevaniaDemo_v1.2_AGA.lha
 Skipped: Castlevania_v1.2_AGA.lha
 Skipped: Castlevania_v1.2_AGA_December2024.lha
 Skipped: Castlevania_v1.2_AGA_January2025.lha
+Scanned: Castlevania [AGA]
 Skipped: Castlevania_v1.2_AGA_June2024.lha
 Skipped: Castlevania_v1.2_AGA_October2024.lha
 Skipped: Citadel_v1.3_RemonsteredEdition.lha
@@ -7122,6 +7152,8 @@ Skipped: LCDDreams_v1.0_Fast.lha
 Skipped: Legion_v1.1a_BETA.lha
 Skipped: Liberation_v1.0_0617.lha
 Skipped: Liberation_v1.0_CD32.lha
+Scanned: Lock NChase
+Scanned: Lock NChase 68020
 Skipped: LordOfTheRingsVolume1_v1.0.lha
 Skipped: LostTreasuresOfInfocom_v1.0.lha
 Skipped: MagicPockets_v3.0_NTSC.lha
@@ -7163,6 +7195,7 @@ Skipped: RealmOfTheTrolls_v0.8.lha
 Skipped: RenegadesDeluxe_v1.0_PublicDomain.lha
 Skipped: Renegades_v1.0_PublicDomain.lha
 Skipped: RickDangerous_v1.2_AGA.lha
+Scanned: Rogue Declan Zero A A E
 Skipped: RogueDeclanZero_v1.0.lha
 Skipped: Scramble_v1.0.lha
 Skipped: ShadowFighter_v1.0_AGA_No_jump_by_ztronzo.lha
@@ -7191,6 +7224,8 @@ Skipped: Tetris_v1.1_AGA.lha
 Skipped: TFX_v1.1_AGA_BETA.lha
 Skipped: Tinyus_v1.0_BETA.lha
 Skipped: Tony&FriendsInKelloggsLand_v1.0_Hack_by_Earok.lha
+Scanned: Track & Field
+Scanned: Track & Field [AGA]
 Skipped: Track&Field_v1.0_AGA.lha
 Skipped: Turrican2_v0.2_AGA_Build_v10.lha
 Skipped: Turrican2_v0.2_AGA_Build_v11.lha

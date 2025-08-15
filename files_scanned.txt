@@ -1,4 +1,4 @@
-Scanned file log: 2025-08-13 at 03:00:03
+Scanned file log: 2025-08-15 at 03:00:02
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -2424,7 +2424,7 @@ Skipped: DinosaurDetectiveAgency_v1.0_2617.lha
 Skipped: DinoWars_v1.1.lha
 Skipped: DinoWars_v1.1_De.lha
 Skipped: DiosaDeCozumel_v1.0_Es.lha
-Scanned: Discovery & Data Disks MI
+Skipped: Discovery&DataDisks_v1.0_MicroIllusions.lha
 Skipped: Discovery_v1.0_2175.lha
 Skipped: Discovery_v1.0_MicroIllusions.lha
 Skipped: Disc_v1.1_1503.lha
@@ -5614,7 +5614,7 @@ Skipped: SideShow_v1.2_0779.lha
 Skipped: SideWinder2_v1.0_1561.lha
 Skipped: SideWinder_v0.1_Arcadia.lha
 Skipped: SideWinder_v1.2.lha
-Scanned: Side Winder (NTSC)
+Skipped: SideWinder_v1.2_NTSC.lha
 Skipped: Siedler_v1.6_De_0401.lha
 Skipped: Siedler_v1.7_De_0401.lha
 Skipped: Siedler_v1.7_LowMem_De_0401.lha
@@ -7156,8 +7156,8 @@ Skipped: Legion_v1.1a_BETA.lha
 Skipped: Liberation_v1.0_0617.lha
 Skipped: Liberation_v1.0_CD32.lha
 Skipped: LockNChase_v1.0.lha
-Scanned: Lock NChase
-Scanned: Lock NChase 68020
+Skipped: LockNChase_v1.01.lha
+Skipped: LockNChase_v1.01_68020.lha
 Skipped: LockNChase_v1.0_68020.lha
 Skipped: LordOfTheRingsVolume1_v1.0.lha
 Skipped: LostTreasuresOfInfocom_v1.0.lha

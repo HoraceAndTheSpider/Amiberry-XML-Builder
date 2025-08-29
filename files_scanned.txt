@@ -1,4 +1,4 @@
-Scanned file log: 2025-08-27 at 03:00:02
+Scanned file log: 2025-08-29 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -3348,7 +3348,7 @@ Skipped: Hyperdome_v1.0.lha
 Skipped: Hyperforce_v1.0_0493.lha
 Skipped: Hyperion_v1.0.lha
 Skipped: Hyperion_v2.0_0260.lha
-Scanned: Hyper Wings
+Skipped: HyperWings_v1.0.lha
 Skipped: Hacker2_v1.1_0777.lha
 Skipped: Hacker_v1.0_0906.lha
 Skipped: Hacker_v1.0_NTSC_0906.lha

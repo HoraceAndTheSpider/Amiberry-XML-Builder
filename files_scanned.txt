@@ -1,4 +1,4 @@
-Scanned file log: 2025-09-03 at 03:00:02
+Scanned file log: 2025-09-05 at 03:00:02
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -7160,8 +7160,8 @@ Skipped: Liberation_v1.0_CD32.lha
 Skipped: LockNChase_v1.0.lha
 Skipped: LockNChase_v1.01.lha
 Skipped: LockNChase_v1.01_68020.lha
-Scanned: Lock NChase
-Scanned: Lock NChase 68020
+Skipped: LockNChase_v1.02.lha
+Skipped: LockNChase_v1.02_68020.lha
 Skipped: LockNChase_v1.0_68020.lha
 Skipped: LordOfTheRingsVolume1_v1.0.lha
 Skipped: LostTreasuresOfInfocom_v1.0.lha

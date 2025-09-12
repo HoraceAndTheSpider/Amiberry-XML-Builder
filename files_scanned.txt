@@ -1,4 +1,4 @@
-Scanned file log: 2025-09-10 at 03:00:02
+Scanned file log: 2025-09-12 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -245,7 +245,7 @@ Skipped: ECESSlideshow_v1.02_Rebels.lha
 Skipped: Ecliptica_v1.0_Tristar&RedSectorInc.lha
 Skipped: ElectricSound3_v1.0_Goonies.lha
 Skipped: ElectronsAtWork_v1.1_ElectronicKnights.lha
-Scanned: Electrons At Work
+Skipped: ElectronsAtWork_v1.1_TheElectronicKnights.lha
 Skipped: Elektrica_v1.0_Cascade.lha
 Skipped: Elysium_v1.0_Sanity.lha
 Skipped: Emptyhead_v1.3_Rednex_AGA.lha
@@ -702,7 +702,7 @@ Skipped: Que_v1.0_BlackLotus_AGA.lha
 Skipped: QuickMusique_v1.0_Oxygen.lha
 Skipped: RhythmNation_v1.0_LostBoys.lha
 Skipped: RainheartProject_v1.01_BadCompany.lha
-Scanned: Rampage
+Skipped: Rampage_v1.0_TheElectronicKnights.lha
 Skipped: Rampage_v1.2_ElectronicKnights.lha
 Skipped: RapIsCrap_v1.0_Taipan.lha
 Skipped: Raverance_v1.1_Cyclone.lha
@@ -2241,6 +2241,7 @@ Skipped: CricketCaptain_v1.0_1244.lha
 Skipped: CrimeCity_v1.01.lha
 Skipped: CrimeCity_v1.01_De.lha
 Skipped: CrimeDoesNotPay_v1.0_0364.lha
+Scanned: Crime Time (Deutsch)
 Skipped: CrimeWave_v1.1.lha
 Skipped: CrimeWave_v1.2_2942.lha
 Skipped: Croak2_v1.0.lha
@@ -4788,8 +4789,8 @@ Skipped: OutRun_v1.2_1161.lha
 Skipped: OsWALDOfTheIceFloes_v1.0_NTSC.lha
 Skipped: Oswald_v1.1_Dk.lha
 Skipped: Oswald_v1.1_NTSC.lha
-Scanned: Oswald (Dansk)
-Scanned: Oswald (NTSC)
+Skipped: Oswald_v1.2_Dk.lha
+Skipped: Oswald_v1.2_NTSC.lha
 Skipped: Outlands&DizzyDice_v1.0.lha
 Skipped: Outlands_v1.0.lha
 Skipped: OutOfThisWorld_v2.4_1556.lha
@@ -7260,6 +7261,8 @@ Skipped: Ultima6_v1.2_0294.lha
 Skipped: Ultima6_v1.2_NTSC.lha
 Skipped: UNSquadron_v1.2_Hack_by_Earok.lha
 Skipped: UntouchablesSpecialEdition_v2.0_Hack_by_Earok.lha
+Scanned: USChampionship VBall
+Scanned: USChampionship VBall [AGA]
 Skipped: WinterlandMegaLoMania_v1.7.lha
 Skipped: WinterlandMegaLoMania_v1.7_v1.0.lha
 Skipped: WipeOut_v1.0_0161_Abaddon.lha

@@ -1,4 +1,4 @@
-Scanned file log: 2025-09-17 at 03:00:03
+Scanned file log: 2025-09-19 at 03:00:02
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -666,7 +666,7 @@ Skipped: Psychic_v1.0_Effect.lha
 Skipped: PsygnosisMusicalPictureDisc_v1.0_Psygnosis&SRS.lha
 Skipped: PublicAttack_v1.01_Cult.lha
 Skipped: PuggsInSpace_v1.0_Dionysus.lha
-Scanned: Pulse [AGA]
+Skipped: Pulse_v1.0_NerveAxis_AGA.lha
 Skipped: Punisher_v1.0_Digital.lha
 Skipped: Purple_v1.0_Warfalcons.lha
 Skipped: PackVanPee1_v1.0_Jetset.lha
@@ -713,7 +713,7 @@ Skipped: RaytracedDreams_v1.0_OldBulls.lha
 Skipped: RealEmpathy_v1.0_Virtual.lha
 Skipped: Real_v1.1_Complex_AGA.lha
 Skipped: Reflex_v1.0_Liquid.lha
-Scanned: Relic [AGA]
+Skipped: Relic_v1.0_NerveAxis_AGA.lha
 Skipped: Revenge_v1.0_Fraxion.lha
 Skipped: Revolutions_v1.0_Amaze.lha
 Skipped: RhythmDevice_v1.0_Energy.lha
@@ -1203,9 +1203,12 @@ Skipped: Archon_v1.2_0914.lha
 Skipped: Archon_v1.2_NTSC_0914.lha
 Skipped: Arcticfox_v1.2.lha
 Skipped: Arcticfox_v1.2_NTSC_0909.lha
+Scanned: Arena Defcom
 Skipped: Arena_v1.2.lha
 Skipped: Arena_v1.3_1191.lha
 Skipped: Arena_v1.3_NTSC_1190.lha
+Scanned: Arena Psygnosis
+Scanned: Arena Psygnosis (NTSC)
 Skipped: ArkanoidRevengeOfDoh_v1.0_0765.lha
 Skipped: Arkanoid_v1.9_0954.lha
 Skipped: Arkanoid_v1.9_NTSC_1136.lha
@@ -5304,6 +5307,7 @@ Skipped: RealmOfTheTrolls_v1.2_1Disk_3010.lha
 Skipped: RealmOfTheTrolls_v1.2_2Disk.lha
 Skipped: RealmsOfArkania_v1.2_0616.lha
 Skipped: Realms_v1.3_1497.lha
+Scanned: Realms (NTSC)
 Skipped: Rebellion_v1.0.lha
 Skipped: Rectangle_v1.0.lha
 Skipped: Red41Demo_v1.0.lha
@@ -7235,7 +7239,7 @@ Skipped: SuperCars2_v0.91_AGA.lha
 Skipped: SuperGemZ_v1.0.lha
 Skipped: SuperHangOn_v1.5_Hack_by_Earok.lha
 Skipped: SuperMonacoGP_v1.2_BETA.lha
-Scanned: Tetris [AGA]
+Skipped: Tetris_v1.02_AGA.lha
 Skipped: Tetris_v1.0_AGA.lha
 Skipped: Tetris_v1.1_AGA.lha
 Skipped: TFX_v1.1_AGA_BETA.lha

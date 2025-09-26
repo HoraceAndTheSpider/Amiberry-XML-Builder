@@ -1,4 +1,4 @@
-Scanned file log: 2025-09-24 at 03:00:02
+Scanned file log: 2025-09-26 at 03:00:02
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -563,7 +563,7 @@ Skipped: MultiMegamix3_v1.0_Kefrens.lha
 Skipped: MultiMegamix_v1.0_Kefrens.lha
 Skipped: Musabox2_v1.0_Falcons.lha
 Skipped: Musabox_v1.0_Falcons.lha
-Scanned: Muscles [AGA]
+Skipped: Muscles_v1.0_Impulse_AGA.lha
 Skipped: Museum_v1.1_Alcatraz.lha
 Skipped: MusicalMassacre_v1.0_Cycron.lha
 Skipped: MusicalRabbit_v1.0_Carillon&Cyberiad.lha
@@ -7269,8 +7269,8 @@ Skipped: Ultima6_v1.2_0294.lha
 Skipped: Ultima6_v1.2_NTSC.lha
 Skipped: UNSquadron_v1.2_Hack_by_Earok.lha
 Skipped: UntouchablesSpecialEdition_v2.0_Hack_by_Earok.lha
-Scanned: USChampionship VBall
-Scanned: USChampionship VBall [AGA]
+Skipped: USChampionshipVBall_v0.99.lha
+Skipped: USChampionshipVBall_v0.99_AGA.lha
 Skipped: USChampionshipVBall_v1.0.lha
 Skipped: USChampionshipVBall_v1.0_AGA.lha
 Skipped: WinterlandMegaLoMania_v1.7.lha

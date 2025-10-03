@@ -1,4 +1,4 @@
-Scanned file log: 2025-10-01 at 03:00:03
+Scanned file log: 2025-10-03 at 03:00:02
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -1384,10 +1384,10 @@ Skipped: Burntime_v1.2_2266.lha
 Skipped: Burntime_v1.2_AGA_2213.lha
 Skipped: Burntime_v1.2_AGA_De_2348.lha
 Skipped: Burntime_v1.2_De_0446.lha
-Scanned: Bush Buck
-Scanned: Bush Buck (512Kb)
-Scanned: Bush Buck (512Kb) (Deutsch)
-Scanned: Bush Buck (Deutsch)
+Skipped: BushBuck_v1.0_1962.lha
+Skipped: BushBuck_v1.0_512k_1962.lha
+Skipped: BushBuck_v1.0_512k_De_1421.lha
+Skipped: BushBuck_v1.0_De_1421.lha
 Skipped: ButcherHill_v1.0.1.lha
 Skipped: ButcherHill_v1.0.lha
 Skipped: B17FlyingFortressDemo_v1.0.lha
@@ -2760,6 +2760,7 @@ Skipped: EscapeFromThePlanetOfTheRobotMonsters_v1.7_NTSC.lha
 Skipped: Eskadra_v1.1_Pl.lha
 Skipped: EskimoGames_v1.0_0232.lha
 Skipped: EspanaTheGames92_v1.2_1327.lha
+Scanned: Evils Doom [AGA]
 Skipped: EvolutionCryser_v1.0.lha
 Skipped: Excalibur_v1.0_2688.lha
 Skipped: Executioner_v1.1.lha

@@ -1,4 +1,4 @@
-Scanned file log: 2025-10-08 at 03:00:03
+Scanned file log: 2025-10-10 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -1606,7 +1606,7 @@ Skipped: BlueBerry_v1.1_De.lha
 Skipped: BlueBerry_v1.1_Es.lha
 Skipped: BlueBerry_v1.1_Fr.lha
 Skipped: BlueBoy_v1.0.lha
-Scanned: Blues Brothers 2 Demo
+Skipped: BluesBrothers2Demo_v1.0.lha
 Skipped: BluesBrothers_v1.2_3081.lha
 Skipped: BluesBrothers_v1.3_3081.lha
 Skipped: BluesBrothers_v1.4_3081.lha
@@ -6210,7 +6210,7 @@ Skipped: Syndicate_v2.6_De_0405.lha
 Skipped: Syndicate_v2.7_0739.lha
 Skipped: Syndicate_v2.7_CD32.lha
 Skipped: Syndicate_v2.7_De_0405.lha
-Scanned: Syndicate De Uncut
+Skipped: Syndicate_v2.7_De_Uncut.lha
 Skipped: Stratego_v1.1.1.lha
 Skipped: StreetCat_v1.0_NTSC.lha
 Skipped: StreetFighter2_v1.1_0882.lha
@@ -7251,7 +7251,7 @@ Skipped: SuperGemZ_v1.0.lha
 Skipped: SuperHangOn_v1.5_Hack_by_Earok.lha
 Skipped: SuperMonacoGP_v1.2_BETA.lha
 Skipped: Tetris_v1.02_AGA.lha
-Scanned: Tetris [AGA]
+Skipped: Tetris_v1.03_AGA.lha
 Skipped: Tetris_v1.0_AGA.lha
 Skipped: Tetris_v1.1_AGA.lha
 Skipped: TFX_v1.1_AGA_BETA.lha

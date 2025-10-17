@@ -1,4 +1,4 @@
-Scanned file log: 2025-10-15 at 03:00:02
+Scanned file log: 2025-10-17 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -2764,6 +2764,7 @@ Skipped: Eskadra_v1.1_Pl.lha
 Skipped: EskimoGames_v1.0_0232.lha
 Skipped: EspanaTheGames92_v1.2_1327.lha
 Skipped: EvilsDoom_v1.0_AGA.lha
+Scanned: Evils Doom [AGA]
 Skipped: EvolutionCryser_v1.0.lha
 Skipped: Excalibur_v1.0_2688.lha
 Skipped: Executioner_v1.1.lha
@@ -4508,6 +4509,7 @@ Skipped: Mot_v1.1.lha
 Skipped: MouseQuest_v1.0.lha
 Skipped: MouseQuest_v1.0_NTSC.lha
 Skipped: Mousetrap_v1.0_0235.lha
+Scanned: Mouth Man
 Skipped: MrBlobby_v1.0_1773.lha
 Skipped: MrDoRunRun_v1.0_Files.lha
 Skipped: MrDoRunRun_v1.0_Image_2178.lha
@@ -5524,6 +5526,8 @@ Skipped: SDI_v1.0_Cinemaware_1266.lha
 Skipped: SDI_v1.0_Cinemaware_NTSC_1266.lha
 Skipped: SDI_v1.1_Cinemaware_0720.lha
 Skipped: SDI_v1.1_Cinemaware_NTSC_1266.lha
+Scanned: SDI (Cinemaware)
+Scanned: SDICinemaware (NTSC)
 Skipped: SecondSamurai_v1.1_0721.lha
 Skipped: SecondSamurai_v1.1_AGA_1624.lha
 Skipped: SecondSamurai_v1.2a_0721.lha
@@ -7157,7 +7161,7 @@ Skipped: HeroQuest_v1.2_German_fix_by_Viddi_v2.lha
 Skipped: HighwayHawks_v1.2_BETA.lha
 Skipped: Hugo_v1.0_Es_Spanish_hack_by_K-teto.lha
 Skipped: Hybris_v2.4b3_BETA_1457.lha
-Scanned: Hyper Sports [AGA]
+Skipped: HyperSports_v0.9_AGA.lha
 Skipped: InternationalKarate_v1.0.lha
 Skipped: InternationalKarate_v1.0_AtariST.lha
 Skipped: JamesPond_v0.1_BETA_1MB.lha

@@ -1,4 +1,4 @@
-Scanned file log: 2025-10-22 at 03:00:03
+Scanned file log: 2025-10-24 at 03:00:02
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -3158,6 +3158,7 @@ Skipped: Gunship_v1.2_NTSC_1489.lha
 Skipped: Gunshoot_v1.1_2169.lha
 Skipped: GuySpy_v1.0.lha
 Skipped: GuySpy_v1.0_CDTV.lha
+Scanned: Gyrex
 Skipped: GadgetLostInTime_v1.0.lha
 Skipped: Gainforce_v1.0.lha
 Skipped: GalacticConqueror_v1.0.lha
@@ -4832,6 +4833,7 @@ Skipped: PurpleSaturnDay_v2.0_0562.lha
 Skipped: PurpleSaturnDay_v2.0_NTSC_0945.lha
 Skipped: PurpleSaturnDay_v2.1_0562.lha
 Skipped: PurpleSaturnDay_v2.1_NTSC_0945.lha
+Scanned: Pursuit To Earth
 Skipped: PushOver_v1.23_1267.lha
 Skipped: PuttySquadDemo_v1.0_AGA.lha
 Skipped: PuttySquad_v1.0_AGA.lha
@@ -5194,7 +5196,7 @@ Skipped: PenthouseHotNumbers_v1.0.lha
 Skipped: Perihelion_v1.4_0799.lha
 Skipped: PersianGulfInferno_v1.0.lha
 Skipped: PersonalNightmare_v1.0_2650.lha
-Scanned: Powder
+Skipped: Powder_v1.0.lha
 Skipped: PowerDrift_v1.3_1444.lha
 Skipped: PowerDrift_v1.4_1444.lha
 Skipped: PowerDrive_v1.0_1658.lha
@@ -7265,8 +7267,8 @@ Skipped: Tinyus_v1.0_BETA.lha
 Skipped: Tony&FriendsInKelloggsLand_v1.0_Hack_by_Earok.lha
 Skipped: Track&Field_v1.03.lha
 Skipped: Track&Field_v1.03_AGA.lha
-Scanned: Track & Field
-Scanned: Track & Field [AGA]
+Skipped: Track&Field_v1.04.lha
+Skipped: Track&Field_v1.04_AGA.lha
 Skipped: Track&Field_v1.0_AGA.lha
 Skipped: Turrican2_v0.2_AGA_Build_v10.lha
 Skipped: Turrican2_v0.2_AGA_Build_v11.lha

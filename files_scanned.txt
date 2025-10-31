@@ -1,4 +1,4 @@
-Scanned file log: 2025-10-29 at 03:00:03
+Scanned file log: 2025-10-31 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -1724,6 +1724,7 @@ Skipped: Bismarck_v1.0_2563&2702.lha
 Skipped: Bismarck_v1.1_EnFrDe_2563&2702.lha
 Skipped: Bivouac_v1.1_Fr.lha
 Skipped: Bivouac_v1.2_Fr.lha
+Scanned: Bivouac (Francais)
 Skipped: BlackCauldron_v1.2_2057.lha
 Skipped: BlackCrypt_v2.0_0281.lha
 Skipped: BlackCrypt_v2.1_0281.lha
@@ -1954,6 +1955,7 @@ Skipped: ChambersOfShaolin_v1.2_3049.lha
 Skipped: ChambersOfShaolin_v2.0_3049.lha
 Skipped: ChambersOfShaolin_v2.0_CD32.lha
 Skipped: ChamonixChallenge_v1.2_2281.lha
+Scanned: Chamonix Challenge
 Skipped: ChampionDriver_v1.0_1292.lha
 Skipped: ChampionshipGolf_v1.0.lha
 Skipped: ChampionshipRun_v1.0_0825.lha
@@ -2138,12 +2140,12 @@ Skipped: CruiseForACorpse_v2.3_De_0676.lha
 Skipped: CruiseForACorpse_v2.3_Es.lha
 Skipped: CruiseForACorpse_v2.3_It.lha
 Skipped: CruiseForACorpse_v2.3_NTSC.lha
-Scanned: Cruise For A Corpse
-Scanned: Cruise For A Corpse (Deutsch)
-Scanned: Cruise For A Corpse (Espanol)
-Scanned: Cruise For A Corpse (Italiano)
-Scanned: Cruise For A Corpse It Unof
-Scanned: Cruise For A Corpse (NTSC)
+Skipped: CruiseForACorpse_v2.4_0108.lha
+Skipped: CruiseForACorpse_v2.4_De_0676.lha
+Skipped: CruiseForACorpse_v2.4_Es.lha
+Skipped: CruiseForACorpse_v2.4_It.lha
+Skipped: CruiseForACorpse_v2.4_It_Unofficial.lha
+Skipped: CruiseForACorpse_v2.4_NTSC.lha
 Skipped: CruncherFactory_v1.1.lha
 Skipped: CrystalDragon_v1.3_1830.lha
 Skipped: CrystalDragon_v1.3_De.lha
@@ -2268,7 +2270,7 @@ Skipped: Croak_v1.0.lha
 Skipped: CroisierePourUnCadavre_v2.1-B_Fr_1827.lha
 Skipped: CroisierePourUnCadavre_v2.2_Fr_1827.lha
 Skipped: CroisierePourUnCadavre_v2.3_Fr_1827.lha
-Scanned: Croisiere Pour Un Cadavre (Francais)
+Skipped: CroisierePourUnCadavre_v2.4_Fr_1827.lha
 Skipped: Driller_v1.0_2256.lha
 Skipped: Driller_v2.0_2256.lha
 Skipped: Driller_v2.1_2256.lha
@@ -2378,8 +2380,8 @@ Skipped: DylanDogTheMurderers_v1.3.lha
 Skipped: DefendersOfTheEarth_v1.2_0456.lha
 Skipped: Defender_v1.0_Acid.lha
 Skipped: Defender_v1.0_Ratsoft.lha
-Scanned: Defender Acid Amiga Format
-Scanned: Defender Acid Amiga Power
+Skipped: Defender_v1.1_Acid_AmigaFormat.lha
+Skipped: Defender_v1.1_Acid_AmigaPower.lha
 Skipped: DefenseurDeLaCouronne2_v1.1_CD32_Fr.lha
 Skipped: DefenseurDeLaCouronne2_v1.2_CD32_Fr.lha
 Skipped: DefensorDeLaCorona2_v1.1_CD32_Es.lha
@@ -2927,6 +2929,8 @@ Skipped: FinalAssault_v1.1.lha
 Skipped: FinalAssault_v1.1_NTSC_1429.lha
 Skipped: FinalAssault_v1.2.lha
 Skipped: FinalAssault_v1.2_NTSC_1429.lha
+Scanned: Final Assault
+Scanned: Final Assault (NTSC)
 Skipped: FinalBattle_v1.1.lha
 Skipped: FinalBattle_v1.1_De.lha
 Skipped: FinalBattle_v1.2_0259.lha
@@ -3557,8 +3561,8 @@ Skipped: ItCameFromTheDesert2_v2.0.lha
 Skipped: ItCameFromTheDesert2_v2.0_It.lha
 Skipped: ItCameFromTheDesert2_v2.1_0014&0262.lha
 Skipped: ItCameFromTheDesert2_v2.1_It.lha
-Scanned: It Came from the Desert II - Antheads
-Scanned: It Came From The Desert 2 (Italiano)
+Skipped: ItCameFromTheDesert2_v2.2_0014&0262.lha
+Skipped: ItCameFromTheDesert2_v2.2_It.lha
 Skipped: ItCameFromTheDesert_v2.0_0014.lha
 Skipped: ItCameFromTheDesert_v2.0_Es.lha
 Skipped: ItCameFromTheDesert_v2.0_Gr.lha
@@ -3567,10 +3571,10 @@ Skipped: ItCameFromTheDesert_v2.1_0014.lha
 Skipped: ItCameFromTheDesert_v2.1_Es.lha
 Skipped: ItCameFromTheDesert_v2.1_Gr.lha
 Skipped: ItCameFromTheDesert_v2.1_It.lha
-Scanned: It Came From The Desert
-Scanned: It Came From The Desert (Espanol)
-Scanned: It Came From The Desert Gr
-Scanned: It Came From The Desert (Italiano)
+Skipped: ItCameFromTheDesert_v2.2_0014.lha
+Skipped: ItCameFromTheDesert_v2.2_Es.lha
+Skipped: ItCameFromTheDesert_v2.2_Gr.lha
+Skipped: ItCameFromTheDesert_v2.2_It.lha
 Skipped: Ivanhoe_v1.0_1648.lha
 Skipped: Ivanhoe_v1.1_1648.lha
 Skipped: Ivanhoe_v1.2_1648.lha
@@ -4290,7 +4294,7 @@ Skipped: Myth_v1.4_System3_CD32.lha
 Skipped: M1TankPlatoon_v1.0_0531.lha
 Skipped: Mach3_v1.0_2638.lha
 Skipped: Mach3_v1.1_2638.lha
-Scanned: Mad Bomber Version 2
+Skipped: MadBomberVersion2_v1.0.lha
 Skipped: MadProfessorMariarti_v1.2_0662.lha
 Skipped: MadProfessorMariarti_v1.3_0662.lha
 Skipped: MadProfessorMariarti_v1.4_0662.lha
@@ -4824,7 +4828,7 @@ Skipped: Oswald_v1.1_Dk.lha
 Skipped: Oswald_v1.1_NTSC.lha
 Skipped: Oswald_v1.2_Dk.lha
 Skipped: Oswald_v1.2_NTSC.lha
-Scanned: Outfall
+Skipped: Outfall_v1.0.lha
 Skipped: Outlands&DizzyDice_v1.0.lha
 Skipped: Outlands_v1.0.lha
 Skipped: OutOfThisWorld_v2.4_1556.lha
@@ -4834,8 +4838,8 @@ Skipped: OutOfThisWorld_v2.6_NTSC_1556.lha
 Skipped: OutOfThisWorld_v2.7_NTSC_1556.lha
 Skipped: OutOfThisWorld_v2.8_NTSC_1556.lha
 Skipped: OutRunAmigaEdition_v1.0_AGA.lha
-Scanned: Out Run Amiga Edition [AGA]
-Scanned: Out Run Amiga Edition [AGA] 040
+Skipped: OutRunAmigaEdition_v1.3_AGA.lha
+Skipped: OutRunAmigaEdition_v1.3_AGA_68040.lha
 Skipped: OutRunEuropa_v1.1.lha
 Skipped: OutRunEuropa_v1.3.lha
 Skipped: ProTennisTour_v2.3_1080.lha
@@ -4846,6 +4850,7 @@ Skipped: PubTriviaSimulator_v1.0_0775.lha
 Skipped: PuffysSaga_v1.1_1651.lha
 Skipped: Puggsy_v1.0_1113.lha
 Skipped: Puggsy_v2.0_1113.lha
+Scanned: Pulsar (Polski)
 Skipped: PulsatorDemo_v1.1_AGA.lha
 Skipped: PurpleSaturnDay_v1.1_0562.lha
 Skipped: PurpleSaturnDay_v2.0_0562.lha
@@ -6776,7 +6781,7 @@ Skipped: ValhallaLordOfInfinity_v1.2.lha
 Skipped: VampiresEmpire_v1.0.lha
 Skipped: Vaxine_v1.0_0747.lha
 Skipped: Vectorball_v1.0_2520.lha
-Scanned: Vector Battleground
+Skipped: VectorBattleground_v1.0.lha
 Skipped: VegasGambler_v1.0a.lha
 Skipped: VengeanceOfExcalibur_v1.01_2499.lha
 Skipped: VengeanceOfExcalibur_v1.01_De_2499.lha
@@ -7188,7 +7193,7 @@ Skipped: HeroQuest_v1.2_German_fix_by_Viddi_v2.lha
 Skipped: HighwayHawks_v1.2_BETA.lha
 Skipped: Hugo_v1.0_Es_Spanish_hack_by_K-teto.lha
 Skipped: Hybris_v2.4b3_BETA_1457.lha
-Scanned: Hyper Sports [AGA]
+Skipped: HyperSports_v0.91_AGA.lha
 Skipped: HyperSports_v0.9_AGA.lha
 Skipped: InternationalKarate_v1.0.lha
 Skipped: InternationalKarate_v1.0_AtariST.lha

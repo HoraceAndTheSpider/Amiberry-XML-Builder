@@ -1,4 +1,4 @@
-Scanned file log: 2025-11-05 at 03:00:03
+Scanned file log: 2025-11-07 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -2522,8 +2522,10 @@ Skipped: DreamWeb_v1.1_AGA_De.lha
 Skipped: DreamWeb_v1.1_De_1593.lha
 Skipped: DreamZone_v1.0.lha
 Skipped: DungeonsOfAvalon2_v1.1_1957.lha
+Scanned: Dungeons Of Avalon 2 (Deutsch)
 Skipped: DungeonsOfAvalon_v1.0_1956.lha
 Skipped: DungeonsOfAvalon_v1.1_1956.lha
+Scanned: Dungeons Of Avalon (Deutsch)
 Skipped: Dux_v1.0.lha
 Skipped: DylanDog01_v1.01.lha
 Skipped: DylanDog01_v1.01_It.lha
@@ -3073,7 +3075,7 @@ Skipped: Frontier_v1.3_Cz.lha
 Skipped: Frontier_v1.3_De_0505.lha
 Skipped: Frontier_v1.3_Fr_2745.lha
 Skipped: FrostByte_v0501.1_1529.lha
-Scanned: Frutis (Polski)
+Skipped: Frutis_v1.0_Pl.lha
 Skipped: FullContact_v1.5a_2246.lha
 Skipped: FullContact_v1.6_2246.lha
 Skipped: FullContact_v1.7_2246.lha
@@ -4851,7 +4853,7 @@ Skipped: PubTriviaSimulator_v1.0_0775.lha
 Skipped: PuffysSaga_v1.1_1651.lha
 Skipped: Puggsy_v1.0_1113.lha
 Skipped: Puggsy_v2.0_1113.lha
-Scanned: Pulsar (Polski)
+Skipped: Pulsar_v1.01_Pl.lha
 Skipped: Pulsar_v1.0_Pl.lha
 Skipped: PulsatorDemo_v1.1_AGA.lha
 Skipped: PurpleSaturnDay_v1.1_0562.lha
@@ -7241,6 +7243,7 @@ Skipped: MoonPatrol_v1.0_AGA.lha
 Skipped: MotorolaInvaders2_v1.0_AGA.lha
 Skipped: MrMenOlympics_v1.1.lha
 Skipped: MsPacMan_v1.0.lha
+Scanned: Ms Pac Man
 Skipped: Netherworld_v1.5_2033_BETA.lha
 Skipped: Neutralizer2Demo_v0.1_BETA.lha
 Skipped: NibblerSuperExtra_v1.0.lha

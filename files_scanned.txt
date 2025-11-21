@@ -1,4 +1,4 @@
-Scanned file log: 2025-11-19 at 03:00:03
+Scanned file log: 2025-11-21 at 03:00:02
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -2844,6 +2844,8 @@ Skipped: F1Tornado_v1.0.lha
 Skipped: F1WorldChampionshipEdition_v1.0_2061.lha
 Skipped: F1_v1.3_2422.lha
 Skipped: F29Retaliator_v1.1_0022.lha
+Scanned: F-29 Retaliator
+Scanned: F 29 Retaliator (NTSC)
 Skipped: F40PursuitSimulator_v1.1.lha
 Skipped: F40PursuitSimulator_v1.1_NTSC.lha
 Skipped: F40PursuitSimulator_v1.2_NTSC.lha

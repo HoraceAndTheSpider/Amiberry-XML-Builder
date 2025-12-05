@@ -1,4 +1,4 @@
-Scanned file log: 2025-12-03 at 03:00:02
+Scanned file log: 2025-12-05 at 03:00:02
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -1460,8 +1460,8 @@ Skipped: BatmanTheMovie_v1.5_2Disk_0006.lha
 Skipped: BatmanTheMovie_v1.61_1Disk_0019.lha
 Skipped: BatmanTheMovie_v1.61_2Disk_0006.lha
 Skipped: BatmanTheMovie_v1.61_NTSC.lha
-Scanned: Batman - The Movie
-Scanned: Batman The Movie (NTSC)
+Skipped: BatmanTheMovie_v1.71_0019.lha
+Skipped: BatmanTheMovie_v1.71_NTSC.lha
 Skipped: BattleBound_v1.0.lha
 Skipped: BattleBound_v1.1_2950.lha
 Skipped: BattleChess2_v1.0_0264.lha
@@ -4596,7 +4596,7 @@ Skipped: Mewilo_v1.0_De.lha
 Skipped: Mewilo_v1.0_Fr.lha
 Skipped: MagicSerpent_v1.0_CDTV.lha
 Skipped: Magnatron_v1.2.lha
-Scanned: Magnatron
+Skipped: Magnatron_v1.3.lha
 Skipped: MajorMotion_v1.0_1756.lha
 Skipped: Manager_v1.02_1310.lha
 Skipped: Manager_v1.02_It.lha
@@ -6617,9 +6617,9 @@ Skipped: Trolls_v2.0.lha
 Skipped: Trolls_v2.0_AGA_0155.lha
 Skipped: Trolls_v2.0_CD32.lha
 Skipped: Trolls_v2.1.lha
-Scanned: Trolls
-Scanned: Trolls [AGA]
-Scanned: Trolls [CD32]
+Skipped: Trolls_v2.11.lha
+Skipped: Trolls_v2.11_AGA_0155.lha
+Skipped: Trolls_v2.11_CD32.lha
 Skipped: Trolls_v2.1_AGA_0155.lha
 Skipped: Trolls_v2.1_CD32.lha
 Skipped: TubeWarriors_v1.0_AGA.lha
@@ -7223,7 +7223,7 @@ Skipped: KarateChamp_v1.0.lha
 Skipped: KarateChamp_v1.01.lha
 Skipped: Karateka_v1.0.lha
 Skipped: Karateka_v1.0_AtariST.lha
-Scanned: KCMunchkin
+Skipped: KCMunchkin_v1.0.lha
 Skipped: KingAndBalloon_v0.9.lha
 Skipped: KingAndBalloon_v0.92.lha
 Skipped: KingAndBalloon_v0.94.lha

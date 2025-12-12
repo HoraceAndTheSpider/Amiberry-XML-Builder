@@ -1,4 +1,4 @@
-Scanned file log: 2025-12-10 at 03:00:02
+Scanned file log: 2025-12-12 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -7215,6 +7215,8 @@ Skipped: HighwayHawks_v1.2_BETA.lha
 Skipped: Hugo_v1.0_Es_Spanish_hack_by_K-teto.lha
 Skipped: Hybris_v2.4b3_BETA_1457.lha
 Skipped: HyperSports_v0.91_AGA.lha
+Scanned: Hyper Sports
+Scanned: Hyper Sports [AGA]
 Skipped: HyperSports_v0.9_AGA.lha
 Skipped: InternationalKarate_v1.0.lha
 Skipped: InternationalKarate_v1.0_AtariST.lha
@@ -7353,8 +7355,8 @@ Skipped: USChampionshipVBall_v0.99.lha
 Skipped: USChampionshipVBall_v0.99_AGA.lha
 Skipped: USChampionshipVBall_v1.0.lha
 Skipped: USChampionshipVBall_v1.0_AGA.lha
-Scanned: Whales Voyage Enhanced
-Scanned: Whales Voyage Enhanced (Deutsch)
+Skipped: WhalesVoyageEnhanced_v1.0b.lha
+Skipped: WhalesVoyageEnhanced_v1.0b_De.lha
 Skipped: WinterlandMegaLoMania_v1.7.lha
 Skipped: WinterlandMegaLoMania_v1.7_v1.0.lha
 Skipped: WipeOut_v1.0_0161_Abaddon.lha

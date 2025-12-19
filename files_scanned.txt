@@ -1,4 +1,4 @@
-Scanned file log: 2025-12-17 at 03:00:03
+Scanned file log: 2025-12-19 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -2706,6 +2706,7 @@ Skipped: Elvira_v1.1_De_0474.lha
 Skipped: Elvira_v1.1_Fr_1751.lha
 Skipped: Elvira_v1.2_0267.lha
 Skipped: Elvira_v1.2_De_0474.lha
+Scanned: Emerald Mine
 Skipped: EmeticSkimmer_v1.0.lha
 Skipped: EmeticSkimmer_v1.0a.lha
 Skipped: EmlynHughesInternationalSoccer_v1.1_1077.lha
@@ -5511,7 +5512,7 @@ Skipped: ReiseZumMittelpunktDerErde_v1.0_De_0781.lha
 Skipped: Renaissance_v1.01_2415.lha
 Skipped: Renegade3_v1.0b.lha
 Skipped: Renegades_v1.0.lha
-Scanned: Renegade [AGA]
+Skipped: Renegade_v1.0_AGA.lha
 Skipped: Renegade_v1.2.lha
 Skipped: Renegade_v1.2_1966.lha
 Skipped: Resolution101_v1.0.lha
@@ -7287,8 +7288,8 @@ Skipped: PacMan_v1.0.lha
 Skipped: Pengo_v1.0.lha
 Skipped: Pengo_v1.0_BETA.lha
 Skipped: Phoenix_v1.0.lha
-Scanned: Phoenix
-Scanned: Phoenix [AGA]
+Skipped: Phoenix_v1.01.lha
+Skipped: Phoenix_v1.01_AGA.lha
 Skipped: Phoenix_v1.0_AGA.lha
 Skipped: PokerNights&DataDisk_v1.1.lha
 Skipped: Pooyan_v1.0.lha
@@ -7331,6 +7332,7 @@ Skipped: Tetris_v1.03_AGA.lha
 Skipped: Tetris_v1.0_AGA.lha
 Skipped: Tetris_v1.1_AGA.lha
 Skipped: TFX_v1.1_AGA_BETA.lha
+Scanned: Theme Park XMA SDemo
 Skipped: Tinyus_v1.0_BETA.lha
 Skipped: Tony&FriendsInKelloggsLand_v1.0_Hack_by_Earok.lha
 Skipped: Track&Field_v1.03.lha
@@ -7365,6 +7367,8 @@ Skipped: USChampionshipVBall_v1.0.lha
 Skipped: USChampionshipVBall_v1.0_AGA.lha
 Skipped: WhalesVoyageEnhanced_v1.0b.lha
 Skipped: WhalesVoyageEnhanced_v1.0b_De.lha
+Scanned: Whales Voyage
+Scanned: Whales Voyage (Deutsch)
 Skipped: WinterlandMegaLoMania_v1.7.lha
 Skipped: WinterlandMegaLoMania_v1.7_v1.0.lha
 Skipped: WipeOut_v1.0_0161_Abaddon.lha

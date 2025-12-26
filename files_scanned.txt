@@ -1,4 +1,4 @@
-Scanned file log: 2025-12-24 at 03:00:03
+Scanned file log: 2025-12-26 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -2818,7 +2818,7 @@ Skipped: Embryo_v1.0_Hr_2265.lha
 Skipped: EmeraldMine2_v0.91b_1520.lha
 Skipped: EmeraldMine2_v1.0_1520.lha
 Skipped: EmeraldMine3_v1.1.lha
-Scanned: Emerald Mine 3
+Skipped: EmeraldMine3_v1.2_2707.lha
 Skipped: EmeraldMines_v1.0_CD.lha
 Skipped: Elfmania_v1.3_0114.lha
 Skipped: Elfmania_v1.4_0114.lha
@@ -2926,6 +2926,10 @@ Skipped: FightingSoccer_v1.0_NTSC.lha
 Skipped: FightinSpirit_v1.2.lha
 Skipped: FightinSpirit_v1.2_AGA.lha
 Skipped: FightinSpirit_v1.2_CD32.lha
+Scanned: Fightin' Spirit [AGA]
+Scanned: Fightin Spirit [CD32]
+Scanned: Fightin Spirit (Files)
+Scanned: Fightin Spirit (Image)
 Skipped: FinalAssault_v1.0.lha
 Skipped: FinalAssault_v1.1.lha
 Skipped: FinalAssault_v1.1_NTSC_1429.lha
@@ -2948,6 +2952,7 @@ Skipped: Firepower_v1.0_0061.lha
 Skipped: Firestar_v1.1.lha
 Skipped: Firestar_v2.0_2978.lha
 Skipped: FirstContact_v1.1_0923.lha
+Scanned: First Person Pinball
 Skipped: FirstSamurai_v1.6_1182.lha
 Skipped: FirstSamurai_v2.0_1182.lha
 Skipped: FirstSamurai_v2.0_A1200Version_NONAGA.lha
@@ -5840,7 +5845,7 @@ Skipped: SpaceRacer_v1.1_Fr_2408.lha
 Skipped: SpaceRanger_v0.1_Arcadia.lha
 Skipped: SpaceRogue_v1.1_2069.lha
 Skipped: SpaceStation_v1.0_1615.lha
-Scanned: Space Vegetables
+Skipped: SpaceVegetables_v1.0.lha
 Skipped: Spacewrecked_v1.0_NTSC_2017.lha
 Skipped: SpecialForces_v1.0_0728.lha
 Skipped: Speedball2_v1.0_2897.lha
@@ -7294,6 +7299,8 @@ Skipped: Pengo_v1.0_BETA.lha
 Skipped: Phoenix_v1.0.lha
 Skipped: Phoenix_v1.01.lha
 Skipped: Phoenix_v1.01_AGA.lha
+Scanned: Phoenix
+Scanned: Phoenix [AGA]
 Skipped: Phoenix_v1.0_AGA.lha
 Skipped: PokerNights&DataDisk_v1.1.lha
 Skipped: Pooyan_v1.0.lha
@@ -7345,6 +7352,8 @@ Skipped: Track&Field_v1.04.lha
 Skipped: Track&Field_v1.04_AGA.lha
 Skipped: Track&Field_v1.05.lha
 Skipped: Track&Field_v1.05_AGA.lha
+Scanned: Track & Field
+Scanned: Track & Field [AGA]
 Skipped: Track&Field_v1.0_AGA.lha
 Skipped: Turrican2_v0.2_AGA_Build_v10.lha
 Skipped: Turrican2_v0.2_AGA_Build_v8.lha
@@ -7368,6 +7377,8 @@ Skipped: UntouchablesSpecialEdition_v2.0_Hack_by_Earok.lha
 Skipped: USChampionshipVBall_v0.99.lha
 Skipped: USChampionshipVBall_v0.99_AGA.lha
 Skipped: USChampionshipVBall_v1.0.lha
+Scanned: USChampionship VBall
+Scanned: USChampionship VBall [AGA]
 Skipped: USChampionshipVBall_v1.0_AGA.lha
 Skipped: WhalesVoyageEnhanced_v1.0b.lha
 Skipped: WhalesVoyageEnhanced_v1.0b_De.lha

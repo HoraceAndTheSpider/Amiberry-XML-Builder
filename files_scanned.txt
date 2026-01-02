@@ -1,4 +1,4 @@
-Scanned file log: 2025-12-31 at 03:00:03
+Scanned file log: 2026-01-02 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -5033,6 +5033,8 @@ Skipped: PinballHazard_v1.1.lha
 Skipped: Pipeline_v1.1_Nomad.lha
 Skipped: Pipeline_v1.1_Oracle.lha
 Skipped: PipeMania_v1.0_0220.lha
+Scanned: Piracy Deluxe Deleted Level
+Scanned: Piracy Deluxe
 Skipped: PiratesGold_v1.5_CD32.lha
 Skipped: PiratesGold_v1.5_CD32_De.lha
 Skipped: PiratesGold_v1.5_CD32_Fr.lha

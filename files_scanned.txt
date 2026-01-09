@@ -1,4 +1,4 @@
-Scanned file log: 2026-01-07 at 03:00:02
+Scanned file log: 2026-01-09 at 03:00:02
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -3970,14 +3970,14 @@ Skipped: KingsQuest2_v2.0_2126.lha
 Skipped: KingsQuest3_v1.1_0521.lha
 Skipped: KingsQuest4_v1.1_0822.lha
 Skipped: KingsQuest4_v2.0_0822.lha
-Scanned: Kings Quest 5 Rm
-Scanned: Kings Quest 5 Rm (Deutsch)
-Scanned: Kings Quest 5 Rm De MT 32
-Scanned: Kings Quest 5 Rm (Espanol)
-Scanned: Kings Quest 5 Rm Es MT 32
-Scanned: Kings Quest 5 Rm (Italiano)
-Scanned: Kings Quest 5 Rm It MT 32
-Scanned: Kings Quest 5 Rm MT 32
+Skipped: KingsQuest5Remastered_v1.3.lha
+Skipped: KingsQuest5Remastered_v1.3_De.lha
+Skipped: KingsQuest5Remastered_v1.3_De_MT32.lha
+Skipped: KingsQuest5Remastered_v1.3_Es.lha
+Skipped: KingsQuest5Remastered_v1.3_Es_MT32.lha
+Skipped: KingsQuest5Remastered_v1.3_It.lha
+Skipped: KingsQuest5Remastered_v1.3_It_MT32.lha
+Skipped: KingsQuest5Remastered_v1.3_MT32.lha
 Skipped: KingsQuest5_v1.3.lha
 Skipped: KingsQuest5_v1.3_De.lha
 Skipped: KingsQuest5_v1.3_De_MT32.lha
@@ -5043,7 +5043,7 @@ Skipped: Pipeline_v1.1_Oracle.lha
 Skipped: PipeMania_v1.0_0220.lha
 Skipped: PiracyDeluxeDeletedLevel_v1.0.lha
 Skipped: PiracyDeluxe_v1.0.lha
-Scanned: Piracy On The High Seas
+Skipped: PiracyOnTheHighSeas_v1.0.lha
 Skipped: PiratesGold_v1.5_CD32.lha
 Skipped: PiratesGold_v1.5_CD32_De.lha
 Skipped: PiratesGold_v1.5_CD32_Fr.lha
@@ -5071,12 +5071,12 @@ Skipped: PokerNights_v1.0_De.lha
 Skipped: PokerNights_v1.1.lha
 Skipped: PokerNights_v1.2.lha
 Skipped: PoliceQuest2_v1.0_1849.lha
-Scanned: Police Quest 3 Rm
-Scanned: Police Quest 3 Rm (Deutsch)
-Scanned: Police Quest 3 Rm De MT 32
-Scanned: Police Quest 3 Rm (Espanol)
-Scanned: Police Quest 3 Rm Es MT 32
-Scanned: Police Quest 3 Rm MT 32
+Skipped: PoliceQuest3Remastered_v1.4.lha
+Skipped: PoliceQuest3Remastered_v1.4_De.lha
+Skipped: PoliceQuest3Remastered_v1.4_De_MT32.lha
+Skipped: PoliceQuest3Remastered_v1.4_Es.lha
+Skipped: PoliceQuest3Remastered_v1.4_Es_MT32.lha
+Skipped: PoliceQuest3Remastered_v1.4_MT32.lha
 Skipped: PoliceQuest3_v1.2.lha
 Skipped: PoliceQuest3_v1.2_De.lha
 Skipped: PoliceQuest3_v1.3.lha
@@ -7205,6 +7205,8 @@ Skipped: Crimbo_v1.0_AGA.lha
 Skipped: DateGirl_v1.0_AGA.lha
 Skipped: DeepCore_v1.0_CD32_BETA.lha
 Skipped: DeepCore_v1.2_BETA.lha
+Skipped: DigDug2_v1.00.lha
+Skipped: DigDug2_v1.00_AGA.lha
 Scanned: Dig Dug 2
 Scanned: Dig Dug 2 [AGA]
 Skipped: DonkeyKong_v1.0.lha

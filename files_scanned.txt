@@ -1,4 +1,4 @@
-Scanned file log: 2026-01-14 at 03:00:03
+Scanned file log: 2026-01-16 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -6190,6 +6190,12 @@ Skipped: SpaceQuest3_v2.0_De_0579.lha
 Skipped: SpaceQuest3_v2.0_De_MT32_0579.lha
 Skipped: SpaceQuest3_v2.1_0292.lha
 Skipped: SpaceQuest3_v2.1_De_0579.lha
+Scanned: Space Quest 4 Rm
+Scanned: Space Quest 4 Rm (Deutsch)
+Scanned: Space Quest 4 Rm De MT 32
+Scanned: Space Quest 4 Rm (Espanol)
+Scanned: Space Quest 4 Rm Es MT 32
+Scanned: Space Quest 4 Rm MT 32
 Skipped: SpaceQuest4_v1.1_1177.lha
 Skipped: SpaceQuest4_v1.1_De_2369.lha
 Skipped: SpaceQuest4_v1.1_De_MT32_2369.lha
@@ -7217,9 +7223,9 @@ Skipped: ElevatorAction_v1.0.lha
 Skipped: ElevatorAction_v1.01_AGA.lha
 Skipped: ElevatorAction_v1.01_ECS.lha
 Skipped: ElevatorAction_v1.01_OCS.lha
-Scanned: Elevator Action [AGA]
-Scanned: Elevator Action ECS
-Scanned: Elevator Action OCS
+Skipped: ElevatorAction_v1.02_AGA.lha
+Skipped: ElevatorAction_v1.02_ECS.lha
+Skipped: ElevatorAction_v1.02_OCS.lha
 Skipped: ElevatorAction_v1.0_AGA.lha
 Skipped: ElevatorAction_v1.0_ECS.lha
 Skipped: ElevatorAction_v1.0_OCS.lha
@@ -7380,8 +7386,8 @@ Skipped: Track&Field_v1.05.lha
 Skipped: Track&Field_v1.05_AGA.lha
 Skipped: Track&Field_v1.08.lha
 Skipped: Track&Field_v1.08_AGA.lha
-Scanned: Track & Field
-Scanned: Track & Field [AGA]
+Skipped: Track&Field_v1.09.lha
+Skipped: Track&Field_v1.09_AGA.lha
 Skipped: Track&Field_v1.0_AGA.lha
 Skipped: Turrican2_v0.2_AGA_Build_v10.lha
 Skipped: Turrican2_v0.2_AGA_Build_v8.lha

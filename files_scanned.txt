@@ -1,4 +1,4 @@
-Scanned file log: 2026-01-21 at 03:00:02
+Scanned file log: 2026-01-23 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -4564,7 +4564,7 @@ Skipped: MouseQuest_v1.0.lha
 Skipped: MouseQuest_v1.0_NTSC.lha
 Skipped: Mousetrap_v1.0_0235.lha
 Skipped: MouthMan_v1.0.lha
-Scanned: Movem
+Skipped: Movem_v1.0.lha
 Skipped: MrBlobby_v1.0_1773.lha
 Skipped: MrDoRunRun_v1.0_Files.lha
 Skipped: MrDoRunRun_v1.0_Image_2178.lha
@@ -5540,6 +5540,7 @@ Skipped: Renaissance_v1.01_2415.lha
 Skipped: Renegade3_v1.0b.lha
 Skipped: Renegades_v1.0.lha
 Skipped: Renegade_v1.0_AGA.lha
+Scanned: Renegade [AGA]
 Skipped: Renegade_v1.2.lha
 Skipped: Renegade_v1.2_1966.lha
 Skipped: Resolution101_v1.0.lha

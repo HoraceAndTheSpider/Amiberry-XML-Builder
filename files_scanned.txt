@@ -1,4 +1,4 @@
-Scanned file log: 2026-02-11 at 03:00:02
+Scanned file log: 2026-02-13 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -1498,6 +1498,8 @@ Skipped: BattleSquadron_v1.6.1_0941.lha
 Skipped: BattleSquadron_v1.6.1_NTSC_0942.lha
 Skipped: BattleSquadron_v1.7_0941.lha
 Skipped: BattleSquadron_v1.7_NTSC_0942.lha
+Scanned: Battle Squadron - The Destruction of the Barrax Empire
+Scanned: Battle Squadron (NTSC)
 Skipped: Battlestorm_v1.2_2008.lha
 Skipped: Battlestorm_v1.2_CDTV.lha
 Skipped: Battlestorm_v1.2_NTSC_2008.lha
@@ -5544,6 +5546,7 @@ Skipped: Renegade_v1.0_AGA.lha
 Skipped: Renegade_v1.1_AGA.lha
 Skipped: Renegade_v1.2.lha
 Skipped: Renegade_v1.2_1966.lha
+Scanned: Renegade [AGA]
 Skipped: Resolution101_v1.0.lha
 Skipped: Resolution101_v2.1_0221.lha
 Skipped: Switchblade2_v1.3_1725.lha
@@ -7222,6 +7225,8 @@ Skipped: DigDug2_v1.00.lha
 Skipped: DigDug2_v1.00_AGA.lha
 Skipped: DigDug2_v1.01.lha
 Skipped: DigDug2_v1.01_AGA.lha
+Scanned: Dig Dug 2
+Scanned: Dig Dug 2 [AGA]
 Skipped: DonkeyKong_v1.0.lha
 Skipped: DownAtTheTrolls_v0.8.lha
 Skipped: ElevatorAction_v1.0.lha

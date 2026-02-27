@@ -1,4 +1,4 @@
-Scanned file log: 2026-02-25 at 03:00:02
+Scanned file log: 2026-02-27 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -4442,7 +4442,7 @@ Skipped: MegaTyphoon_v1.1.lha
 Skipped: MegaTyphoon_v1.2.lha
 Skipped: MegaTyphoon_v1.3.lha
 Skipped: MegaTyphoon_v1.4.lha
-Scanned: Mega Typhoon
+Skipped: MegaTyphoon_v1.5.lha
 Skipped: Menace_v1.2_0823.lha
 Skipped: Menace_v1.3_0823.lha
 Skipped: MentalImage1_v1.0.lha
@@ -7230,6 +7230,7 @@ Skipped: DigDug2_v1.01_AGA.lha
 Skipped: DigDug2_v1.02.lha
 Skipped: DigDug2_v1.02_AGA.lha
 Skipped: DonkeyKong_v1.0.lha
+Scanned: Donkey Kong
 Skipped: DownAtTheTrolls_v0.8.lha
 Skipped: ElevatorAction_v1.0.lha
 Skipped: ElevatorAction_v1.01_AGA.lha
@@ -7261,6 +7262,7 @@ Skipped: Galaxian_v1.0.lha
 Skipped: Galaxian_v1.0_BETA.lha
 Skipped: GhostBattle_v1.3.lha
 Scanned: Ghosts NGoblins [AGA]
+Skipped: GhostsNGoblins_v0.9_AGA.lha
 Skipped: Giana2_v1.02_HardNHeavyHack.lha
 Skipped: GianaSistersSE_v1.2.lha
 Skipped: Gods_v3.2_0666_ControllableJump.lha

@@ -1,4 +1,4 @@
-Scanned file log: 2026-03-04 at 03:00:02
+Scanned file log: 2026-03-06 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -2028,6 +2028,7 @@ Skipped: ChuckYeagersAdvancedFlightTrainer2_v2.0_0670.lha
 Skipped: CircusAttractions_v1.0_1Disk_1689.lha
 Skipped: CircusAttractions_v1.0_2Disk_0450.lha
 Skipped: CircusAttractions_v1.1a_0450.lha
+Scanned: Circus Attractions
 Skipped: CircusGames_v1.0.lha
 Skipped: CiscoHeat_v1.1_1393.lha
 Skipped: Citadel_v1.2.lha
@@ -7231,7 +7232,7 @@ Skipped: DigDug2_v1.02.lha
 Skipped: DigDug2_v1.02_AGA.lha
 Skipped: DonkeyKong_v1.0.lha
 Skipped: DonkeyKong_v1.1.lha
-Scanned: Donkey Kong
+Skipped: DonkeyKong_v1.2.lha
 Skipped: DownAtTheTrolls_v0.8.lha
 Skipped: ElevatorAction_v1.0.lha
 Skipped: ElevatorAction_v1.01_AGA.lha

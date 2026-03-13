@@ -1,4 +1,4 @@
-Scanned file log: 2026-03-11 at 03:00:02
+Scanned file log: 2026-03-13 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -1856,10 +1856,10 @@ Skipped: CannonFodder_v2.0_0860.lha
 Skipped: CannonFodder_v2.0_De.lha
 Skipped: CannonFodder_v2.0_Fr_2332.lha
 Skipped: CannonFodder_v2.0_It.lha
-Scanned: Cannon Fodder
-Scanned: Cannon Fodder (Deutsch)
-Scanned: Cannon Fodder (Francais)
-Scanned: Cannon Fodder (Italiano)
+Skipped: CannonFodder_v2.1_0860.lha
+Skipped: CannonFodder_v2.1_De.lha
+Skipped: CannonFodder_v2.1_Fr_2332.lha
+Skipped: CannonFodder_v2.1_It.lha
 Skipped: CannonSoccer_v1.0_0165.lha
 Skipped: CapitalPunishment_v1.1a_AGA_1758.lha
 Skipped: CapitalPunishment_v1.1a_AGA_CD.lha
@@ -2211,10 +2211,10 @@ Skipped: CannonFodder2AlienLevels_v1.0.lha
 Skipped: CannonFodder2_v1.12_0104.lha
 Skipped: CannonFodder2_v1.12_De_0241.lha
 Skipped: CannonFodder2_v1.12_Fr_2578.lha
-Scanned: Cannon Fodder 2
-Scanned: Cannon Fodder 2 (Deutsch)
-Scanned: Cannon Fodder 2 (Francais)
-Scanned: Cannon Fodder 2 (Italiano)
+Skipped: CannonFodder2_v1.13_0104.lha
+Skipped: CannonFodder2_v1.13_De_0241.lha
+Skipped: CannonFodder2_v1.13_Fr_2578.lha
+Skipped: CannonFodder2_v1.13_It.lha
 Skipped: CannonFodderNewCampaign_v1.3.lha
 Skipped: CannonFodderNewCampaign_v2.0.lha
 Skipped: CannonFodderPlus_v1.0_0060.lha

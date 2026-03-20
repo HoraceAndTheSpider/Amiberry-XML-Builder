@@ -1,4 +1,4 @@
-Scanned file log: 2026-03-18 at 03:00:02
+Scanned file log: 2026-03-20 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -2215,10 +2215,10 @@ Skipped: CannonFodder2_v1.13_0104.lha
 Skipped: CannonFodder2_v1.13_De_0241.lha
 Skipped: CannonFodder2_v1.13_Fr_2578.lha
 Skipped: CannonFodder2_v1.13_It.lha
-Scanned: Cannon Fodder 2
-Scanned: Cannon Fodder 2 (Deutsch)
-Scanned: Cannon Fodder 2 (Francais)
-Scanned: Cannon Fodder 2 (Italiano)
+Skipped: CannonFodder2_v1.14_0104.lha
+Skipped: CannonFodder2_v1.14_De_0241.lha
+Skipped: CannonFodder2_v1.14_Fr_2578.lha
+Skipped: CannonFodder2_v1.14_It.lha
 Skipped: CannonFodderNewCampaign_v1.3.lha
 Skipped: CannonFodderNewCampaign_v2.0.lha
 Skipped: CannonFodderPlus_v1.0_0060.lha
@@ -6195,10 +6195,10 @@ Skipped: SuperStreetFighter2_v1.2_0147.lha
 Skipped: SuperStreetFighter2_v1.2_AGA.lha
 Skipped: SuperTennisChamps&DataDisks_v1.1.lha
 Skipped: SuperTennisChamps&DataDisks_v1.2_1153.lha
-Scanned: Super Tennis Champs (& Data Disks)
+Skipped: SuperTennisChamps&DataDisks_v1.3_1153.lha
 Skipped: SuperTennisChamps_v1.1.lha
 Skipped: SuperTennisChamps_v1.2_1153.lha
-Scanned: Super Tennis Champs
+Skipped: SuperTennisChamps_v1.3_1153.lha
 Skipped: SuperTetris_v1.0_2646.lha
 Skipped: SuperTwintris_v1.0.lha
 Skipped: Supremacy_v1.1_1384.lha
@@ -6933,7 +6933,7 @@ Skipped: Worms_v1.0_AVI_CD32.lha
 Skipped: Worms_v1.0_CD32_1MB.lha
 Skipped: Worms_v1.0_CD32_2MB.lha
 Skipped: WPotrzasku_v1.0_Pl.lha
-Scanned: WPotrzasku (Polski)
+Skipped: WPotrzasku_v1.1_Pl.lha
 Skipped: Wrangler_v1.0_2980.lha
 Skipped: WrathOfTheDemon_v1.01_0606.lha
 Skipped: WrathOfTheDemon_v1.0_CDTV.lha

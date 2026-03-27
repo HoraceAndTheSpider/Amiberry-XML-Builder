@@ -1,4 +1,4 @@
-Scanned file log: 2026-03-25 at 03:00:03
+Scanned file log: 2026-03-27 at 03:00:02
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -64,7 +64,7 @@ Skipped: Animatunes_v1.0_NewGenerationCrew_AGA.lha
 Skipped: Animatunes_v1.1_NewGenerationCrew_AGA.lha
 Skipped: Animotion_v1.01_Phenomena.lha
 Skipped: Animotion_v1.02_Phenomena.lha
-Scanned: Ankh In Popland [AGA]
+Skipped: AnkhInPopland_v1.0_Kefrens_AGA.lha
 Skipped: Announce_v1.0_Lemon.lha
 Skipped: AntediluvianSloppySpectacle_v1.0_Essence.lha
 Skipped: Apocalypse_v1.0_Gods.lha
@@ -1726,6 +1726,8 @@ Skipped: BlackCrypt_v2.0_0281.lha
 Skipped: BlackCrypt_v2.1_0281.lha
 Skipped: BlackDawn2_v1.0.lha
 Skipped: BlackDawn2_v1.1.lha
+Scanned: Black Dawn 2
+Scanned: Black Dawn 2 SW
 Skipped: BlackDawn6_v1.0.lha
 Skipped: BlackDawnRebirth_v1.0.lha
 Skipped: BlackDawnRebirth_v1.1.lha
@@ -2291,10 +2293,10 @@ Skipped: CannonFodder2_v1.14_0104.lha
 Skipped: CannonFodder2_v1.14_De_0241.lha
 Skipped: CannonFodder2_v1.14_Fr_2578.lha
 Skipped: CannonFodder2_v1.14_It.lha
-Scanned: Cannon Fodder 2
-Scanned: Cannon Fodder 2 (Deutsch)
-Scanned: Cannon Fodder 2 (Francais)
-Scanned: Cannon Fodder 2 (Italiano)
+Skipped: CannonFodder2_v1.15_0104.lha
+Skipped: CannonFodder2_v1.15_De_0241.lha
+Skipped: CannonFodder2_v1.15_Fr_2578.lha
+Skipped: CannonFodder2_v1.15_It.lha
 Skipped: CannonFodderNewCampaign_v1.3.lha
 Skipped: CannonFodderNewCampaign_v2.0.lha
 Skipped: CannonFodderPlus_v1.0_0060.lha
@@ -7338,6 +7340,7 @@ Skipped: LockNChase_v1.0_68020.lha
 Skipped: LordOfTheRingsVolume1_v1.0.lha
 Skipped: LostTreasuresOfInfocom_v1.0.lha
 Skipped: MagicPockets_v3.0_NTSC.lha
+Scanned: Mappy [AGA]
 Skipped: MariaRenardsRevenge_v1.2_AGA.lha
 Skipped: MegaBlock2_v1.0.lha
 Skipped: MegaTraveller1_v1.0.lha

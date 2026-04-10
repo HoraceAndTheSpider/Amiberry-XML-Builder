@@ -1,4 +1,4 @@
-Scanned file log: 2026-04-08 at 03:00:03
+Scanned file log: 2026-04-10 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -2018,6 +2018,8 @@ Skipped: ChroniclesOfOmega_v1.1.lha
 Skipped: ChronoQuest2_v1.2_0449.lha
 Skipped: ChronoQuest_v1.4_1016.lha
 Skipped: ChronoQuest_v1.4_De_0792.lha
+Scanned: Chrono Quest
+Scanned: Chrono Quest (Deutsch)
 Skipped: ChubbyGristle_v1.1.lha
 Skipped: ChubbyGristle_v1.2.lha
 Skipped: ChuckieEgg2_v1.1.lha
@@ -2687,6 +2689,7 @@ Skipped: DeluxeGalaga_v1.3_AGA.lha
 Skipped: DeluxePacMan_v1.0.lha
 Skipped: DeluxePacMan_v1.0_AGA.lha
 Skipped: Explora_v1.4_Fr.lha
+Scanned: Explora (Francais)
 Skipped: Extase_v1.1_2421.lha
 Skipped: Exterminator_v1.1_1958.lha
 Skipped: Exterminator_v1.2_1958.lha
@@ -7343,7 +7346,7 @@ Skipped: LockNChase_v1.0_68020.lha
 Skipped: LordOfTheRingsVolume1_v1.0.lha
 Skipped: LostTreasuresOfInfocom_v1.0.lha
 Skipped: MagicPockets_v3.0_NTSC.lha
-Scanned: Mappy
+Skipped: Mappy_v1.0.lha
 Skipped: Mappy_v1.0_AGA.lha
 Skipped: MariaRenardsRevenge_v1.2_AGA.lha
 Skipped: MegaBlock2_v1.0.lha

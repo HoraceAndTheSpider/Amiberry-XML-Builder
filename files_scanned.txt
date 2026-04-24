@@ -1,4 +1,4 @@
-Scanned file log: 2026-04-22 at 03:00:02
+Scanned file log: 2026-04-24 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -3033,19 +3033,19 @@ Skipped: FlightOfTheAmazonQueen_v1.1_0971.lha
 Skipped: FlightOfTheIntruder_v1.0_0245.lha
 Skipped: FlightPath737_v1.0_2217.lha
 Skipped: FlightSimulator2&HawaiianSceneryDisk_v1.0_0329.lha
-Scanned: Flight Simulator II (Hawaiian Odyssey)
+Skipped: FlightSimulator2&HawaiianSceneryDisk_v1.1_0329.lha
 Skipped: FlightSimulator2&SceneryDisk07_v1.0_0329.lha
-Scanned: Flight Simulator II (& Scenery Disk 07)
+Skipped: FlightSimulator2&SceneryDisk07_v1.1_0329.lha
 Skipped: FlightSimulator2&SceneryDisk09_v1.0_0329.lha
-Scanned: Flight Simulator II (& Scenery Disk 09)
+Skipped: FlightSimulator2&SceneryDisk09_v1.1_0329.lha
 Skipped: FlightSimulator2&SceneryDisk11_v1.0_0329.lha
-Scanned: Flight Simulator II (& Scenery Disk 11)
+Skipped: FlightSimulator2&SceneryDisk11_v1.1_0329.lha
 Skipped: FlightSimulator2&SceneryDisk12_v1.0_0329.lha
-Scanned: Flight Simulator II (& Scenery Disk 12)
+Skipped: FlightSimulator2&SceneryDisk12_v1.1_0329.lha
 Skipped: FlightSimulator2&SceneryDisk13_v1.0_0329.lha
-Scanned: Flight Simulator II (& Scenery Disk 13)
+Skipped: FlightSimulator2&SceneryDisk13_v1.1_0329.lha
 Skipped: FlightSimulator2&SceneryDisk14_v1.0_0329.lha
-Scanned: Flight Simulator II (& Scenery Disk 14)
+Skipped: FlightSimulator2&SceneryDisk14_v1.1_0329.lha
 Skipped: FlugDerAmazonQueen_v1.1_De.lha
 Skipped: FlyFighter_v1.2_1547.lha
 Skipped: FlyFighter_v1.3_1547.lha
@@ -3189,7 +3189,7 @@ Skipped: FaceOff_v1.0_1670.lha
 Skipped: FaceOff_v1.0_Anco_2483.lha
 Skipped: FaceOff_v1.0_Krisalis_1670.lha
 Skipped: FaeryTaleAdventure_v1.1_0367.lha
-Scanned: Flight Simulator II
+Skipped: FlightSimulator2_v1.1_0329.lha
 Skipped: FlimbosQuest_v2.1a_0121.lha
 Skipped: FlimbosQuest_v2.2_0121.lha
 Skipped: FlimbosQuest_v2.3_0121.lha
@@ -7268,6 +7268,7 @@ Skipped: DigDug2_v1.02_AGA.lha
 Skipped: DonkeyKong_v1.0.lha
 Skipped: DonkeyKong_v1.1.lha
 Skipped: DonkeyKong_v1.2.lha
+Scanned: Double Dragon [AGA]
 Skipped: DownAtTheTrolls_v0.8.lha
 Skipped: ElevatorAction_v1.0.lha
 Skipped: ElevatorAction_v1.01_AGA.lha

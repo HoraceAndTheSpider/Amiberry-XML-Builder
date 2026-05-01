@@ -1,4 +1,4 @@
-Scanned file log: 2026-04-29 at 03:00:03
+Scanned file log: 2026-05-01 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -7268,7 +7268,7 @@ Skipped: DigDug2_v1.02_AGA.lha
 Skipped: DonkeyKong_v1.0.lha
 Skipped: DonkeyKong_v1.1.lha
 Skipped: DonkeyKong_v1.2.lha
-Scanned: Double Dragon [AGA]
+Skipped: DoubleDragon_Alpha2_AGA.lha
 Skipped: DoubleDragon_v1.0_AGA.lha
 Skipped: DownAtTheTrolls_v0.8.lha
 Skipped: ElevatorAction_v1.0.lha

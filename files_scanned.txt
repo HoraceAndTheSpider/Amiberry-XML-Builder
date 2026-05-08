@@ -1,4 +1,4 @@
-Scanned file log: 2026-05-06 at 03:00:02
+Scanned file log: 2026-05-08 at 03:00:02
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -7323,7 +7323,7 @@ Skipped: HyperSports_v0.93_AGA.lha
 Skipped: HyperSports_v0.9_AGA.lha
 Skipped: InternationalKarate_v1.0.lha
 Skipped: InternationalKarate_v1.0_AtariST.lha
-Scanned: Jail Break [AGA]
+Skipped: JailBreak_v1.0_AGA.lha
 Skipped: JamesPond_v0.1_BETA_1MB.lha
 Skipped: JetsonsLegendOfRobotopia_v1.1.lha
 Skipped: JoanOfArc_v0.1.lha

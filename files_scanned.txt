@@ -1,4 +1,4 @@
-Scanned file log: 2026-05-27 at 03:00:03
+Scanned file log: 2026-05-29 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -1432,8 +1432,8 @@ Skipped: BangkokKnights_v1.1_1137.lha
 Skipped: Banshee_v3.2_AGA_0633.lha
 Skipped: Banshee_v3.2_CD32.lha
 Skipped: Banshee_v3.3_CD32.lha
-Scanned: Banshee [AGA]
-Scanned: Banshee [CD32]
+Skipped: Banshee_v4.0_AGA_0633.lha
+Skipped: Banshee_v4.0_CD32.lha
 Skipped: Banzai_v1.0.lha
 Skipped: Barbarian2_v1.1_Psygnosis_0611.lha
 Skipped: Barbarian2_v1.2_Palace_2264.lha
@@ -7278,8 +7278,8 @@ Skipped: DonkeyKong_v1.1.lha
 Skipped: DonkeyKong_v1.2.lha
 Skipped: DoubleDragon_Alpha2_AGA.lha
 Skipped: DoubleDragon_Beta2_AGA.lha
-Scanned: Double Dragon [AGA]
-Scanned: Double Dragon [AGA] Dc
+Skipped: DoubleDragon_Beta3_AGA.lha
+Skipped: DoubleDragon_Beta3_AGA_Decrunched.lha
 Skipped: DoubleDragon_v1.0_AGA.lha
 Skipped: DownAtTheTrolls_v0.8.lha
 Skipped: ElevatorAction_v1.0.lha
@@ -7334,9 +7334,9 @@ Skipped: HyperSports_v0.93_AGA.lha
 Skipped: HyperSports_v0.9_AGA.lha
 Skipped: InternationalKarate_v1.0.lha
 Skipped: InternationalKarate_v1.0_AtariST.lha
-Scanned: Jail Break (1MB)
-Scanned: Jail Break (2MB)
-Scanned: Jail Break [AGA]
+Skipped: JailBreak_v1.02_1MB.lha
+Skipped: JailBreak_v1.02_2MB.lha
+Skipped: JailBreak_v1.02_AGA.lha
 Skipped: JailBreak_v1.0_AGA.lha
 Skipped: JamesPond_v0.1_BETA_1MB.lha
 Skipped: JetsonsLegendOfRobotopia_v1.1.lha
@@ -7507,7 +7507,7 @@ Skipped: WonderDogSE_v1.0_Hack_by_Earok.lha
 Skipped: Worthy_v1.0.lha
 Skipped: WrathOfTheDemon_v1.01_Scoopex.lha
 Skipped: Xenon2Audio_v0.2b_BETA.lha
-Scanned: Xevious [AGA]
+Skipped: Xevious_v1.01_AGA.lha
 Skipped: Xevious_v1.0_AGA.lha
 Skipped: Ziriax_v1.3b_Ross_Ultimate_Edition.lha
 Skipped: Ziriax_v1.3_UltimateEdition_Ross.lha

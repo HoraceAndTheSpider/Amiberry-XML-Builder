@@ -1,4 +1,4 @@
-Scanned file log: 2026-06-03 at 03:00:03
+Scanned file log: 2026-06-05 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -2691,8 +2691,8 @@ Skipped: DeluxeGalaga_v1.3.lha
 Skipped: DeluxeGalaga_v1.3_AGA.lha
 Skipped: DeluxeGalaga_v1.4.lha
 Skipped: DeluxeGalaga_v1.4_AGA.lha
-Scanned: Deluxe Galaga
-Scanned: Deluxe Galaga [AGA]
+Skipped: DeluxeGalaga_v1.5.lha
+Skipped: DeluxeGalaga_v1.5_AGA.lha
 Skipped: DeluxePacMan_v1.0.lha
 Skipped: DeluxePacMan_v1.0_AGA.lha
 Skipped: Explora_v1.4_Fr.lha
@@ -5543,7 +5543,7 @@ Skipped: RuffNTumble_v2.7_0199.lha
 Skipped: RuffNTumble_v2.7_512k_0199.lha
 Skipped: RuffNTumble_v2.8_0199.lha
 Skipped: RuffNTumble_v2.8_512k_0199.lha
-Scanned: Ruff 'N' Tumble
+Skipped: RuffNTumble_v2.9_0199.lha
 Skipped: RugbyTheWorldCup_v1.2_0258.lha
 Skipped: RugbyTheWorldCup_v1.2_EarlyBuild_3730.lha
 Skipped: RunningMan_v1.0_0382.lha
@@ -6052,11 +6052,11 @@ Skipped: Stryx_v1.2_0733.lha
 Skipped: STUNRunner_v1.0.lha
 Skipped: StuntCarRacerTNT_v1.3.lha
 Skipped: StuntCarRacerTNT_v1.4.lha
-Scanned: Stunt Car Racer Unl
+Skipped: StuntCarRacerUnleashed_v1.1_0222.lha
 Skipped: StuntCarRacer_v1.3_0222.lha
 Skipped: StuntCarRacer_v1.4_0222.lha
 Skipped: StuntmanSeymour_v1.0.lha
-Scanned: Stunt Track Racer Unl (NTSC)
+Skipped: StuntTrackRacerUnleashed_v1.1_NTSC_0222.lha
 Skipped: StuntTrackRacer_v1.0_1142.lha
 Skipped: StuntTrackRacer_v1.0_NTSC_1142.lha
 Skipped: SubBattleSimulator_v1.0_NTSC_1458.lha
@@ -7319,7 +7319,7 @@ Skipped: GhostBattle_v1.3.lha
 Skipped: GhostsNGoblins_v0.91_AGA.lha
 Skipped: GhostsNGoblins_v0.93_AGA.lha
 Skipped: GhostsNGoblins_v0.9_AGA.lha
-Scanned: Ghosts NGoblins [AGA]
+Skipped: GhostsNGoblins_v1.00_AGA.lha
 Skipped: Giana2_v1.02_HardNHeavyHack.lha
 Skipped: GianaSistersSE_v1.2.lha
 Skipped: Gods_v3.2_0666_ControllableJump.lha
@@ -7429,8 +7429,8 @@ Skipped: RenegadesDeluxe_v1.0_PublicDomain.lha
 Skipped: Renegades_v1.0_PublicDomain.lha
 Skipped: RickDangerous_v1.2_AGA.lha
 Skipped: RocNRope_v1.0.lha
-Scanned: Roc NRope
-Scanned: Roc NRope [AGA]
+Skipped: RocNRope_v1.01.lha
+Skipped: RocNRope_v1.01_AGA.lha
 Skipped: RocNRope_v1.0_AGA.lha
 Skipped: RogueDeclanZeroAmigaAddictEdition_v1.0.2.lha
 Skipped: RogueDeclanZero_v1.0.lha

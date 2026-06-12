@@ -1,4 +1,4 @@
-Scanned file log: 2026-06-10 at 03:00:05
+Scanned file log: 2026-06-12 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -3044,10 +3044,10 @@ Skipped: FlightOfTheIntruder_v1.0_0245.lha
 Skipped: FlightPath737_v1.0_2217.lha
 Skipped: FlightSimulator2&HawaiianSceneryDisk_v1.0_0329.lha
 Skipped: FlightSimulator2&HawaiianSceneryDisk_v1.1_0329.lha
-Scanned: Flight Simulator II (Hawaiian Odyssey)
+Skipped: FlightSimulator2&HawaiianSceneryDisk_v1.2_0329.lha
 Skipped: FlightSimulator2&SceneryDisk07_v1.0_0329.lha
 Skipped: FlightSimulator2&SceneryDisk07_v1.1_0329.lha
-Scanned: Flight Simulator II (& Scenery Disk 07)
+Skipped: FlightSimulator2&SceneryDisk07_v1.2_0329.lha
 Skipped: FlugDerAmazonQueen_v1.1_De.lha
 Skipped: FlyFighter_v1.2_1547.lha
 Skipped: FlyFighter_v1.3_1547.lha
@@ -3192,7 +3192,7 @@ Skipped: FaceOff_v1.0_Anco_2483.lha
 Skipped: FaceOff_v1.0_Krisalis_1670.lha
 Skipped: FaeryTaleAdventure_v1.1_0367.lha
 Skipped: FlightSimulator2_v1.1_0329.lha
-Scanned: Flight Simulator II
+Skipped: FlightSimulator2_v1.2_0329.lha
 Skipped: FlimbosQuest_v2.1a_0121.lha
 Skipped: FlimbosQuest_v2.2_0121.lha
 Skipped: FlimbosQuest_v2.3_0121.lha
@@ -3206,19 +3206,19 @@ Skipped: FluchtAusColditz_v1.2_De.lha
 Skipped: FluchtAusColditz_v1.4a_De.lha
 Skipped: FluchtAusColditz_v1.4_De.lha
 Skipped: FlightSimulator2&SceneryDisk09_v1.1_0329.lha
-Scanned: Flight Simulator II (& Scenery Disk 09)
+Skipped: FlightSimulator2&SceneryDisk09_v1.2_0329.lha
 Skipped: FlightSimulator2&SceneryDisk11_v1.0_0329.lha
 Skipped: FlightSimulator2&SceneryDisk11_v1.1_0329.lha
-Scanned: Flight Simulator II (& Scenery Disk 11)
+Skipped: FlightSimulator2&SceneryDisk11_v1.2_0329.lha
 Skipped: FlightSimulator2&SceneryDisk12_v1.0_0329.lha
 Skipped: FlightSimulator2&SceneryDisk12_v1.1_0329.lha
-Scanned: Flight Simulator II (& Scenery Disk 12)
+Skipped: FlightSimulator2&SceneryDisk12_v1.2_0329.lha
 Skipped: FlightSimulator2&SceneryDisk13_v1.0_0329.lha
 Skipped: FlightSimulator2&SceneryDisk13_v1.1_0329.lha
-Scanned: Flight Simulator II (& Scenery Disk 13)
+Skipped: FlightSimulator2&SceneryDisk13_v1.2_0329.lha
 Skipped: FlightSimulator2&SceneryDisk14_v1.0_0329.lha
 Skipped: FlightSimulator2&SceneryDisk14_v1.1_0329.lha
-Scanned: Flight Simulator II (& Scenery Disk 14)
+Skipped: FlightSimulator2&SceneryDisk14_v1.2_0329.lha
 Skipped: GridStart_v1.1_1470.lha
 Skipped: GridStart_v1.1_AltVersion.lha
 Skipped: Grimblood_v1.0_2088.lha
@@ -4869,7 +4869,7 @@ Skipped: OutRun_v1.2_USGold_1161.lha
 Skipped: Outzone_v1.1_2333.lha
 Skipped: Overdrive_v1.0_Infacto.lha
 Skipped: Overdrive_v2.0_Team17_1149.lha
-Scanned: Overdrive (Team 17)
+Skipped: Overdrive_v2.1_Team17_1149.lha
 Skipped: Overkill_v1.1_AGA_0707.lha
 Skipped: Overlander_v1.0_1552.lha
 Skipped: OverlordDemo_v1.0_Rowan.lha
@@ -6107,8 +6107,8 @@ Skipped: Superfrog_v1.5_0035.lha
 Skipped: Superfrog_v1.5_CD32.lha
 Skipped: Superfrog_v1.6_0035.lha
 Skipped: Superfrog_v1.6_CD32.lha
-Scanned: Superfrog
-Scanned: Superfrog [CD32]
+Skipped: Superfrog_v1.7_0035.lha
+Skipped: Superfrog_v1.7_CD32.lha
 Skipped: SuperGemZ_v1.1.lha
 Skipped: SuperGrandPrix_v1.0_2145.lha
 Skipped: SuperGridRunner_v1.0.lha
@@ -7331,7 +7331,7 @@ Skipped: GhostsNGoblins_v0.91_AGA.lha
 Skipped: GhostsNGoblins_v0.93_AGA.lha
 Skipped: GhostsNGoblins_v0.9_AGA.lha
 Skipped: GhostsNGoblins_v1.00_AGA.lha
-Scanned: Ghosts NGoblins [AGA]
+Skipped: GhostsNGoblins_v1.1_AGA.lha
 Skipped: Giana2_v1.02_HardNHeavyHack.lha
 Skipped: GianaSistersSE_v1.2.lha
 Skipped: Gods_v3.2_0666_ControllableJump.lha
@@ -7342,6 +7342,7 @@ Skipped: Gyruss_v1.0_2MB.lha
 Skipped: HeroQuest_v1.2_German_fix_by_Viddi.lha
 Skipped: HeroQuest_v1.2_German_fix_by_Viddi_v2.lha
 Skipped: HighwayHawks_v1.2_BETA.lha
+Skipped: Hook_v0.1_Es.lha
 Scanned: Hook (Espanol)
 Skipped: Hugo_v1.0_Es_Spanish_hack_by_K-teto.lha
 Skipped: Hybris_v2.4b3_BETA_1457.lha

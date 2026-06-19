@@ -1,4 +1,4 @@
-Scanned file log: 2026-06-17 at 03:00:03
+Scanned file log: 2026-06-19 at 03:00:02
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -1224,8 +1224,8 @@ Skipped: ArmourGeddon_v1.0.lha
 Skipped: ArmourGeddon_v1.0_NTSC.lha
 Skipped: ArmourGeddon_v1.1.lha
 Skipped: ArmourGeddon_v1.1_NTSC.lha
-Scanned: Army Moves
-Scanned: Army Moves CU
+Skipped: ArmyMoves_v2.0.lha
+Skipped: ArmyMoves_v2.0_CU_2442.lha
 Skipped: Arnie2_v1.0_1924.lha
 Skipped: Arnie_v1.1_1007.lha
 Skipped: ArtDeLaGuerre_v1.1_Fr_2447.lha
@@ -3056,8 +3056,8 @@ Skipped: FlyFighter_v1.3_1547.lha
 Skipped: FlyHarder_v1.1.lha
 Skipped: FlyHarder_v1.1_CD32.lha
 Skipped: FlyingShark_v1.0.lha
-Scanned: Flying Shark
-Scanned: Flying Shark Alt
+Skipped: FlyingShark_v2.0.lha
+Skipped: FlyingShark_v2.0_Alternate.lha
 Skipped: FoolsErrand_v1.0_1025.lha
 Skipped: FootballerOfTheYear2_v1.0_0654.lha
 Skipped: FootballGlory_v1.1.lha
@@ -4087,16 +4087,16 @@ Skipped: LostPatrol_v2.1_0773.lha
 Skipped: LostPatrol_v2.1_NTSC_0498.lha
 Skipped: LostVikingsDemo_v2.0.lha
 Skipped: LostVikingsDemo_v2.0_Fr.lha
-Scanned: Lost Vikings Demo
-Scanned: Lost Vikings Demo (Francais)
+Skipped: LostVikingsDemo_v2.1.lha
+Skipped: LostVikingsDemo_v2.1_Fr.lha
 Skipped: LostVikings_v2.0_2235.lha
 Skipped: LostVikings_v2.0_CD32.lha
 Skipped: LostVikings_v2.0_De_2774.lha
 Skipped: LostVikings_v2.0_Fr_2236.lha
-Scanned: Lost Vikings
-Scanned: Lost Vikings [CD32]
-Scanned: Lost Vikings (Deutsch)
-Scanned: Lost Vikings (Francais)
+Skipped: LostVikings_v2.1_2235.lha
+Skipped: LostVikings_v2.1_CD32.lha
+Skipped: LostVikings_v2.1_De_2774.lha
+Skipped: LostVikings_v2.1_Fr.lha
 Skipped: LotharMatthaeusSuperSoccer_v1.0_De_1728.lha
 Skipped: LotharMatthausDieInteraktiveFussballsimulation_v1.1.lha
 Skipped: Lotus2_v1.11_0497.lha
@@ -4588,8 +4588,8 @@ Skipped: Minskies_v2.1_AGA.lha
 Skipped: MisjaHarolda_v1.2_Pl.lha
 Skipped: MissilesOverXerion_v1.0.lha
 Skipped: MissilesOverXerion_v1.2_2625.lha
-Scanned: Mission Andromeda
-Scanned: Mission Andromeda (Deutsch)
+Skipped: MissionAndromeda_v1.1.lha
+Skipped: MissionAndromeda_v1.1_De.lha
 Skipped: MissionElevator_v1.0_1282.lha
 Skipped: MissionElevator_v1.1_1282.lha
 Skipped: MixedUpMotherGoose_v1.0_2680.lha
@@ -6867,7 +6867,7 @@ Skipped: UFOEnemyUnknown_v1.1_CD32.lha
 Skipped: Ugh_v1.0_0396.lha
 Skipped: Ugh_v1.1_0396.lha
 Skipped: Ugh_v1.2_0396.lha
-Scanned: Ugh
+Skipped: Ugh_v1.6_0396.lha
 Skipped: Ultima3_v1.1.lha
 Skipped: Ultima4_v1.1_1390.lha
 Skipped: Ultima4_v1.1_NTSC_1390.lha
@@ -7337,6 +7337,7 @@ Skipped: Frogger_v1.23.lha
 Skipped: Frogger_v1.24.lha
 Skipped: FromLightsToFlag_v0.lha
 Skipped: Galaga_v1.0.lha
+Scanned: Galaga
 Skipped: Galaxian_v1.0.lha
 Skipped: Galaxian_v1.0_BETA.lha
 Skipped: GhostBattle_v1.3.lha

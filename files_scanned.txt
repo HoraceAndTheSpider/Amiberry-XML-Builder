@@ -1,4 +1,4 @@
-Scanned file log: 2026-06-24 at 03:00:02
+Scanned file log: 2026-06-26 at 03:00:02
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -1959,7 +1959,7 @@ Skipped: Castles2_v1.1_CD32.lha
 Skipped: Castles_v1.4_2381.lha
 Skipped: Castles_v1.4_De_0305.lha
 Skipped: CastleVania_v1.1.lha
-Scanned: Castlevania
+Skipped: CastleVania_v1.2.lha
 Skipped: CastleWarrior_v1.0b.lha
 Skipped: CastleWarrior_v1.1_2289.lha
 Skipped: CastorsJuniorsDansLaForet_v1.0_Fr.lha
@@ -3060,8 +3060,8 @@ Skipped: FlyHarder_v1.1_CD32.lha
 Skipped: FlyingShark_v1.0.lha
 Skipped: FlyingShark_v2.0.lha
 Skipped: FlyingShark_v2.0_Alternate.lha
-Scanned: Flying Shark
-Scanned: Flying Shark Alt
+Skipped: FlyingShark_v2.1.lha
+Skipped: FlyingShark_v2.1_Alt.lha
 Skipped: FoolsErrand_v1.0_1025.lha
 Skipped: FootballerOfTheYear2_v1.0_0654.lha
 Skipped: FootballGlory_v1.1.lha
@@ -5901,6 +5901,7 @@ Skipped: SpaceAce_v1.3_0085.lha
 Skipped: SpaceAssault_v1.0.lha
 Skipped: Spaceball_v1.1_2675.lha
 Skipped: Spaceball_v1.3_2675.lha
+Scanned: Space Battle
 Skipped: SpaceCrusade&TheVoyageBeyond_v2.2_1535.lha
 Skipped: SpaceCrusade&TheVoyageBeyond_v3.0_1535.lha
 Skipped: SpaceCrusade&TheVoyageBeyond_v3.1_1535.lha

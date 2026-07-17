@@ -1,4 +1,4 @@
-Scanned file log: 2026-07-15 at 03:00:03
+Scanned file log: 2026-07-17 at 03:00:02
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -5448,6 +5448,8 @@ Skipped: RainbowIslands_v1.4.1_0012.lha
 Skipped: RainbowWarrior_v1.1.lha
 Skipped: RallyChampionships_v1.1.lha
 Skipped: RallyChampionships_v1.1_AGA.lha
+Scanned: Rally Championships
+Scanned: Rally Championships [AGA]
 Skipped: RallyCrossChallenge_v1.0.lha
 Skipped: Rambo3_v1.1_2433.lha
 Skipped: Rambo3_v1.1_NTSC_2432.lha
@@ -6132,8 +6134,8 @@ Skipped: Superfrog_v1.6_0035.lha
 Skipped: Superfrog_v1.6_CD32.lha
 Skipped: Superfrog_v1.7_0035.lha
 Skipped: Superfrog_v1.7_CD32.lha
-Scanned: Superfrog
-Scanned: Superfrog [CD32]
+Skipped: Superfrog_v1.8_0035.lha
+Skipped: Superfrog_v1.8_CD32.lha
 Skipped: SuperGemZ_v1.1.lha
 Skipped: SuperGrandPrix_v1.0_2145.lha
 Skipped: SuperGridRunner_v1.0.lha
@@ -7304,6 +7306,7 @@ Skipped: Castlevania_v1.2_AGA_October2025.lha
 Skipped: Citadel_v1.3_RemonsteredEdition.lha
 Skipped: Citadel_v1.4_RemonsteredEdition.lha
 Skipped: Cobra_v1.0.lha
+Scanned: Commando [AGA]
 Skipped: Crimbo_v1.0_AGA.lha
 Skipped: CyberblastX_v1.0.lha
 Skipped: DateGirl_v1.0_AGA.lha

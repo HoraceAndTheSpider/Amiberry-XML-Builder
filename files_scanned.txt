@@ -1,4 +1,4 @@
-Scanned file log: 2026-07-22 at 03:00:02
+Scanned file log: 2026-07-24 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -7547,6 +7547,7 @@ Skipped: USChampionshipVBall_v1.01_AGA.lha
 Skipped: USChampionshipVBall_v1.0_AGA.lha
 Skipped: USChampionshipVBall_v1.10.lha
 Skipped: USChampionshipVBall_v1.10_AGA.lha
+Scanned: Vulgus [AGA]
 Skipped: WhalesVoyageEnhanced_v1.0b.lha
 Skipped: WhalesVoyageEnhanced_v1.0b_De.lha
 Skipped: WhalesVoyage_v1.0.lha

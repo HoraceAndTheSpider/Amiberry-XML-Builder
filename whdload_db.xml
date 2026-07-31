@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<whdbooter timestamp="2026-07-29 at 03:00:02">
+<whdbooter timestamp="2026-07-31 at 03:00:02">
 	<game filename="1001StolenIdeas_v1.01_Airwalk" sha1="c1857fce1653d8eec30589f6073377381dd1cfcb">
 		<name>1001 Stolen Ideas</name>
 		<subpath>1001StolenIdeas</subpath>
@@ -290128,7 +290128,7 @@
 		<slave_libraries>False</slave_libraries>
 		<slave number="1">
 			<filename>SWIV.slave</filename>
-			<datapath></datapath>
+			<datapath />
 			<custom>
 			C1:B:Disable Jump Control (if 2nd button pressed)
 			C2:B:Unlimited Lives
@@ -290155,6 +290155,36 @@
 		<slave number="1">
 			<filename>CastlevaniaAGA.slave</filename>
 			<datapath>data</datapath>
+		</slave>
+		<hardware>
+			CHIPSET=AGA
+			PRIMARY_CONTROL=JOYSTICK
+			PORT0=JOY
+			PORT1=JOY
+			SCREEN_AUTOHEIGHT=TRUE
+			SCREEN_CENTERH=SMART
+			SCREEN_CENTERV=SMART
+		</hardware>
+	</game>
+	<game filename="Vulgus_v1.01_AGA" sha1="f0fd07625a4859deb164f7906b82c77f369c3f3b">
+		<name>Vulgus [AGA]</name>
+		<subpath>VulgusAGA</subpath>
+		<variant_uuid>07b75b75-17d2-5fd8-94c2-a5e85d1619e9</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>VulgusAGA.slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>VulgusAGA.slave</filename>
+			<datapath></datapath>
+			<custom>
+			C1:X:invincible:0
+			C1:X:infinite lives:1
+			C1:X:cheat keys:4
+			C2:X:50 Hz update:0
+			C2:X:disable long fire press for laser:1
+			C2:X:disable music:2
+			C4:L:lives:3,5,1,2
+			</custom>
 		</slave>
 		<hardware>
 			CHIPSET=AGA

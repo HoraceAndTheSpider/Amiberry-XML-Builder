@@ -1,4 +1,4 @@
-Scanned file log: 2026-08-05 at 03:00:03
+Scanned file log: 2026-08-07 at 03:00:02
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -1871,6 +1871,10 @@ Skipped: CannonFodder_v3.0_0860.lha
 Skipped: CannonFodder_v3.0_De.lha
 Skipped: CannonFodder_v3.0_Fr_2332.lha
 Skipped: CannonFodder_v3.0_It.lha
+Scanned: Cannon Fodder
+Scanned: Cannon Fodder (Deutsch)
+Scanned: Cannon Fodder (Francais)
+Scanned: Cannon Fodder (Italiano)
 Skipped: CannonSoccer_v1.0_0165.lha
 Skipped: CapitalPunishment_v1.1a_AGA_1758.lha
 Skipped: CapitalPunishment_v1.1a_AGA_CD.lha
@@ -7373,7 +7377,7 @@ Skipped: Gyruss_v1.0_1MB.lha
 Skipped: Gyruss_v1.0_2MB.lha
 Skipped: HeroQuest_v1.2_German_fix_by_Viddi.lha
 Skipped: HeroQuest_v1.2_German_fix_by_Viddi_v2.lha
-Scanned: Hero Quest De Fix
+Skipped: HeroQuest_v1.2_German_fix_by_Viddi_v4.lha
 Skipped: HighwayHawks_v1.2_BETA.lha
 Skipped: Hook_v0.1_Es.lha
 Skipped: Hook_v0.3_Es.lha

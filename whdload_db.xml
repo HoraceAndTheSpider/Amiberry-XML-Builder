@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<whdbooter timestamp="2026-08-05 at 03:00:03">
+<whdbooter timestamp="2026-08-07 at 03:00:02">
 	<game filename="1001StolenIdeas_v1.01_Airwalk" sha1="c1857fce1653d8eec30589f6073377381dd1cfcb">
 		<name>1001 Stolen Ideas</name>
 		<subpath>1001StolenIdeas</subpath>
@@ -290205,11 +290205,127 @@
 		<slave_libraries>False</slave_libraries>
 		<slave number="1">
 			<filename>HeroQuestDeFix.slave</filename>
-			<datapath></datapath>
+			<datapath />
 		</slave>
 		<hardware>
 			PRIMARY_CONTROL=JOYSTICK
 			PORT0=JOY
+			PORT1=JOY
+			SCREEN_AUTOHEIGHT=TRUE
+			SCREEN_CENTERH=SMART
+			SCREEN_CENTERV=SMART
+		</hardware>
+	</game>
+	<game filename="CannonFodder_v3.1_0860" sha1="8b94e5f59356c64135ca4846e105658edbf22375">
+		<name>Cannon Fodder</name>
+		<subpath>CannonFodder</subpath>
+		<variant_uuid>1d9d12bf-3120-56f6-8799-9e91ebceda95</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>CannonFodder.slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>CannonFodder.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			C1:X:Infinite Recruits:0
+			C1:X:Infinite Grenades:1
+			C1:X:Infinite Bazookas:2
+			C1:X:Troops Invulnerable:3
+			C1:X:No timer on final phase:4
+			C2:B:Skip `endorsed` screen on english versions
+			C3:L:Startmission:Mission 1,Mission 2,Mission 3,Mission 4,Mission 5,Mission 6,Mission 7,Mission 8,Mission 9,Mission 10,Mission 11,Mission 12,Mission 13,Mission 14,Mission 15,Mission 16,Mission 17,Mission 18,Mission 19,Mission 20,Mission 21,Mission 22,Mission 23,Mission 24
+			</custom>
+		</slave>
+		<hardware>
+			PRIMARY_CONTROL=MOUSE
+			PORT0=MOUSE
+			PORT1=JOY
+			SCREEN_AUTOHEIGHT=TRUE
+			SCREEN_CENTERH=SMART
+			SCREEN_CENTERV=SMART
+		</hardware>
+	</game>
+	<game filename="CannonFodder_v3.1_De" sha1="6494e6e69f1272118194fd5413a2c8642273219f">
+		<name>Cannon Fodder (Deutsch)</name>
+		<subpath>CannonFodderDe</subpath>
+		<variant_uuid>84407507-8c40-5b92-9d59-1e73e8de70d9</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>CannonFodderDe.slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>CannonFodderDe.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			C1:X:Infinite Recruits:0
+			C1:X:Infinite Grenades:1
+			C1:X:Infinite Bazookas:2
+			C1:X:Troops Invulnerable:3
+			C1:X:No timer on final phase:4
+			C2:B:Skip `endorsed` screen on english versions
+			C3:L:Startmission:Mission 1,Mission 2,Mission 3,Mission 4,Mission 5,Mission 6,Mission 7,Mission 8,Mission 9,Mission 10,Mission 11,Mission 12,Mission 13,Mission 14,Mission 15,Mission 16,Mission 17,Mission 18,Mission 19,Mission 20,Mission 21,Mission 22,Mission 23,Mission 24
+			</custom>
+		</slave>
+		<hardware>
+			PRIMARY_CONTROL=MOUSE
+			PORT0=MOUSE
+			PORT1=JOY
+			SCREEN_AUTOHEIGHT=TRUE
+			SCREEN_CENTERH=SMART
+			SCREEN_CENTERV=SMART
+		</hardware>
+	</game>
+	<game filename="CannonFodder_v3.1_Fr_2332" sha1="92157c17f3f9442694385ac0f84a5c28f838bb9f">
+		<name>Cannon Fodder (Francais)</name>
+		<subpath>CannonFodderFr</subpath>
+		<variant_uuid>f169098c-1fca-5746-a697-b48bccc69fee</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>CannonFodderFr.slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>CannonFodderFr.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			C1:X:Infinite Recruits:0
+			C1:X:Infinite Grenades:1
+			C1:X:Infinite Bazookas:2
+			C1:X:Troops Invulnerable:3
+			C1:X:No timer on final phase:4
+			C2:B:Skip `endorsed` screen on english versions
+			C3:L:Startmission:Mission 1,Mission 2,Mission 3,Mission 4,Mission 5,Mission 6,Mission 7,Mission 8,Mission 9,Mission 10,Mission 11,Mission 12,Mission 13,Mission 14,Mission 15,Mission 16,Mission 17,Mission 18,Mission 19,Mission 20,Mission 21,Mission 22,Mission 23,Mission 24
+			</custom>
+		</slave>
+		<hardware>
+			PRIMARY_CONTROL=MOUSE
+			PORT0=MOUSE
+			PORT1=JOY
+			SCREEN_AUTOHEIGHT=TRUE
+			SCREEN_CENTERH=SMART
+			SCREEN_CENTERV=SMART
+		</hardware>
+	</game>
+	<game filename="CannonFodder_v3.1_It" sha1="55b017592ab101afdf122c802994f2f73a067680">
+		<name>Cannon Fodder (Italiano)</name>
+		<subpath>CannonFodderIt</subpath>
+		<variant_uuid>77d2ea02-8e21-5b57-bf76-d7538fc8b8d3</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>CannonFodderIt.slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>CannonFodderIt.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			C1:X:Infinite Recruits:0
+			C1:X:Infinite Grenades:1
+			C1:X:Infinite Bazookas:2
+			C1:X:Troops Invulnerable:3
+			C1:X:No timer on final phase:4
+			C2:B:Skip `endorsed` screen on english versions
+			C3:L:Startmission:Mission 1,Mission 2,Mission 3,Mission 4,Mission 5,Mission 6,Mission 7,Mission 8,Mission 9,Mission 10,Mission 11,Mission 12,Mission 13,Mission 14,Mission 15,Mission 16,Mission 17,Mission 18,Mission 19,Mission 20,Mission 21,Mission 22,Mission 23,Mission 24
+			</custom>
+		</slave>
+		<hardware>
+			PRIMARY_CONTROL=MOUSE
+			PORT0=MOUSE
 			PORT1=JOY
 			SCREEN_AUTOHEIGHT=TRUE
 			SCREEN_CENTERH=SMART

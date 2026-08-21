@@ -1,4 +1,4 @@
-Scanned file log: 2026-08-19 at 03:00:03
+Scanned file log: 2026-08-21 at 03:00:02
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -1547,7 +1547,7 @@ Skipped: BigNoseTheCaveman_v1.0.lha
 Skipped: BigRun_v1.1_0301.lha
 Skipped: Biing_v1.0_AGA_De_0442.lha
 Skipped: Biing_v1.1_AGA_De_0442.lha
-Scanned: Biing [AGA] (Deutsch)
+Skipped: Biing_v1.2_AGA_De_0442.lha
 Skipped: Bill&TedsExcellentAdventure_v1.0.lha
 Skipped: Bill&TedsExcellentAdventure_v1.1.lha
 Skipped: Bill&TedsExcellentAdventure_v1.2_NTSC.lha
@@ -1876,10 +1876,10 @@ Skipped: CannonFodder_v3.1_0860.lha
 Skipped: CannonFodder_v3.1_De.lha
 Skipped: CannonFodder_v3.1_Fr_2332.lha
 Skipped: CannonFodder_v3.1_It.lha
-Scanned: Cannon Fodder
-Scanned: Cannon Fodder (Deutsch)
-Scanned: Cannon Fodder (Francais)
-Scanned: Cannon Fodder (Italiano)
+Skipped: CannonFodder_v3.2_0860.lha
+Skipped: CannonFodder_v3.2_De.lha
+Skipped: CannonFodder_v3.2_Fr_2332.lha
+Skipped: CannonFodder_v3.2_It.lha
 Skipped: CannonSoccer_v1.0_0165.lha
 Skipped: CapitalPunishment_v1.1a_AGA_1758.lha
 Skipped: CapitalPunishment_v1.1a_AGA_CD.lha
@@ -2318,10 +2318,10 @@ Skipped: CannonFodder2_v1.15_0104.lha
 Skipped: CannonFodder2_v1.15_De_0241.lha
 Skipped: CannonFodder2_v1.15_Fr_2578.lha
 Skipped: CannonFodder2_v1.15_It.lha
-Scanned: Cannon Fodder 2
-Scanned: Cannon Fodder 2 (Deutsch)
-Scanned: Cannon Fodder 2 (Francais)
-Scanned: Cannon Fodder 2 (Italiano)
+Skipped: CannonFodder2_v1.17_0104.lha
+Skipped: CannonFodder2_v1.17_De_0241.lha
+Skipped: CannonFodder2_v1.17_Fr_2578.lha
+Skipped: CannonFodder2_v1.17_It.lha
 Skipped: CannonFodderNewCampaign_v1.3.lha
 Skipped: CannonFodderNewCampaign_v2.0.lha
 Skipped: CannonFodderPlus_v1.0_0060.lha
@@ -7321,7 +7321,7 @@ Skipped: Castlevania_v1.2_AGA_October2025.lha
 Skipped: Citadel_v1.3_RemonsteredEdition.lha
 Skipped: Citadel_v1.4_RemonsteredEdition.lha
 Skipped: Cobra_v1.0.lha
-Scanned: Commando [AGA]
+Skipped: Commando_v1.01_AGA.lha
 Skipped: Commando_v1.0_AGA.lha
 Skipped: Crimbo_v1.0_AGA.lha
 Skipped: CyberblastX_v1.0.lha
@@ -7341,8 +7341,8 @@ Skipped: DoubleDragon_Alpha2_AGA.lha
 Skipped: DoubleDragon_Beta2_AGA.lha
 Skipped: DoubleDragon_Beta3_AGA.lha
 Skipped: DoubleDragon_Beta3_AGA_Decrunched.lha
-Scanned: Double Dragon [AGA]
-Scanned: Double Dragon [AGA] Dc
+Skipped: DoubleDragon_Beta4_AGA.lha
+Skipped: DoubleDragon_Beta4_AGA_Decrunched.lha
 Skipped: DoubleDragon_v1.0_AGA.lha
 Skipped: DownAtTheTrolls_v0.8.lha
 Skipped: ElevatorAction_v1.0.lha
@@ -7462,8 +7462,8 @@ Skipped: MsPacMan_v1.1.lha
 Skipped: Netherworld_v1.5_2033_BETA.lha
 Skipped: Neutralizer2Demo_v0.1_BETA.lha
 Skipped: NibblerSuperExtra_v1.0.lha
-Scanned: Nibbler
-Scanned: Nibbler 68020
+Skipped: Nibbler_v1.0.lha
+Skipped: Nibbler_v1.0_68020.lha
 Skipped: NibbyNibble_v1.0.lha
 Skipped: NightWalk_v1.0_BETA.lha
 Skipped: NinjaGaiden2_v0.1_BETA.lha

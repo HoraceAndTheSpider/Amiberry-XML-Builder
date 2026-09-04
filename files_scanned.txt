@@ -1,4 +1,4 @@
-Scanned file log: 2026-09-02 at 03:00:03
+Scanned file log: 2026-09-04 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -6025,7 +6025,7 @@ Skipped: StarControl_v1.0.lha
 Skipped: StarCrusader_v1.0_AGA_2349.lha
 Skipped: Stardust_v1.5_2102.lha
 Skipped: Stardust_v1.6_2102.lha
-Scanned: Stardust
+Skipped: Stardust_v1.7_2102.lha
 Skipped: Starflight_v1.01_0855.lha
 Skipped: Starflight_v1.0_0855.lha
 Skipped: Starglider2_v1.2.1.lha
@@ -7284,9 +7284,9 @@ Skipped: Zaxxon_v2.0.lha
 Skipped: Zaxxon_v2.0_512k.lha
 Skipped: ZaZelaznaBrama_v1.1_Pl.lha
 Skipped: Zeewolf2_v5.00_0608.lha
-Scanned: Zeewolf 2 - Wild Justice
+Skipped: Zeewolf2_v6.0.0_0608.lha
 Skipped: Zeewolf_v5.03_0414.lha
-Scanned: Zeewolf
+Skipped: Zeewolf_v6.0.0_0414.lha
 Skipped: ZeroGravity_v1.0.lha
 Skipped: ZippyRace_v1.1.lha
 Skipped: Ziriax_v1.2_3001.lha
@@ -7492,8 +7492,8 @@ Skipped: Populous_v1.2_0069_BETA.lha
 Skipped: ProjectXSE2017_v1.5_Hack_by_Earok.lha
 Skipped: ProjectXv2_v1.4_0289_BETA.lha
 Skipped: ProjectX_v1.4_0886_BETA.lha
-Scanned: Rally X
-Scanned: Rally XAGA
+Skipped: RallyX_v1.0.lha
+Skipped: RallyX_v1.0_AGA.lha
 Skipped: RealmOfTheTrolls_v0.8.lha
 Skipped: RenegadesDeluxe_v1.0_PublicDomain.lha
 Skipped: Renegades_v1.0_PublicDomain.lha

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<whdbooter timestamp="2026-09-02 at 03:00:03">
+<whdbooter timestamp="2026-09-04 at 03:00:03">
 	<game filename="1001StolenIdeas_v1.01_Airwalk" sha1="c1857fce1653d8eec30589f6073377381dd1cfcb">
 		<name>1001 Stolen Ideas</name>
 		<subpath>1001StolenIdeas</subpath>
@@ -290844,7 +290844,7 @@
 		<slave_libraries>False</slave_libraries>
 		<slave number="1">
 			<filename>RallyX.slave</filename>
-			<datapath></datapath>
+			<datapath />
 			<custom>
 			C1:X:invincible:0
 			C1:X:infinite lives:1
@@ -290871,7 +290871,7 @@
 		<slave_libraries>False</slave_libraries>
 		<slave number="1">
 			<filename>RallyXAGA.slave</filename>
-			<datapath></datapath>
+			<datapath />
 			<custom>
 			C1:X:invincible:0
 			C1:X:infinite lives:1

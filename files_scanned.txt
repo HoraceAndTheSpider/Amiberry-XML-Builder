@@ -1,4 +1,4 @@
-Scanned file log: 2026-09-16 at 03:00:03
+Scanned file log: 2026-09-18 at 03:00:02
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -1401,7 +1401,7 @@ Skipped: Baal_v1.4.lha
 Skipped: BabaYaga_v1.1.lha
 Skipped: BabyJoInGoingHome_v1.1_2291.lha
 Skipped: BabylonianTwinsDemo_v1.1.lha
-Scanned: Babylonian Twins
+Skipped: BabylonianTwins_v1.0.lha
 Skipped: Backlash_v1.0_1118.lha
 Skipped: BackToTheFuturePart2_v1.2_0005.lha
 Skipped: BackToTheFuturePart2_v1.3a_0005.lha
@@ -2671,7 +2671,7 @@ Skipped: Detroit_v1.1_AGA.lha
 Skipped: Detroit_v1.1_AGA_Fr.lha
 Skipped: Detroit_v1.1_Fr.lha
 Skipped: Deuteros_v1.10_0958.lha
-Scanned: Deuteros - The Next Millennium
+Skipped: Deuteros_v1.12_0958.lha
 Skipped: DevilsTempleDemo_v1.0.lha
 Skipped: DeviousDesigns_v1.3_0256.lha
 Skipped: Dune_v3.0_Fr_2393.lha
@@ -4037,8 +4037,8 @@ Skipped: KillingCloud_v2.2_3031.lha
 Skipped: KillingCloud_v2.2_NTSC_3019.lha
 Skipped: KillingCloud_v2.3_3031.lha
 Skipped: KillingCloud_v2.3_NTSC_3019.lha
-Scanned: Killing Cloud
-Scanned: Killing Cloud (NTSC)
+Skipped: KillingCloud_v2.4_3031.lha
+Skipped: KillingCloud_v2.4_NTSC_3019.lha
 Skipped: KillingGameShow_v1.2.lha
 Skipped: KillingGameShow_v1.3.lha
 Skipped: KillingGameShow_v1.3_NTSC.lha
@@ -6465,8 +6465,8 @@ Skipped: SensibleWorldOfSoccer2526_v2.3.lha
 Skipped: SensibleWorldOfSoccer9596EuropeanChampionsEdition_v2.1_1825.lha
 Skipped: SensibleWorldOfSoccer9596EuropeanChampionsEdition_v2.3_1825.lha
 Skipped: Superfrog_v1.8_CD32.lha
-Scanned: Superfrog
-Scanned: Superfrog [CD32]
+Skipped: Superfrog_v1.9_0035.lha
+Skipped: Superfrog_v1.9_CD32.lha
 Skipped: SuperGemZ_v1.1.lha
 Skipped: SuperGrandPrix_v1.0_2145.lha
 Skipped: SuperGridRunner_v1.0.lha
@@ -7373,7 +7373,7 @@ Skipped: ElevatorAction_v1.0_ECS.lha
 Skipped: ElevatorAction_v1.0_OCS.lha
 Skipped: Elvira_v1.3_De_German_fix_by_Torti-the-Smurf.lha
 Skipped: Elysium_v1.0_De.lha
-Scanned: Evil Garden
+Skipped: EvilGarden_v1.0.lha
 Skipped: EyeOfTheBeholder2_v0.1_AGA.lha
 Skipped: EyeOfTheBeholder2_v0.3_AGA.lha
 Skipped: EyeOfTheBeholder_v0.2_AGA.lha

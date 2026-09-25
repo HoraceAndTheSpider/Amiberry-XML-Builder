@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<whdbooter timestamp="2026-09-23 at 03:00:02">
+<whdbooter timestamp="2026-09-25 at 03:00:02">
 	<game filename="1001StolenIdeas_v1.01_Airwalk" sha1="c1857fce1653d8eec30589f6073377381dd1cfcb">
 		<name>1001 Stolen Ideas</name>
 		<subpath>1001StolenIdeas</subpath>
@@ -291404,6 +291404,42 @@
 			</custom>
 		</slave>
 		<hardware>
+			PRIMARY_CONTROL=JOYSTICK
+			PORT0=JOY
+			PORT1=JOY
+			SCREEN_AUTOHEIGHT=TRUE
+			SCREEN_CENTERH=SMART
+			SCREEN_CENTERV=SMART
+		</hardware>
+	</game>
+	<game filename="GhostsNGoblins_v1.2_AGA" sha1="fd292d8a5e2f48e5e716aa65dd1286c65e718469">
+		<name>Ghosts NGoblins [AGA]</name>
+		<subpath>GhostsNGoblinsAGA</subpath>
+		<variant_uuid>af5d298a-d384-569c-835c-0ac37175e1dd</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>GhostsNGoblinsAGA.slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>GhostsNGoblinsAGA.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			C1:X:invincible:0
+			C1:X:infinite lives:1
+			C1:X:infinite time:2
+			C1:X:start on second loop:3
+			C1:X:cheat keys:4
+			C2:X:50 Hz update:0
+			C2:X:no level music:2
+			C2:X:service mode:3
+			C2:X:use up for jump:4
+			C2:X:startup menu:5
+			C3:L:difficulty level:easy,normal,difficult,very difficult
+			C4:L:lives:3,4,5,7
+			C5:L:start level:graveyard,town,cave,bridge,tower 1,tower 2,boss
+			</custom>
+		</slave>
+		<hardware>
+			CHIPSET=AGA
 			PRIMARY_CONTROL=JOYSTICK
 			PORT0=JOY
 			PORT1=JOY

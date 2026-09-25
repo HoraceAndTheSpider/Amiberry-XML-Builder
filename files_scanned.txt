@@ -1,4 +1,4 @@
-Scanned file log: 2026-09-23 at 03:00:02
+Scanned file log: 2026-09-25 at 03:00:02
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -2272,9 +2272,9 @@ Skipped: CyberPunks2Demo_v1.1_AGA.lha
 Skipped: Cyberpunks_v1.2_0365.lha
 Skipped: Cyberpunks_v1.3_0365.lha
 Skipped: CyberspherePlus_v1.0.lha
-Scanned: Cybersphere Plus
+Skipped: CyberspherePlus_v1.1.lha
 Skipped: Cybersphere_v1.0.lha
-Scanned: Cybersphere
+Skipped: Cybersphere_v1.1.lha
 Skipped: CyberWorld_v1.0_2603.lha
 Skipped: Cyberzerk_v1.0.lha
 Skipped: Cycles_v1.0_1018.lha
@@ -4296,7 +4296,7 @@ Skipped: Links&DataDisks_v1.01_2481.lha
 Skipped: Links&DataDisks_v1.01_NTSC_2010.lha
 Skipped: Links_v1.01_2481.lha
 Skipped: Links_v1.01_NTSC_2010.lha
-Scanned: Lin Wus Challenge
+Skipped: LinWusChallenge_v1.2.lha
 Skipped: LionheartDemo_v1.2.lha
 Skipped: LionheartDemo_v1.2_1MB.lha
 Skipped: Lionheart_v2.2_0845.lha
@@ -5650,7 +5650,7 @@ Skipped: Renegade_v1.1_AGA.lha
 Skipped: Renegade_v1.2.lha
 Skipped: Renegade_v1.2_1966.lha
 Skipped: Renegade_v1.2_AGA.lha
-Scanned: Rescue On Fractalus
+Skipped: RescueOnFractalus_v1.1.lha
 Skipped: Resolution101_v1.0.lha
 Skipped: Resolution101_v2.1_0221.lha
 Skipped: Switchblade2_v1.3_1725.lha
@@ -7401,6 +7401,7 @@ Skipped: GhostsNGoblins_v0.93_AGA.lha
 Skipped: GhostsNGoblins_v0.9_AGA.lha
 Skipped: GhostsNGoblins_v1.00_AGA.lha
 Skipped: GhostsNGoblins_v1.1_AGA.lha
+Scanned: Ghosts NGoblins [AGA]
 Skipped: Giana2_v1.02_HardNHeavyHack.lha
 Skipped: GianaSistersSE_v1.2.lha
 Skipped: Gods_v3.2_0666_ControllableJump.lha

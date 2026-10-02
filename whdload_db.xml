@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<whdbooter timestamp="2026-09-30 at 03:00:03">
+<whdbooter timestamp="2026-10-02 at 03:00:02">
 	<game filename="1001StolenIdeas_v1.01_Airwalk" sha1="c1857fce1653d8eec30589f6073377381dd1cfcb">
 		<name>1001 Stolen Ideas</name>
 		<subpath>1001StolenIdeas</subpath>
@@ -291582,6 +291582,118 @@
 		</slave>
 		<hardware>
 			CHIPSET=AGA
+			PRIMARY_CONTROL=JOYSTICK
+			PORT0=JOY
+			PORT1=JOY
+			SCREEN_AUTOHEIGHT=TRUE
+			SCREEN_CENTERH=SMART
+			SCREEN_CENTERV=SMART
+		</hardware>
+	</game>
+	<game filename="Revs_v0.90" sha1="f9822a80c2657c62fd57d269a000b9fc85e0369f">
+		<name>Revs</name>
+		<subpath>Revs</subpath>
+		<variant_uuid>f7ed5f74-9c79-54e0-afe8-2aebb7e4feb4</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>Revs.slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>Revs.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			</custom>
+		</slave>
+		<hardware>
+			PRIMARY_CONTROL=JOYSTICK
+			PORT0=JOY
+			PORT1=JOY
+			SCREEN_AUTOHEIGHT=TRUE
+			SCREEN_CENTERH=SMART
+			SCREEN_CENTERV=SMART
+		</hardware>
+	</game>
+	<game filename="RescueOnFractalus_v1.2" sha1="7fe24b8d0711149d196925e2b38462b9ec0cd95c">
+		<name>Rescue On Fractalus</name>
+		<subpath>RescueOnFractalus</subpath>
+		<variant_uuid>7b96a62d-a90c-5646-80c4-a0b78a0efa77</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>RescueOnFractalus.slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>RescueOnFractalus.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			C1:B:Border Blanking (ECS/AGA only)
+			C2:B:Enhanced Terrain Rendering
+			C3:B:Enhanced Palette
+			</custom>
+		</slave>
+		<hardware>
+			PRIMARY_CONTROL=JOYSTICK
+			PORT0=JOY
+			PORT1=JOY
+			SCREEN_AUTOHEIGHT=TRUE
+			SCREEN_CENTERH=SMART
+			SCREEN_CENTERV=SMART
+		</hardware>
+	</game>
+	<game filename="Vette!_v0.92" sha1="a4e69a9df98f02dc5ba1624f197e6cb489f4e938">
+		<name>Vette!</name>
+		<subpath>Vette!</subpath>
+		<variant_uuid>3beef249-afcc-52ad-8749-e27f12227cdf</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>Vette!.slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>Vette!.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			C1:B:High resolution mode
+			</custom>
+		</slave>
+		<hardware>
+			PRIMARY_CONTROL=JOYSTICK
+			PORT0=JOY
+			PORT1=JOY
+			SCREEN_AUTOHEIGHT=TRUE
+			SCREEN_CENTERH=SMART
+			SCREEN_CENTERV=SMART
+		</hardware>
+	</game>
+	<game filename="LemmingsEditorV1_v1.2.1" sha1="751683cfbff43a91691575307960b7ac5a1fd464">
+		<name>Lemmings Editor V 1</name>
+		<subpath>LemmingsEditorV1</subpath>
+		<variant_uuid>c9a4c347-8291-514e-96ca-6e1da129bba2</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>LemmingsEditorV1.slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>LemmingsEditorV1.slave</filename>
+			<datapath></datapath>
+		</slave>
+		<hardware>
+			PRIMARY_CONTROL=JOYSTICK
+			PORT0=JOY
+			PORT1=JOY
+			SCREEN_AUTOHEIGHT=TRUE
+			SCREEN_CENTERH=SMART
+			SCREEN_CENTERV=SMART
+		</hardware>
+	</game>
+	<game filename="LemmingsEditorV2_v2.0" sha1="512a0c9d1dfcb1df0d9b6a664002ad51fe0cc0f2">
+		<name>Lemmings Editor V 2</name>
+		<subpath>LemmingsEditorV2</subpath>
+		<variant_uuid>04f7a26f-ccec-550e-a7b6-8695a00a09b4</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>LemmingsEditorV2.slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>LemmingsEditorV2.slave</filename>
+			<datapath></datapath>
+			<custom>
+			</custom>
+		</slave>
+		<hardware>
 			PRIMARY_CONTROL=JOYSTICK
 			PORT0=JOY
 			PORT1=JOY

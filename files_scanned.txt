@@ -1,4 +1,4 @@
-Scanned file log: 2026-09-30 at 03:00:03
+Scanned file log: 2026-10-02 at 03:00:02
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -5524,6 +5524,7 @@ Skipped: RevengeOfDefender_v1.0_NTSC.lha
 Skipped: RevengeOfTheMutantCamels2_v1.01.lha
 Skipped: RevengeOfTheMutantCamels_v1.0.lha
 Skipped: RevengeOfTheMutantCamels_v1.0_NTSC.lha
+Scanned: Revs
 Skipped: RicercaDellAugelloDelTempo_v1.4_It_Files.lha
 Skipped: RicercaDellAugelloDelTempo_v1.4_It_Image.lha
 Skipped: RicercaDellAugelloDelTempo_v1.5_It_Files.lha
@@ -5651,6 +5652,7 @@ Skipped: Renegade_v1.2.lha
 Skipped: Renegade_v1.2_1966.lha
 Skipped: Renegade_v1.2_AGA.lha
 Skipped: RescueOnFractalus_v1.1.lha
+Scanned: Rescue On Fractalus
 Skipped: Resolution101_v1.0.lha
 Skipped: Resolution101_v2.1_0221.lha
 Skipped: Switchblade2_v1.3_1725.lha
@@ -6909,11 +6911,11 @@ Skipped: Universe_v1.3_CD32.lha
 Skipped: UFOEnemyUnknown_v1.0_1677.lha
 Skipped: UFOEnemyUnknown_v1.0_AGA_0157.lha
 Skipped: UFOEnemyUnknown_v1.0_CD32.lha
-Scanned: UFOEnemy Unknown
+Skipped: UFOEnemyUnknown_v1.1_1677.lha
 Skipped: UFOEnemyUnknown_v1.1_AGA_0157.lha
 Skipped: UFOEnemyUnknown_v1.1_CD32.lha
-Scanned: UFO - Enemy Unknown [AGA]
-Scanned: UFO - Enemy Unknown [CD32]
+Skipped: UFOEnemyUnknown_v1.2_AGA_0157.lha
+Skipped: UFOEnemyUnknown_v1.2_CD32.lha
 Skipped: Ugh_v1.0_0396.lha
 Skipped: Ugh_v1.1_0396.lha
 Skipped: Ugh_v1.2_0396.lha
@@ -6986,6 +6988,7 @@ Skipped: VerteidigerDerKrone2_v1.1_CD32_De.lha
 Skipped: VerteidigerDerKrone2_v1.2_CD32_De.lha
 Skipped: Veteran_v1.0_2970.lha
 Skipped: Vette!_v0.91.lha
+Scanned: Vette!
 Skipped: ViajeAlCentroDeLaTierra_v1.2_Es.lha
 Skipped: VictoryRoad_v1.1.lha
 Skipped: VideoKid_v1.0_2555.lha
@@ -7342,7 +7345,7 @@ Skipped: Castlevania_v1.2_AGA_June2024.lha
 Skipped: Castlevania_v1.2_AGA_November2025.lha
 Skipped: Castlevania_v1.2_AGA_October2024.lha
 Skipped: Castlevania_v1.2_AGA_October2025.lha
-Scanned: Castlevania [AGA]
+Skipped: Castlevania_v1.2_AGA_September2026.lha
 Skipped: Citadel_v1.3_RemonsteredEdition.lha
 Skipped: Citadel_v1.4_RemonsteredEdition.lha
 Skipped: Cobra_v1.0.lha
@@ -7458,6 +7461,8 @@ Skipped: LastActionHero_v1.2_Hack_by_AmigaLive.lha
 Skipped: LCDDreams_v1.0.lha
 Skipped: LCDDreams_v1.0_Fast.lha
 Skipped: Legion_v1.1a_BETA.lha
+Scanned: Lemmings Editor V 1
+Scanned: Lemmings Editor V 2
 Skipped: Liberation_v1.0_0617.lha
 Skipped: Liberation_v1.0_CD32.lha
 Skipped: LockNChase_v1.0.lha

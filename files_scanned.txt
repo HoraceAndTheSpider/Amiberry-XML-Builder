@@ -1,4 +1,4 @@
-Scanned file log: 2026-10-07 at 03:00:02
+Scanned file log: 2026-10-09 at 03:00:02
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -5526,7 +5526,7 @@ Skipped: RevengeOfTheMutantCamels2_v1.01.lha
 Skipped: RevengeOfTheMutantCamels_v1.0.lha
 Skipped: RevengeOfTheMutantCamels_v1.0_NTSC.lha
 Skipped: Revs_v0.90.lha
-Scanned: Revs
+Skipped: Revs_v0.91.lha
 Skipped: RicercaDellAugelloDelTempo_v1.4_It_Files.lha
 Skipped: RicercaDellAugelloDelTempo_v1.4_It_Image.lha
 Skipped: RicercaDellAugelloDelTempo_v1.5_It_Files.lha
@@ -6954,8 +6954,8 @@ Skipped: Uridium2_v3.1.0_1MB_0276.lha
 Skipped: Uridium2_v3.1.0_2MB_0276.lha
 Skipped: USSJohnYoung_v1.0.lha
 Skipped: Utopia&NewWorlds_v1.3_0757&2576.lha
-Scanned: Utopia & Second Wave 1
-Scanned: Utopia & Second Wave 2
+Skipped: Utopia&SecondWave1_v1.3_0757.lha
+Skipped: Utopia&SecondWave2_v1.3_0757.lha
 Skipped: Utopia_v1.3_0757.lha
 Skipped: UltimatePinballQuest_v1.01.lha
 Skipped: Universe_v1.4_0894.lha
@@ -7467,11 +7467,12 @@ Skipped: LastActionHero_v1.2_Hack_by_AmigaLive.lha
 Skipped: LCDDreams_v1.0.lha
 Skipped: LCDDreams_v1.0_Fast.lha
 Skipped: Legion_v1.1a_BETA.lha
+Scanned: Lemmings 2 Editor
 Skipped: LemmingsEditorV1_v1.2.1.lha
 Skipped: LemmingsEditorV2_v2.0.lha
 Skipped: LemmingsEditorV2_v2.2.lha
-Scanned: Lemmings Editor V 2
-Scanned: Lemmings Holiday 1994 Editor
+Skipped: LemmingsEditorV2_v2.3.lha
+Skipped: LemmingsHoliday1994Editor_v2.3.lha
 Skipped: Liberation_v1.0_0617.lha
 Skipped: Liberation_v1.0_CD32.lha
 Skipped: LockNChase_v1.0.lha
@@ -7551,7 +7552,7 @@ Skipped: Sinbad_v1.0_Fr_AtariST.lha
 Skipped: Smash_v1.0.lha
 Skipped: Snakes_v0.9.lha
 Skipped: StoriaAncestrale_v0.9g.lha
-Scanned: Stunt Car Racer Performance
+Skipped: StuntCarRacerPerformance_v1.6.3.lha
 Skipped: StuntCarRacerTNT_v1.4_BETA.lha
 Skipped: StuntCarRacer_v1.4_BETA_0222.lha
 Skipped: SummerOlympix_v1.0_CD32_BETA.lha

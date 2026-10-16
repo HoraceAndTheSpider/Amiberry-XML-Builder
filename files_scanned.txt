@@ -1,4 +1,4 @@
-Scanned file log: 2026-10-14 at 03:00:03
+Scanned file log: 2026-10-16 at 03:00:02
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -1171,7 +1171,7 @@ Skipped: AllTerrainRacing_v1.5.lha
 Skipped: AllTerrainRacing_v1.5_CD32.lha
 Skipped: AllTerrainRacing_v1.6.lha
 Skipped: AllTerrainRacing_v1.6_CD32.lha
-Scanned: Alone In The Dark [AGA]
+Skipped: AloneInTheDark_v0.91_AGA.lha
 Skipped: Alpha1_v1.0_1921.lha
 Skipped: AlphaWaves_v1.0_0626.lha
 Skipped: AlteredBeast_v2.0_0819.lha
@@ -5490,7 +5490,7 @@ Skipped: RanX_v1.4_De.lha
 Skipped: RanX_v1.4_Fr_1637.lha
 Skipped: RatTrap_v1.0.lha
 Skipped: RAYPokeri_v0.90_Fi.lha
-Scanned: RA YPokeri (Finnish)
+Skipped: RAYPokeri_v0.91_Fi.lha
 Skipped: RBI2Baseball_v1.2_2116.lha
 Skipped: Read&Rhyme_v1.0.lha
 Skipped: RealGhostbusters_v1.0_0198.lha
@@ -6573,12 +6573,12 @@ Skipped: TestDrive2&DataDisks_v1.1_NorthernGermanyChallenge.lha
 Skipped: TestDrive2&DataDisks_v1.2_0588&0589&0590&0591&0818.lha
 Skipped: TestDrive2&DataDisks_v1.4_0588&0589&0590&0591&0818.lha
 Skipped: TestDrive2&DataDisks_v1.5_0588&0589&0590&0591&0818.lha
-Scanned: Test Drive II - The Duel (& Data Disks)
+Skipped: TestDrive2&DataDisks_v2.1_0588&0589&0590&0591&0818.lha
 Skipped: TestDrive2_v1.1_0588.lha
 Skipped: TestDrive2_v1.2_0588.lha
 Skipped: TestDrive2_v1.4_0588.lha
 Skipped: TestDrive2_v1.5_0588.lha
-Scanned: Test Drive 2
+Skipped: TestDrive2_v2.1_0588.lha
 Skipped: TestDrive_v1.1_0089.lha
 Skipped: TestDrive_v1.2_0089.lha
 Skipped: TestDrive_v1.3_0089.lha
@@ -7328,6 +7328,7 @@ Skipped: AbuSimbelProfanation_v1.0_AGA.lha
 Skipped: AbuSimbelProfanation_v1.0_AGA_Es.lha
 Skipped: AbuSimbelProfanation_v1.2_AGA_Es.lha
 Skipped: AddamsFamily_v1.4_BETA_0419.lha
+Scanned: Addams Family TBE
 Skipped: Aladdin_v1.8_AGA_0420.lha
 Skipped: Alien3_v2.2.lha
 Skipped: AllTerrainRacingXmasDemo_v1.3.lha
@@ -7346,7 +7347,7 @@ Skipped: BuggyBoy_v1.3_BETA_0465.lha
 Skipped: BurgerTime_v1.0.lha
 Skipped: BurgerTime_v1.0_68020.lha
 Skipped: CannonFodderEditor_v1.0.lha
-Scanned: Cannon Fodder Editor
+Skipped: CannonFodderEditor_v1.1.lha
 Skipped: CastlevaniaDemo_v1.2_AGA.lha
 Skipped: Castlevania_v1.2_AGA.lha
 Skipped: Castlevania_v1.2_AGA_December2024.lha
@@ -7428,6 +7429,7 @@ Skipped: GianaSistersSE_v1.2.lha
 Skipped: Gods_v3.2_0666_ControllableJump.lha
 Skipped: GreatGianaSisters_v1.7_2945.lha
 Skipped: GunSmoke_v1.0_AGA.lha
+Scanned: Gun Smoke [AGA]
 Skipped: Gyruss_v1.0.lha
 Skipped: Gyruss_v1.0_1MB.lha
 Skipped: Gyruss_v1.0_2MB.lha
@@ -7475,8 +7477,8 @@ Skipped: LCDDreams_v1.0.lha
 Skipped: LCDDreams_v1.0_Fast.lha
 Skipped: Legion_v1.1a_BETA.lha
 Skipped: Lemmings2Editor_v1.1_1976.lha
-Scanned: Lemmings 2 Editor
-Scanned: Lemmings 2 Editor (NTSC)
+Skipped: Lemmings2Editor_v1.2.1_0351.lha
+Skipped: Lemmings2Editor_v1.2.1_NTSC_1976.lha
 Skipped: Lemmings2Editor_v1.2_0351.lha
 Skipped: Lemmings2Editor_v1.2_NTSC_1976.lha
 Skipped: LemmingsEditorV1_v1.2.1.lha

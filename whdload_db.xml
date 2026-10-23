@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<whdbooter timestamp="2026-10-21 at 03:00:03">
+<whdbooter timestamp="2026-10-23 at 03:00:03">
 	<game filename="1001StolenIdeas_v1.01_Airwalk" sha1="c1857fce1653d8eec30589f6073377381dd1cfcb">
 		<name>1001 Stolen Ideas</name>
 		<subpath>1001StolenIdeas</subpath>
@@ -292299,7 +292299,7 @@
 		<slave_libraries>False</slave_libraries>
 		<slave number="1">
 			<filename>AloneInTheDarkAGA.slave</filename>
-			<datapath></datapath>
+			<datapath />
 			<custom>
 			</custom>
 		</slave>
@@ -292322,7 +292322,7 @@
 		<slave_libraries>False</slave_libraries>
 		<slave number="1">
 			<filename>PrinceDePerseFr.slave</filename>
-			<datapath></datapath>
+			<datapath />
 			<custom>
 			C1:X:Trainer Infinite Time:0
 			C1:X:Trainer Infinite Energy:1
@@ -292350,7 +292350,7 @@
 		<slave_libraries>False</slave_libraries>
 		<slave number="1">
 			<filename>PrinceOfPersia.slave</filename>
-			<datapath></datapath>
+			<datapath />
 			<custom>
 			C1:X:Trainer Infinite Time:0
 			C1:X:Trainer Infinite Energy:1
@@ -292378,7 +292378,7 @@
 		<slave_libraries>False</slave_libraries>
 		<slave number="1">
 			<filename>PrinceOfPersiaDe.slave</filename>
-			<datapath></datapath>
+			<datapath />
 			<custom>
 			C1:X:Trainer Infinite Time:0
 			C1:X:Trainer Infinite Energy:1
@@ -292406,7 +292406,7 @@
 		<slave_libraries>False</slave_libraries>
 		<slave number="1">
 			<filename>PrinceOfPersiaNTSC.slave</filename>
-			<datapath></datapath>
+			<datapath />
 			<custom>
 			C1:X:Trainer Infinite Time:0
 			C1:X:Trainer Infinite Energy:1
@@ -292435,6 +292435,57 @@
 		<slave_libraries>False</slave_libraries>
 		<slave number="1">
 			<filename>SlicksNSlideAGA.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			</custom>
+		</slave>
+		<hardware>
+			CHIPSET=AGA
+			PRIMARY_CONTROL=JOYSTICK
+			PORT0=JOY
+			PORT1=JOY
+			SCREEN_AUTOHEIGHT=TRUE
+			SCREEN_CENTERH=SMART
+			SCREEN_CENTERV=SMART
+		</hardware>
+	</game>
+	<game filename="Quantox_v1.0_2527" sha1="cd82297c82564099843f2124cd9e6977a440e7b5">
+		<name>Quantox</name>
+		<subpath>Quantox</subpath>
+		<variant_uuid>5e041275-a051-5385-b636-74fa03f270e5</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>Quantox.slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>Quantox.slave</filename>
+			<datapath></datapath>
+			<custom>
+			C1:L:Starting level:1,2,3,4,5,6,7,8,9
+			C2:X:Infinite shield:0
+			C2:X:More starting lives:1
+			C2:X:Extra credits:2
+			C2:X:Max kit:3
+			C2:X:Quickstart:10
+			</custom>
+		</slave>
+		<hardware>
+			PRIMARY_CONTROL=JOYSTICK
+			PORT0=JOY
+			PORT1=JOY
+			SCREEN_AUTOHEIGHT=TRUE
+			SCREEN_CENTERH=SMART
+			SCREEN_CENTERV=SMART
+		</hardware>
+	</game>
+	<game filename="StarForce_v1.0_AGA" sha1="131416adbc60ae31dfe5e3874c855a6edd15597b">
+		<name>Star Force [AGA]</name>
+		<subpath>StarForceAGA</subpath>
+		<variant_uuid>d6e9620d-765c-5072-bd71-b9cd68ba1ec5</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>StarForceAGA.slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>StarForceAGA.slave</filename>
 			<datapath>data</datapath>
 			<custom>
 			</custom>

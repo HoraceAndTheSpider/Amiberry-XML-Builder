@@ -1,4 +1,4 @@
-Scanned file log: 2026-10-21 at 03:00:03
+Scanned file log: 2026-10-23 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -1172,7 +1172,7 @@ Skipped: AllTerrainRacing_v1.5_CD32.lha
 Skipped: AllTerrainRacing_v1.6.lha
 Skipped: AllTerrainRacing_v1.6_CD32.lha
 Skipped: AloneInTheDark_v0.91_AGA.lha
-Scanned: Alone In The Dark [AGA]
+Skipped: AloneInTheDark_v0.92_AGA.lha
 Skipped: Alpha1_v1.0_1921.lha
 Skipped: AlphaWaves_v1.0_0626.lha
 Skipped: AlteredBeast_v2.0_0819.lha
@@ -5269,7 +5269,7 @@ Skipped: PrinceDePerse_v4.1_Fr_2290.lha
 Skipped: PrinceDePerse_v4.2_Fr_2290.lha
 Skipped: PrinceDePerse_v4.3_Fr_2290.lha
 Skipped: PrinceDePerse_v4.4_Fr_2290.lha
-Scanned: Prince De Perse (Francais)
+Skipped: PrinceDePerse_v5.1_Fr_2290.lha
 Skipped: PrinceOfPersia_v3.1_1823.lha
 Skipped: PrinceOfPersia_v3.1_De_0082.lha
 Skipped: PrinceOfPersia_v3.1_NTSC_1407.lha
@@ -5357,9 +5357,9 @@ Skipped: PrinceOfPersia_v4.3_NTSC_1407.lha
 Skipped: PrinceOfPersia_v4.4_1823.lha
 Skipped: PrinceOfPersia_v4.4_De_0082.lha
 Skipped: PrinceOfPersia_v4.4_NTSC_1407.lha
-Scanned: Prince Of Persia
-Scanned: Prince Of Persia (Deutsch)
-Scanned: Prince Of Persia (NTSC)
+Skipped: PrinceOfPersia_v5.1_1823.lha
+Skipped: PrinceOfPersia_v5.1_De_0082.lha
+Skipped: PrinceOfPersia_v5.1_NTSC_1407.lha
 Skipped: Prince_v1.01_1729.lha
 Skipped: Patrician_v1.4_Fr.lha
 Skipped: Patrician_v1.5_1802.lha
@@ -5399,6 +5399,7 @@ Skipped: Qix_v1.0_NTSC.lha
 Skipped: Quadralien_v1.0_0918.lha
 Skipped: Quadralien_v1.1_0918.lha
 Skipped: Quadrel_v1.0_0380.lha
+Scanned: Quantox
 Skipped: Quartz_v1.1_2020.lha
 Skipped: QuasarWars_v1.0_AGA.lha
 Skipped: QuasarWars_v1.1_AGA.lha
@@ -5915,7 +5916,7 @@ Skipped: Sleepwalker_v1.2_AGA_0577.lha
 Skipped: Sleepwalker_v1.2_AGA_ComicRelief_1880.lha
 Skipped: Sleepwalker_v1.2_ComicRelief_0291.lha
 Skipped: SlicksNSlide_v0.90_AGA.lha
-Scanned: Slicks NSlide [AGA]
+Skipped: SlicksNSlide_v0.91_AGA.lha
 Skipped: Sliders_v1.1.lha
 Skipped: SlightlyMagic_v1.0_2174.lha
 Skipped: SlySpySecretAgent_v1.1_1259.lha
@@ -6058,6 +6059,7 @@ Skipped: Stardust_v1.6_2102.lha
 Skipped: Stardust_v1.7_2102.lha
 Skipped: Starflight_v1.01_0855.lha
 Skipped: Starflight_v1.0_0855.lha
+Scanned: Star Force [AGA]
 Skipped: Starglider2_v1.2.1.lha
 Skipped: Starglider2_v2.0_3000.lha
 Skipped: Starglider_v1.0_0174.lha

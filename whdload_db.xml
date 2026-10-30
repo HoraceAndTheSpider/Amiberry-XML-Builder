@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<whdbooter timestamp="2026-10-28 at 03:00:02">
+<whdbooter timestamp="2026-10-30 at 03:00:02">
 	<game filename="1001StolenIdeas_v1.01_Airwalk" sha1="c1857fce1653d8eec30589f6073377381dd1cfcb">
 		<name>1001 Stolen Ideas</name>
 		<subpath>1001StolenIdeas</subpath>
@@ -292667,7 +292667,7 @@
 		<slave_libraries>False</slave_libraries>
 		<slave number="1">
 			<filename>PrinceDePerseFr.slave</filename>
-			<datapath></datapath>
+			<datapath />
 			<custom>
 			C1:X:Trainer Infinite Time:0
 			C1:X:Trainer Infinite Energy:1
@@ -292696,7 +292696,7 @@
 		<slave_libraries>False</slave_libraries>
 		<slave number="1">
 			<filename>PrinceOfPersia.slave</filename>
-			<datapath></datapath>
+			<datapath />
 			<custom>
 			C1:X:Trainer Infinite Time:0
 			C1:X:Trainer Infinite Energy:1
@@ -292725,7 +292725,7 @@
 		<slave_libraries>False</slave_libraries>
 		<slave number="1">
 			<filename>PrinceOfPersiaDe.slave</filename>
-			<datapath></datapath>
+			<datapath />
 			<custom>
 			C1:X:Trainer Infinite Time:0
 			C1:X:Trainer Infinite Energy:1
@@ -292754,7 +292754,7 @@
 		<slave_libraries>False</slave_libraries>
 		<slave number="1">
 			<filename>PrinceOfPersiaNTSC.slave</filename>
-			<datapath></datapath>
+			<datapath />
 			<custom>
 			C1:X:Trainer Infinite Time:0
 			C1:X:Trainer Infinite Energy:1
@@ -292833,7 +292833,7 @@
 		<slave_libraries>False</slave_libraries>
 		<slave number="1">
 			<filename>CannonFodderEditor.slave</filename>
-			<datapath></datapath>
+			<datapath />
 			<custom>
 			</custom>
 		</slave>
@@ -292855,7 +292855,7 @@
 		<slave_libraries>False</slave_libraries>
 		<slave number="1">
 			<filename>CommandoAGA.slave</filename>
-			<datapath></datapath>
+			<datapath />
 			<custom>
 			C1:X:invincible:0
 			C1:X:infinite lives:1
@@ -292913,7 +292913,7 @@
 		<slave_libraries>False</slave_libraries>
 		<slave number="1">
 			<filename>Lemmings2Editor.slave</filename>
-			<datapath></datapath>
+			<datapath />
 			<custom>
 			</custom>
 		</slave>
@@ -292935,7 +292935,7 @@
 		<slave_libraries>False</slave_libraries>
 		<slave number="1">
 			<filename>Lemmings2EditorNTSC.slave</filename>
-			<datapath></datapath>
+			<datapath />
 			<custom>
 			</custom>
 		</slave>
@@ -292958,7 +292958,84 @@
 		<slave_libraries>False</slave_libraries>
 		<slave number="1">
 			<filename>SWOS9697Editor.slave</filename>
+			<datapath />
+			<custom>
+			</custom>
+		</slave>
+		<hardware>
+			PRIMARY_CONTROL=JOYSTICK
+			PORT0=JOY
+			PORT1=JOY
+			SCREEN_AUTOHEIGHT=TRUE
+			SCREEN_CENTERH=SMART
+			SCREEN_CENTERV=SMART
+		</hardware>
+	</game>
+	<game filename="AddamsFamily_v2.0_0419" sha1="cf80727e8eaa870f878aaaca24f178aa2399b8ee">
+		<name>Addams Family</name>
+		<subpath>AddamsFamily</subpath>
+		<variant_uuid>4512941a-1100-5f35-bb5a-623dff461cac</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>AddamsFamily.slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>AddamsFamily.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			C1:X:Infinite Lives:0
+			C1:X:Infinite Energy:1
+			</custom>
+		</slave>
+		<hardware>
+			PRIMARY_CONTROL=JOYSTICK
+			PORT0=JOY
+			PORT1=JOY
+			SCREEN_AUTOHEIGHT=TRUE
+			SCREEN_CENTERH=SMART
+			SCREEN_CENTERV=SMART
+		</hardware>
+	</game>
+	<game filename="Commando_v2.00_AGA" sha1="215ab19060ad8851ad3fef8ad4e2629821612581">
+		<name>Commando [AGA]</name>
+		<subpath>CommandoAGA</subpath>
+		<variant_uuid>d00b587d-58a5-5369-aea5-c5f006e3a425</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>CommandoAGA.slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>CommandoAGA.slave</filename>
 			<datapath></datapath>
+			<custom>
+			C1:X:invincible:0
+			C1:X:infinite lives:1
+			C1:X:cheat keys:4
+			C2:X:25 Hz update:0
+			C2:X:disable long fire press for grenade:1
+			C3:L:difficulty level:normal,difficult
+			C4:L:lives:3,4,5
+			C5:L:starting area:forest 1,desert 1,forest 2,desert 2
+			</custom>
+		</slave>
+		<hardware>
+			CHIPSET=AGA
+			PRIMARY_CONTROL=JOYSTICK
+			PORT0=JOY
+			PORT1=JOY
+			SCREEN_AUTOHEIGHT=TRUE
+			SCREEN_CENTERH=SMART
+			SCREEN_CENTERV=SMART
+		</hardware>
+	</game>
+	<game filename="Ghostbusters2Modified_v1.0" sha1="7ece59adc0b8c8363d48555283b4cef911f451c8">
+		<name>Ghostbusters 2 Mod</name>
+		<subpath>Ghostbusters2Mod</subpath>
+		<variant_uuid>0257af26-b2ef-5744-bf22-a07acebdf397</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>Ghostbusters2Mod.slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>Ghostbusters2Mod.slave</filename>
+			<datapath>data</datapath>
 			<custom>
 			</custom>
 		</slave>

@@ -1,4 +1,4 @@
-Scanned file log: 2026-10-28 at 03:00:02
+Scanned file log: 2026-10-30 at 03:00:02
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -1045,6 +1045,8 @@ Skipped: AceBall_v1.0_Pl_AGA.lha
 Skipped: ActionFighter_v1.3.1_1243.lha
 Skipped: ActionService_v1.0_1950.lha
 Skipped: AddamsFamily_v1.3_0419.lha
+Scanned: Addams Family
+Skipped: AddamsFamily_v2.0_TheBackgroundsEdition.lha
 Skipped: AdidasChampionshipFootball_v1.0_Files.lha
 Skipped: AdidasChampionshipFootball_v1.0_Image.lha
 Skipped: AdidasChampionshipFootball_v1.1_Files.lha
@@ -2419,7 +2421,7 @@ Skipped: Deep_v1.0.lha
 Skipped: Defender2_v1.0.lha
 Skipped: DefenderOfTheCrown2_v1.1_CD32.lha
 Skipped: DefenderOfTheCrown2_v1.2_CD32.lha
-Scanned: Defender Of The Crown Enh
+Skipped: DefenderOfTheCrownEnhanced_v3.1.lha
 Skipped: DefenderOfTheCrown_v3.1_0317.lha
 Skipped: DefenderOfTheCrown_v3.1_CDTV.lha
 Skipped: DarkCastle_v1.01_NTSC_1459.lha
@@ -5271,7 +5273,7 @@ Skipped: PrinceDePerse_v4.2_Fr_2290.lha
 Skipped: PrinceDePerse_v4.3_Fr_2290.lha
 Skipped: PrinceDePerse_v4.4_Fr_2290.lha
 Skipped: PrinceDePerse_v5.1_Fr_2290.lha
-Scanned: Prince De Perse (Francais)
+Skipped: PrinceDePerse_v5.2_Fr_2290.lha
 Skipped: PrinceOfPersia2_v0.90_AGA.lha
 Skipped: PrinceOfPersia_v3.1_1823.lha
 Skipped: PrinceOfPersia_v3.1_De_0082.lha
@@ -5363,9 +5365,9 @@ Skipped: PrinceOfPersia_v4.4_NTSC_1407.lha
 Skipped: PrinceOfPersia_v5.1_1823.lha
 Skipped: PrinceOfPersia_v5.1_De_0082.lha
 Skipped: PrinceOfPersia_v5.1_NTSC_1407.lha
-Scanned: Prince Of Persia
-Scanned: Prince Of Persia (Deutsch)
-Scanned: Prince Of Persia (NTSC)
+Skipped: PrinceOfPersia_v5.2_1823.lha
+Skipped: PrinceOfPersia_v5.2_De_0082.lha
+Skipped: PrinceOfPersia_v5.2_NTSC_1407.lha
 Skipped: Prince_v1.01_1729.lha
 Skipped: Patrician_v1.4_Fr.lha
 Skipped: Patrician_v1.5_1802.lha
@@ -5542,7 +5544,7 @@ Skipped: RevengeOfTheMutantCamels_v1.0.lha
 Skipped: RevengeOfTheMutantCamels_v1.0_NTSC.lha
 Skipped: Revs_v0.90.lha
 Skipped: Revs_v0.91.lha
-Scanned: Revs
+Skipped: Revs_v0.92.lha
 Skipped: RicercaDellAugelloDelTempo_v1.4_It_Files.lha
 Skipped: RicercaDellAugelloDelTempo_v1.4_It_Image.lha
 Skipped: RicercaDellAugelloDelTempo_v1.5_It_Files.lha
@@ -6972,7 +6974,7 @@ Skipped: Uridium2_v3.0.0_1MB_0276.lha
 Skipped: Uridium2_v3.0.0_2MB_0276.lha
 Skipped: Uridium2_v3.1.0_1MB_0276.lha
 Skipped: Uridium2_v3.1.0_2MB_0276.lha
-Scanned: Uridium 2
+Skipped: Uridium2_v4.0.0_0276.lha
 Skipped: USSJohnYoung_v1.0.lha
 Skipped: Utopia&NewWorlds_v1.3_0757&2576.lha
 Skipped: Utopia&SecondWave1_v1.3_0757.lha
@@ -7365,7 +7367,7 @@ Skipped: BurgerTime_v1.0.lha
 Skipped: BurgerTime_v1.0_68020.lha
 Skipped: CannonFodderEditor_v1.0.lha
 Skipped: CannonFodderEditor_v1.1.lha
-Scanned: Cannon Fodder Editor
+Skipped: CannonFodderEditor_v1.2.2.lha
 Skipped: CastlevaniaDemo_v1.2_AGA.lha
 Skipped: Castlevania_v1.2_AGA.lha
 Skipped: Castlevania_v1.2_AGA_December2024.lha
@@ -7383,8 +7385,9 @@ Skipped: CityConnnection_v1.0_AGA.lha
 Skipped: Cobra_v1.0.lha
 Skipped: Commando_v1.01_AGA.lha
 Skipped: Commando_v1.02_AGA.lha
-Scanned: Commando [AGA]
+Skipped: Commando_v1.04_AGA.lha
 Skipped: Commando_v1.0_AGA.lha
+Scanned: Commando [AGA]
 Skipped: Crimbo_v1.0_AGA.lha
 Skipped: CyberblastX_v1.0.lha
 Skipped: DateGirl_v1.0_AGA.lha
@@ -7438,6 +7441,7 @@ Skipped: Galaga_v1.1.lha
 Skipped: Galaxian_v1.0.lha
 Skipped: Galaxian_v1.0_BETA.lha
 Skipped: GhostBattle_v1.3.lha
+Scanned: Ghostbusters 2 Mod
 Skipped: GhostsNGoblins_v0.91_AGA.lha
 Skipped: GhostsNGoblins_v0.93_AGA.lha
 Skipped: GhostsNGoblins_v0.9_AGA.lha
@@ -7489,7 +7493,7 @@ Skipped: KCMunchkin_v1.0.lha
 Skipped: KingAndBalloon_v0.9.lha
 Skipped: KingAndBalloon_v0.92.lha
 Skipped: KingAndBalloon_v0.94.lha
-Scanned: King And Balloon
+Skipped: KingAndBalloon_v1.0.lha
 Skipped: KingsBounty_v1.0_FasterVersion.lha
 Skipped: Knightmare_v1.1_Konami.lha
 Skipped: LemmingsEditorV2_v2.3.1.lha
@@ -7501,8 +7505,8 @@ Skipped: Legion_v1.1a_BETA.lha
 Skipped: Lemmings2Editor_v1.1_1976.lha
 Skipped: Lemmings2Editor_v1.2.1_0351.lha
 Skipped: Lemmings2Editor_v1.2.1_NTSC_1976.lha
-Scanned: Lemmings 2 Editor
-Scanned: Lemmings 2 Editor (NTSC)
+Skipped: Lemmings2Editor_v1.2.2_0351.lha
+Skipped: Lemmings2Editor_v1.2.2_NTSC_1976.lha
 Skipped: Lemmings2Editor_v1.2_0351.lha
 Skipped: Lemmings2Editor_v1.2_NTSC_1976.lha
 Skipped: LemmingsEditorV1_v1.2.1.lha
@@ -7585,7 +7589,7 @@ Skipped: RocNRope_v1.0_AGA.lha
 Skipped: RogueDeclanZeroAmigaAddictEdition_v1.0.2.lha
 Skipped: RogueDeclanZero_v1.0.lha
 Skipped: Scramble_v1.0.lha
-Scanned: SWOS 9697 Editor
+Skipped: SensibleWorldOfSoccer9697Editor_v0.91b.lha
 Skipped: ShadowFighter_v1.0_AGA_No_jump_by_ztronzo.lha
 Skipped: ShadowWarriors_v1.2_BETA_0830.lha
 Skipped: Sinbad_v1.0_AtariST.lha

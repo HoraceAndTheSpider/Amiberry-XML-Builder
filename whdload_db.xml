@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<whdbooter timestamp="2026-11-04 at 03:00:03">
+<whdbooter timestamp="2026-11-06 at 03:00:03">
 	<game filename="1001StolenIdeas_v1.01_Airwalk" sha1="c1857fce1653d8eec30589f6073377381dd1cfcb">
 		<name>1001 Stolen Ideas</name>
 		<subpath>1001StolenIdeas</subpath>
@@ -293236,7 +293236,7 @@
 		<slave_libraries>False</slave_libraries>
 		<slave number="1">
 			<filename>PrinceOfPersia2AGA.slave</filename>
-			<datapath></datapath>
+			<datapath />
 			<custom>
 			</custom>
 		</slave>
@@ -293465,7 +293465,7 @@
 		<slave_libraries>False</slave_libraries>
 		<slave number="1">
 			<filename>CannonFodderEditor.slave</filename>
-			<datapath></datapath>
+			<datapath />
 			<custom>
 			</custom>
 		</slave>
@@ -293487,7 +293487,7 @@
 		<slave_libraries>False</slave_libraries>
 		<slave number="1">
 			<filename>CommandoAGA.slave</filename>
-			<datapath></datapath>
+			<datapath />
 			<custom>
 			C1:X:invincible:0
 			C1:X:infinite lives:1
@@ -293569,6 +293569,102 @@
 		</slave>
 		<hardware>
 			CHIPSET=AGA
+			PRIMARY_CONTROL=JOYSTICK
+			PORT0=JOY
+			PORT1=JOY
+			SCREEN_AUTOHEIGHT=TRUE
+			SCREEN_CENTERH=SMART
+			SCREEN_CENTERV=SMART
+		</hardware>
+	</game>
+	<game filename="GhoulsNGhostsEnhanced_v1.0" sha1="96148340b2ee614cf586c443b333c859e28f47d3">
+		<name>Ghouls NGhosts Enhanced</name>
+		<subpath>GhoulsNGhostsEnhanced</subpath>
+		<variant_uuid>6b8c04fe-fccb-5df0-ae97-1ea057836276</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>GhoulsNGhostsEnhanced.slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>GhoulsNGhostsEnhanced.slave</filename>
+			<datapath></datapath>
+		</slave>
+		<hardware>
+			PRIMARY_CONTROL=JOYSTICK
+			PORT0=JOY
+			PORT1=JOY
+			SCREEN_AUTOHEIGHT=TRUE
+			SCREEN_CENTERH=SMART
+			SCREEN_CENTERV=SMART
+		</hardware>
+	</game>
+	<game filename="TimePilot_v1.0_AGA_RMJ" sha1="10690bd83973028bc0f2bd1b33fd0da8245f84fc">
+		<name>Time Pilot [AGA] RMJ</name>
+		<subpath>TimePilotAGARMJ</subpath>
+		<variant_uuid>362356c4-654c-5bb6-946b-6ec32464166c</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>TimePilotAGARMJ.slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>TimePilotAGARMJ.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			C1:X:Unlimited lives:0
+			C1:X:Invincible:1
+			C2:B:Reset high scores + DIP switches
+			</custom>
+		</slave>
+		<hardware>
+			CHIPSET=AGA
+			PRIMARY_CONTROL=JOYSTICK
+			PORT0=JOY
+			PORT1=JOY
+			SCREEN_AUTOHEIGHT=TRUE
+			SCREEN_CENTERH=SMART
+			SCREEN_CENTERV=SMART
+		</hardware>
+	</game>
+	<game filename="TimePilot_v1.0_AGA_ruliovega" sha1="e667f28bba81d3ec8b5254ec5846184a8fbc365e">
+		<name>Time Pilot [AGA]ruliovega</name>
+		<subpath>TimePilotAGAruliovega</subpath>
+		<variant_uuid>058f419f-afb5-58d5-b134-97f79e648e38</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>TimePilotAGAruliovega.slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>TimePilotAGAruliovega.slave</filename>
+			<datapath></datapath>
+			<custom>
+			C2:B:Enable trainer keys (A Auto Fire / N Next era)
+			C1:B:Save diagnostic reports (slower exit)
+			</custom>
+		</slave>
+		<hardware>
+			CHIPSET=AGA
+			PRIMARY_CONTROL=JOYSTICK
+			PORT0=JOY
+			PORT1=JOY
+			SCREEN_AUTOHEIGHT=TRUE
+			SCREEN_CENTERH=SMART
+			SCREEN_CENTERV=SMART
+		</hardware>
+	</game>
+	<game filename="TimePilot_v1.0_RMJ" sha1="e6765ff8c1a968863e5ff1d93ba7dea28979d8e5">
+		<name>Time Pilot RMJ</name>
+		<subpath>TimePilotRMJ</subpath>
+		<variant_uuid>00459da9-82ce-5823-8251-2275a912fb66</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>TimePilotRMJ.slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>TimePilotRMJ.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			C1:X:Unlimited lives:0
+			C1:X:Invincible:1
+			C2:B:Reset high scores + DIP switches
+			</custom>
+		</slave>
+		<hardware>
 			PRIMARY_CONTROL=JOYSTICK
 			PORT0=JOY
 			PORT1=JOY

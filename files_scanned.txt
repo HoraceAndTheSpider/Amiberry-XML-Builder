@@ -1,4 +1,4 @@
-Scanned file log: 2026-11-11 at 03:00:02
+Scanned file log: 2026-11-13 at 03:00:02
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -1175,6 +1175,7 @@ Skipped: AllTerrainRacing_v1.6.lha
 Skipped: AllTerrainRacing_v1.6_CD32.lha
 Skipped: AloneInTheDark_v0.91_AGA.lha
 Skipped: AloneInTheDark_v0.92_AGA.lha
+Scanned: Alone In The Dark [AGA]
 Skipped: Alpha1_v1.0_1921.lha
 Skipped: AlphaWaves_v1.0_0626.lha
 Skipped: AlteredBeast_v2.0_0819.lha
@@ -2668,7 +2669,7 @@ Skipped: DesertStrike_v3.3_512k_0112.lha
 Skipped: DesertStrike_v4.0_0112.lha
 Skipped: DesertStrike_v4.1_0112.lha
 Skipped: DesertStrike_v4.2_0112.lha
-Scanned: Desert Strike - Return to the Gulf
+Skipped: DesertStrike_v4.3_0112.lha
 Skipped: Destroyer_v1.0_0318.lha
 Skipped: Detector_v1.0.lha
 Skipped: Detonator_v1.0.lha
@@ -5212,7 +5213,7 @@ Skipped: Popeye2_v1.2.lha
 Skipped: Populous&DataDisks_v1.1_0069&1217.lha
 Skipped: Populous&DataDisks_v1.2_0069&1217.lha
 Skipped: Populous&DataDisks_v1.3_0069&1217.lha
-Scanned: Populous CF & Data Disks
+Skipped: Populous&DataDisks_v1.3_CreatureFix_2898&1217.lha
 Skipped: Populous2&ChallengeGames_v1.3_0079.lha
 Skipped: Populous2&ChallengeGames_v2.0_0079.lha
 Skipped: Populous2_v1.3_0079.lha
@@ -5222,7 +5223,7 @@ Skipped: Populous_v1.1_0069.lha
 Skipped: Populous_v1.2_0069.lha
 Skipped: Populous_v1.2_NTSC_0070.lha
 Skipped: Populous_v1.3_0069.lha
-Scanned: Populous CF
+Skipped: Populous_v1.3_CreatureFix_2898.lha
 Skipped: Populous_v1.3_NTSC_0070.lha
 Skipped: PopUp_v1.0.lha
 Skipped: PopUp_v1.0a.lha
@@ -7360,6 +7361,7 @@ Skipped: Zeewolf_v7.0.0_0414.lha
 Skipped: ZeroGravity_v1.0.lha
 Skipped: ZippyRace_v1.1.lha
 Skipped: Ziriax_v1.2_3001.lha
+Scanned: 1942
 Skipped: 4DSportsDriving&MasterTracks_v2.0b_1461.lha
 Skipped: 4DSportsDriving_v2.0b_1461.lha
 Skipped: AbuSimbelProfanation_v1.0_AGA.lha
@@ -7380,7 +7382,7 @@ Skipped: Atlantyda_v1.1_Pl.lha
 Skipped: BadDudesVsDragonNinja_v1.01_AGA.lha
 Skipped: BadDudesVsDragonNinja_v1.0_AGA.lha
 Skipped: Bagman_v1.0.lha
-Scanned: Battlehawks 1942
+Skipped: Battlehawks1942_v2.0b_0053.lha
 Skipped: BlackTiger_MegaDrive.lha
 Skipped: Boppin_v1.0.lha
 Skipped: BuggyBoy_v1.3_BETA_0465.lha
@@ -7404,7 +7406,7 @@ Skipped: Castlevania_v1.2_AGA_October2025.lha
 Skipped: Citadel_v1.3_RemonsteredEdition.lha
 Skipped: Citadel_v1.4_RemonsteredEdition.lha
 Skipped: CityConnection_v1.1_AGA.lha
-Scanned: City Connection [AGA]
+Skipped: CityConnection_v1.2_AGA.lha
 Skipped: CityConnnection_v1.0_AGA.lha
 Skipped: Cobra_v1.0.lha
 Skipped: Commando_v1.01_AGA.lha
@@ -7451,12 +7453,12 @@ Skipped: Elysium_v1.0_De.lha
 Skipped: EvilGarden_v1.0.lha
 Skipped: EyeOfTheBeholder2_v0.1_AGA.lha
 Skipped: EyeOfTheBeholder2_v0.3_AGA.lha
-Scanned: Eye Of The Beholder 2 AM
-Scanned: Eye Of The Beholder 2 AMAGA
+Skipped: EyeOfTheBeholder2_v1.13_AutoMap.lha
+Skipped: EyeOfTheBeholder2_v1.13_AutoMap_AGA.lha
 Skipped: EyeOfTheBeholder_v0.2_AGA.lha
 Skipped: EyeOfTheBeholder_v0.3_AGA.lha
-Scanned: Eye Of The Beholder A M
-Scanned: Eye Of The Beholder AMAGA
+Skipped: EyeOfTheBeholder_v1.13_AutoMap.lha
+Skipped: EyeOfTheBeholder_v1.13_AutoMap_AGA.lha
 Skipped: FinalFightEnhanced_v1.0.lha
 Skipped: FirstSamurai_v1.6_A1200Version_NONAGA.lha
 Skipped: FlyingSharkSpecialEdition_v1.0_Hack_by_Earok.lha
@@ -7539,8 +7541,8 @@ Skipped: LastActionHero_v1.2_Hack_by_AmigaLive.lha
 Skipped: LCDDreams_v1.0.lha
 Skipped: LCDDreams_v1.0_Fast.lha
 Skipped: LegendsOfValour_v2.0b_0837.lha
-Scanned: Legends Of Valour (Deutsch)
-Scanned: Legends Of Valour (Francais)
+Skipped: LegendsOfValour_v2.0b_De_0525.lha
+Skipped: LegendsOfValour_v2.0b_Fr_1768.lha
 Skipped: Legion_v1.1a_BETA.lha
 Skipped: Lemmings2Editor_v1.1_1976.lha
 Skipped: Lemmings2Editor_v1.2.1_0351.lha
@@ -7597,6 +7599,7 @@ Skipped: Outlands&DizzyDice_v0.8_BETA.lha
 Skipped: Outlands&DizzyDice_v1.0_BETA.lha
 Skipped: Outlands_v1.0_BETA.lha
 Skipped: OutRunDemo_Amiga40_AGA.lha
+Scanned: Out Run [AGA]
 Skipped: OutRun_v1.0_AGA.lha
 Skipped: PacMan_v1.0.lha
 Skipped: Pengo_v1.0.lha
@@ -7612,6 +7615,7 @@ Skipped: Pooyan_v1.0.lha
 Skipped: Pooyan_v1.01.lha
 Skipped: Populous&DataDisks_v1.2_BETA_0069&1217.lha
 Skipped: Populous_v1.2_0069_BETA.lha
+Scanned: Powerdrome
 Skipped: PrinceOfPersia2_v0.90_AGA.lha
 Skipped: ProjectXSE2017_v1.5_Hack_by_Earok.lha
 Skipped: ProjectXv2_v1.4_0289_BETA.lha
@@ -7644,11 +7648,11 @@ Skipped: Snakes_v0.9.lha
 Skipped: SnowBrosArcadeMod_v1.4_Darasco.lha
 Skipped: Splatterhouse_v1.1_PCEngine_AGA.lha
 Skipped: Splatterhouse_v1.2_PCEngine_AGA.lha
-Scanned: Stellar 7 (NTSC)
+Skipped: Stellar7_v2.0b_NTSC_2026.lha
 Skipped: StoriaAncestrale_v0.9g.lha
 Skipped: StuntCarRacerPerformance_v1.6.3.lha
 Skipped: StuntCarRacerPerformance_v2.0.0.lha
-Scanned: Stunt Car Racer Performance
+Skipped: StuntCarRacerPerformance_v2.1.0.lha
 Skipped: StuntCarRacer_v1.4_BETA_0222.lha
 Skipped: SummerOlympix_v1.0_CD32_BETA.lha
 Skipped: SuperBagman_v1.0.lha

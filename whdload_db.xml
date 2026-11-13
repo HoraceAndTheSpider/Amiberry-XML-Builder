@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<whdbooter timestamp="2026-11-11 at 03:00:02">
+<whdbooter timestamp="2026-11-13 at 03:00:02">
 	<game filename="1001StolenIdeas_v1.01_Airwalk" sha1="c1857fce1653d8eec30589f6073377381dd1cfcb">
 		<name>1001 Stolen Ideas</name>
 		<subpath>1001StolenIdeas</subpath>
@@ -294300,7 +294300,7 @@
 		<slave_libraries>False</slave_libraries>
 		<slave number="1">
 			<filename>DesertStrike.slave</filename>
-			<datapath></datapath>
+			<datapath />
 			<custom>
 			BW
 			C1:X:Trainer Infinite Lives:0
@@ -294379,7 +294379,7 @@
 		<slave_libraries>False</slave_libraries>
 		<slave number="1">
 			<filename>Battlehawks1942.slave</filename>
-			<datapath></datapath>
+			<datapath />
 			<custom>
 			C2:B:Enhanced framerate
 			</custom>
@@ -294402,7 +294402,7 @@
 		<slave_libraries>False</slave_libraries>
 		<slave number="1">
 			<filename>CityConnectionAGA.slave</filename>
-			<datapath></datapath>
+			<datapath />
 			<custom>
 			C2:B:Enable next-city key (N)
 			C1:B:Save diagnostic reports (slower exit)
@@ -294597,9 +294597,102 @@
 		<slave_libraries>False</slave_libraries>
 		<slave number="1">
 			<filename>StuntCarRacerPerf.slave</filename>
-			<datapath></datapath>
+			<datapath />
 			<custom>
 			BW
+			</custom>
+		</slave>
+		<hardware>
+			PRIMARY_CONTROL=JOYSTICK
+			PORT0=JOY
+			PORT1=JOY
+			SCREEN_AUTOHEIGHT=TRUE
+			SCREEN_CENTERH=SMART
+			SCREEN_CENTERV=SMART
+		</hardware>
+	</game>
+	<game filename="AloneInTheDark_v0.93_AGA" sha1="e4b705ee04d0aad04dd5ff8891e74d0659b25fd1">
+		<name>Alone In The Dark [AGA]</name>
+		<subpath>AloneInTheDarkAGA</subpath>
+		<variant_uuid>db6108e5-bc7d-5b8b-b7d2-eb0b0c48192d</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>AloneInTheDarkAGA.slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>AloneInTheDarkAGA.slave</filename>
+			<datapath></datapath>
+			<custom>
+			</custom>
+		</slave>
+		<hardware>
+			CHIPSET=AGA
+			PRIMARY_CONTROL=JOYSTICK
+			PORT0=JOY
+			PORT1=JOY
+			SCREEN_AUTOHEIGHT=TRUE
+			SCREEN_CENTERH=SMART
+			SCREEN_CENTERV=SMART
+		</hardware>
+	</game>
+	<game filename="1942_v1.0.3" sha1="578e29c6ce0346722df65fdb3953426d51a87698">
+		<name>1942</name>
+		<subpath>1942</subpath>
+		<variant_uuid>da1fbf4d-ba9b-5008-baac-3fbd31528b3e</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>1942.slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>1942.slave</filename>
+			<datapath></datapath>
+			<custom>
+			</custom>
+		</slave>
+		<hardware>
+			PRIMARY_CONTROL=JOYSTICK
+			PORT0=JOY
+			PORT1=JOY
+			SCREEN_AUTOHEIGHT=TRUE
+			SCREEN_CENTERH=SMART
+			SCREEN_CENTERV=SMART
+		</hardware>
+	</game>
+	<game filename="OutRun_v1.0.1_AGA" sha1="d73a9c6dcca02813660acda31738eabe9c6dbf1b">
+		<name>Out Run [AGA]</name>
+		<subpath>OutRunAGA</subpath>
+		<variant_uuid>80efe1b5-6500-54c5-9279-a8bee0b21097</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>OutRunAGA.slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>OutRunAGA.slave</filename>
+			<datapath></datapath>
+			<custom>
+			C1:L:difficulty:Normal,Easy,Hard,Very hard
+			C2:L:controls:A (gear up), B (gear 2nd button), C (gear space)
+			</custom>
+		</slave>
+		<hardware>
+			CHIPSET=AGA
+			PRIMARY_CONTROL=JOYSTICK
+			PORT0=JOY
+			PORT1=JOY
+			SCREEN_AUTOHEIGHT=TRUE
+			SCREEN_CENTERH=SMART
+			SCREEN_CENTERV=SMART
+		</hardware>
+	</game>
+	<game filename="Powerdrome_v2.0b_0140" sha1="3b88df794e3b9dbf3248df77f8a6b916d8d44c96">
+		<name>Powerdrome</name>
+		<subpath>Powerdrome</subpath>
+		<variant_uuid>3c995097-6bd0-5379-988c-c77d5aba4b55</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>Powerdrome.slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>Powerdrome.slave</filename>
+			<datapath></datapath>
+			<custom>
+			C1:B:Enhanced framerate
 			</custom>
 		</slave>
 		<hardware>

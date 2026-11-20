@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<whdbooter timestamp="2026-11-18 at 03:00:03">
+<whdbooter timestamp="2026-11-20 at 03:00:03">
 	<game filename="1001StolenIdeas_v1.01_Airwalk" sha1="c1857fce1653d8eec30589f6073377381dd1cfcb">
 		<name>1001 Stolen Ideas</name>
 		<subpath>1001StolenIdeas</subpath>
@@ -295053,7 +295053,7 @@
 		<slave_libraries>False</slave_libraries>
 		<slave number="1">
 			<filename>SuperMarioBros.slave</filename>
-			<datapath></datapath>
+			<datapath />
 		</slave>
 		<hardware>
 			PRIMARY_CONTROL=JOYSTICK
@@ -295073,7 +295073,7 @@
 		<slave_libraries>False</slave_libraries>
 		<slave number="1">
 			<filename>ZOut.slave</filename>
-			<datapath></datapath>
+			<datapath />
 			<custom>
 			C1:X:Start with autofire on:0
 			</custom>
@@ -295096,7 +295096,7 @@
 		<slave_libraries>False</slave_libraries>
 		<slave number="1">
 			<filename>CannonFodderEditor.slave</filename>
-			<datapath></datapath>
+			<datapath />
 			<custom>
 			</custom>
 		</slave>
@@ -295145,7 +295145,7 @@
 		<slave_libraries>False</slave_libraries>
 		<slave number="1">
 			<filename>Indianapolis500Perf.slave</filename>
-			<datapath></datapath>
+			<datapath />
 			<custom>
 			C2:X:Original road and grass:0
 			C2:X:Original walls without fences:1
@@ -295210,7 +295210,7 @@
 		<slave_libraries>False</slave_libraries>
 		<slave number="1">
 			<filename>SWOS9697Editor.slave</filename>
-			<datapath></datapath>
+			<datapath />
 			<custom>
 			</custom>
 		</slave>
@@ -295256,7 +295256,7 @@
 		<slave_libraries>False</slave_libraries>
 		<slave number="1">
 			<filename>StuntCarRacerPerf.slave</filename>
-			<datapath></datapath>
+			<datapath />
 			<custom>
 			BW
 			</custom>
@@ -295285,6 +295285,278 @@
 		</slave>
 		<hardware>
 			CHIPSET=AGA
+			PRIMARY_CONTROL=JOYSTICK
+			PORT0=JOY
+			PORT1=JOY
+			SCREEN_AUTOHEIGHT=TRUE
+			SCREEN_CENTERH=SMART
+			SCREEN_CENTERV=SMART
+		</hardware>
+	</game>
+	<game filename="SuperMarioBros_v1.1" sha1="1255c57c5cf4b19f8f3ea0e43e8e5a8652d6d69a">
+		<name>Super Mario Bros</name>
+		<subpath>SuperMarioBros</subpath>
+		<variant_uuid>ed7c2b27-1a82-5112-adc6-3680bb5e0628</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>SuperMarioBros.slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>SuperMarioBros.slave</filename>
+			<datapath></datapath>
+			<custom>
+			C2:X:swap buttons:0
+			</custom>
+		</slave>
+		<hardware>
+			PRIMARY_CONTROL=JOYSTICK
+			PORT0=JOY
+			PORT1=JOY
+			SCREEN_AUTOHEIGHT=TRUE
+			SCREEN_CENTERH=SMART
+			SCREEN_CENTERV=SMART
+		</hardware>
+	</game>
+	<game filename="Archipelagos_v2.0b_0627" sha1="64476e0ef79d7a43e5894a903c3ccf26d2fb1754">
+		<name>Archipelagos</name>
+		<subpath>Archipelagos</subpath>
+		<variant_uuid>ef6d540b-f1e9-5cf1-ac07-1e18a185d874</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>Archipelagos.slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>Archipelagos.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			C1:B:Enhanced framerate
+			</custom>
+		</slave>
+		<hardware>
+			PRIMARY_CONTROL=JOYSTICK
+			PORT0=JOY
+			PORT1=JOY
+			SCREEN_AUTOHEIGHT=FALSE
+			SCREEN_HEIGHT=400
+			SCREEN_WIDTH=720
+			SCREEN_CENTERH=SMART
+			SCREEN_CENTERV=SMART
+		</hardware>
+	</game>
+	<game filename="Archipelagos_v2.0b_NTSC_0628" sha1="b5fc9ceaf71e85fc2f4f4f60acf47b5ef24d1a51">
+		<name>Archipelagos (NTSC)</name>
+		<subpath>ArchipelagosNTSC</subpath>
+		<variant_uuid>200f6bf1-4264-55c4-b41f-e593f598dba9</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>ArchipelagosNTSC.slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>ArchipelagosNTSC.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			C1:B:Enhanced framerate
+			</custom>
+		</slave>
+		<hardware>
+			NTSC=TRUE
+			PRIMARY_CONTROL=JOYSTICK
+			PORT0=JOY
+			PORT1=JOY
+			SCREEN_AUTOHEIGHT=TRUE
+			SCREEN_CENTERH=SMART
+			SCREEN_CENTERV=SMART
+		</hardware>
+	</game>
+	<game filename="Gunship2000_v4.0b_0808" sha1="6c8e75594c1b7f0b35a818a4ba2eaa82bde1bbc1">
+		<name>Gunship 2000</name>
+		<subpath>Gunship2000</subpath>
+		<variant_uuid>bc3eaf90-b8dc-5f4b-b52d-64a323f209f6</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>Gunship2000.slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>Gunship2000.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			C1:B:Skip introduction
+			C2:B:Enhanced framerate
+			</custom>
+		</slave>
+		<hardware>
+			PRIMARY_CONTROL=MOUSE
+			PORT0=MOUSE
+			PORT1=JOY
+			SCREEN_AUTOHEIGHT=FALSE
+			SCREEN_HEIGHT=400
+			SCREEN_WIDTH=720
+			SCREEN_CENTERH=SMART
+			SCREEN_CENTERV=SMART
+		</hardware>
+	</game>
+	<game filename="Gunship2000_v4.0b_AGA_0371" sha1="4979da23da38bcbd01201502ba1016757048ce3d">
+		<name>Gunship 2000 [AGA]</name>
+		<subpath>Gunship2000AGA</subpath>
+		<variant_uuid>aa1e3f5d-0ff0-56ad-8eb7-b15882d105bf</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>Gunship2000AGA.slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>Gunship2000AGA.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			C2:B:Enhanced framerate
+			</custom>
+		</slave>
+		<hardware>
+			CHIPSET=AGA
+			CLOCK=MAX
+			PRIMARY_CONTROL=MOUSE
+			PORT0=MOUSE
+			PORT1=JOY
+			SCREEN_AUTOHEIGHT=FALSE
+			SCREEN_HEIGHT=400
+			SCREEN_WIDTH=720
+			SCREEN_CENTERH=SMART
+			SCREEN_CENTERV=SMART
+		</hardware>
+	</game>
+	<game filename="Gunship2000_v4.0b_CD32" sha1="ebec9451068ff43124aab75ae86eac4ade4f888b">
+		<name>Gunship 2000 [CD32]</name>
+		<subpath>Gunship2000CD32</subpath>
+		<variant_uuid>459f2b7f-e38f-56f4-adc0-4f1120ce27ed</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>Gunship2000CD32.slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>Gunship2000CD32.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			C2:B:Enhanced framerate
+			</custom>
+		</slave>
+		<hardware>
+			CHIPSET=AGA
+			PRIMARY_CONTROL=MOUSE
+			PORT0=MOUSE
+			PORT1=CD32
+			SCREEN_AUTOHEIGHT=FALSE
+			SCREEN_HEIGHT=400
+			SCREEN_WIDTH=720
+			SCREEN_CENTERH=SMART
+			SCREEN_CENTERV=SMART
+		</hardware>
+	</game>
+	<game filename="KungFuMaster_v1.21" sha1="d40519d5a51c0b285f7fe43ae4e3dd1a50fd3cf7">
+		<name>Kung Fu Master</name>
+		<subpath>KungFuMaster</subpath>
+		<variant_uuid>435ec29c-6c63-5652-bf5f-45b7f05bfb75</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>KungFuMaster.slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>KungFuMaster.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			</custom>
+		</slave>
+		<hardware>
+			PRIMARY_CONTROL=JOYSTICK
+			PORT0=JOY
+			PORT1=JOY
+			SCREEN_AUTOHEIGHT=TRUE
+			SCREEN_CENTERH=SMART
+			SCREEN_CENTERV=SMART
+		</hardware>
+	</game>
+	<game filename="OutRun_v1.0.2_AGA" sha1="a97595cdf94b92a7461d0c03dd29d2f12d9e6af1">
+		<name>Out Run [AGA]</name>
+		<subpath>OutRunAGA</subpath>
+		<variant_uuid>aedf0b4e-f566-5323-a23e-8a2541544c4c</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>OutRunAGA.slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>OutRunAGA.slave</filename>
+			<datapath></datapath>
+			<custom>
+			C1:L:difficulty:Normal,Easy,Hard,Very hard
+			C2:L:controls:A (gear up), B (gear 2nd button), C (gear space)
+			</custom>
+		</slave>
+		<hardware>
+			CHIPSET=AGA
+			PRIMARY_CONTROL=JOYSTICK
+			PORT0=JOY
+			PORT1=JOY
+			SCREEN_AUTOHEIGHT=TRUE
+			SCREEN_CENTERH=SMART
+			SCREEN_CENTERV=SMART
+		</hardware>
+	</game>
+	<game filename="RobinsonsRequiem_v2.0b" sha1="4c9f506c140f8d8a0a3eebbf036f963f2d3ec20e">
+		<name>Robinson's Requiem</name>
+		<subpath>RobinsonsRequiem</subpath>
+		<variant_uuid>4557eaac-c931-56ae-9221-a361beac1d13</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>RobinsonSRequiem.slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>RobinsonSRequiem.slave</filename>
+			<datapath>data-ecs</datapath>
+			<custom>
+			C2:B:Enhanced framerate
+			C1:L:Movement speed:Original,1X (ECS),2X (AGA)
+			</custom>
+		</slave>
+		<hardware>
+			PRIMARY_CONTROL=JOYSTICK
+			PORT0=JOY
+			PORT1=JOY
+			SCREEN_AUTOHEIGHT=TRUE
+			SCREEN_CENTERH=SMART
+			SCREEN_CENTERV=SMART
+		</hardware>
+	</game>
+	<game filename="RobinsonsRequiem_v2.0b_AGA_1866" sha1="62d220481cd187d17f084011566d3e47c61ece2e">
+		<name>Robinson's Requiem [AGA]</name>
+		<subpath>RobinsonsRequiemAGA</subpath>
+		<variant_uuid>c17b0d7a-16f0-56a9-bd86-2146f1d21548</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>RobinsonSRequiemAGA.Slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>RobinsonSRequiemAGA.Slave</filename>
+			<datapath>data-aga</datapath>
+			<custom>
+			C2:B:Enhanced framerate
+			C1:L:Movement speed:Original,1X (ECS),2X (AGA)
+			C3:B:Smooth landscape
+			</custom>
+		</slave>
+		<hardware>
+			CHIPSET=AGA
+			PRIMARY_CONTROL=JOYSTICK
+			PORT0=JOY
+			PORT1=JOY
+			SCREEN_AUTOHEIGHT=TRUE
+			SCREEN_CENTERH=SMART
+			SCREEN_CENTERV=SMART
+		</hardware>
+	</game>
+	<game filename="ZanyGolf_v2.0b_NTSC_1482" sha1="c39cc985bce3929eadd6e6fe1e1557e5dcf4bd68">
+		<name>Zany Golf (NTSC)</name>
+		<subpath>ZanyGolfNTSC</subpath>
+		<variant_uuid>aabe61cd-1bd4-5375-a5e2-196e619ea8e9</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>ZanyGolfNTSC.slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>ZanyGolfNTSC.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			C1:L:Start on hole:1. Windmill,2. Hamburger,3. Walls,4. Pinball,5. Fans,6. Carpets,7. Castle,8. Ant Hill,9. Energy,10. Mystery
+			</custom>
+		</slave>
+		<hardware>
+			NTSC=TRUE
 			PRIMARY_CONTROL=JOYSTICK
 			PORT0=JOY
 			PORT1=JOY

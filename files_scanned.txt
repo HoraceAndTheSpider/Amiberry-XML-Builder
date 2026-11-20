@@ -1,4 +1,4 @@
-Scanned file log: 2026-11-18 at 03:00:03
+Scanned file log: 2026-11-20 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -6521,6 +6521,7 @@ Skipped: SuperheroDemo_v1.0.lha
 Skipped: SuperLoopz_v1.0_AGA.lha
 Skipped: Superman_v1.0.lha
 Skipped: Superman_v1.1_3035.lha
+Skipped: SuperMarioBros_v1.0.lha
 Scanned: Super Mario Bros
 Skipped: TetrisPro_v1.0.1.lha
 Skipped: TetrisPro_v1.0.2.lha
@@ -7335,7 +7336,7 @@ Skipped: Zool_v2.0_CD32.lha
 Skipped: Zoom_v1.0a_1910.lha
 Skipped: ZOut_v3.4_0609.lha
 Skipped: ZOut_v3.5_0609.lha
-Scanned: Z-Out
+Skipped: ZOut_v3.6_0609.lha
 Skipped: Zyconix_v1.0.lha
 Skipped: Zyconix_v1.1_1057.lha
 Skipped: Zyconix_v1.2_1057.lha
@@ -7381,6 +7382,8 @@ Skipped: Amidar_v1.0.lha
 Skipped: AmiRobbo2Demo_v1.0.lha
 Skipped: AnotherWorldLostLevel_v1.1_Hack_by_Earok.lha
 Skipped: ApidyaSpecialEdition_v1.1_Hack_by_Earok.lha
+Scanned: Archipelagos
+Scanned: Archipelagos (NTSC)
 Skipped: Area88_v1.2_Hack_by_Earok.lha
 Skipped: Armalyte_v1.3_BETA.lha
 Skipped: Atlantyda_v1.1_Pl.lha
@@ -7400,7 +7403,7 @@ Skipped: CannonFodderEditor_v1.0.lha
 Skipped: CannonFodderEditor_v1.1.lha
 Skipped: CannonFodderEditor_v1.2.2.lha
 Skipped: CannonFodderEditor_v1.2.4.lha
-Scanned: Cannon Fodder Editor
+Skipped: CannonFodderEditor_v1.2.5.lha
 Skipped: CastlevaniaDemo_v1.2_AGA.lha
 Skipped: Castlevania_v1.2_AGA.lha
 Skipped: Castlevania_v1.2_AGA_December2024.lha
@@ -7446,7 +7449,7 @@ Skipped: DoubleDragon_Beta4_AGA_Decrunched.lha
 Skipped: DoubleDragon_v1.0_AGA.lha
 Skipped: DoubleDragon_v1.0_AGA_Decrunched.lha
 Skipped: DownAtTheTrolls_v0.8.lha
-Scanned: Dune 2 [AGA]
+Skipped: Dune2_v1.01_AGA.lha
 Skipped: ElevatorAction_v1.0.lha
 Skipped: ElevatorAction_v1.01_AGA.lha
 Skipped: ElevatorAction_v1.01_ECS.lha
@@ -7499,6 +7502,9 @@ Skipped: GianaSistersSE_v1.2.lha
 Skipped: Gods_v3.2_0666_ControllableJump.lha
 Skipped: GrandPrixCircuit_v2.0b_0008.lha
 Skipped: GreatGianaSisters_v1.7_2945.lha
+Scanned: Gunship 2000
+Scanned: Gunship 2000 [AGA]
+Scanned: Gunship 2000 [CD32]
 Skipped: Gunship_v2.0b_0658.lha
 Skipped: Gunship_v2.0b_NTSC_1489.lha
 Skipped: GunSmoke_v1.0_AGA.lha
@@ -7522,7 +7528,7 @@ Skipped: HyperSports_v0.92_AGA.lha
 Skipped: HyperSports_v0.93.lha
 Skipped: HyperSports_v0.93_AGA.lha
 Skipped: HyperSports_v0.9_AGA.lha
-Scanned: Indianapolis 500 Perf
+Skipped: Indianapolis500Performance_v1.0_0686.lha
 Skipped: Indianapolis500_v4.0b_0686.lha
 Skipped: InternationalKarate_v1.0.lha
 Skipped: InternationalKarate_v1.0_AtariST.lha
@@ -7549,6 +7555,7 @@ Skipped: KingAndBalloon_v0.94.lha
 Skipped: KingAndBalloon_v1.0.lha
 Skipped: KingsBounty_v1.0_FasterVersion.lha
 Skipped: Knightmare_v1.1_Konami.lha
+Scanned: Kung Fu Master
 Skipped: LemmingsEditorV2_v2.3.1.lha
 Skipped: LastActionHero_v1.1_Hack_by_AmigaLive.lha
 Skipped: LastActionHero_v1.2_Hack_by_AmigaLive.lha
@@ -7615,6 +7622,7 @@ Skipped: Outlands&DizzyDice_v1.0_BETA.lha
 Skipped: Outlands_v1.0_BETA.lha
 Skipped: OutRunDemo_Amiga40_AGA.lha
 Skipped: OutRun_v1.0.1_AGA.lha
+Scanned: Out Run [AGA]
 Skipped: OutRun_v1.0_AGA.lha
 Skipped: PacMan_v1.0.lha
 Skipped: Pengo_v1.0.lha
@@ -7646,19 +7654,21 @@ Skipped: RenegadesDeluxe_v1.0_PublicDomain.lha
 Skipped: Renegades_v1.0_PublicDomain.lha
 Skipped: RickDangerous_v1.2_AGA.lha
 Skipped: RoadRash_v3.0b_1313.lha
+Scanned: Robinson's Requiem
+Scanned: Robinson's Requiem [AGA]
 Skipped: RocNRope_v1.0.lha
 Skipped: RocNRope_v1.01.lha
 Skipped: RocNRope_v1.01_AGA.lha
 Skipped: RocNRope_v1.0_AGA.lha
 Skipped: RogueDeclanZeroAmigaAddictEdition_v1.0.2.lha
 Skipped: RogueDeclanZero_v1.0.lha
-Scanned: Rolling Thunder [AGA]
+Skipped: RollingThunder_v1.0_AGA.lha
 Skipped: StuntCarRacerTNT_v1.4_BETA.lha
 Skipped: Scramble_v1.0.lha
 Skipped: SecretWeaponsOfTheLuftwaffe_v1.2.lha
 Skipped: SecretWeaponsOfTheLuftwaffe_v1.2_512k.lha
 Skipped: SensibleWorldOfSoccer9697Editor_v0.91b.lha
-Scanned: SWOS 9697 Editor
+Skipped: SensibleWorldOfSoccer9697Editor_v0.94b.lha
 Skipped: ShadowFighter_v1.0_AGA_No_jump_by_ztronzo.lha
 Skipped: ShadowWarriors_v1.2_BETA_0830.lha
 Skipped: Sinbad_v1.0_AtariST.lha
@@ -7668,13 +7678,13 @@ Skipped: Snakes_v0.9.lha
 Skipped: SnowBrosArcadeMod_v1.4_Darasco.lha
 Skipped: Splatterhouse_v1.1_PCEngine_AGA.lha
 Skipped: Splatterhouse_v1.2_PCEngine_AGA.lha
-Scanned: Star Wars
+Skipped: StarWars_v3.0b_0403.lha
 Skipped: Stellar7_v2.0b_NTSC_2026.lha
 Skipped: StoriaAncestrale_v0.9g.lha
 Skipped: StuntCarRacerPerformance_v1.6.3.lha
 Skipped: StuntCarRacerPerformance_v2.0.0.lha
 Skipped: StuntCarRacerPerformance_v2.1.0.lha
-Scanned: Stunt Car Racer Performance
+Skipped: StuntCarRacerPerformance_v2.3.2.lha
 Skipped: StuntCarRacer_v1.4_BETA_0222.lha
 Skipped: SummerOlympix_v1.0_CD32_BETA.lha
 Skipped: SuperBagman_v1.0.lha
@@ -7728,7 +7738,7 @@ Skipped: Track&Field_v1.08_AGA.lha
 Skipped: Track&Field_v1.09.lha
 Skipped: Track&Field_v1.09_AGA.lha
 Skipped: Track&Field_v1.0_AGA.lha
-Scanned: Tumble Pop [AGA]
+Skipped: TumblePop_v1.0_AGA.lha
 Skipped: Turrican2_v0.2_AGA_Build_v10.lha
 Skipped: TimePilot_v1.0_RMJ.lha
 Skipped: Turrican2_v0.2_AGA_Build_v11.lha
@@ -7765,6 +7775,7 @@ Skipped: WrathOfTheDemon_v1.01_Scoopex.lha
 Skipped: Xenon2Audio_v0.2b_BETA.lha
 Skipped: Xevious_v1.01_AGA.lha
 Skipped: Xevious_v1.0_AGA.lha
+Scanned: Zany Golf (NTSC)
 Skipped: ZippyRace_v1.2.lha
 Skipped: Ziriax_v1.3b_Ross_Ultimate_Edition.lha
 Skipped: Ziriax_v1.3_UltimateEdition_Ross.lha

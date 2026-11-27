@@ -1,4 +1,4 @@
-Scanned file log: 2026-11-25 at 03:00:02
+Scanned file log: 2026-11-27 at 03:00:03
 Skipped: 1001StolenIdeas_v1.01_Airwalk.lha
 Skipped: 1001StolenIdeas_v1.0_Airwalk.lha
 Skipped: 100MostRememberedGamesOnThe64_v1.01_PerHaakanSundell&RonBirk.lha
@@ -2770,12 +2770,12 @@ Skipped: Elvira2_v1.4_Fr_2663.lha
 Skipped: Elvira2_v1.4_It.lha
 Skipped: Elvira2_v1.5_2242.lha
 Skipped: Elvira2_v1.5_De.lha
-Scanned: Elvira 2 De Fix
-Scanned: Elvira 2 Fix
+Skipped: Elvira2_v1.5_De_dlfrsilver.lha
+Skipped: Elvira2_v1.5_dlfrsilver.lha
 Skipped: Elvira2_v1.5_Es.lha
-Scanned: Elvira 2 Es Fix
+Skipped: Elvira2_v1.5_Es_dlfrsilver.lha
 Skipped: Elvira2_v1.5_Fr_2663.lha
-Scanned: Elvira 2 Fr Fix
+Skipped: Elvira2_v1.5_Fr_dlfrsilver.lha
 Skipped: Elvira2_v1.5_It.lha
 Skipped: ElviraArcade_v1.3.lha
 Skipped: Elvira_v1.1_0267.lha
@@ -7566,6 +7566,7 @@ Skipped: KingsBounty_v1.0_FasterVersion.lha
 Skipped: Knightmare_v1.1_Konami.lha
 Skipped: KungFuMaster_v1.21.lha
 Skipped: LemmingsEditorV2_v2.3.1.lha
+Scanned: Lady Bug
 Skipped: LastActionHero_v1.1_Hack_by_AmigaLive.lha
 Skipped: LastActionHero_v1.2_Hack_by_AmigaLive.lha
 Skipped: LCDDreams_v1.0.lha
@@ -7589,6 +7590,10 @@ Skipped: LemmingsHoliday1994Editor_v2.3.1.lha
 Skipped: LemmingsHoliday1994Editor_v2.3.lha
 Skipped: Liberation_v1.0_0617.lha
 Skipped: Liberation_v1.0_CD32.lha
+Scanned: Links - The Challenge of Golf (& Data Disks)
+Scanned: Links & Data Disks (NTSC)
+Scanned: Links
+Scanned: Links (NTSC)
 Skipped: LockNChase_v1.0.lha
 Skipped: LockNChase_v1.01.lha
 Skipped: LockNChase_v1.01_68020.lha
@@ -7600,12 +7605,15 @@ Skipped: LostTreasuresOfInfocom_v1.0.lha
 Skipped: MagicPockets_v3.0_NTSC.lha
 Skipped: Mappy_v1.0.lha
 Skipped: Mappy_v1.0_AGA.lha
+Scanned: Marble Madness
 Skipped: MariaRenardsRevenge_v1.2_AGA.lha
 Skipped: MegaBlock2_v1.0.lha
 Skipped: MegaTraveller1_v1.0.lha
 Skipped: Mercenary3_v2.0b_0356.lha
 Skipped: MetagalacticLlamas_v1.0.lha
 Skipped: MetalGear_v1.0.lha
+Scanned: Millipede
+Scanned: Missile Command
 Skipped: MoebiusGoatlizard_v0.1.lha
 Skipped: MonkeyBusiness_v1.0.lha
 Skipped: MoonPatrol_v1.0.lha
@@ -7643,6 +7651,8 @@ Skipped: Phoenix_v1.02.lha
 Skipped: Phoenix_v1.02_AGA.lha
 Skipped: Phoenix_v1.0_AGA.lha
 Skipped: PokerNights&DataDisk_v1.1.lha
+Scanned: Poly Play
+Scanned: Poly Play (Deutsch)
 Skipped: Pooyan_v1.0.lha
 Skipped: Pooyan_v1.01.lha
 Skipped: Populous&DataDisks_v1.2_BETA_0069&1217.lha
@@ -7678,7 +7688,7 @@ Skipped: SecretWeaponsOfTheLuftwaffe_v1.2.lha
 Skipped: SecretWeaponsOfTheLuftwaffe_v1.2_512k.lha
 Skipped: SensibleWorldOfSoccer9697Editor_v0.91b.lha
 Skipped: SensibleWorldOfSoccer9697Editor_v0.94b.lha
-Scanned: Sentinel
+Skipped: Sentinel_v2.0b_3025.lha
 Skipped: ShadowFighter_v1.0_AGA_No_jump_by_ztronzo.lha
 Skipped: ShadowWarriors_v1.2_BETA_0830.lha
 Skipped: Sinbad_v1.0_AtariST.lha
@@ -7767,7 +7777,9 @@ Skipped: USChampionshipVBall_v1.01_AGA.lha
 Skipped: USChampionshipVBall_v1.0_AGA.lha
 Skipped: USChampionshipVBall_v1.10.lha
 Skipped: USChampionshipVBall_v1.10_AGA.lha
-Scanned: Virus
+Skipped: Virus_v2.0b_0004.lha
+Scanned: Vroom (& Data Disk)
+Scanned: Vroom
 Skipped: Vulgus_v1.01_AGA.lha
 Skipped: Vulgus_v1.0_AGA.lha
 Skipped: WhalesVoyageEnhanced_v1.0b.lha

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<whdbooter timestamp="2026-11-25 at 03:00:02">
+<whdbooter timestamp="2026-11-27 at 03:00:03">
 	<game filename="1001StolenIdeas_v1.01_Airwalk" sha1="c1857fce1653d8eec30589f6073377381dd1cfcb">
 		<name>1001 Stolen Ideas</name>
 		<subpath>1001StolenIdeas</subpath>
@@ -295870,7 +295870,7 @@
 		<slave_libraries>False</slave_libraries>
 		<slave number="1">
 			<filename>Sentinel.slave</filename>
-			<datapath></datapath>
+			<datapath />
 			<custom>
 			C1:B:Enhanced framerate
 			</custom>
@@ -295893,7 +295893,7 @@
 		<slave_libraries>False</slave_libraries>
 		<slave number="1">
 			<filename>Virus.slave</filename>
-			<datapath></datapath>
+			<datapath />
 			<custom>
 			C1:B:Enhanced framerate
 			C2:L:Game speed:16.7 Hz,25 Hz,12.5 Hz
@@ -295910,6 +295910,314 @@
 			SCREEN_CENTERH=SMART
 			SCREEN_CENTERV=SMART
 		</hardware>
+	</game>
+	<game filename="LadyBug_v1.02" sha1="6d103a5451a0e41fcb1dab35f2a8459e0e4cdc50">
+		<name>Lady Bug</name>
+		<subpath>LadyBug</subpath>
+		<variant_uuid>2cc475df-3e49-5dc9-8778-9acee9c66068</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>LadyBug.slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>LadyBug.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			C1:B:Unlimited lives
+			C2:B:Reset high scores + DIP switches
+			</custom>
+		</slave>
+		<hardware>
+			PRIMARY_CONTROL=JOYSTICK
+			PORT0=JOY
+			PORT1=JOY
+			SCREEN_AUTOHEIGHT=TRUE
+			SCREEN_CENTERH=SMART
+			SCREEN_CENTERV=SMART
+		</hardware>
+	</game>
+	<game filename="Links&amp;DataDisks_v2.0b_2481" sha1="968f5cb82723f7ceb55ff21bdf687ea2db03b54f">
+		<name>Links - The Challenge of Golf (&amp; Data Disks)</name>
+		<subpath>Links&amp;DataDisks</subpath>
+		<variant_uuid>18d0bc2c-917b-506e-a7a5-28feca0127ec</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>Links&amp;DataDisks.slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>Links&amp;DataDisks.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			C1:B:Skip Intro
+			</custom>
+		</slave>
+		<hardware>
+			PRIMARY_CONTROL=JOYSTICK
+			PORT0=JOY
+			PORT1=JOY
+			SCREEN_AUTOHEIGHT=TRUE
+			SCREEN_CENTERH=SMART
+			SCREEN_CENTERV=SMART
+		</hardware>
+	</game>
+	<game filename="Links&amp;DataDisks_v2.0b_NTSC_2010" sha1="a3a862ac26a684a8d9a99cd856252906aa3e5c1a">
+		<name>Links &amp; Data Disks (NTSC)</name>
+		<subpath>Links&amp;DataDisksNTSC</subpath>
+		<variant_uuid>33b2c19d-eb25-55a9-868d-3e5de0223099</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>Links&amp;DataDisksNTSC.slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>Links&amp;DataDisksNTSC.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			C1:B:Skip Intro
+			</custom>
+		</slave>
+		<hardware>
+			NTSC=TRUE
+			PRIMARY_CONTROL=JOYSTICK
+			PORT0=JOY
+			PORT1=JOY
+			SCREEN_AUTOHEIGHT=TRUE
+			SCREEN_CENTERH=SMART
+			SCREEN_CENTERV=SMART
+		</hardware>
+	</game>
+	<game filename="Links_v2.0b_2481" sha1="afe63106c4a746b48c99bca3383727dbbf8d6973">
+		<name>Links</name>
+		<subpath>Links</subpath>
+		<variant_uuid>4261e720-231e-5e46-ac5d-f4ea9947c762</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>Links.slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>Links.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			C1:B:Skip Intro
+			</custom>
+		</slave>
+		<hardware>
+			PRIMARY_CONTROL=MOUSE
+			PORT0=MOUSE
+			PORT1=JOY
+			SCREEN_AUTOHEIGHT=FALSE
+			SCREEN_HEIGHT=400
+			SCREEN_WIDTH=720
+			SCREEN_CENTERH=SMART
+			SCREEN_CENTERV=SMART
+		</hardware>
+	</game>
+	<game filename="Links_v2.0_NTSC_2010" sha1="7bfd82d3a0f57254e1a23a1ece9ecd1460a524c4">
+		<name>Links (NTSC)</name>
+		<subpath>LinksNTSC</subpath>
+		<variant_uuid>c0c66284-8385-57e4-9ca5-7491ec90797c</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>LinksNTSC.slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>LinksNTSC.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			C1:B:Skip Intro
+			</custom>
+		</slave>
+		<hardware>
+			NTSC=TRUE
+			PRIMARY_CONTROL=JOYSTICK
+			PORT0=JOY
+			PORT1=JOY
+			SCREEN_AUTOHEIGHT=TRUE
+			SCREEN_CENTERH=SMART
+			SCREEN_CENTERV=SMART
+		</hardware>
+	</game>
+	<game filename="MarbleMadness_v3.0b_0013" sha1="4ca2c90af41b6910089ad23a17aa8cae81bdde5b">
+		<name>Marble Madness</name>
+		<subpath>MarbleMadness</subpath>
+		<variant_uuid>78d68792-dfdd-58a6-a0ec-e0ca3e4f6e80</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>MarbleMadness.slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>MarbleMadness.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			BW
+			C1:X:Trainer Infinite Time (ESC=game over):0
+			C2:X:Sound effects only (no music):0
+			C3:L:Start level:Practice,Beginner,Intermediate,Aerial,Silly,Ultimate
+			C4:X:Enhanced framerate (68020+):0
+			C5:X:Music and sound at NTSC tempo on PAL:0
+			</custom>
+		</slave>
+		<hardware>
+			PRIMARY_CONTROL=MOUSE
+			PORT0=MOUSE
+			PORT1=JOY
+			SCREEN_AUTOHEIGHT=TRUE
+			SCREEN_CENTERH=SMART
+			SCREEN_CENTERV=SMART
+		</hardware>
+	</game>
+	<game filename="Millipede_v1.01" sha1="284eed3d79b28706a9ae03bcd2ca606f5d1ed66c">
+		<name>Millipede</name>
+		<subpath>Millipede</subpath>
+		<variant_uuid>98e65314-7c2a-57f6-858a-66fcd8b5db24</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>Millipede.slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>Millipede.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			C1:B:Unlimited lives
+			C2:B:Reset high scores + DIP switches
+			</custom>
+		</slave>
+		<hardware>
+			PRIMARY_CONTROL=JOYSTICK
+			PORT0=JOY
+			PORT1=JOY
+			SCREEN_AUTOHEIGHT=TRUE
+			SCREEN_CENTERH=SMART
+			SCREEN_CENTERV=SMART
+		</hardware>
+	</game>
+	<game filename="MissileCommand_v1.02" sha1="af4f0715bb165fc200ac45d744de99cd2d685e40">
+		<name>Missile Command</name>
+		<subpath>MissileCommand</subpath>
+		<variant_uuid>16d1b482-948d-5ac6-9e56-fed3c3dd0301</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>MissileCommand.slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>MissileCommand.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			C1:X:Cities indestructible:0
+			C1:X:Unlimited anti-missiles:1
+			C2:B:Reset high scores + DIP switches
+			</custom>
+		</slave>
+		<hardware>
+			PRIMARY_CONTROL=JOYSTICK
+			PORT0=JOY
+			PORT1=JOY
+			SCREEN_AUTOHEIGHT=TRUE
+			SCREEN_CENTERH=SMART
+			SCREEN_CENTERV=SMART
+		</hardware>
+	</game>
+	<game filename="PolyPlay_v1.0" sha1="d88c991690f770e2081df8643369b626a037ad75">
+		<name>Poly Play</name>
+		<subpath>PolyPlay</subpath>
+		<variant_uuid>63052f2e-8d9a-5420-a6cf-907e9a8b90eb</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>PolyPlay.slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>PolyPlay.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			C1:B:Sound off (F6 on the F1 page)
+			C2:B:Clear records
+			</custom>
+		</slave>
+		<hardware>
+			PRIMARY_CONTROL=JOYSTICK
+			PORT0=JOY
+			PORT1=JOY
+			SCREEN_AUTOHEIGHT=TRUE
+			SCREEN_CENTERH=SMART
+			SCREEN_CENTERV=SMART
+		</hardware>
+	</game>
+	<game filename="PolyPlay_v1.0_De" sha1="aead9c3c9e143556ecffcf0976a603fb9ddb1b90">
+		<name>Poly Play (Deutsch)</name>
+		<subpath>PolyPlayDe</subpath>
+		<variant_uuid>154b7b01-42bb-5774-a1ba-84c81c67eb47</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>PolyPlayDe.slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>PolyPlayDe.slave</filename>
+			<datapath>data</datapath>
+			<custom>
+			C1:B:Sound off (F6 on the F1 page)
+			C2:B:Clear records
+			</custom>
+		</slave>
+		<hardware>
+			PRIMARY_CONTROL=JOYSTICK
+			PORT0=JOY
+			PORT1=JOY
+			SCREEN_AUTOHEIGHT=TRUE
+			SCREEN_CENTERH=SMART
+			SCREEN_CENTERV=SMART
+		</hardware>
+	</game>
+	<game filename="Vroom&amp;DataDisk_v2.0b_1295&amp;1296" sha1="921cd00f18b1da29455a6f65c57fc6eba96d8c9b">
+		<name>Vroom (&amp; Data Disk)</name>
+		<subpath>Vroom&amp;DataDisk</subpath>
+		<variant_uuid>2a450033-0658-5668-be74-83e147e1e743</variant_uuid>
+		<slave_count>2</slave_count>
+		<slave_default>DataDisk.slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>DataDisk.slave</filename>
+			<datapath></datapath>
+			<custom>
+			C1:B:Enhanced framerate
+			</custom>
+		</slave>
+		<slave number="2">
+			<filename>Vroom.slave</filename>
+			<datapath></datapath>
+			<custom>
+			C1:B:Enhanced framerate
+			</custom>
+		</slave>
+		<hardware>
+			PRIMARY_CONTROL=JOYSTICK
+			PORT0=JOY
+			PORT1=JOY
+			SCREEN_AUTOHEIGHT=TRUE
+			SCREEN_CENTERH=SMART
+			SCREEN_CENTERV=SMART
+		</hardware>
+		<custom_controls>
+			joyport1_amiberry_custom_none_leftshoulder=T
+			joyport1_amiberry_custom_none_rightshoulder=G
+			joyport1_amiberry_custom_none_start=Space
+		</custom_controls>
+	</game>
+	<game filename="Vroom_v2.0b_1295" sha1="29bcf1b7ad140e6f51ffc69cce4f52662cab872f">
+		<name>Vroom</name>
+		<subpath>Vroom</subpath>
+		<variant_uuid>a77c0133-5a7c-51b2-af18-eac985bfa12e</variant_uuid>
+		<slave_count>1</slave_count>
+		<slave_default>Vroom.slave</slave_default>
+		<slave_libraries>False</slave_libraries>
+		<slave number="1">
+			<filename>Vroom.slave</filename>
+			<datapath></datapath>
+			<custom>
+			C1:B:Enhanced framerate
+			</custom>
+		</slave>
+		<hardware>
+			PRIMARY_CONTROL=JOYSTICK
+			PORT0=JOY
+			PORT1=JOY
+			SCREEN_AUTOHEIGHT=TRUE
+			SCREEN_CENTERH=SMART
+			SCREEN_CENTERV=SMART
+		</hardware>
+		<custom_controls>
+			joyport1_amiberry_custom_none_leftshoulder=T
+			joyport1_amiberry_custom_none_rightshoulder=G
+			joyport1_amiberry_custom_none_start=Space
+		</custom_controls>
 	</game>
 	<game filename="DevilsTemple_v3.0_1222" sha1="1ded50d02c3ec51467f30f21fea3019edab00b5d">
 		<name>Devils Temple</name>
